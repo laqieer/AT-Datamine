@@ -1,0 +1,407 @@
+[
+    {
+        "ID": 1,
+        "name": "立ち_汎用",
+        "charcterLookAssignTypeID": 1,
+        "AnimationName": "01_Idle03",
+        "iconOffsetX": 0.0,
+        "iconOffsetY": 0.0,
+        "iconOffsetZ": 0.0
+    },
+    {
+        "ID": 2,
+        "name": "立ち_クール１",
+        "charcterLookAssignTypeID": 1,
+        "AnimationName": "01_Idle04",
+        "iconOffsetX": 0.0,
+        "iconOffsetY": 0.0,
+        "iconOffsetZ": 0.0
+    },
+    {
+        "ID": 3,
+        "name": "立ち_クール２",
+        "charcterLookAssignTypeID": 1,
+        "AnimationName": "01_Idle05",
+        "iconOffsetX": 0.0,
+        "iconOffsetY": 0.0,
+        "iconOffsetZ": 0.0
+    },
+    {
+        "ID": 4,
+        "name": "立ち_陽気１",
+        "charcterLookAssignTypeID": 1,
+        "AnimationName": "01_Idle06",
+        "iconOffsetX": 0.0,
+        "iconOffsetY": 0.0,
+        "iconOffsetZ": 0.0
+    },
+    {
+        "ID": 5,
+        "name": "立ち_陽気２",
+        "charcterLookAssignTypeID": 1,
+        "AnimationName": "01_Idle07",
+        "iconOffsetX": 0.0,
+        "iconOffsetY": 0.0,
+        "iconOffsetZ": 0.0
+    },
+    {
+        "ID": 6,
+        "name": "立ち_弱気１",
+        "charcterLookAssignTypeID": 1,
+        "AnimationName": "01_Idle08",
+        "iconOffsetX": 0.0,
+        "iconOffsetY": 0.0,
+        "iconOffsetZ": 0.0
+    },
+    {
+        "ID": 7,
+        "name": "立ち_弱気２",
+        "charcterLookAssignTypeID": 1,
+        "AnimationName": "01_Idle09",
+        "iconOffsetX": 0.0,
+        "iconOffsetY": 0.0,
+        "iconOffsetZ": 0.0
+    },
+    {
+        "ID": 8,
+        "name": "立ち_高飛車２",
+        "charcterLookAssignTypeID": 1,
+        "AnimationName": "01_Idle10",
+        "iconOffsetX": 0.0,
+        "iconOffsetY": 0.0,
+        "iconOffsetZ": 0.0
+    },
+    {
+        "ID": 9,
+        "name": "立ち_高飛車１",
+        "charcterLookAssignTypeID": 1,
+        "AnimationName": "01_Idle11",
+        "iconOffsetX": 0.0,
+        "iconOffsetY": 0.0,
+        "iconOffsetZ": 0.0
+    },
+    {
+        "ID": 10,
+        "name": "立ち_ガラ悪１",
+        "charcterLookAssignTypeID": 1,
+        "AnimationName": "01_Idle12",
+        "iconOffsetX": 0.0,
+        "iconOffsetY": 0.0,
+        "iconOffsetZ": 0.0
+    },
+    {
+        "ID": 11,
+        "name": "立ち_ガラ悪２",
+        "charcterLookAssignTypeID": 1,
+        "AnimationName": "01_Idle13",
+        "iconOffsetX": 0.0,
+        "iconOffsetY": 0.0,
+        "iconOffsetZ": 0.0
+    },
+    {
+        "ID": 12,
+        "name": "立ち_汎用２",
+        "charcterLookAssignTypeID": 1,
+        "AnimationName": "01_Idle14",
+        "iconOffsetX": 0.0,
+        "iconOffsetY": 0.0,
+        "iconOffsetZ": 0.0
+    },
+    {
+        "ID": 13,
+        "name": "立ち_会話１",
+        "charcterLookAssignTypeID": 1,
+        "AnimationName": "01_IdleTalk01",
+        "iconOffsetX": 0.0,
+        "iconOffsetY": 0.0,
+        "iconOffsetZ": 0.0
+    },
+    {
+        "ID": 14,
+        "name": "立ち_腕組",
+        "charcterLookAssignTypeID": 1,
+        "AnimationName": "01_Idle15",
+        "iconOffsetX": 0.0,
+        "iconOffsetY": 0.0,
+        "iconOffsetZ": 0.0
+    },
+    {
+        "ID": 15,
+        "name": "立ち_会話２",
+        "charcterLookAssignTypeID": 1,
+        "AnimationName": "01_IdleTalk02",
+        "iconOffsetX": 0.0,
+        "iconOffsetY": 0.0,
+        "iconOffsetZ": 0.0
+    },
+    {
+        "ID": 16,
+        "name": "立ち_思考",
+        "charcterLookAssignTypeID": 1,
+        "AnimationName": "01_IdleThink01",
+        "iconOffsetX": 0.0,
+        "iconOffsetY": 0.0,
+        "iconOffsetZ": 0.0
+    },
+    {
+        "ID": 17,
+        "name": "座り_汎用",
+        "charcterLookAssignTypeID": 1,
+        "AnimationName": "01_Sit03",
+        "iconOffsetX": 0.0,
+        "iconOffsetY": -0.20000000298023224,
+        "iconOffsetZ": 0.0
+    },
+    {
+        "ID": 18,
+        "name": "座机_汎用",
+        "charcterLookAssignTypeID": 1,
+        "AnimationName": "01_Desk03",
+        "iconOffsetX": 0.0,
+        "iconOffsetY": -0.20000000298023224,
+        "iconOffsetZ": 0.0
+    },
+    {
+        "ID": 19,
+        "name": "座机_手机１",
+        "charcterLookAssignTypeID": 1,
+        "AnimationName": "01_Desk04",
+        "iconOffsetX": 0.0,
+        "iconOffsetY": -0.20000000298023224,
+        "iconOffsetZ": 0.0
+    },
+    {
+        "ID": 20,
+        "name": "座机_手腿",
+        "charcterLookAssignTypeID": 1,
+        "AnimationName": "01_Desk05",
+        "iconOffsetX": 0.0,
+        "iconOffsetY": -0.20000000298023224,
+        "iconOffsetZ": 0.0
+    },
+    {
+        "ID": 21,
+        "name": "座机_手机２",
+        "charcterLookAssignTypeID": 1,
+        "AnimationName": "01_Desk06",
+        "iconOffsetX": 0.0,
+        "iconOffsetY": -0.20000000298023224,
+        "iconOffsetZ": 0.0
+    },
+    {
+        "ID": 22,
+        "name": "座机_腕組",
+        "charcterLookAssignTypeID": 1,
+        "AnimationName": "01_Desk07",
+        "iconOffsetX": 0.0,
+        "iconOffsetY": -0.20000000298023224,
+        "iconOffsetZ": 0.0
+    },
+    {
+        "ID": 23,
+        "name": "座机_会話１",
+        "charcterLookAssignTypeID": 1,
+        "AnimationName": "01_DeskTalk01",
+        "iconOffsetX": 0.0,
+        "iconOffsetY": -0.20000000298023224,
+        "iconOffsetZ": 0.0
+    },
+    {
+        "ID": 24,
+        "name": "座机_会話２",
+        "charcterLookAssignTypeID": 1,
+        "AnimationName": "01_DeskTalk02",
+        "iconOffsetX": 0.0,
+        "iconOffsetY": -0.20000000298023224,
+        "iconOffsetZ": 0.0
+    },
+    {
+        "ID": 25,
+        "name": "座机_思考１",
+        "charcterLookAssignTypeID": 1,
+        "AnimationName": "01_DeskThink01",
+        "iconOffsetX": 0.0,
+        "iconOffsetY": -0.20000000298023224,
+        "iconOffsetZ": 0.0
+    },
+    {
+        "ID": 26,
+        "name": "座机_思考２",
+        "charcterLookAssignTypeID": 1,
+        "AnimationName": "01_DeskThink02",
+        "iconOffsetX": 0.0,
+        "iconOffsetY": -0.20000000298023224,
+        "iconOffsetZ": 0.0
+    },
+    {
+        "ID": 27,
+        "name": "立ち_固有１",
+        "charcterLookAssignTypeID": 1,
+        "AnimationName": "01_IdleTalk03",
+        "iconOffsetX": 0.0,
+        "iconOffsetY": 0.0,
+        "iconOffsetZ": 0.0
+    },
+    {
+        "ID": 28,
+        "name": "立ち_固有２",
+        "charcterLookAssignTypeID": 1,
+        "AnimationName": "01_Idle08Ex",
+        "iconOffsetX": 0.0,
+        "iconOffsetY": 0.0,
+        "iconOffsetZ": 0.0
+    },
+    {
+        "ID": 29,
+        "name": "立ち_本棚",
+        "charcterLookAssignTypeID": 1,
+        "AnimationName": "01_IdleEx01",
+        "iconOffsetX": 0.0,
+        "iconOffsetY": 0.0,
+        "iconOffsetZ": 0.0
+    },
+    {
+        "ID": 30,
+        "name": "立ち_剣振り",
+        "charcterLookAssignTypeID": 1,
+        "AnimationName": "01_IdleEx02",
+        "iconOffsetX": 0.0,
+        "iconOffsetY": 0.0,
+        "iconOffsetZ": 0.0
+    },
+    {
+        "ID": 31,
+        "name": "座机_食事",
+        "charcterLookAssignTypeID": 1,
+        "AnimationName": "01_DeskEx01",
+        "iconOffsetX": 0.0,
+        "iconOffsetY": -0.20000000298023224,
+        "iconOffsetZ": 0.0
+    },
+    {
+        "ID": 32,
+        "name": "座り_地べた",
+        "charcterLookAssignTypeID": 1,
+        "AnimationName": "01_SitEx01",
+        "iconOffsetX": 0.0,
+        "iconOffsetY": -0.6000000238418579,
+        "iconOffsetZ": 0.0
+    },
+    {
+        "ID": 33,
+        "name": "座机_書記",
+        "charcterLookAssignTypeID": 1,
+        "AnimationName": "01_DeskEx02",
+        "iconOffsetX": 0.0,
+        "iconOffsetY": -0.20000000298023224,
+        "iconOffsetZ": 0.0
+    },
+    {
+        "ID": 34,
+        "name": "立ち_固有待機",
+        "charcterLookAssignTypeID": 1,
+        "AnimationName": "01_Std_Org",
+        "iconOffsetX": 0.0,
+        "iconOffsetY": 0.0,
+        "iconOffsetZ": 0.0
+    },
+    {
+        "ID": 35,
+        "name": "座り_固有待機",
+        "charcterLookAssignTypeID": 1,
+        "AnimationName": "01_Sit_Org",
+        "iconOffsetX": 0.0,
+        "iconOffsetY": -0.20000000298023224,
+        "iconOffsetZ": 0.0
+    },
+    {
+        "ID": 36,
+        "name": "座り_演奏（男）ドラム",
+        "charcterLookAssignTypeID": 1,
+        "AnimationName": "01_Sit_Play1",
+        "iconOffsetX": 0.0,
+        "iconOffsetY": 0.0,
+        "iconOffsetZ": 0.0
+    },
+    {
+        "ID": 37,
+        "name": "座り_演奏（男）マンドリン",
+        "charcterLookAssignTypeID": 1,
+        "AnimationName": "01_Sit_Play2",
+        "iconOffsetX": 0.0,
+        "iconOffsetY": 0.0,
+        "iconOffsetZ": 0.0
+    },
+    {
+        "ID": 38,
+        "name": "座り_演奏（女）ハープ",
+        "charcterLookAssignTypeID": 1,
+        "AnimationName": "01_Sit_Play1",
+        "iconOffsetX": 0.0,
+        "iconOffsetY": 0.0,
+        "iconOffsetZ": 0.0
+    },
+    {
+        "ID": 39,
+        "name": "座り_演奏（女）オルガン",
+        "charcterLookAssignTypeID": 1,
+        "AnimationName": "01_Sit_Play2",
+        "iconOffsetX": 0.0,
+        "iconOffsetY": -0.3499999940395355,
+        "iconOffsetZ": 0.0
+    },
+    {
+        "ID": 40,
+        "name": "立ち_トレー持ち",
+        "charcterLookAssignTypeID": 1,
+        "AnimationName": "01_IdleTray",
+        "iconOffsetX": 0.0,
+        "iconOffsetY": 0.0,
+        "iconOffsetZ": 0.0
+    },
+    {
+        "ID": 41,
+        "name": "座り_飲む",
+        "charcterLookAssignTypeID": 1,
+        "AnimationName": "01_Sit_Drink",
+        "iconOffsetX": 0.0,
+        "iconOffsetY": 0.0,
+        "iconOffsetZ": 0.0
+    },
+    {
+        "ID": 42,
+        "name": "座り_本を読む",
+        "charcterLookAssignTypeID": 1,
+        "AnimationName": "01_Sit_Book",
+        "iconOffsetX": 0.0,
+        "iconOffsetY": 0.0,
+        "iconOffsetZ": 0.0
+    },
+    {
+        "ID": 43,
+        "name": "立ち_貴族女01",
+        "charcterLookAssignTypeID": 1,
+        "AnimationName": "01_Std_Org",
+        "iconOffsetX": 0.0,
+        "iconOffsetY": 0.0,
+        "iconOffsetZ": 0.0
+    },
+    {
+        "ID": 44,
+        "name": "立ち_貴族女02",
+        "charcterLookAssignTypeID": 1,
+        "AnimationName": "01_Std_Org2",
+        "iconOffsetX": 0.0,
+        "iconOffsetY": 0.0,
+        "iconOffsetZ": 0.0
+    },
+    {
+        "ID": 45,
+        "name": "座り_貴族女01",
+        "charcterLookAssignTypeID": 1,
+        "AnimationName": "01_Sit_Org",
+        "iconOffsetX": 0.0,
+        "iconOffsetY": 0.0,
+        "iconOffsetZ": 0.0
+    }
+]

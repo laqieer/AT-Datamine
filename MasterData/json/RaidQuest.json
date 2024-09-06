@@ -1,0 +1,542 @@
+[
+    {
+        "ID": 1,
+        "raidID": 9010111,
+        "positionID": 1,
+        "questType": 11,
+        "minApplicableLap": 1,
+        "maxApplicableLap": 4,
+        "questStageId": 9010111,
+        "suppressRewardID": 1
+    },
+    {
+        "ID": 2,
+        "raidID": 9010111,
+        "positionID": 1,
+        "questType": 11,
+        "minApplicableLap": 5,
+        "maxApplicableLap": 8,
+        "questStageId": 9010111,
+        "suppressRewardID": 2
+    },
+    {
+        "ID": 3,
+        "raidID": 9010111,
+        "positionID": 1,
+        "questType": 11,
+        "minApplicableLap": 9,
+        "maxApplicableLap": 12,
+        "questStageId": 9010111,
+        "suppressRewardID": 3
+    },
+    {
+        "ID": 4,
+        "raidID": 9010111,
+        "positionID": 1,
+        "questType": 11,
+        "minApplicableLap": 13,
+        "maxApplicableLap": 16,
+        "questStageId": 9010111,
+        "suppressRewardID": 4
+    },
+    {
+        "ID": 5,
+        "raidID": 9010111,
+        "positionID": 1,
+        "questType": 11,
+        "minApplicableLap": 17,
+        "maxApplicableLap": 19,
+        "questStageId": 9010111,
+        "suppressRewardID": 5
+    },
+    {
+        "ID": 6,
+        "raidID": 9010111,
+        "positionID": 1,
+        "questType": 11,
+        "minApplicableLap": 20,
+        "maxApplicableLap": 99,
+        "questStageId": 9010111,
+        "suppressRewardID": 6
+    },
+    {
+        "ID": 7,
+        "raidID": 9010111,
+        "positionID": 2,
+        "questType": 11,
+        "minApplicableLap": 1,
+        "maxApplicableLap": 4,
+        "questStageId": 9010211,
+        "suppressRewardID": 1
+    },
+    {
+        "ID": 8,
+        "raidID": 9010111,
+        "positionID": 2,
+        "questType": 11,
+        "minApplicableLap": 5,
+        "maxApplicableLap": 8,
+        "questStageId": 9010211,
+        "suppressRewardID": 2
+    },
+    {
+        "ID": 9,
+        "raidID": 9010111,
+        "positionID": 2,
+        "questType": 11,
+        "minApplicableLap": 9,
+        "maxApplicableLap": 12,
+        "questStageId": 9010211,
+        "suppressRewardID": 3
+    },
+    {
+        "ID": 10,
+        "raidID": 9010111,
+        "positionID": 2,
+        "questType": 11,
+        "minApplicableLap": 13,
+        "maxApplicableLap": 16,
+        "questStageId": 9010211,
+        "suppressRewardID": 4
+    },
+    {
+        "ID": 11,
+        "raidID": 9010111,
+        "positionID": 2,
+        "questType": 11,
+        "minApplicableLap": 17,
+        "maxApplicableLap": 19,
+        "questStageId": 9010211,
+        "suppressRewardID": 5
+    },
+    {
+        "ID": 12,
+        "raidID": 9010111,
+        "positionID": 2,
+        "questType": 11,
+        "minApplicableLap": 20,
+        "maxApplicableLap": 99,
+        "questStageId": 9010211,
+        "suppressRewardID": 6
+    },
+    {
+        "ID": 13,
+        "raidID": 9010111,
+        "positionID": 3,
+        "questType": 11,
+        "minApplicableLap": 1,
+        "maxApplicableLap": 4,
+        "questStageId": 9010311,
+        "suppressRewardID": 1
+    },
+    {
+        "ID": 14,
+        "raidID": 9010111,
+        "positionID": 3,
+        "questType": 11,
+        "minApplicableLap": 5,
+        "maxApplicableLap": 8,
+        "questStageId": 9010311,
+        "suppressRewardID": 2
+    },
+    {
+        "ID": 15,
+        "raidID": 9010111,
+        "positionID": 3,
+        "questType": 11,
+        "minApplicableLap": 9,
+        "maxApplicableLap": 12,
+        "questStageId": 9010311,
+        "suppressRewardID": 3
+    },
+    {
+        "ID": 16,
+        "raidID": 9010111,
+        "positionID": 3,
+        "questType": 11,
+        "minApplicableLap": 13,
+        "maxApplicableLap": 16,
+        "questStageId": 9010311,
+        "suppressRewardID": 4
+    },
+    {
+        "ID": 17,
+        "raidID": 9010111,
+        "positionID": 3,
+        "questType": 11,
+        "minApplicableLap": 17,
+        "maxApplicableLap": 19,
+        "questStageId": 9010311,
+        "suppressRewardID": 5
+    },
+    {
+        "ID": 18,
+        "raidID": 9010111,
+        "positionID": 3,
+        "questType": 11,
+        "minApplicableLap": 20,
+        "maxApplicableLap": 99,
+        "questStageId": 9010311,
+        "suppressRewardID": 6
+    },
+    {
+        "ID": 19,
+        "raidID": 9020111,
+        "positionID": 1,
+        "questType": 11,
+        "minApplicableLap": 1,
+        "maxApplicableLap": 4,
+        "questStageId": 9020111,
+        "suppressRewardID": 1
+    },
+    {
+        "ID": 20,
+        "raidID": 9020111,
+        "positionID": 1,
+        "questType": 11,
+        "minApplicableLap": 5,
+        "maxApplicableLap": 8,
+        "questStageId": 9020111,
+        "suppressRewardID": 2
+    },
+    {
+        "ID": 21,
+        "raidID": 9020111,
+        "positionID": 1,
+        "questType": 11,
+        "minApplicableLap": 9,
+        "maxApplicableLap": 12,
+        "questStageId": 9020111,
+        "suppressRewardID": 3
+    },
+    {
+        "ID": 22,
+        "raidID": 9020111,
+        "positionID": 1,
+        "questType": 11,
+        "minApplicableLap": 13,
+        "maxApplicableLap": 16,
+        "questStageId": 9020111,
+        "suppressRewardID": 4
+    },
+    {
+        "ID": 23,
+        "raidID": 9020111,
+        "positionID": 1,
+        "questType": 11,
+        "minApplicableLap": 17,
+        "maxApplicableLap": 19,
+        "questStageId": 9020111,
+        "suppressRewardID": 5
+    },
+    {
+        "ID": 24,
+        "raidID": 9020111,
+        "positionID": 1,
+        "questType": 11,
+        "minApplicableLap": 20,
+        "maxApplicableLap": 99,
+        "questStageId": 9020111,
+        "suppressRewardID": 6
+    },
+    {
+        "ID": 25,
+        "raidID": 9020111,
+        "positionID": 2,
+        "questType": 11,
+        "minApplicableLap": 1,
+        "maxApplicableLap": 4,
+        "questStageId": 9020211,
+        "suppressRewardID": 1
+    },
+    {
+        "ID": 26,
+        "raidID": 9020111,
+        "positionID": 2,
+        "questType": 11,
+        "minApplicableLap": 5,
+        "maxApplicableLap": 8,
+        "questStageId": 9020211,
+        "suppressRewardID": 2
+    },
+    {
+        "ID": 27,
+        "raidID": 9020111,
+        "positionID": 2,
+        "questType": 11,
+        "minApplicableLap": 9,
+        "maxApplicableLap": 12,
+        "questStageId": 9020211,
+        "suppressRewardID": 3
+    },
+    {
+        "ID": 28,
+        "raidID": 9020111,
+        "positionID": 2,
+        "questType": 11,
+        "minApplicableLap": 13,
+        "maxApplicableLap": 16,
+        "questStageId": 9020211,
+        "suppressRewardID": 4
+    },
+    {
+        "ID": 29,
+        "raidID": 9020111,
+        "positionID": 2,
+        "questType": 11,
+        "minApplicableLap": 17,
+        "maxApplicableLap": 19,
+        "questStageId": 9020211,
+        "suppressRewardID": 5
+    },
+    {
+        "ID": 30,
+        "raidID": 9020111,
+        "positionID": 2,
+        "questType": 11,
+        "minApplicableLap": 20,
+        "maxApplicableLap": 99,
+        "questStageId": 9020211,
+        "suppressRewardID": 6
+    },
+    {
+        "ID": 31,
+        "raidID": 9020111,
+        "positionID": 3,
+        "questType": 11,
+        "minApplicableLap": 1,
+        "maxApplicableLap": 4,
+        "questStageId": 9020311,
+        "suppressRewardID": 1
+    },
+    {
+        "ID": 32,
+        "raidID": 9020111,
+        "positionID": 3,
+        "questType": 11,
+        "minApplicableLap": 5,
+        "maxApplicableLap": 8,
+        "questStageId": 9020311,
+        "suppressRewardID": 2
+    },
+    {
+        "ID": 33,
+        "raidID": 9020111,
+        "positionID": 3,
+        "questType": 11,
+        "minApplicableLap": 9,
+        "maxApplicableLap": 12,
+        "questStageId": 9020311,
+        "suppressRewardID": 3
+    },
+    {
+        "ID": 34,
+        "raidID": 9020111,
+        "positionID": 3,
+        "questType": 11,
+        "minApplicableLap": 13,
+        "maxApplicableLap": 16,
+        "questStageId": 9020311,
+        "suppressRewardID": 4
+    },
+    {
+        "ID": 35,
+        "raidID": 9020111,
+        "positionID": 3,
+        "questType": 11,
+        "minApplicableLap": 17,
+        "maxApplicableLap": 19,
+        "questStageId": 9020311,
+        "suppressRewardID": 5
+    },
+    {
+        "ID": 36,
+        "raidID": 9020111,
+        "positionID": 3,
+        "questType": 11,
+        "minApplicableLap": 20,
+        "maxApplicableLap": 99,
+        "questStageId": 9020311,
+        "suppressRewardID": 6
+    },
+    {
+        "ID": 37,
+        "raidID": 9030111,
+        "positionID": 1,
+        "questType": 11,
+        "minApplicableLap": 1,
+        "maxApplicableLap": 4,
+        "questStageId": 9030111,
+        "suppressRewardID": 1
+    },
+    {
+        "ID": 38,
+        "raidID": 9030111,
+        "positionID": 1,
+        "questType": 11,
+        "minApplicableLap": 5,
+        "maxApplicableLap": 8,
+        "questStageId": 9030111,
+        "suppressRewardID": 2
+    },
+    {
+        "ID": 39,
+        "raidID": 9030111,
+        "positionID": 1,
+        "questType": 11,
+        "minApplicableLap": 9,
+        "maxApplicableLap": 12,
+        "questStageId": 9030111,
+        "suppressRewardID": 3
+    },
+    {
+        "ID": 40,
+        "raidID": 9030111,
+        "positionID": 1,
+        "questType": 11,
+        "minApplicableLap": 13,
+        "maxApplicableLap": 16,
+        "questStageId": 9030111,
+        "suppressRewardID": 4
+    },
+    {
+        "ID": 41,
+        "raidID": 9030111,
+        "positionID": 1,
+        "questType": 11,
+        "minApplicableLap": 17,
+        "maxApplicableLap": 19,
+        "questStageId": 9030111,
+        "suppressRewardID": 5
+    },
+    {
+        "ID": 42,
+        "raidID": 9030111,
+        "positionID": 1,
+        "questType": 11,
+        "minApplicableLap": 20,
+        "maxApplicableLap": 99,
+        "questStageId": 9030111,
+        "suppressRewardID": 6
+    },
+    {
+        "ID": 43,
+        "raidID": 9030111,
+        "positionID": 2,
+        "questType": 11,
+        "minApplicableLap": 1,
+        "maxApplicableLap": 4,
+        "questStageId": 9030211,
+        "suppressRewardID": 1
+    },
+    {
+        "ID": 44,
+        "raidID": 9030111,
+        "positionID": 2,
+        "questType": 11,
+        "minApplicableLap": 5,
+        "maxApplicableLap": 8,
+        "questStageId": 9030211,
+        "suppressRewardID": 2
+    },
+    {
+        "ID": 45,
+        "raidID": 9030111,
+        "positionID": 2,
+        "questType": 11,
+        "minApplicableLap": 9,
+        "maxApplicableLap": 12,
+        "questStageId": 9030211,
+        "suppressRewardID": 3
+    },
+    {
+        "ID": 46,
+        "raidID": 9030111,
+        "positionID": 2,
+        "questType": 11,
+        "minApplicableLap": 13,
+        "maxApplicableLap": 16,
+        "questStageId": 9030211,
+        "suppressRewardID": 4
+    },
+    {
+        "ID": 47,
+        "raidID": 9030111,
+        "positionID": 2,
+        "questType": 11,
+        "minApplicableLap": 17,
+        "maxApplicableLap": 19,
+        "questStageId": 9030211,
+        "suppressRewardID": 5
+    },
+    {
+        "ID": 48,
+        "raidID": 9030111,
+        "positionID": 2,
+        "questType": 11,
+        "minApplicableLap": 20,
+        "maxApplicableLap": 99,
+        "questStageId": 9030211,
+        "suppressRewardID": 6
+    },
+    {
+        "ID": 49,
+        "raidID": 9030111,
+        "positionID": 3,
+        "questType": 11,
+        "minApplicableLap": 1,
+        "maxApplicableLap": 4,
+        "questStageId": 9030311,
+        "suppressRewardID": 1
+    },
+    {
+        "ID": 50,
+        "raidID": 9030111,
+        "positionID": 3,
+        "questType": 11,
+        "minApplicableLap": 5,
+        "maxApplicableLap": 8,
+        "questStageId": 9030311,
+        "suppressRewardID": 2
+    },
+    {
+        "ID": 51,
+        "raidID": 9030111,
+        "positionID": 3,
+        "questType": 11,
+        "minApplicableLap": 9,
+        "maxApplicableLap": 12,
+        "questStageId": 9030311,
+        "suppressRewardID": 3
+    },
+    {
+        "ID": 52,
+        "raidID": 9030111,
+        "positionID": 3,
+        "questType": 11,
+        "minApplicableLap": 13,
+        "maxApplicableLap": 16,
+        "questStageId": 9030311,
+        "suppressRewardID": 4
+    },
+    {
+        "ID": 53,
+        "raidID": 9030111,
+        "positionID": 3,
+        "questType": 11,
+        "minApplicableLap": 17,
+        "maxApplicableLap": 19,
+        "questStageId": 9030311,
+        "suppressRewardID": 5
+    },
+    {
+        "ID": 54,
+        "raidID": 9030111,
+        "positionID": 3,
+        "questType": 11,
+        "minApplicableLap": 20,
+        "maxApplicableLap": 99,
+        "questStageId": 9030311,
+        "suppressRewardID": 6
+    }
+]

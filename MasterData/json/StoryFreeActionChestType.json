@@ -1,0 +1,34 @@
+[
+    {
+        "ID": 1,
+        "name": "木の宝箱",
+        "propID": 30102004,
+        "openSE": "SE_TreasureBox_Open_01_Wood",
+        "expendableItemID": 0,
+        "mapShowAbility": 0
+    },
+    {
+        "ID": 2,
+        "name": "銅の宝箱",
+        "propID": 30102003,
+        "openSE": "SE_TreasureBox_Open_02_Bronze",
+        "expendableItemID": 101070001,
+        "mapShowAbility": 15
+    },
+    {
+        "ID": 3,
+        "name": "銀の宝箱",
+        "propID": 30102002,
+        "openSE": "SE_TreasureBox_Open_03_Silver",
+        "expendableItemID": 101070002,
+        "mapShowAbility": 18
+    },
+    {
+        "ID": 4,
+        "name": "金の宝箱",
+        "propID": 30102001,
+        "openSE": "SE_TreasureBox_Open_04_Gold",
+        "expendableItemID": 101070003,
+        "mapShowAbility": 21
+    }
+]

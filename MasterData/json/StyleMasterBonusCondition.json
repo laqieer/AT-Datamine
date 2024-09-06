@@ -1,0 +1,58 @@
+[
+    {
+        "ID": 1,
+        "name": "無属性スタイル",
+        "element": 1,
+        "move": 0,
+        "armor": 0,
+        "ride": 0
+    },
+    {
+        "ID": 2,
+        "name": "炎属性スタイル",
+        "element": 2,
+        "move": 0,
+        "armor": 0,
+        "ride": 0
+    },
+    {
+        "ID": 3,
+        "name": "氷属性スタイル",
+        "element": 3,
+        "move": 0,
+        "armor": 0,
+        "ride": 0
+    },
+    {
+        "ID": 4,
+        "name": "雷属性スタイル",
+        "element": 4,
+        "move": 0,
+        "armor": 0,
+        "ride": 0
+    },
+    {
+        "ID": 5,
+        "name": "風属性スタイル",
+        "element": 5,
+        "move": 0,
+        "armor": 0,
+        "ride": 0
+    },
+    {
+        "ID": 6,
+        "name": "光属性スタイル",
+        "element": 6,
+        "move": 0,
+        "armor": 0,
+        "ride": 0
+    },
+    {
+        "ID": 7,
+        "name": "闇属性スタイル",
+        "element": 7,
+        "move": 0,
+        "armor": 0,
+        "ride": 0
+    }
+]

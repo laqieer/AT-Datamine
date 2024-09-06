@@ -1,0 +1,12 @@
+[
+    {
+        "ID": 10001,
+        "name": "累計ミッションイベント１",
+        "startAt": "2024-04-04 15:00:00+09:00",
+        "endAt": "2024-04-30 14:59:59+09:00",
+        "updateTime": 15,
+        "aggregateTime": 14,
+        "bgmPackName": "BGM_OutGame_KC_EvTop",
+        "bgmEventName": "BGM_OutGame_KC_EvTop"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "ID": 1,
+        "name": "平装",
+        "type": 1,
+        "mobility": 0
+    },
+    {
+        "ID": 2,
+        "name": "重装",
+        "type": 2,
+        "mobility": 4294967295
+    },
+    {
+        "ID": 3,
+        "name": "軽装",
+        "type": 3,
+        "mobility": 0
+    }
+]

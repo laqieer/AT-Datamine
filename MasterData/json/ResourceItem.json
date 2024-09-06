@@ -1,0 +1,56 @@
+[
+    {
+        "ID": 201120001,
+        "name": "アズールフラグメント",
+        "rarity": 0,
+        "pictureNumber": 0,
+        "image": "201120001",
+        "itemType": 29,
+        "isSellable": false
+    },
+    {
+        "ID": 201130001,
+        "name": "クリムゾンフラグメント",
+        "rarity": 0,
+        "pictureNumber": 0,
+        "image": "201130001",
+        "itemType": 29,
+        "isSellable": false
+    },
+    {
+        "ID": 101060001,
+        "name": "EXPフラグメント",
+        "rarity": 0,
+        "pictureNumber": 0,
+        "image": "101060001",
+        "itemType": 33,
+        "isSellable": false
+    },
+    {
+        "ID": 101030003,
+        "name": "APフラグメント",
+        "rarity": 0,
+        "pictureNumber": 0,
+        "image": "101030003",
+        "itemType": 34,
+        "isSellable": false
+    },
+    {
+        "ID": 1,
+        "name": "伝晶石",
+        "rarity": 0,
+        "pictureNumber": 0,
+        "image": "",
+        "itemType": 1,
+        "isSellable": false
+    },
+    {
+        "ID": 2,
+        "name": "伝晶石(有償)",
+        "rarity": 0,
+        "pictureNumber": 0,
+        "image": "",
+        "itemType": 1,
+        "isSellable": false
+    }
+]

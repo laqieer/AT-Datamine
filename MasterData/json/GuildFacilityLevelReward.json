@@ -1,0 +1,482 @@
+[
+    {
+        "ID": 1,
+        "facilityId": 101,
+        "level": 1,
+        "rewardId": 1001
+    },
+    {
+        "ID": 2,
+        "facilityId": 101,
+        "level": 2,
+        "rewardId": 1002
+    },
+    {
+        "ID": 3,
+        "facilityId": 101,
+        "level": 3,
+        "rewardId": 1003
+    },
+    {
+        "ID": 4,
+        "facilityId": 101,
+        "level": 4,
+        "rewardId": 1004
+    },
+    {
+        "ID": 5,
+        "facilityId": 101,
+        "level": 5,
+        "rewardId": 1005
+    },
+    {
+        "ID": 6,
+        "facilityId": 101,
+        "level": 6,
+        "rewardId": 1006
+    },
+    {
+        "ID": 7,
+        "facilityId": 101,
+        "level": 7,
+        "rewardId": 1007
+    },
+    {
+        "ID": 8,
+        "facilityId": 101,
+        "level": 8,
+        "rewardId": 1008
+    },
+    {
+        "ID": 9,
+        "facilityId": 101,
+        "level": 9,
+        "rewardId": 1009
+    },
+    {
+        "ID": 10,
+        "facilityId": 101,
+        "level": 10,
+        "rewardId": 1010
+    },
+    {
+        "ID": 11,
+        "facilityId": 101,
+        "level": 11,
+        "rewardId": 1011
+    },
+    {
+        "ID": 12,
+        "facilityId": 101,
+        "level": 12,
+        "rewardId": 1012
+    },
+    {
+        "ID": 13,
+        "facilityId": 101,
+        "level": 13,
+        "rewardId": 1013
+    },
+    {
+        "ID": 14,
+        "facilityId": 101,
+        "level": 14,
+        "rewardId": 1014
+    },
+    {
+        "ID": 15,
+        "facilityId": 101,
+        "level": 15,
+        "rewardId": 1015
+    },
+    {
+        "ID": 16,
+        "facilityId": 101,
+        "level": 16,
+        "rewardId": 1016
+    },
+    {
+        "ID": 17,
+        "facilityId": 101,
+        "level": 17,
+        "rewardId": 1017
+    },
+    {
+        "ID": 18,
+        "facilityId": 101,
+        "level": 18,
+        "rewardId": 1018
+    },
+    {
+        "ID": 19,
+        "facilityId": 101,
+        "level": 19,
+        "rewardId": 1019
+    },
+    {
+        "ID": 20,
+        "facilityId": 101,
+        "level": 20,
+        "rewardId": 1020
+    },
+    {
+        "ID": 21,
+        "facilityId": 102,
+        "level": 1,
+        "rewardId": 2001
+    },
+    {
+        "ID": 22,
+        "facilityId": 102,
+        "level": 2,
+        "rewardId": 2002
+    },
+    {
+        "ID": 23,
+        "facilityId": 102,
+        "level": 3,
+        "rewardId": 2003
+    },
+    {
+        "ID": 24,
+        "facilityId": 102,
+        "level": 4,
+        "rewardId": 2004
+    },
+    {
+        "ID": 25,
+        "facilityId": 102,
+        "level": 5,
+        "rewardId": 2005
+    },
+    {
+        "ID": 26,
+        "facilityId": 102,
+        "level": 6,
+        "rewardId": 2006
+    },
+    {
+        "ID": 27,
+        "facilityId": 102,
+        "level": 7,
+        "rewardId": 2007
+    },
+    {
+        "ID": 28,
+        "facilityId": 102,
+        "level": 8,
+        "rewardId": 2008
+    },
+    {
+        "ID": 29,
+        "facilityId": 102,
+        "level": 9,
+        "rewardId": 2009
+    },
+    {
+        "ID": 30,
+        "facilityId": 102,
+        "level": 10,
+        "rewardId": 2010
+    },
+    {
+        "ID": 31,
+        "facilityId": 102,
+        "level": 11,
+        "rewardId": 2011
+    },
+    {
+        "ID": 32,
+        "facilityId": 102,
+        "level": 12,
+        "rewardId": 2012
+    },
+    {
+        "ID": 33,
+        "facilityId": 102,
+        "level": 13,
+        "rewardId": 2013
+    },
+    {
+        "ID": 34,
+        "facilityId": 102,
+        "level": 14,
+        "rewardId": 2014
+    },
+    {
+        "ID": 35,
+        "facilityId": 102,
+        "level": 15,
+        "rewardId": 2015
+    },
+    {
+        "ID": 36,
+        "facilityId": 102,
+        "level": 16,
+        "rewardId": 2016
+    },
+    {
+        "ID": 37,
+        "facilityId": 102,
+        "level": 17,
+        "rewardId": 2017
+    },
+    {
+        "ID": 38,
+        "facilityId": 102,
+        "level": 18,
+        "rewardId": 2018
+    },
+    {
+        "ID": 39,
+        "facilityId": 102,
+        "level": 19,
+        "rewardId": 2019
+    },
+    {
+        "ID": 40,
+        "facilityId": 102,
+        "level": 20,
+        "rewardId": 2020
+    },
+    {
+        "ID": 41,
+        "facilityId": 103,
+        "level": 1,
+        "rewardId": 3001
+    },
+    {
+        "ID": 42,
+        "facilityId": 103,
+        "level": 2,
+        "rewardId": 3002
+    },
+    {
+        "ID": 43,
+        "facilityId": 103,
+        "level": 3,
+        "rewardId": 3003
+    },
+    {
+        "ID": 44,
+        "facilityId": 103,
+        "level": 4,
+        "rewardId": 3004
+    },
+    {
+        "ID": 45,
+        "facilityId": 103,
+        "level": 5,
+        "rewardId": 3005
+    },
+    {
+        "ID": 46,
+        "facilityId": 103,
+        "level": 6,
+        "rewardId": 3006
+    },
+    {
+        "ID": 47,
+        "facilityId": 103,
+        "level": 7,
+        "rewardId": 3007
+    },
+    {
+        "ID": 48,
+        "facilityId": 103,
+        "level": 8,
+        "rewardId": 3008
+    },
+    {
+        "ID": 49,
+        "facilityId": 103,
+        "level": 9,
+        "rewardId": 3009
+    },
+    {
+        "ID": 50,
+        "facilityId": 103,
+        "level": 10,
+        "rewardId": 3010
+    },
+    {
+        "ID": 51,
+        "facilityId": 103,
+        "level": 11,
+        "rewardId": 3011
+    },
+    {
+        "ID": 52,
+        "facilityId": 103,
+        "level": 12,
+        "rewardId": 3012
+    },
+    {
+        "ID": 53,
+        "facilityId": 103,
+        "level": 13,
+        "rewardId": 3013
+    },
+    {
+        "ID": 54,
+        "facilityId": 103,
+        "level": 14,
+        "rewardId": 3014
+    },
+    {
+        "ID": 55,
+        "facilityId": 103,
+        "level": 15,
+        "rewardId": 3015
+    },
+    {
+        "ID": 56,
+        "facilityId": 103,
+        "level": 16,
+        "rewardId": 3016
+    },
+    {
+        "ID": 57,
+        "facilityId": 103,
+        "level": 17,
+        "rewardId": 3017
+    },
+    {
+        "ID": 58,
+        "facilityId": 103,
+        "level": 18,
+        "rewardId": 3018
+    },
+    {
+        "ID": 59,
+        "facilityId": 103,
+        "level": 19,
+        "rewardId": 3019
+    },
+    {
+        "ID": 60,
+        "facilityId": 103,
+        "level": 20,
+        "rewardId": 3020
+    },
+    {
+        "ID": 61,
+        "facilityId": 104,
+        "level": 1,
+        "rewardId": 4001
+    },
+    {
+        "ID": 62,
+        "facilityId": 104,
+        "level": 2,
+        "rewardId": 4002
+    },
+    {
+        "ID": 63,
+        "facilityId": 104,
+        "level": 3,
+        "rewardId": 4003
+    },
+    {
+        "ID": 64,
+        "facilityId": 104,
+        "level": 4,
+        "rewardId": 4004
+    },
+    {
+        "ID": 65,
+        "facilityId": 104,
+        "level": 5,
+        "rewardId": 4005
+    },
+    {
+        "ID": 66,
+        "facilityId": 104,
+        "level": 6,
+        "rewardId": 4006
+    },
+    {
+        "ID": 67,
+        "facilityId": 104,
+        "level": 7,
+        "rewardId": 4007
+    },
+    {
+        "ID": 68,
+        "facilityId": 104,
+        "level": 8,
+        "rewardId": 4008
+    },
+    {
+        "ID": 69,
+        "facilityId": 104,
+        "level": 9,
+        "rewardId": 4009
+    },
+    {
+        "ID": 70,
+        "facilityId": 104,
+        "level": 10,
+        "rewardId": 4010
+    },
+    {
+        "ID": 71,
+        "facilityId": 104,
+        "level": 11,
+        "rewardId": 4011
+    },
+    {
+        "ID": 72,
+        "facilityId": 104,
+        "level": 12,
+        "rewardId": 4012
+    },
+    {
+        "ID": 73,
+        "facilityId": 104,
+        "level": 13,
+        "rewardId": 4013
+    },
+    {
+        "ID": 74,
+        "facilityId": 104,
+        "level": 14,
+        "rewardId": 4014
+    },
+    {
+        "ID": 75,
+        "facilityId": 104,
+        "level": 15,
+        "rewardId": 4015
+    },
+    {
+        "ID": 76,
+        "facilityId": 104,
+        "level": 16,
+        "rewardId": 4016
+    },
+    {
+        "ID": 77,
+        "facilityId": 104,
+        "level": 17,
+        "rewardId": 4017
+    },
+    {
+        "ID": 78,
+        "facilityId": 104,
+        "level": 18,
+        "rewardId": 4018
+    },
+    {
+        "ID": 79,
+        "facilityId": 104,
+        "level": 19,
+        "rewardId": 4019
+    },
+    {
+        "ID": 80,
+        "facilityId": 104,
+        "level": 20,
+        "rewardId": 4020
+    }
+]

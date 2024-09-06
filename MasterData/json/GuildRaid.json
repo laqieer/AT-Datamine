@@ -1,0 +1,44 @@
+[
+    {
+        "ID": 9010111,
+        "name": "S1",
+        "startAt": "2024-05-02 15:00:00+09:00",
+        "endAt": "2024-05-06 14:59:59+09:00",
+        "openAt": "2024-05-02 15:00:00+09:00",
+        "closeAt": "2024-05-09 14:59:59+09:00",
+        "lapRewardID": 1,
+        "specialLapRewardID": 1,
+        "epItemID": 101030011,
+        "epMaxCount": 3,
+        "bgmPackName": "BGM_Battle_GuildRaid",
+        "bgmEventName": "BGM_Battle_GuildRaid"
+    },
+    {
+        "ID": 9020111,
+        "name": "S2",
+        "startAt": "2024-05-30 15:00:00+09:00",
+        "endAt": "2024-06-06 14:59:59+09:00",
+        "openAt": "2024-05-30 15:00:00+09:00",
+        "closeAt": "2024-06-09 14:59:59+09:00",
+        "lapRewardID": 1,
+        "specialLapRewardID": 2,
+        "epItemID": 101030011,
+        "epMaxCount": 3,
+        "bgmPackName": "BGM_Battle_GuildRaid",
+        "bgmEventName": "BGM_Battle_GuildRaid"
+    },
+    {
+        "ID": 9030111,
+        "name": "S3",
+        "startAt": "2024-06-27 15:00:00+09:00",
+        "endAt": "2024-07-04 14:59:59+09:00",
+        "openAt": "2024-06-27 15:00:00+09:00",
+        "closeAt": "2024-07-07 14:59:59+09:00",
+        "lapRewardID": 1,
+        "specialLapRewardID": 3,
+        "epItemID": 101030011,
+        "epMaxCount": 3,
+        "bgmPackName": "BGM_Battle_GuildRaid",
+        "bgmEventName": "BGM_Battle_GuildRaid"
+    }
+]

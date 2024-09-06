@@ -1,0 +1,34 @@
+[
+    {
+        "ID": 1001,
+        "variableKind": "POINT_IDENTIFIER",
+        "variableID1": 10,
+        "variableID2": 0,
+        "variableID3": 0,
+        "coefficientPercentValue": 100
+    },
+    {
+        "ID": 1002,
+        "variableKind": "POINT_IDENTIFIER",
+        "variableID1": 11,
+        "variableID2": 0,
+        "variableID3": 0,
+        "coefficientPercentValue": 100
+    },
+    {
+        "ID": 1003,
+        "variableKind": "POINT_IDENTIFIER",
+        "variableID1": 12,
+        "variableID2": 0,
+        "variableID3": 0,
+        "coefficientPercentValue": 80
+    },
+    {
+        "ID": 2001,
+        "variableKind": "POINT_IDENTIFIER",
+        "variableID1": 10,
+        "variableID2": 11,
+        "variableID3": 12,
+        "coefficientPercentValue": 25
+    }
+]

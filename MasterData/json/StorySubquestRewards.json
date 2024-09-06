@@ -1,0 +1,1318 @@
+[
+    {
+        "ID": 10001,
+        "subquestID": 10001,
+        "beginClearCount": 1,
+        "endClearCount": 1,
+        "rewardSetLabel": 10001
+    },
+    {
+        "ID": 10002,
+        "subquestID": 10001,
+        "beginClearCount": 1,
+        "endClearCount": 0,
+        "rewardSetLabel": 10002
+    },
+    {
+        "ID": 10003,
+        "subquestID": 10002,
+        "beginClearCount": 1,
+        "endClearCount": 1,
+        "rewardSetLabel": 10003
+    },
+    {
+        "ID": 10004,
+        "subquestID": 10002,
+        "beginClearCount": 1,
+        "endClearCount": 0,
+        "rewardSetLabel": 10004
+    },
+    {
+        "ID": 10005,
+        "subquestID": 10003,
+        "beginClearCount": 1,
+        "endClearCount": 1,
+        "rewardSetLabel": 10005
+    },
+    {
+        "ID": 10006,
+        "subquestID": 10003,
+        "beginClearCount": 1,
+        "endClearCount": 0,
+        "rewardSetLabel": 10006
+    },
+    {
+        "ID": 10007,
+        "subquestID": 10004,
+        "beginClearCount": 1,
+        "endClearCount": 1,
+        "rewardSetLabel": 10007
+    },
+    {
+        "ID": 10008,
+        "subquestID": 10004,
+        "beginClearCount": 1,
+        "endClearCount": 0,
+        "rewardSetLabel": 10008
+    },
+    {
+        "ID": 10009,
+        "subquestID": 10005,
+        "beginClearCount": 1,
+        "endClearCount": 1,
+        "rewardSetLabel": 10009
+    },
+    {
+        "ID": 10010,
+        "subquestID": 10005,
+        "beginClearCount": 1,
+        "endClearCount": 0,
+        "rewardSetLabel": 10010
+    },
+    {
+        "ID": 10011,
+        "subquestID": 10006,
+        "beginClearCount": 1,
+        "endClearCount": 1,
+        "rewardSetLabel": 10011
+    },
+    {
+        "ID": 10012,
+        "subquestID": 10006,
+        "beginClearCount": 1,
+        "endClearCount": 0,
+        "rewardSetLabel": 10012
+    },
+    {
+        "ID": 10013,
+        "subquestID": 10007,
+        "beginClearCount": 1,
+        "endClearCount": 1,
+        "rewardSetLabel": 10013
+    },
+    {
+        "ID": 10014,
+        "subquestID": 10007,
+        "beginClearCount": 1,
+        "endClearCount": 0,
+        "rewardSetLabel": 10014
+    },
+    {
+        "ID": 10015,
+        "subquestID": 10008,
+        "beginClearCount": 1,
+        "endClearCount": 1,
+        "rewardSetLabel": 10015
+    },
+    {
+        "ID": 10016,
+        "subquestID": 10008,
+        "beginClearCount": 1,
+        "endClearCount": 0,
+        "rewardSetLabel": 10016
+    },
+    {
+        "ID": 10017,
+        "subquestID": 10009,
+        "beginClearCount": 1,
+        "endClearCount": 1,
+        "rewardSetLabel": 10017
+    },
+    {
+        "ID": 10018,
+        "subquestID": 10009,
+        "beginClearCount": 1,
+        "endClearCount": 0,
+        "rewardSetLabel": 10018
+    },
+    {
+        "ID": 10019,
+        "subquestID": 10010,
+        "beginClearCount": 1,
+        "endClearCount": 1,
+        "rewardSetLabel": 10019
+    },
+    {
+        "ID": 10020,
+        "subquestID": 10010,
+        "beginClearCount": 1,
+        "endClearCount": 0,
+        "rewardSetLabel": 10020
+    },
+    {
+        "ID": 10021,
+        "subquestID": 10011,
+        "beginClearCount": 1,
+        "endClearCount": 1,
+        "rewardSetLabel": 10021
+    },
+    {
+        "ID": 10022,
+        "subquestID": 10011,
+        "beginClearCount": 1,
+        "endClearCount": 0,
+        "rewardSetLabel": 10022
+    },
+    {
+        "ID": 10023,
+        "subquestID": 10012,
+        "beginClearCount": 1,
+        "endClearCount": 1,
+        "rewardSetLabel": 10023
+    },
+    {
+        "ID": 10024,
+        "subquestID": 10012,
+        "beginClearCount": 1,
+        "endClearCount": 0,
+        "rewardSetLabel": 10024
+    },
+    {
+        "ID": 10025,
+        "subquestID": 10013,
+        "beginClearCount": 1,
+        "endClearCount": 1,
+        "rewardSetLabel": 10025
+    },
+    {
+        "ID": 10026,
+        "subquestID": 10013,
+        "beginClearCount": 1,
+        "endClearCount": 0,
+        "rewardSetLabel": 10026
+    },
+    {
+        "ID": 10027,
+        "subquestID": 10014,
+        "beginClearCount": 1,
+        "endClearCount": 1,
+        "rewardSetLabel": 10027
+    },
+    {
+        "ID": 10028,
+        "subquestID": 10014,
+        "beginClearCount": 1,
+        "endClearCount": 0,
+        "rewardSetLabel": 10028
+    },
+    {
+        "ID": 10029,
+        "subquestID": 10015,
+        "beginClearCount": 1,
+        "endClearCount": 1,
+        "rewardSetLabel": 10029
+    },
+    {
+        "ID": 10030,
+        "subquestID": 10015,
+        "beginClearCount": 1,
+        "endClearCount": 0,
+        "rewardSetLabel": 10030
+    },
+    {
+        "ID": 10031,
+        "subquestID": 10016,
+        "beginClearCount": 1,
+        "endClearCount": 1,
+        "rewardSetLabel": 10031
+    },
+    {
+        "ID": 10032,
+        "subquestID": 10016,
+        "beginClearCount": 1,
+        "endClearCount": 0,
+        "rewardSetLabel": 10032
+    },
+    {
+        "ID": 10033,
+        "subquestID": 10017,
+        "beginClearCount": 1,
+        "endClearCount": 1,
+        "rewardSetLabel": 10033
+    },
+    {
+        "ID": 10034,
+        "subquestID": 10017,
+        "beginClearCount": 1,
+        "endClearCount": 0,
+        "rewardSetLabel": 10034
+    },
+    {
+        "ID": 10035,
+        "subquestID": 10018,
+        "beginClearCount": 1,
+        "endClearCount": 1,
+        "rewardSetLabel": 10035
+    },
+    {
+        "ID": 10036,
+        "subquestID": 10018,
+        "beginClearCount": 1,
+        "endClearCount": 0,
+        "rewardSetLabel": 10036
+    },
+    {
+        "ID": 10037,
+        "subquestID": 10019,
+        "beginClearCount": 1,
+        "endClearCount": 1,
+        "rewardSetLabel": 10037
+    },
+    {
+        "ID": 10038,
+        "subquestID": 10019,
+        "beginClearCount": 1,
+        "endClearCount": 0,
+        "rewardSetLabel": 10038
+    },
+    {
+        "ID": 10039,
+        "subquestID": 10020,
+        "beginClearCount": 1,
+        "endClearCount": 1,
+        "rewardSetLabel": 10039
+    },
+    {
+        "ID": 10040,
+        "subquestID": 10020,
+        "beginClearCount": 1,
+        "endClearCount": 0,
+        "rewardSetLabel": 10040
+    },
+    {
+        "ID": 10041,
+        "subquestID": 10021,
+        "beginClearCount": 1,
+        "endClearCount": 1,
+        "rewardSetLabel": 10041
+    },
+    {
+        "ID": 10042,
+        "subquestID": 10021,
+        "beginClearCount": 1,
+        "endClearCount": 0,
+        "rewardSetLabel": 10042
+    },
+    {
+        "ID": 10043,
+        "subquestID": 10022,
+        "beginClearCount": 1,
+        "endClearCount": 1,
+        "rewardSetLabel": 10043
+    },
+    {
+        "ID": 10044,
+        "subquestID": 10022,
+        "beginClearCount": 1,
+        "endClearCount": 0,
+        "rewardSetLabel": 10044
+    },
+    {
+        "ID": 10045,
+        "subquestID": 10023,
+        "beginClearCount": 1,
+        "endClearCount": 1,
+        "rewardSetLabel": 10045
+    },
+    {
+        "ID": 10046,
+        "subquestID": 10023,
+        "beginClearCount": 1,
+        "endClearCount": 0,
+        "rewardSetLabel": 10046
+    },
+    {
+        "ID": 10047,
+        "subquestID": 10024,
+        "beginClearCount": 1,
+        "endClearCount": 1,
+        "rewardSetLabel": 10047
+    },
+    {
+        "ID": 10048,
+        "subquestID": 10024,
+        "beginClearCount": 1,
+        "endClearCount": 0,
+        "rewardSetLabel": 10048
+    },
+    {
+        "ID": 10049,
+        "subquestID": 10025,
+        "beginClearCount": 1,
+        "endClearCount": 1,
+        "rewardSetLabel": 10049
+    },
+    {
+        "ID": 10050,
+        "subquestID": 10025,
+        "beginClearCount": 1,
+        "endClearCount": 0,
+        "rewardSetLabel": 10050
+    },
+    {
+        "ID": 10051,
+        "subquestID": 10026,
+        "beginClearCount": 1,
+        "endClearCount": 1,
+        "rewardSetLabel": 10051
+    },
+    {
+        "ID": 10052,
+        "subquestID": 10026,
+        "beginClearCount": 1,
+        "endClearCount": 0,
+        "rewardSetLabel": 10052
+    },
+    {
+        "ID": 10053,
+        "subquestID": 10027,
+        "beginClearCount": 1,
+        "endClearCount": 1,
+        "rewardSetLabel": 10053
+    },
+    {
+        "ID": 10054,
+        "subquestID": 10027,
+        "beginClearCount": 1,
+        "endClearCount": 0,
+        "rewardSetLabel": 10054
+    },
+    {
+        "ID": 10055,
+        "subquestID": 10028,
+        "beginClearCount": 1,
+        "endClearCount": 1,
+        "rewardSetLabel": 10055
+    },
+    {
+        "ID": 10056,
+        "subquestID": 10028,
+        "beginClearCount": 1,
+        "endClearCount": 0,
+        "rewardSetLabel": 10056
+    },
+    {
+        "ID": 10057,
+        "subquestID": 10029,
+        "beginClearCount": 1,
+        "endClearCount": 1,
+        "rewardSetLabel": 10057
+    },
+    {
+        "ID": 10058,
+        "subquestID": 10029,
+        "beginClearCount": 1,
+        "endClearCount": 0,
+        "rewardSetLabel": 10058
+    },
+    {
+        "ID": 10059,
+        "subquestID": 10030,
+        "beginClearCount": 1,
+        "endClearCount": 1,
+        "rewardSetLabel": 10059
+    },
+    {
+        "ID": 10060,
+        "subquestID": 10030,
+        "beginClearCount": 1,
+        "endClearCount": 0,
+        "rewardSetLabel": 10060
+    },
+    {
+        "ID": 10061,
+        "subquestID": 10031,
+        "beginClearCount": 1,
+        "endClearCount": 1,
+        "rewardSetLabel": 10061
+    },
+    {
+        "ID": 10062,
+        "subquestID": 10031,
+        "beginClearCount": 1,
+        "endClearCount": 0,
+        "rewardSetLabel": 10062
+    },
+    {
+        "ID": 10063,
+        "subquestID": 10032,
+        "beginClearCount": 1,
+        "endClearCount": 1,
+        "rewardSetLabel": 10063
+    },
+    {
+        "ID": 10064,
+        "subquestID": 10032,
+        "beginClearCount": 1,
+        "endClearCount": 0,
+        "rewardSetLabel": 10064
+    },
+    {
+        "ID": 10065,
+        "subquestID": 10033,
+        "beginClearCount": 1,
+        "endClearCount": 1,
+        "rewardSetLabel": 10065
+    },
+    {
+        "ID": 10066,
+        "subquestID": 10033,
+        "beginClearCount": 1,
+        "endClearCount": 0,
+        "rewardSetLabel": 10066
+    },
+    {
+        "ID": 10067,
+        "subquestID": 10034,
+        "beginClearCount": 1,
+        "endClearCount": 1,
+        "rewardSetLabel": 10067
+    },
+    {
+        "ID": 10068,
+        "subquestID": 10034,
+        "beginClearCount": 1,
+        "endClearCount": 0,
+        "rewardSetLabel": 10068
+    },
+    {
+        "ID": 10069,
+        "subquestID": 10035,
+        "beginClearCount": 1,
+        "endClearCount": 1,
+        "rewardSetLabel": 10069
+    },
+    {
+        "ID": 10070,
+        "subquestID": 10035,
+        "beginClearCount": 1,
+        "endClearCount": 0,
+        "rewardSetLabel": 10070
+    },
+    {
+        "ID": 10071,
+        "subquestID": 10036,
+        "beginClearCount": 1,
+        "endClearCount": 1,
+        "rewardSetLabel": 10071
+    },
+    {
+        "ID": 10072,
+        "subquestID": 10036,
+        "beginClearCount": 1,
+        "endClearCount": 0,
+        "rewardSetLabel": 10072
+    },
+    {
+        "ID": 10073,
+        "subquestID": 10037,
+        "beginClearCount": 1,
+        "endClearCount": 1,
+        "rewardSetLabel": 10073
+    },
+    {
+        "ID": 10074,
+        "subquestID": 10037,
+        "beginClearCount": 1,
+        "endClearCount": 0,
+        "rewardSetLabel": 10074
+    },
+    {
+        "ID": 10075,
+        "subquestID": 10038,
+        "beginClearCount": 1,
+        "endClearCount": 1,
+        "rewardSetLabel": 10075
+    },
+    {
+        "ID": 10076,
+        "subquestID": 10038,
+        "beginClearCount": 1,
+        "endClearCount": 0,
+        "rewardSetLabel": 10076
+    },
+    {
+        "ID": 10077,
+        "subquestID": 10039,
+        "beginClearCount": 1,
+        "endClearCount": 1,
+        "rewardSetLabel": 10077
+    },
+    {
+        "ID": 10078,
+        "subquestID": 10039,
+        "beginClearCount": 1,
+        "endClearCount": 0,
+        "rewardSetLabel": 10078
+    },
+    {
+        "ID": 10079,
+        "subquestID": 10040,
+        "beginClearCount": 1,
+        "endClearCount": 1,
+        "rewardSetLabel": 10079
+    },
+    {
+        "ID": 10080,
+        "subquestID": 10040,
+        "beginClearCount": 1,
+        "endClearCount": 0,
+        "rewardSetLabel": 10080
+    },
+    {
+        "ID": 10081,
+        "subquestID": 20001,
+        "beginClearCount": 1,
+        "endClearCount": 1,
+        "rewardSetLabel": 10081
+    },
+    {
+        "ID": 10082,
+        "subquestID": 20001,
+        "beginClearCount": 1,
+        "endClearCount": 0,
+        "rewardSetLabel": 10082
+    },
+    {
+        "ID": 10083,
+        "subquestID": 20002,
+        "beginClearCount": 1,
+        "endClearCount": 1,
+        "rewardSetLabel": 10083
+    },
+    {
+        "ID": 10084,
+        "subquestID": 20002,
+        "beginClearCount": 1,
+        "endClearCount": 0,
+        "rewardSetLabel": 10084
+    },
+    {
+        "ID": 10085,
+        "subquestID": 20003,
+        "beginClearCount": 1,
+        "endClearCount": 1,
+        "rewardSetLabel": 10085
+    },
+    {
+        "ID": 10086,
+        "subquestID": 20003,
+        "beginClearCount": 1,
+        "endClearCount": 0,
+        "rewardSetLabel": 10086
+    },
+    {
+        "ID": 10087,
+        "subquestID": 20004,
+        "beginClearCount": 1,
+        "endClearCount": 1,
+        "rewardSetLabel": 10087
+    },
+    {
+        "ID": 10088,
+        "subquestID": 20004,
+        "beginClearCount": 1,
+        "endClearCount": 0,
+        "rewardSetLabel": 10088
+    },
+    {
+        "ID": 10089,
+        "subquestID": 20005,
+        "beginClearCount": 1,
+        "endClearCount": 1,
+        "rewardSetLabel": 10089
+    },
+    {
+        "ID": 10090,
+        "subquestID": 20005,
+        "beginClearCount": 1,
+        "endClearCount": 0,
+        "rewardSetLabel": 10090
+    },
+    {
+        "ID": 10091,
+        "subquestID": 20006,
+        "beginClearCount": 1,
+        "endClearCount": 1,
+        "rewardSetLabel": 10091
+    },
+    {
+        "ID": 10092,
+        "subquestID": 20006,
+        "beginClearCount": 1,
+        "endClearCount": 0,
+        "rewardSetLabel": 10092
+    },
+    {
+        "ID": 10093,
+        "subquestID": 20007,
+        "beginClearCount": 1,
+        "endClearCount": 1,
+        "rewardSetLabel": 10093
+    },
+    {
+        "ID": 10094,
+        "subquestID": 20007,
+        "beginClearCount": 1,
+        "endClearCount": 0,
+        "rewardSetLabel": 10094
+    },
+    {
+        "ID": 10095,
+        "subquestID": 20008,
+        "beginClearCount": 1,
+        "endClearCount": 1,
+        "rewardSetLabel": 10095
+    },
+    {
+        "ID": 10096,
+        "subquestID": 20008,
+        "beginClearCount": 1,
+        "endClearCount": 0,
+        "rewardSetLabel": 10096
+    },
+    {
+        "ID": 10097,
+        "subquestID": 20009,
+        "beginClearCount": 1,
+        "endClearCount": 1,
+        "rewardSetLabel": 10097
+    },
+    {
+        "ID": 10098,
+        "subquestID": 20009,
+        "beginClearCount": 1,
+        "endClearCount": 0,
+        "rewardSetLabel": 10098
+    },
+    {
+        "ID": 10099,
+        "subquestID": 20010,
+        "beginClearCount": 1,
+        "endClearCount": 1,
+        "rewardSetLabel": 10099
+    },
+    {
+        "ID": 10100,
+        "subquestID": 20010,
+        "beginClearCount": 1,
+        "endClearCount": 0,
+        "rewardSetLabel": 10100
+    },
+    {
+        "ID": 10101,
+        "subquestID": 20011,
+        "beginClearCount": 1,
+        "endClearCount": 1,
+        "rewardSetLabel": 10101
+    },
+    {
+        "ID": 10102,
+        "subquestID": 20011,
+        "beginClearCount": 1,
+        "endClearCount": 0,
+        "rewardSetLabel": 10102
+    },
+    {
+        "ID": 10103,
+        "subquestID": 20012,
+        "beginClearCount": 1,
+        "endClearCount": 1,
+        "rewardSetLabel": 10103
+    },
+    {
+        "ID": 10104,
+        "subquestID": 20012,
+        "beginClearCount": 1,
+        "endClearCount": 0,
+        "rewardSetLabel": 10104
+    },
+    {
+        "ID": 10105,
+        "subquestID": 20013,
+        "beginClearCount": 1,
+        "endClearCount": 1,
+        "rewardSetLabel": 10105
+    },
+    {
+        "ID": 10106,
+        "subquestID": 20013,
+        "beginClearCount": 1,
+        "endClearCount": 0,
+        "rewardSetLabel": 10106
+    },
+    {
+        "ID": 10107,
+        "subquestID": 20014,
+        "beginClearCount": 1,
+        "endClearCount": 1,
+        "rewardSetLabel": 10107
+    },
+    {
+        "ID": 10108,
+        "subquestID": 20014,
+        "beginClearCount": 1,
+        "endClearCount": 0,
+        "rewardSetLabel": 10108
+    },
+    {
+        "ID": 10109,
+        "subquestID": 20015,
+        "beginClearCount": 1,
+        "endClearCount": 1,
+        "rewardSetLabel": 10109
+    },
+    {
+        "ID": 10110,
+        "subquestID": 20015,
+        "beginClearCount": 1,
+        "endClearCount": 0,
+        "rewardSetLabel": 10110
+    },
+    {
+        "ID": 10111,
+        "subquestID": 20016,
+        "beginClearCount": 1,
+        "endClearCount": 1,
+        "rewardSetLabel": 10111
+    },
+    {
+        "ID": 10112,
+        "subquestID": 20016,
+        "beginClearCount": 1,
+        "endClearCount": 0,
+        "rewardSetLabel": 10112
+    },
+    {
+        "ID": 10113,
+        "subquestID": 20017,
+        "beginClearCount": 1,
+        "endClearCount": 1,
+        "rewardSetLabel": 10113
+    },
+    {
+        "ID": 10114,
+        "subquestID": 20017,
+        "beginClearCount": 1,
+        "endClearCount": 0,
+        "rewardSetLabel": 10114
+    },
+    {
+        "ID": 10115,
+        "subquestID": 20018,
+        "beginClearCount": 1,
+        "endClearCount": 1,
+        "rewardSetLabel": 10115
+    },
+    {
+        "ID": 10116,
+        "subquestID": 20018,
+        "beginClearCount": 1,
+        "endClearCount": 0,
+        "rewardSetLabel": 10116
+    },
+    {
+        "ID": 10117,
+        "subquestID": 20019,
+        "beginClearCount": 1,
+        "endClearCount": 1,
+        "rewardSetLabel": 10117
+    },
+    {
+        "ID": 10118,
+        "subquestID": 20019,
+        "beginClearCount": 1,
+        "endClearCount": 0,
+        "rewardSetLabel": 10118
+    },
+    {
+        "ID": 10119,
+        "subquestID": 20020,
+        "beginClearCount": 1,
+        "endClearCount": 1,
+        "rewardSetLabel": 10119
+    },
+    {
+        "ID": 10120,
+        "subquestID": 20020,
+        "beginClearCount": 1,
+        "endClearCount": 0,
+        "rewardSetLabel": 10120
+    },
+    {
+        "ID": 10121,
+        "subquestID": 10041,
+        "beginClearCount": 1,
+        "endClearCount": 1,
+        "rewardSetLabel": 10121
+    },
+    {
+        "ID": 10122,
+        "subquestID": 10041,
+        "beginClearCount": 1,
+        "endClearCount": 0,
+        "rewardSetLabel": 10122
+    },
+    {
+        "ID": 10123,
+        "subquestID": 10042,
+        "beginClearCount": 1,
+        "endClearCount": 1,
+        "rewardSetLabel": 10123
+    },
+    {
+        "ID": 10124,
+        "subquestID": 10042,
+        "beginClearCount": 1,
+        "endClearCount": 0,
+        "rewardSetLabel": 10124
+    },
+    {
+        "ID": 10125,
+        "subquestID": 10043,
+        "beginClearCount": 1,
+        "endClearCount": 1,
+        "rewardSetLabel": 10125
+    },
+    {
+        "ID": 10126,
+        "subquestID": 10043,
+        "beginClearCount": 1,
+        "endClearCount": 0,
+        "rewardSetLabel": 10126
+    },
+    {
+        "ID": 10127,
+        "subquestID": 10044,
+        "beginClearCount": 1,
+        "endClearCount": 1,
+        "rewardSetLabel": 10127
+    },
+    {
+        "ID": 10128,
+        "subquestID": 10044,
+        "beginClearCount": 1,
+        "endClearCount": 0,
+        "rewardSetLabel": 10128
+    },
+    {
+        "ID": 10129,
+        "subquestID": 10045,
+        "beginClearCount": 1,
+        "endClearCount": 1,
+        "rewardSetLabel": 10129
+    },
+    {
+        "ID": 10130,
+        "subquestID": 10045,
+        "beginClearCount": 1,
+        "endClearCount": 0,
+        "rewardSetLabel": 10130
+    },
+    {
+        "ID": 10131,
+        "subquestID": 10046,
+        "beginClearCount": 1,
+        "endClearCount": 1,
+        "rewardSetLabel": 10131
+    },
+    {
+        "ID": 10132,
+        "subquestID": 10046,
+        "beginClearCount": 1,
+        "endClearCount": 0,
+        "rewardSetLabel": 10132
+    },
+    {
+        "ID": 10133,
+        "subquestID": 10047,
+        "beginClearCount": 1,
+        "endClearCount": 1,
+        "rewardSetLabel": 10133
+    },
+    {
+        "ID": 10134,
+        "subquestID": 10047,
+        "beginClearCount": 1,
+        "endClearCount": 0,
+        "rewardSetLabel": 10134
+    },
+    {
+        "ID": 10135,
+        "subquestID": 10048,
+        "beginClearCount": 1,
+        "endClearCount": 1,
+        "rewardSetLabel": 10135
+    },
+    {
+        "ID": 10136,
+        "subquestID": 10048,
+        "beginClearCount": 1,
+        "endClearCount": 0,
+        "rewardSetLabel": 10136
+    },
+    {
+        "ID": 10137,
+        "subquestID": 10049,
+        "beginClearCount": 1,
+        "endClearCount": 1,
+        "rewardSetLabel": 10137
+    },
+    {
+        "ID": 10138,
+        "subquestID": 10049,
+        "beginClearCount": 1,
+        "endClearCount": 0,
+        "rewardSetLabel": 10138
+    },
+    {
+        "ID": 10139,
+        "subquestID": 10050,
+        "beginClearCount": 1,
+        "endClearCount": 1,
+        "rewardSetLabel": 10139
+    },
+    {
+        "ID": 10140,
+        "subquestID": 10050,
+        "beginClearCount": 1,
+        "endClearCount": 0,
+        "rewardSetLabel": 10140
+    },
+    {
+        "ID": 10141,
+        "subquestID": 10051,
+        "beginClearCount": 1,
+        "endClearCount": 1,
+        "rewardSetLabel": 10141
+    },
+    {
+        "ID": 10142,
+        "subquestID": 10051,
+        "beginClearCount": 1,
+        "endClearCount": 0,
+        "rewardSetLabel": 10142
+    },
+    {
+        "ID": 10143,
+        "subquestID": 10052,
+        "beginClearCount": 1,
+        "endClearCount": 1,
+        "rewardSetLabel": 10143
+    },
+    {
+        "ID": 10144,
+        "subquestID": 10052,
+        "beginClearCount": 1,
+        "endClearCount": 0,
+        "rewardSetLabel": 10144
+    },
+    {
+        "ID": 10145,
+        "subquestID": 10053,
+        "beginClearCount": 1,
+        "endClearCount": 1,
+        "rewardSetLabel": 10145
+    },
+    {
+        "ID": 10146,
+        "subquestID": 10053,
+        "beginClearCount": 1,
+        "endClearCount": 0,
+        "rewardSetLabel": 10146
+    },
+    {
+        "ID": 10147,
+        "subquestID": 10054,
+        "beginClearCount": 1,
+        "endClearCount": 1,
+        "rewardSetLabel": 10147
+    },
+    {
+        "ID": 10148,
+        "subquestID": 10054,
+        "beginClearCount": 1,
+        "endClearCount": 0,
+        "rewardSetLabel": 10148
+    },
+    {
+        "ID": 10149,
+        "subquestID": 10055,
+        "beginClearCount": 1,
+        "endClearCount": 1,
+        "rewardSetLabel": 10149
+    },
+    {
+        "ID": 10150,
+        "subquestID": 10055,
+        "beginClearCount": 1,
+        "endClearCount": 0,
+        "rewardSetLabel": 10150
+    },
+    {
+        "ID": 10151,
+        "subquestID": 10056,
+        "beginClearCount": 1,
+        "endClearCount": 1,
+        "rewardSetLabel": 10151
+    },
+    {
+        "ID": 10152,
+        "subquestID": 10056,
+        "beginClearCount": 1,
+        "endClearCount": 0,
+        "rewardSetLabel": 10152
+    },
+    {
+        "ID": 10153,
+        "subquestID": 10057,
+        "beginClearCount": 1,
+        "endClearCount": 1,
+        "rewardSetLabel": 10153
+    },
+    {
+        "ID": 10154,
+        "subquestID": 10057,
+        "beginClearCount": 1,
+        "endClearCount": 0,
+        "rewardSetLabel": 10154
+    },
+    {
+        "ID": 10155,
+        "subquestID": 20021,
+        "beginClearCount": 1,
+        "endClearCount": 1,
+        "rewardSetLabel": 10155
+    },
+    {
+        "ID": 10156,
+        "subquestID": 20021,
+        "beginClearCount": 1,
+        "endClearCount": 0,
+        "rewardSetLabel": 10156
+    },
+    {
+        "ID": 10157,
+        "subquestID": 20022,
+        "beginClearCount": 1,
+        "endClearCount": 1,
+        "rewardSetLabel": 10157
+    },
+    {
+        "ID": 10158,
+        "subquestID": 20022,
+        "beginClearCount": 1,
+        "endClearCount": 0,
+        "rewardSetLabel": 10158
+    },
+    {
+        "ID": 10159,
+        "subquestID": 20023,
+        "beginClearCount": 1,
+        "endClearCount": 1,
+        "rewardSetLabel": 10159
+    },
+    {
+        "ID": 10160,
+        "subquestID": 20023,
+        "beginClearCount": 1,
+        "endClearCount": 0,
+        "rewardSetLabel": 10160
+    },
+    {
+        "ID": 10161,
+        "subquestID": 20024,
+        "beginClearCount": 1,
+        "endClearCount": 1,
+        "rewardSetLabel": 10161
+    },
+    {
+        "ID": 10162,
+        "subquestID": 20024,
+        "beginClearCount": 1,
+        "endClearCount": 0,
+        "rewardSetLabel": 10162
+    },
+    {
+        "ID": 10163,
+        "subquestID": 20025,
+        "beginClearCount": 1,
+        "endClearCount": 1,
+        "rewardSetLabel": 10163
+    },
+    {
+        "ID": 10164,
+        "subquestID": 20025,
+        "beginClearCount": 1,
+        "endClearCount": 0,
+        "rewardSetLabel": 10164
+    },
+    {
+        "ID": 10165,
+        "subquestID": 20026,
+        "beginClearCount": 1,
+        "endClearCount": 1,
+        "rewardSetLabel": 10165
+    },
+    {
+        "ID": 10166,
+        "subquestID": 20026,
+        "beginClearCount": 1,
+        "endClearCount": 0,
+        "rewardSetLabel": 10166
+    },
+    {
+        "ID": 10167,
+        "subquestID": 20027,
+        "beginClearCount": 1,
+        "endClearCount": 1,
+        "rewardSetLabel": 10167
+    },
+    {
+        "ID": 10168,
+        "subquestID": 20027,
+        "beginClearCount": 1,
+        "endClearCount": 0,
+        "rewardSetLabel": 10168
+    },
+    {
+        "ID": 10169,
+        "subquestID": 20028,
+        "beginClearCount": 1,
+        "endClearCount": 1,
+        "rewardSetLabel": 10169
+    },
+    {
+        "ID": 10170,
+        "subquestID": 20028,
+        "beginClearCount": 1,
+        "endClearCount": 0,
+        "rewardSetLabel": 10170
+    },
+    {
+        "ID": 10171,
+        "subquestID": 20029,
+        "beginClearCount": 1,
+        "endClearCount": 1,
+        "rewardSetLabel": 10171
+    },
+    {
+        "ID": 10172,
+        "subquestID": 20029,
+        "beginClearCount": 1,
+        "endClearCount": 0,
+        "rewardSetLabel": 10172
+    },
+    {
+        "ID": 10173,
+        "subquestID": 20030,
+        "beginClearCount": 1,
+        "endClearCount": 1,
+        "rewardSetLabel": 10173
+    },
+    {
+        "ID": 10174,
+        "subquestID": 20030,
+        "beginClearCount": 1,
+        "endClearCount": 0,
+        "rewardSetLabel": 10174
+    },
+    {
+        "ID": 10175,
+        "subquestID": 20031,
+        "beginClearCount": 1,
+        "endClearCount": 1,
+        "rewardSetLabel": 10175
+    },
+    {
+        "ID": 10176,
+        "subquestID": 20031,
+        "beginClearCount": 1,
+        "endClearCount": 0,
+        "rewardSetLabel": 10176
+    },
+    {
+        "ID": 10177,
+        "subquestID": 20032,
+        "beginClearCount": 1,
+        "endClearCount": 1,
+        "rewardSetLabel": 10177
+    },
+    {
+        "ID": 10178,
+        "subquestID": 20032,
+        "beginClearCount": 1,
+        "endClearCount": 0,
+        "rewardSetLabel": 10178
+    },
+    {
+        "ID": 10179,
+        "subquestID": 20033,
+        "beginClearCount": 1,
+        "endClearCount": 1,
+        "rewardSetLabel": 10179
+    },
+    {
+        "ID": 10180,
+        "subquestID": 20033,
+        "beginClearCount": 1,
+        "endClearCount": 0,
+        "rewardSetLabel": 10180
+    },
+    {
+        "ID": 10181,
+        "subquestID": 20034,
+        "beginClearCount": 1,
+        "endClearCount": 1,
+        "rewardSetLabel": 10181
+    },
+    {
+        "ID": 10182,
+        "subquestID": 20034,
+        "beginClearCount": 1,
+        "endClearCount": 0,
+        "rewardSetLabel": 10182
+    },
+    {
+        "ID": 10183,
+        "subquestID": 20035,
+        "beginClearCount": 1,
+        "endClearCount": 1,
+        "rewardSetLabel": 10183
+    },
+    {
+        "ID": 10184,
+        "subquestID": 20035,
+        "beginClearCount": 1,
+        "endClearCount": 0,
+        "rewardSetLabel": 10184
+    },
+    {
+        "ID": 10185,
+        "subquestID": 20036,
+        "beginClearCount": 1,
+        "endClearCount": 1,
+        "rewardSetLabel": 10185
+    },
+    {
+        "ID": 10186,
+        "subquestID": 20036,
+        "beginClearCount": 1,
+        "endClearCount": 0,
+        "rewardSetLabel": 10186
+    },
+    {
+        "ID": 10187,
+        "subquestID": 20037,
+        "beginClearCount": 1,
+        "endClearCount": 1,
+        "rewardSetLabel": 10187
+    },
+    {
+        "ID": 10188,
+        "subquestID": 20037,
+        "beginClearCount": 1,
+        "endClearCount": 0,
+        "rewardSetLabel": 10188
+    }
+]

@@ -1,0 +1,4041 @@
+[
+    {
+        "ID": 0,
+        "groupId": 0,
+        "op": 0,
+        "condition": 0,
+        "threshold": 0
+    },
+    {
+        "ID": 1,
+        "groupId": 1,
+        "op": 0,
+        "condition": 3,
+        "threshold": 0
+    },
+    {
+        "ID": 2,
+        "groupId": 70,
+        "op": 0,
+        "condition": 3,
+        "threshold": 0
+    },
+    {
+        "ID": 3,
+        "groupId": 1001000,
+        "op": 0,
+        "condition": 1,
+        "threshold": 0
+    },
+    {
+        "ID": 4,
+        "groupId": 2001005,
+        "op": 0,
+        "condition": 2,
+        "threshold": 5
+    },
+    {
+        "ID": 5,
+        "groupId": 2001008,
+        "op": 0,
+        "condition": 2,
+        "threshold": 8
+    },
+    {
+        "ID": 6,
+        "groupId": 2001010,
+        "op": 0,
+        "condition": 2,
+        "threshold": 10
+    },
+    {
+        "ID": 7,
+        "groupId": 2001012,
+        "op": 0,
+        "condition": 2,
+        "threshold": 12
+    },
+    {
+        "ID": 8,
+        "groupId": 2001015,
+        "op": 0,
+        "condition": 2,
+        "threshold": 15
+    },
+    {
+        "ID": 9,
+        "groupId": 2001016,
+        "op": 0,
+        "condition": 2,
+        "threshold": 16
+    },
+    {
+        "ID": 10,
+        "groupId": 2001020,
+        "op": 0,
+        "condition": 2,
+        "threshold": 20
+    },
+    {
+        "ID": 11,
+        "groupId": 2001025,
+        "op": 0,
+        "condition": 2,
+        "threshold": 25
+    },
+    {
+        "ID": 12,
+        "groupId": 2001030,
+        "op": 0,
+        "condition": 2,
+        "threshold": 30
+    },
+    {
+        "ID": 13,
+        "groupId": 2001035,
+        "op": 0,
+        "condition": 2,
+        "threshold": 35
+    },
+    {
+        "ID": 14,
+        "groupId": 2001040,
+        "op": 0,
+        "condition": 2,
+        "threshold": 40
+    },
+    {
+        "ID": 15,
+        "groupId": 2001045,
+        "op": 0,
+        "condition": 2,
+        "threshold": 45
+    },
+    {
+        "ID": 16,
+        "groupId": 2001050,
+        "op": 0,
+        "condition": 2,
+        "threshold": 50
+    },
+    {
+        "ID": 17,
+        "groupId": 2001055,
+        "op": 0,
+        "condition": 2,
+        "threshold": 55
+    },
+    {
+        "ID": 18,
+        "groupId": 2001060,
+        "op": 0,
+        "condition": 2,
+        "threshold": 60
+    },
+    {
+        "ID": 19,
+        "groupId": 2001065,
+        "op": 0,
+        "condition": 2,
+        "threshold": 65
+    },
+    {
+        "ID": 20,
+        "groupId": 2001070,
+        "op": 0,
+        "condition": 2,
+        "threshold": 70
+    },
+    {
+        "ID": 21,
+        "groupId": 2001075,
+        "op": 0,
+        "condition": 2,
+        "threshold": 75
+    },
+    {
+        "ID": 22,
+        "groupId": 2001080,
+        "op": 0,
+        "condition": 2,
+        "threshold": 80
+    },
+    {
+        "ID": 23,
+        "groupId": 2001085,
+        "op": 0,
+        "condition": 2,
+        "threshold": 85
+    },
+    {
+        "ID": 24,
+        "groupId": 2001090,
+        "op": 0,
+        "condition": 2,
+        "threshold": 90
+    },
+    {
+        "ID": 25,
+        "groupId": 2001095,
+        "op": 0,
+        "condition": 2,
+        "threshold": 95
+    },
+    {
+        "ID": 26,
+        "groupId": 2001099,
+        "op": 0,
+        "condition": 2,
+        "threshold": 99
+    },
+    {
+        "ID": 27,
+        "groupId": 3001005,
+        "op": 0,
+        "condition": 3,
+        "threshold": 5
+    },
+    {
+        "ID": 28,
+        "groupId": 3001010,
+        "op": 0,
+        "condition": 3,
+        "threshold": 10
+    },
+    {
+        "ID": 29,
+        "groupId": 3001015,
+        "op": 0,
+        "condition": 3,
+        "threshold": 15
+    },
+    {
+        "ID": 30,
+        "groupId": 3001020,
+        "op": 0,
+        "condition": 3,
+        "threshold": 20
+    },
+    {
+        "ID": 31,
+        "groupId": 3001025,
+        "op": 0,
+        "condition": 3,
+        "threshold": 25
+    },
+    {
+        "ID": 32,
+        "groupId": 3001030,
+        "op": 0,
+        "condition": 3,
+        "threshold": 30
+    },
+    {
+        "ID": 33,
+        "groupId": 3001035,
+        "op": 0,
+        "condition": 3,
+        "threshold": 35
+    },
+    {
+        "ID": 34,
+        "groupId": 3001040,
+        "op": 0,
+        "condition": 3,
+        "threshold": 40
+    },
+    {
+        "ID": 35,
+        "groupId": 3001045,
+        "op": 0,
+        "condition": 3,
+        "threshold": 45
+    },
+    {
+        "ID": 36,
+        "groupId": 3001050,
+        "op": 0,
+        "condition": 3,
+        "threshold": 50
+    },
+    {
+        "ID": 37,
+        "groupId": 3001055,
+        "op": 0,
+        "condition": 3,
+        "threshold": 55
+    },
+    {
+        "ID": 38,
+        "groupId": 3001060,
+        "op": 0,
+        "condition": 3,
+        "threshold": 60
+    },
+    {
+        "ID": 39,
+        "groupId": 3001065,
+        "op": 0,
+        "condition": 3,
+        "threshold": 65
+    },
+    {
+        "ID": 40,
+        "groupId": 3001070,
+        "op": 0,
+        "condition": 3,
+        "threshold": 70
+    },
+    {
+        "ID": 41,
+        "groupId": 3001075,
+        "op": 0,
+        "condition": 3,
+        "threshold": 75
+    },
+    {
+        "ID": 42,
+        "groupId": 3001080,
+        "op": 0,
+        "condition": 3,
+        "threshold": 80
+    },
+    {
+        "ID": 43,
+        "groupId": 3001085,
+        "op": 0,
+        "condition": 3,
+        "threshold": 85
+    },
+    {
+        "ID": 44,
+        "groupId": 3001090,
+        "op": 0,
+        "condition": 3,
+        "threshold": 90
+    },
+    {
+        "ID": 45,
+        "groupId": 3001095,
+        "op": 0,
+        "condition": 3,
+        "threshold": 95
+    },
+    {
+        "ID": 46,
+        "groupId": 3001099,
+        "op": 0,
+        "condition": 3,
+        "threshold": 99
+    },
+    {
+        "ID": 47,
+        "groupId": 3001100,
+        "op": 0,
+        "condition": 3,
+        "threshold": 100
+    },
+    {
+        "ID": 48,
+        "groupId": 3633001,
+        "op": 1,
+        "condition": 6,
+        "threshold": 0
+    },
+    {
+        "ID": 49,
+        "groupId": 3633001,
+        "op": 1,
+        "condition": 33,
+        "threshold": 0
+    },
+    {
+        "ID": 50,
+        "groupId": 11001000,
+        "op": 0,
+        "condition": 11,
+        "threshold": 0
+    },
+    {
+        "ID": 51,
+        "groupId": 12001000,
+        "op": 0,
+        "condition": 12,
+        "threshold": 0
+    },
+    {
+        "ID": 52,
+        "groupId": 13001000,
+        "op": 0,
+        "condition": 14,
+        "threshold": 0
+    },
+    {
+        "ID": 53,
+        "groupId": 15001000,
+        "op": 0,
+        "condition": 15,
+        "threshold": 0
+    },
+    {
+        "ID": 54,
+        "groupId": 16001000,
+        "op": 0,
+        "condition": 16,
+        "threshold": 0
+    },
+    {
+        "ID": 55,
+        "groupId": 19001001,
+        "op": 0,
+        "condition": 19,
+        "threshold": 1
+    },
+    {
+        "ID": 56,
+        "groupId": 19001002,
+        "op": 0,
+        "condition": 19,
+        "threshold": 2
+    },
+    {
+        "ID": 57,
+        "groupId": 19001003,
+        "op": 0,
+        "condition": 19,
+        "threshold": 4
+    },
+    {
+        "ID": 58,
+        "groupId": 19001004,
+        "op": 0,
+        "condition": 19,
+        "threshold": 5
+    },
+    {
+        "ID": 59,
+        "groupId": 19001005,
+        "op": 0,
+        "condition": 19,
+        "threshold": 6
+    },
+    {
+        "ID": 60,
+        "groupId": 19001006,
+        "op": 0,
+        "condition": 19,
+        "threshold": 7
+    },
+    {
+        "ID": 61,
+        "groupId": 19001007,
+        "op": 0,
+        "condition": 19,
+        "threshold": 8
+    },
+    {
+        "ID": 62,
+        "groupId": 19001008,
+        "op": 0,
+        "condition": 19,
+        "threshold": 99
+    },
+    {
+        "ID": 63,
+        "groupId": 19003001,
+        "op": 1,
+        "condition": 19,
+        "threshold": 1
+    },
+    {
+        "ID": 64,
+        "groupId": 19003001,
+        "op": 1,
+        "condition": 19,
+        "threshold": 2
+    },
+    {
+        "ID": 65,
+        "groupId": 19003001,
+        "op": 0,
+        "condition": 19,
+        "threshold": 4
+    },
+    {
+        "ID": 66,
+        "groupId": 19004001,
+        "op": 1,
+        "condition": 19,
+        "threshold": 5
+    },
+    {
+        "ID": 67,
+        "groupId": 19004001,
+        "op": 1,
+        "condition": 19,
+        "threshold": 6
+    },
+    {
+        "ID": 68,
+        "groupId": 19004001,
+        "op": 0,
+        "condition": 19,
+        "threshold": 7
+    },
+    {
+        "ID": 69,
+        "groupId": 21001001,
+        "op": 0,
+        "condition": 21,
+        "threshold": 1
+    },
+    {
+        "ID": 70,
+        "groupId": 21001002,
+        "op": 0,
+        "condition": 21,
+        "threshold": 2
+    },
+    {
+        "ID": 71,
+        "groupId": 21001003,
+        "op": 0,
+        "condition": 21,
+        "threshold": 3
+    },
+    {
+        "ID": 72,
+        "groupId": 21001004,
+        "op": 0,
+        "condition": 21,
+        "threshold": 4
+    },
+    {
+        "ID": 73,
+        "groupId": 21001005,
+        "op": 0,
+        "condition": 21,
+        "threshold": 5
+    },
+    {
+        "ID": 74,
+        "groupId": 21001006,
+        "op": 0,
+        "condition": 21,
+        "threshold": 6
+    },
+    {
+        "ID": 75,
+        "groupId": 21001007,
+        "op": 0,
+        "condition": 21,
+        "threshold": 7
+    },
+    {
+        "ID": 76,
+        "groupId": 21001012,
+        "op": 1,
+        "condition": 21,
+        "threshold": 1
+    },
+    {
+        "ID": 77,
+        "groupId": 21001012,
+        "op": 1,
+        "condition": 21,
+        "threshold": 3
+    },
+    {
+        "ID": 78,
+        "groupId": 21001012,
+        "op": 1,
+        "condition": 21,
+        "threshold": 4
+    },
+    {
+        "ID": 79,
+        "groupId": 21001012,
+        "op": 1,
+        "condition": 21,
+        "threshold": 5
+    },
+    {
+        "ID": 80,
+        "groupId": 21001012,
+        "op": 1,
+        "condition": 21,
+        "threshold": 6
+    },
+    {
+        "ID": 81,
+        "groupId": 21001012,
+        "op": 0,
+        "condition": 21,
+        "threshold": 7
+    },
+    {
+        "ID": 82,
+        "groupId": 21001013,
+        "op": 1,
+        "condition": 21,
+        "threshold": 1
+    },
+    {
+        "ID": 83,
+        "groupId": 21001013,
+        "op": 1,
+        "condition": 21,
+        "threshold": 2
+    },
+    {
+        "ID": 84,
+        "groupId": 21001013,
+        "op": 1,
+        "condition": 21,
+        "threshold": 4
+    },
+    {
+        "ID": 85,
+        "groupId": 21001013,
+        "op": 1,
+        "condition": 21,
+        "threshold": 5
+    },
+    {
+        "ID": 86,
+        "groupId": 21001013,
+        "op": 1,
+        "condition": 21,
+        "threshold": 6
+    },
+    {
+        "ID": 87,
+        "groupId": 21001013,
+        "op": 0,
+        "condition": 21,
+        "threshold": 7
+    },
+    {
+        "ID": 88,
+        "groupId": 21001014,
+        "op": 1,
+        "condition": 21,
+        "threshold": 1
+    },
+    {
+        "ID": 89,
+        "groupId": 21001014,
+        "op": 1,
+        "condition": 21,
+        "threshold": 2
+    },
+    {
+        "ID": 90,
+        "groupId": 21001014,
+        "op": 1,
+        "condition": 21,
+        "threshold": 3
+    },
+    {
+        "ID": 91,
+        "groupId": 21001014,
+        "op": 1,
+        "condition": 21,
+        "threshold": 5
+    },
+    {
+        "ID": 92,
+        "groupId": 21001014,
+        "op": 1,
+        "condition": 21,
+        "threshold": 6
+    },
+    {
+        "ID": 93,
+        "groupId": 21001014,
+        "op": 0,
+        "condition": 21,
+        "threshold": 7
+    },
+    {
+        "ID": 94,
+        "groupId": 21001015,
+        "op": 1,
+        "condition": 21,
+        "threshold": 1
+    },
+    {
+        "ID": 95,
+        "groupId": 21001015,
+        "op": 1,
+        "condition": 21,
+        "threshold": 2
+    },
+    {
+        "ID": 96,
+        "groupId": 21001015,
+        "op": 1,
+        "condition": 21,
+        "threshold": 3
+    },
+    {
+        "ID": 97,
+        "groupId": 21001015,
+        "op": 1,
+        "condition": 21,
+        "threshold": 4
+    },
+    {
+        "ID": 98,
+        "groupId": 21001015,
+        "op": 1,
+        "condition": 21,
+        "threshold": 6
+    },
+    {
+        "ID": 99,
+        "groupId": 21001015,
+        "op": 0,
+        "condition": 21,
+        "threshold": 7
+    },
+    {
+        "ID": 100,
+        "groupId": 21001016,
+        "op": 1,
+        "condition": 21,
+        "threshold": 1
+    },
+    {
+        "ID": 101,
+        "groupId": 21001016,
+        "op": 1,
+        "condition": 21,
+        "threshold": 2
+    },
+    {
+        "ID": 102,
+        "groupId": 21001016,
+        "op": 1,
+        "condition": 21,
+        "threshold": 3
+    },
+    {
+        "ID": 103,
+        "groupId": 21001016,
+        "op": 1,
+        "condition": 21,
+        "threshold": 4
+    },
+    {
+        "ID": 104,
+        "groupId": 21001016,
+        "op": 1,
+        "condition": 21,
+        "threshold": 5
+    },
+    {
+        "ID": 105,
+        "groupId": 21001016,
+        "op": 0,
+        "condition": 21,
+        "threshold": 7
+    },
+    {
+        "ID": 106,
+        "groupId": 21001017,
+        "op": 1,
+        "condition": 21,
+        "threshold": 1
+    },
+    {
+        "ID": 107,
+        "groupId": 21001017,
+        "op": 1,
+        "condition": 21,
+        "threshold": 2
+    },
+    {
+        "ID": 108,
+        "groupId": 21001017,
+        "op": 1,
+        "condition": 21,
+        "threshold": 3
+    },
+    {
+        "ID": 109,
+        "groupId": 21001017,
+        "op": 1,
+        "condition": 21,
+        "threshold": 4
+    },
+    {
+        "ID": 110,
+        "groupId": 21001017,
+        "op": 1,
+        "condition": 21,
+        "threshold": 5
+    },
+    {
+        "ID": 111,
+        "groupId": 21001017,
+        "op": 0,
+        "condition": 21,
+        "threshold": 6
+    },
+    {
+        "ID": 112,
+        "groupId": 22001000,
+        "op": 0,
+        "condition": 22,
+        "threshold": 0
+    },
+    {
+        "ID": 113,
+        "groupId": 23001035,
+        "op": 0,
+        "condition": 23,
+        "threshold": 35
+    },
+    {
+        "ID": 114,
+        "groupId": 25001000,
+        "op": 0,
+        "condition": 25,
+        "threshold": 0
+    },
+    {
+        "ID": 115,
+        "groupId": 26001000,
+        "op": 0,
+        "condition": 26,
+        "threshold": 0
+    },
+    {
+        "ID": 116,
+        "groupId": 27001000,
+        "op": 0,
+        "condition": 27,
+        "threshold": 0
+    },
+    {
+        "ID": 117,
+        "groupId": 30001001,
+        "op": 0,
+        "condition": 28,
+        "threshold": 1
+    },
+    {
+        "ID": 118,
+        "groupId": 30001002,
+        "op": 0,
+        "condition": 28,
+        "threshold": 2
+    },
+    {
+        "ID": 119,
+        "groupId": 30001003,
+        "op": 0,
+        "condition": 28,
+        "threshold": 3
+    },
+    {
+        "ID": 120,
+        "groupId": 30001004,
+        "op": 0,
+        "condition": 28,
+        "threshold": 4
+    },
+    {
+        "ID": 121,
+        "groupId": 31128001,
+        "op": 0,
+        "condition": 28,
+        "threshold": 1
+    },
+    {
+        "ID": 122,
+        "groupId": 31128001,
+        "op": 0,
+        "condition": 11,
+        "threshold": 0
+    },
+    {
+        "ID": 123,
+        "groupId": 31128002,
+        "op": 0,
+        "condition": 28,
+        "threshold": 2
+    },
+    {
+        "ID": 124,
+        "groupId": 31128002,
+        "op": 0,
+        "condition": 11,
+        "threshold": 0
+    },
+    {
+        "ID": 125,
+        "groupId": 31128003,
+        "op": 0,
+        "condition": 28,
+        "threshold": 3
+    },
+    {
+        "ID": 126,
+        "groupId": 31128003,
+        "op": 0,
+        "condition": 11,
+        "threshold": 0
+    },
+    {
+        "ID": 127,
+        "groupId": 31128004,
+        "op": 0,
+        "condition": 28,
+        "threshold": 4
+    },
+    {
+        "ID": 128,
+        "groupId": 31128004,
+        "op": 0,
+        "condition": 11,
+        "threshold": 0
+    },
+    {
+        "ID": 129,
+        "groupId": 32001000,
+        "op": 0,
+        "condition": 32,
+        "threshold": 0
+    },
+    {
+        "ID": 130,
+        "groupId": 32001001,
+        "op": 0,
+        "condition": 32,
+        "threshold": 0
+    },
+    {
+        "ID": 131,
+        "groupId": 32001001,
+        "op": 0,
+        "condition": 5,
+        "threshold": 0
+    },
+    {
+        "ID": 132,
+        "groupId": 33001000,
+        "op": 0,
+        "condition": 33,
+        "threshold": 0
+    },
+    {
+        "ID": 133,
+        "groupId": 35001001,
+        "op": 0,
+        "condition": 39,
+        "threshold": 0
+    },
+    {
+        "ID": 134,
+        "groupId": 35001002,
+        "op": 0,
+        "condition": 39,
+        "threshold": 1
+    },
+    {
+        "ID": 135,
+        "groupId": 35001003,
+        "op": 0,
+        "condition": 39,
+        "threshold": 2
+    },
+    {
+        "ID": 136,
+        "groupId": 35001004,
+        "op": 0,
+        "condition": 39,
+        "threshold": 3
+    },
+    {
+        "ID": 137,
+        "groupId": 35001005,
+        "op": 0,
+        "condition": 39,
+        "threshold": 4
+    },
+    {
+        "ID": 138,
+        "groupId": 35001006,
+        "op": 0,
+        "condition": 39,
+        "threshold": 5
+    },
+    {
+        "ID": 139,
+        "groupId": 37001000,
+        "op": 0,
+        "condition": 37,
+        "threshold": 0
+    },
+    {
+        "ID": 140,
+        "groupId": 38001000,
+        "op": 1,
+        "condition": 24,
+        "threshold": 4
+    },
+    {
+        "ID": 141,
+        "groupId": 38001000,
+        "op": 0,
+        "condition": 24,
+        "threshold": 6
+    },
+    {
+        "ID": 142,
+        "groupId": 40001000,
+        "op": 0,
+        "condition": 40,
+        "threshold": 0
+    },
+    {
+        "ID": 143,
+        "groupId": 41001000,
+        "op": 0,
+        "condition": 41,
+        "threshold": 0
+    },
+    {
+        "ID": 144,
+        "groupId": 42001000,
+        "op": 0,
+        "condition": 42,
+        "threshold": 0
+    },
+    {
+        "ID": 145,
+        "groupId": 99999001,
+        "op": 0,
+        "condition": 34,
+        "threshold": 2
+    },
+    {
+        "ID": 146,
+        "groupId": 99999002,
+        "op": 0,
+        "condition": 35,
+        "threshold": 2
+    },
+    {
+        "ID": 147,
+        "groupId": 99999003,
+        "op": 0,
+        "condition": 36,
+        "threshold": 2
+    },
+    {
+        "ID": 148,
+        "groupId": 99999004,
+        "op": 0,
+        "condition": 18,
+        "threshold": 1
+    },
+    {
+        "ID": 149,
+        "groupId": 99999005,
+        "op": 0,
+        "condition": 18,
+        "threshold": 2
+    },
+    {
+        "ID": 150,
+        "groupId": 99999006,
+        "op": 0,
+        "condition": 18,
+        "threshold": 0
+    },
+    {
+        "ID": 151,
+        "groupId": 99999007,
+        "op": 0,
+        "condition": 37,
+        "threshold": 3
+    },
+    {
+        "ID": 152,
+        "groupId": 99999008,
+        "op": 0,
+        "condition": 38,
+        "threshold": 3
+    },
+    {
+        "ID": 153,
+        "groupId": 99999009,
+        "op": 0,
+        "condition": 39,
+        "threshold": 3
+    },
+    {
+        "ID": 154,
+        "groupId": 34001001,
+        "op": 0,
+        "condition": 34,
+        "threshold": 1
+    },
+    {
+        "ID": 155,
+        "groupId": 34001002,
+        "op": 0,
+        "condition": 34,
+        "threshold": 2
+    },
+    {
+        "ID": 156,
+        "groupId": 36001002,
+        "op": 0,
+        "condition": 36,
+        "threshold": 2
+    },
+    {
+        "ID": 157,
+        "groupId": 20001001,
+        "op": 0,
+        "condition": 20,
+        "threshold": 1
+    },
+    {
+        "ID": 158,
+        "groupId": 20001002,
+        "op": 0,
+        "condition": 20,
+        "threshold": 2
+    },
+    {
+        "ID": 159,
+        "groupId": 20001003,
+        "op": 0,
+        "condition": 20,
+        "threshold": 3
+    },
+    {
+        "ID": 160,
+        "groupId": 20001004,
+        "op": 0,
+        "condition": 20,
+        "threshold": 4
+    },
+    {
+        "ID": 161,
+        "groupId": 20001005,
+        "op": 1,
+        "condition": 20,
+        "threshold": 5
+    },
+    {
+        "ID": 162,
+        "groupId": 20001005,
+        "op": 1,
+        "condition": 20,
+        "threshold": 19
+    },
+    {
+        "ID": 163,
+        "groupId": 20001006,
+        "op": 0,
+        "condition": 20,
+        "threshold": 6
+    },
+    {
+        "ID": 164,
+        "groupId": 20001007,
+        "op": 0,
+        "condition": 20,
+        "threshold": 7
+    },
+    {
+        "ID": 165,
+        "groupId": 20001008,
+        "op": 0,
+        "condition": 20,
+        "threshold": 8
+    },
+    {
+        "ID": 166,
+        "groupId": 20001009,
+        "op": 0,
+        "condition": 20,
+        "threshold": 9
+    },
+    {
+        "ID": 167,
+        "groupId": 20001010,
+        "op": 0,
+        "condition": 20,
+        "threshold": 10
+    },
+    {
+        "ID": 168,
+        "groupId": 20001011,
+        "op": 0,
+        "condition": 20,
+        "threshold": 11
+    },
+    {
+        "ID": 169,
+        "groupId": 20001012,
+        "op": 0,
+        "condition": 20,
+        "threshold": 12
+    },
+    {
+        "ID": 170,
+        "groupId": 20001013,
+        "op": 0,
+        "condition": 20,
+        "threshold": 13
+    },
+    {
+        "ID": 171,
+        "groupId": 20001014,
+        "op": 0,
+        "condition": 20,
+        "threshold": 14
+    },
+    {
+        "ID": 172,
+        "groupId": 20001015,
+        "op": 0,
+        "condition": 20,
+        "threshold": 15
+    },
+    {
+        "ID": 173,
+        "groupId": 20001016,
+        "op": 0,
+        "condition": 20,
+        "threshold": 16
+    },
+    {
+        "ID": 174,
+        "groupId": 20001017,
+        "op": 1,
+        "condition": 20,
+        "threshold": 17
+    },
+    {
+        "ID": 175,
+        "groupId": 20001017,
+        "op": 1,
+        "condition": 20,
+        "threshold": 20
+    },
+    {
+        "ID": 176,
+        "groupId": 20001018,
+        "op": 1,
+        "condition": 20,
+        "threshold": 18
+    },
+    {
+        "ID": 177,
+        "groupId": 20001018,
+        "op": 1,
+        "condition": 20,
+        "threshold": 21
+    },
+    {
+        "ID": 178,
+        "groupId": 20001019,
+        "op": 0,
+        "condition": 20,
+        "threshold": 22
+    },
+    {
+        "ID": 179,
+        "groupId": 20001020,
+        "op": 0,
+        "condition": 20,
+        "threshold": 23
+    },
+    {
+        "ID": 180,
+        "groupId": 40011010,
+        "op": 0,
+        "condition": 4,
+        "threshold": 1101
+    },
+    {
+        "ID": 181,
+        "groupId": 40011020,
+        "op": 0,
+        "condition": 4,
+        "threshold": 1102
+    },
+    {
+        "ID": 182,
+        "groupId": 40011030,
+        "op": 0,
+        "condition": 4,
+        "threshold": 1103
+    },
+    {
+        "ID": 183,
+        "groupId": 40011040,
+        "op": 0,
+        "condition": 4,
+        "threshold": 1104
+    },
+    {
+        "ID": 184,
+        "groupId": 40011050,
+        "op": 0,
+        "condition": 4,
+        "threshold": 1105
+    },
+    {
+        "ID": 185,
+        "groupId": 40011060,
+        "op": 0,
+        "condition": 4,
+        "threshold": 1106
+    },
+    {
+        "ID": 186,
+        "groupId": 40011070,
+        "op": 0,
+        "condition": 4,
+        "threshold": 1107
+    },
+    {
+        "ID": 187,
+        "groupId": 40011080,
+        "op": 0,
+        "condition": 4,
+        "threshold": 1108
+    },
+    {
+        "ID": 188,
+        "groupId": 40011090,
+        "op": 0,
+        "condition": 4,
+        "threshold": 1109
+    },
+    {
+        "ID": 189,
+        "groupId": 40011100,
+        "op": 0,
+        "condition": 4,
+        "threshold": 1110
+    },
+    {
+        "ID": 190,
+        "groupId": 40011110,
+        "op": 0,
+        "condition": 4,
+        "threshold": 1111
+    },
+    {
+        "ID": 191,
+        "groupId": 40012010,
+        "op": 0,
+        "condition": 4,
+        "threshold": 1201
+    },
+    {
+        "ID": 192,
+        "groupId": 40012020,
+        "op": 0,
+        "condition": 4,
+        "threshold": 1202
+    },
+    {
+        "ID": 193,
+        "groupId": 40012030,
+        "op": 0,
+        "condition": 4,
+        "threshold": 1203
+    },
+    {
+        "ID": 194,
+        "groupId": 40012040,
+        "op": 0,
+        "condition": 4,
+        "threshold": 1204
+    },
+    {
+        "ID": 195,
+        "groupId": 40012050,
+        "op": 0,
+        "condition": 4,
+        "threshold": 1205
+    },
+    {
+        "ID": 196,
+        "groupId": 40012060,
+        "op": 0,
+        "condition": 4,
+        "threshold": 1206
+    },
+    {
+        "ID": 197,
+        "groupId": 40012070,
+        "op": 0,
+        "condition": 4,
+        "threshold": 1207
+    },
+    {
+        "ID": 198,
+        "groupId": 40012080,
+        "op": 0,
+        "condition": 4,
+        "threshold": 1208
+    },
+    {
+        "ID": 199,
+        "groupId": 40013010,
+        "op": 0,
+        "condition": 4,
+        "threshold": 1301
+    },
+    {
+        "ID": 200,
+        "groupId": 40013020,
+        "op": 0,
+        "condition": 4,
+        "threshold": 1302
+    },
+    {
+        "ID": 201,
+        "groupId": 40013030,
+        "op": 0,
+        "condition": 4,
+        "threshold": 1303
+    },
+    {
+        "ID": 202,
+        "groupId": 40013040,
+        "op": 0,
+        "condition": 4,
+        "threshold": 1304
+    },
+    {
+        "ID": 203,
+        "groupId": 40014010,
+        "op": 0,
+        "condition": 4,
+        "threshold": 1401
+    },
+    {
+        "ID": 204,
+        "groupId": 40014020,
+        "op": 0,
+        "condition": 4,
+        "threshold": 1402
+    },
+    {
+        "ID": 205,
+        "groupId": 40014030,
+        "op": 0,
+        "condition": 4,
+        "threshold": 1403
+    },
+    {
+        "ID": 206,
+        "groupId": 40014040,
+        "op": 0,
+        "condition": 4,
+        "threshold": 1404
+    },
+    {
+        "ID": 207,
+        "groupId": 40014050,
+        "op": 0,
+        "condition": 4,
+        "threshold": 1405
+    },
+    {
+        "ID": 208,
+        "groupId": 40014060,
+        "op": 0,
+        "condition": 4,
+        "threshold": 1406
+    },
+    {
+        "ID": 209,
+        "groupId": 40014070,
+        "op": 0,
+        "condition": 4,
+        "threshold": 1407
+    },
+    {
+        "ID": 210,
+        "groupId": 40014080,
+        "op": 0,
+        "condition": 4,
+        "threshold": 1408
+    },
+    {
+        "ID": 211,
+        "groupId": 40014090,
+        "op": 0,
+        "condition": 4,
+        "threshold": 1409
+    },
+    {
+        "ID": 212,
+        "groupId": 40014100,
+        "op": 0,
+        "condition": 4,
+        "threshold": 1410
+    },
+    {
+        "ID": 213,
+        "groupId": 40014110,
+        "op": 0,
+        "condition": 4,
+        "threshold": 1411
+    },
+    {
+        "ID": 214,
+        "groupId": 40015010,
+        "op": 0,
+        "condition": 4,
+        "threshold": 1501
+    },
+    {
+        "ID": 215,
+        "groupId": 40015020,
+        "op": 0,
+        "condition": 4,
+        "threshold": 1502
+    },
+    {
+        "ID": 216,
+        "groupId": 40015030,
+        "op": 0,
+        "condition": 4,
+        "threshold": 1503
+    },
+    {
+        "ID": 217,
+        "groupId": 40015040,
+        "op": 0,
+        "condition": 4,
+        "threshold": 1504
+    },
+    {
+        "ID": 218,
+        "groupId": 40015050,
+        "op": 0,
+        "condition": 4,
+        "threshold": 1505
+    },
+    {
+        "ID": 219,
+        "groupId": 40015060,
+        "op": 0,
+        "condition": 4,
+        "threshold": 1506
+    },
+    {
+        "ID": 220,
+        "groupId": 40016010,
+        "op": 0,
+        "condition": 4,
+        "threshold": 1601
+    },
+    {
+        "ID": 221,
+        "groupId": 40016020,
+        "op": 0,
+        "condition": 4,
+        "threshold": 1602
+    },
+    {
+        "ID": 222,
+        "groupId": 40016030,
+        "op": 0,
+        "condition": 4,
+        "threshold": 1603
+    },
+    {
+        "ID": 223,
+        "groupId": 40017010,
+        "op": 0,
+        "condition": 4,
+        "threshold": 1701
+    },
+    {
+        "ID": 224,
+        "groupId": 40017020,
+        "op": 0,
+        "condition": 4,
+        "threshold": 1702
+    },
+    {
+        "ID": 225,
+        "groupId": 40017030,
+        "op": 0,
+        "condition": 4,
+        "threshold": 1703
+    },
+    {
+        "ID": 226,
+        "groupId": 40017040,
+        "op": 0,
+        "condition": 4,
+        "threshold": 1704
+    },
+    {
+        "ID": 227,
+        "groupId": 40017050,
+        "op": 0,
+        "condition": 4,
+        "threshold": 1705
+    },
+    {
+        "ID": 228,
+        "groupId": 40018010,
+        "op": 0,
+        "condition": 4,
+        "threshold": 1801
+    },
+    {
+        "ID": 229,
+        "groupId": 40018020,
+        "op": 0,
+        "condition": 4,
+        "threshold": 1802
+    },
+    {
+        "ID": 230,
+        "groupId": 40018030,
+        "op": 0,
+        "condition": 4,
+        "threshold": 1803
+    },
+    {
+        "ID": 231,
+        "groupId": 40018040,
+        "op": 0,
+        "condition": 4,
+        "threshold": 1804
+    },
+    {
+        "ID": 232,
+        "groupId": 40099010,
+        "op": 0,
+        "condition": 4,
+        "threshold": 9901
+    },
+    {
+        "ID": 233,
+        "groupId": 40099020,
+        "op": 0,
+        "condition": 4,
+        "threshold": 9902
+    },
+    {
+        "ID": 234,
+        "groupId": 40099030,
+        "op": 0,
+        "condition": 4,
+        "threshold": 9903
+    },
+    {
+        "ID": 235,
+        "groupId": 40099040,
+        "op": 0,
+        "condition": 4,
+        "threshold": 9904
+    },
+    {
+        "ID": 236,
+        "groupId": 40099050,
+        "op": 0,
+        "condition": 4,
+        "threshold": 9905
+    },
+    {
+        "ID": 237,
+        "groupId": 40099060,
+        "op": 0,
+        "condition": 4,
+        "threshold": 9906
+    },
+    {
+        "ID": 238,
+        "groupId": 40099070,
+        "op": 0,
+        "condition": 4,
+        "threshold": 9907
+    },
+    {
+        "ID": 239,
+        "groupId": 40099080,
+        "op": 0,
+        "condition": 4,
+        "threshold": 9908
+    },
+    {
+        "ID": 240,
+        "groupId": 40000020,
+        "op": 0,
+        "condition": 4,
+        "threshold": 2
+    },
+    {
+        "ID": 241,
+        "groupId": 40000030,
+        "op": 0,
+        "condition": 4,
+        "threshold": 3
+    },
+    {
+        "ID": 242,
+        "groupId": 40000040,
+        "op": 0,
+        "condition": 4,
+        "threshold": 4
+    },
+    {
+        "ID": 243,
+        "groupId": 40000050,
+        "op": 0,
+        "condition": 4,
+        "threshold": 5
+    },
+    {
+        "ID": 244,
+        "groupId": 40000060,
+        "op": 0,
+        "condition": 4,
+        "threshold": 6
+    },
+    {
+        "ID": 245,
+        "groupId": 40000070,
+        "op": 0,
+        "condition": 4,
+        "threshold": 7
+    },
+    {
+        "ID": 246,
+        "groupId": 41000100,
+        "op": 1,
+        "condition": 4,
+        "threshold": 3
+    },
+    {
+        "ID": 247,
+        "groupId": 41000100,
+        "op": 1,
+        "condition": 4,
+        "threshold": 6
+    },
+    {
+        "ID": 248,
+        "groupId": 41000100,
+        "op": 1,
+        "condition": 4,
+        "threshold": 1101
+    },
+    {
+        "ID": 249,
+        "groupId": 41000100,
+        "op": 1,
+        "condition": 4,
+        "threshold": 1102
+    },
+    {
+        "ID": 250,
+        "groupId": 41000100,
+        "op": 1,
+        "condition": 4,
+        "threshold": 1103
+    },
+    {
+        "ID": 251,
+        "groupId": 41000100,
+        "op": 1,
+        "condition": 4,
+        "threshold": 1104
+    },
+    {
+        "ID": 252,
+        "groupId": 41000100,
+        "op": 1,
+        "condition": 4,
+        "threshold": 1105
+    },
+    {
+        "ID": 253,
+        "groupId": 41000100,
+        "op": 1,
+        "condition": 4,
+        "threshold": 1106
+    },
+    {
+        "ID": 254,
+        "groupId": 41000100,
+        "op": 1,
+        "condition": 4,
+        "threshold": 1107
+    },
+    {
+        "ID": 255,
+        "groupId": 41000100,
+        "op": 1,
+        "condition": 4,
+        "threshold": 1108
+    },
+    {
+        "ID": 256,
+        "groupId": 41000100,
+        "op": 1,
+        "condition": 4,
+        "threshold": 1109
+    },
+    {
+        "ID": 257,
+        "groupId": 41000100,
+        "op": 1,
+        "condition": 4,
+        "threshold": 1110
+    },
+    {
+        "ID": 258,
+        "groupId": 41000100,
+        "op": 1,
+        "condition": 4,
+        "threshold": 1111
+    },
+    {
+        "ID": 259,
+        "groupId": 41000100,
+        "op": 1,
+        "condition": 4,
+        "threshold": 1112
+    },
+    {
+        "ID": 260,
+        "groupId": 41000100,
+        "op": 1,
+        "condition": 4,
+        "threshold": 1113
+    },
+    {
+        "ID": 261,
+        "groupId": 41000100,
+        "op": 1,
+        "condition": 4,
+        "threshold": 1114
+    },
+    {
+        "ID": 262,
+        "groupId": 41000100,
+        "op": 1,
+        "condition": 4,
+        "threshold": 1115
+    },
+    {
+        "ID": 263,
+        "groupId": 41000100,
+        "op": 1,
+        "condition": 4,
+        "threshold": 1116
+    },
+    {
+        "ID": 264,
+        "groupId": 41000100,
+        "op": 1,
+        "condition": 4,
+        "threshold": 1117
+    },
+    {
+        "ID": 265,
+        "groupId": 41000100,
+        "op": 1,
+        "condition": 4,
+        "threshold": 1118
+    },
+    {
+        "ID": 266,
+        "groupId": 41000100,
+        "op": 1,
+        "condition": 4,
+        "threshold": 1119
+    },
+    {
+        "ID": 267,
+        "groupId": 41000100,
+        "op": 0,
+        "condition": 4,
+        "threshold": 1122
+    },
+    {
+        "ID": 268,
+        "groupId": 8000,
+        "op": 1,
+        "condition": 47,
+        "threshold": 0
+    },
+    {
+        "ID": 269,
+        "groupId": 8000,
+        "op": 1,
+        "condition": 47,
+        "threshold": 2
+    },
+    {
+        "ID": 270,
+        "groupId": 8000,
+        "op": 1,
+        "condition": 47,
+        "threshold": 3
+    },
+    {
+        "ID": 271,
+        "groupId": 8001,
+        "op": 0,
+        "condition": 47,
+        "threshold": 1
+    },
+    {
+        "ID": 272,
+        "groupId": 19002007,
+        "op": 1,
+        "condition": 19,
+        "threshold": 1
+    },
+    {
+        "ID": 273,
+        "groupId": 19002007,
+        "op": 1,
+        "condition": 19,
+        "threshold": 2
+    },
+    {
+        "ID": 274,
+        "groupId": 19002007,
+        "op": 1,
+        "condition": 19,
+        "threshold": 4
+    },
+    {
+        "ID": 275,
+        "groupId": 19002007,
+        "op": 1,
+        "condition": 19,
+        "threshold": 5
+    },
+    {
+        "ID": 276,
+        "groupId": 19002007,
+        "op": 1,
+        "condition": 19,
+        "threshold": 6
+    },
+    {
+        "ID": 277,
+        "groupId": 19002007,
+        "op": 1,
+        "condition": 19,
+        "threshold": 7
+    },
+    {
+        "ID": 278,
+        "groupId": 19002007,
+        "op": 1,
+        "condition": 19,
+        "threshold": 99
+    },
+    {
+        "ID": 279,
+        "groupId": 9001,
+        "op": 1,
+        "condition": 17,
+        "threshold": 1
+    },
+    {
+        "ID": 280,
+        "groupId": 9001,
+        "op": 1,
+        "condition": 17,
+        "threshold": 2
+    },
+    {
+        "ID": 281,
+        "groupId": 9001,
+        "op": 1,
+        "condition": 17,
+        "threshold": 3
+    },
+    {
+        "ID": 282,
+        "groupId": 9001,
+        "op": 1,
+        "condition": 17,
+        "threshold": 4
+    },
+    {
+        "ID": 283,
+        "groupId": 9001,
+        "op": 0,
+        "condition": 17,
+        "threshold": 5
+    },
+    {
+        "ID": 284,
+        "groupId": 9002,
+        "op": 0,
+        "condition": 17,
+        "threshold": 2
+    },
+    {
+        "ID": 285,
+        "groupId": 9003,
+        "op": 0,
+        "condition": 17,
+        "threshold": 3
+    },
+    {
+        "ID": 286,
+        "groupId": 9004,
+        "op": 0,
+        "condition": 17,
+        "threshold": 4
+    },
+    {
+        "ID": 287,
+        "groupId": 9005,
+        "op": 0,
+        "condition": 17,
+        "threshold": 5
+    },
+    {
+        "ID": 288,
+        "groupId": 9006,
+        "op": 1,
+        "condition": 17,
+        "threshold": 2
+    },
+    {
+        "ID": 289,
+        "groupId": 9006,
+        "op": 1,
+        "condition": 17,
+        "threshold": 6
+    },
+    {
+        "ID": 290,
+        "groupId": 9006,
+        "op": 1,
+        "condition": 17,
+        "threshold": 7
+    },
+    {
+        "ID": 291,
+        "groupId": 9006,
+        "op": 0,
+        "condition": 17,
+        "threshold": 8
+    },
+    {
+        "ID": 292,
+        "groupId": 9007,
+        "op": 0,
+        "condition": 17,
+        "threshold": 7
+    },
+    {
+        "ID": 293,
+        "groupId": 9008,
+        "op": 0,
+        "condition": 17,
+        "threshold": 8
+    },
+    {
+        "ID": 294,
+        "groupId": 9009,
+        "op": 1,
+        "condition": 17,
+        "threshold": 3
+    },
+    {
+        "ID": 295,
+        "groupId": 9009,
+        "op": 1,
+        "condition": 17,
+        "threshold": 9
+    },
+    {
+        "ID": 296,
+        "groupId": 9009,
+        "op": 1,
+        "condition": 17,
+        "threshold": 10
+    },
+    {
+        "ID": 297,
+        "groupId": 9009,
+        "op": 1,
+        "condition": 17,
+        "threshold": 11
+    },
+    {
+        "ID": 298,
+        "groupId": 9009,
+        "op": 0,
+        "condition": 17,
+        "threshold": 16
+    },
+    {
+        "ID": 299,
+        "groupId": 9010,
+        "op": 0,
+        "condition": 17,
+        "threshold": 10
+    },
+    {
+        "ID": 300,
+        "groupId": 9011,
+        "op": 0,
+        "condition": 17,
+        "threshold": 11
+    },
+    {
+        "ID": 301,
+        "groupId": 9012,
+        "op": 1,
+        "condition": 17,
+        "threshold": 4
+    },
+    {
+        "ID": 302,
+        "groupId": 9012,
+        "op": 1,
+        "condition": 17,
+        "threshold": 7
+    },
+    {
+        "ID": 303,
+        "groupId": 9012,
+        "op": 1,
+        "condition": 17,
+        "threshold": 10
+    },
+    {
+        "ID": 304,
+        "groupId": 9012,
+        "op": 1,
+        "condition": 17,
+        "threshold": 11
+    },
+    {
+        "ID": 305,
+        "groupId": 9012,
+        "op": 0,
+        "condition": 17,
+        "threshold": 12
+    },
+    {
+        "ID": 306,
+        "groupId": 9013,
+        "op": 1,
+        "condition": 17,
+        "threshold": 5
+    },
+    {
+        "ID": 307,
+        "groupId": 9013,
+        "op": 1,
+        "condition": 17,
+        "threshold": 8
+    },
+    {
+        "ID": 308,
+        "groupId": 9013,
+        "op": 1,
+        "condition": 17,
+        "threshold": 11
+    },
+    {
+        "ID": 309,
+        "groupId": 9013,
+        "op": 1,
+        "condition": 17,
+        "threshold": 13
+    },
+    {
+        "ID": 310,
+        "groupId": 9013,
+        "op": 0,
+        "condition": 17,
+        "threshold": 14
+    },
+    {
+        "ID": 311,
+        "groupId": 9014,
+        "op": 0,
+        "condition": 17,
+        "threshold": 14
+    },
+    {
+        "ID": 312,
+        "groupId": 9015,
+        "op": 1,
+        "condition": 17,
+        "threshold": 15
+    },
+    {
+        "ID": 313,
+        "groupId": 9015,
+        "op": 0,
+        "condition": 17,
+        "threshold": 16
+    },
+    {
+        "ID": 314,
+        "groupId": 9016,
+        "op": 0,
+        "condition": 17,
+        "threshold": 16
+    },
+    {
+        "ID": 315,
+        "groupId": 9017,
+        "op": 1,
+        "condition": 17,
+        "threshold": 6
+    },
+    {
+        "ID": 316,
+        "groupId": 9017,
+        "op": 1,
+        "condition": 17,
+        "threshold": 7
+    },
+    {
+        "ID": 317,
+        "groupId": 9017,
+        "op": 1,
+        "condition": 17,
+        "threshold": 8
+    },
+    {
+        "ID": 318,
+        "groupId": 9017,
+        "op": 1,
+        "condition": 17,
+        "threshold": 9
+    },
+    {
+        "ID": 319,
+        "groupId": 9017,
+        "op": 1,
+        "condition": 17,
+        "threshold": 10
+    },
+    {
+        "ID": 320,
+        "groupId": 9017,
+        "op": 1,
+        "condition": 17,
+        "threshold": 11
+    },
+    {
+        "ID": 321,
+        "groupId": 9017,
+        "op": 1,
+        "condition": 17,
+        "threshold": 12
+    },
+    {
+        "ID": 322,
+        "groupId": 9017,
+        "op": 1,
+        "condition": 17,
+        "threshold": 13
+    },
+    {
+        "ID": 323,
+        "groupId": 9017,
+        "op": 1,
+        "condition": 17,
+        "threshold": 14
+    },
+    {
+        "ID": 324,
+        "groupId": 9017,
+        "op": 1,
+        "condition": 17,
+        "threshold": 15
+    },
+    {
+        "ID": 325,
+        "groupId": 9017,
+        "op": 0,
+        "condition": 17,
+        "threshold": 16
+    },
+    {
+        "ID": 326,
+        "groupId": 10001,
+        "op": 0,
+        "condition": 30,
+        "threshold": 1
+    },
+    {
+        "ID": 327,
+        "groupId": 10002,
+        "op": 0,
+        "condition": 30,
+        "threshold": 2
+    },
+    {
+        "ID": 328,
+        "groupId": 10003,
+        "op": 0,
+        "condition": 30,
+        "threshold": 3
+    },
+    {
+        "ID": 329,
+        "groupId": 11001,
+        "op": 0,
+        "condition": 29,
+        "threshold": 1
+    },
+    {
+        "ID": 330,
+        "groupId": 11002,
+        "op": 0,
+        "condition": 29,
+        "threshold": 2
+    },
+    {
+        "ID": 331,
+        "groupId": 11003,
+        "op": 0,
+        "condition": 29,
+        "threshold": 3
+    },
+    {
+        "ID": 332,
+        "groupId": 36001003,
+        "op": 0,
+        "condition": 36,
+        "threshold": 3
+    },
+    {
+        "ID": 333,
+        "groupId": 36001004,
+        "op": 0,
+        "condition": 36,
+        "threshold": 4
+    },
+    {
+        "ID": 334,
+        "groupId": 3633002,
+        "op": 0,
+        "condition": 6,
+        "threshold": 0
+    },
+    {
+        "ID": 335,
+        "groupId": 3633003,
+        "op": 0,
+        "condition": 9,
+        "threshold": 0
+    },
+    {
+        "ID": 336,
+        "groupId": 3633004,
+        "op": 0,
+        "condition": 10,
+        "threshold": 0
+    },
+    {
+        "ID": 337,
+        "groupId": 3001001,
+        "op": 0,
+        "condition": 3,
+        "threshold": 1
+    },
+    {
+        "ID": 338,
+        "groupId": 40016040,
+        "op": 0,
+        "condition": 4,
+        "threshold": 1604
+    },
+    {
+        "ID": 339,
+        "groupId": 27002000,
+        "op": 0,
+        "condition": 50,
+        "threshold": 0
+    },
+    {
+        "ID": 340,
+        "groupId": 30002001,
+        "op": 1,
+        "condition": 28,
+        "threshold": 1
+    },
+    {
+        "ID": 341,
+        "groupId": 30002001,
+        "op": 0,
+        "condition": 28,
+        "threshold": 2
+    },
+    {
+        "ID": 342,
+        "groupId": 40019010,
+        "op": 1,
+        "condition": 4,
+        "threshold": 1501
+    },
+    {
+        "ID": 343,
+        "groupId": 40019010,
+        "op": 1,
+        "condition": 4,
+        "threshold": 1502
+    },
+    {
+        "ID": 344,
+        "groupId": 40019010,
+        "op": 0,
+        "condition": 4,
+        "threshold": 1503
+    },
+    {
+        "ID": 345,
+        "groupId": 50001000,
+        "op": 0,
+        "condition": 48,
+        "threshold": 7
+    },
+    {
+        "ID": 346,
+        "groupId": 50002000,
+        "op": 0,
+        "condition": 48,
+        "threshold": 5
+    },
+    {
+        "ID": 347,
+        "groupId": 50003000,
+        "op": 0,
+        "condition": 48,
+        "threshold": 8
+    },
+    {
+        "ID": 348,
+        "groupId": 50001001,
+        "op": 0,
+        "condition": 48,
+        "threshold": 7
+    },
+    {
+        "ID": 349,
+        "groupId": 50001001,
+        "op": 0,
+        "condition": 4,
+        "threshold": 1105
+    },
+    {
+        "ID": 350,
+        "groupId": 50002001,
+        "op": 0,
+        "condition": 48,
+        "threshold": 5
+    },
+    {
+        "ID": 351,
+        "groupId": 50002001,
+        "op": 0,
+        "condition": 4,
+        "threshold": 1103
+    },
+    {
+        "ID": 352,
+        "groupId": 50003001,
+        "op": 0,
+        "condition": 48,
+        "threshold": 8
+    },
+    {
+        "ID": 353,
+        "groupId": 50003001,
+        "op": 0,
+        "condition": 4,
+        "threshold": 1104
+    },
+    {
+        "ID": 354,
+        "groupId": 43001000,
+        "op": 0,
+        "condition": 43,
+        "threshold": 0
+    },
+    {
+        "ID": 355,
+        "groupId": 36001001,
+        "op": 0,
+        "condition": 36,
+        "threshold": 1
+    },
+    {
+        "ID": 356,
+        "groupId": 50004001,
+        "op": 0,
+        "condition": 4,
+        "threshold": 1105
+    },
+    {
+        "ID": 357,
+        "groupId": 50004001,
+        "op": 0,
+        "condition": 48,
+        "threshold": 17
+    },
+    {
+        "ID": 358,
+        "groupId": 50004002,
+        "op": 0,
+        "condition": 4,
+        "threshold": 1109
+    },
+    {
+        "ID": 359,
+        "groupId": 50004002,
+        "op": 0,
+        "condition": 48,
+        "threshold": 16
+    },
+    {
+        "ID": 360,
+        "groupId": 99999014,
+        "op": 0,
+        "condition": 52,
+        "threshold": 1
+    },
+    {
+        "ID": 361,
+        "groupId": 99999015,
+        "op": 0,
+        "condition": 53,
+        "threshold": 1
+    },
+    {
+        "ID": 362,
+        "groupId": 99999016,
+        "op": 0,
+        "condition": 54,
+        "threshold": 1
+    },
+    {
+        "ID": 363,
+        "groupId": 99999017,
+        "op": 0,
+        "condition": 55,
+        "threshold": 0
+    },
+    {
+        "ID": 364,
+        "groupId": 99999018,
+        "op": 0,
+        "condition": 52,
+        "threshold": 2
+    },
+    {
+        "ID": 365,
+        "groupId": 99999019,
+        "op": 0,
+        "condition": 51,
+        "threshold": 101010001
+    },
+    {
+        "ID": 366,
+        "groupId": 99999020,
+        "op": 1,
+        "condition": 51,
+        "threshold": 101010002
+    },
+    {
+        "ID": 367,
+        "groupId": 99999020,
+        "op": 1,
+        "condition": 51,
+        "threshold": 101011002
+    },
+    {
+        "ID": 368,
+        "groupId": 99999020,
+        "op": 0,
+        "condition": 51,
+        "threshold": 101012002
+    },
+    {
+        "ID": 369,
+        "groupId": 99999021,
+        "op": 0,
+        "condition": 53,
+        "threshold": 2
+    },
+    {
+        "ID": 370,
+        "groupId": 99999022,
+        "op": 0,
+        "condition": 54,
+        "threshold": 2
+    },
+    {
+        "ID": 371,
+        "groupId": 99999023,
+        "op": 0,
+        "condition": 58,
+        "threshold": 1
+    },
+    {
+        "ID": 372,
+        "groupId": 99999024,
+        "op": 0,
+        "condition": 58,
+        "threshold": 2
+    },
+    {
+        "ID": 373,
+        "groupId": 99999025,
+        "op": 0,
+        "condition": 58,
+        "threshold": 3
+    },
+    {
+        "ID": 374,
+        "groupId": 99999026,
+        "op": 0,
+        "condition": 58,
+        "threshold": 4
+    },
+    {
+        "ID": 375,
+        "groupId": 99999027,
+        "op": 0,
+        "condition": 58,
+        "threshold": 5
+    },
+    {
+        "ID": 376,
+        "groupId": 50005001,
+        "op": 0,
+        "condition": 51,
+        "threshold": 101002001
+    },
+    {
+        "ID": 377,
+        "groupId": 50005002,
+        "op": 0,
+        "condition": 51,
+        "threshold": 101021001
+    },
+    {
+        "ID": 378,
+        "groupId": 50005003,
+        "op": 0,
+        "condition": 51,
+        "threshold": 101051006
+    },
+    {
+        "ID": 379,
+        "groupId": 50005004,
+        "op": 1,
+        "condition": 51,
+        "threshold": 101071001
+    },
+    {
+        "ID": 380,
+        "groupId": 50005004,
+        "op": 0,
+        "condition": 51,
+        "threshold": 101071002
+    },
+    {
+        "ID": 381,
+        "groupId": 50005005,
+        "op": 0,
+        "condition": 51,
+        "threshold": 101073001
+    },
+    {
+        "ID": 382,
+        "groupId": 50005006,
+        "op": 0,
+        "condition": 51,
+        "threshold": 101072001
+    },
+    {
+        "ID": 383,
+        "groupId": 50005007,
+        "op": 0,
+        "condition": 51,
+        "threshold": 101075001
+    },
+    {
+        "ID": 384,
+        "groupId": 50005008,
+        "op": 0,
+        "condition": 51,
+        "threshold": 101076001
+    },
+    {
+        "ID": 385,
+        "groupId": 50005009,
+        "op": 0,
+        "condition": 51,
+        "threshold": 101074001
+    },
+    {
+        "ID": 386,
+        "groupId": 50005010,
+        "op": 1,
+        "condition": 51,
+        "threshold": 101032001
+    },
+    {
+        "ID": 387,
+        "groupId": 50005010,
+        "op": 0,
+        "condition": 51,
+        "threshold": 101032002
+    },
+    {
+        "ID": 388,
+        "groupId": 50005011,
+        "op": 1,
+        "condition": 51,
+        "threshold": 101038001
+    },
+    {
+        "ID": 389,
+        "groupId": 50005011,
+        "op": 1,
+        "condition": 51,
+        "threshold": 101038002
+    },
+    {
+        "ID": 390,
+        "groupId": 50005011,
+        "op": 0,
+        "condition": 51,
+        "threshold": 101038004
+    },
+    {
+        "ID": 391,
+        "groupId": 50005012,
+        "op": 1,
+        "condition": 51,
+        "threshold": 101012001
+    },
+    {
+        "ID": 392,
+        "groupId": 50005012,
+        "op": 1,
+        "condition": 51,
+        "threshold": 101012002
+    },
+    {
+        "ID": 393,
+        "groupId": 50005012,
+        "op": 1,
+        "condition": 51,
+        "threshold": 101012006
+    },
+    {
+        "ID": 394,
+        "groupId": 50005012,
+        "op": 0,
+        "condition": 51,
+        "threshold": 101012010
+    },
+    {
+        "ID": 395,
+        "groupId": 50005013,
+        "op": 1,
+        "condition": 51,
+        "threshold": 101011001
+    },
+    {
+        "ID": 396,
+        "groupId": 50005013,
+        "op": 1,
+        "condition": 51,
+        "threshold": 101011002
+    },
+    {
+        "ID": 397,
+        "groupId": 50005013,
+        "op": 0,
+        "condition": 51,
+        "threshold": 101011005
+    },
+    {
+        "ID": 398,
+        "groupId": 50005014,
+        "op": 1,
+        "condition": 51,
+        "threshold": 101001001
+    },
+    {
+        "ID": 399,
+        "groupId": 50005014,
+        "op": 1,
+        "condition": 51,
+        "threshold": 101001002
+    },
+    {
+        "ID": 400,
+        "groupId": 50005014,
+        "op": 1,
+        "condition": 51,
+        "threshold": 101001004
+    },
+    {
+        "ID": 401,
+        "groupId": 50005014,
+        "op": 0,
+        "condition": 51,
+        "threshold": 101001006
+    },
+    {
+        "ID": 402,
+        "groupId": 50005015,
+        "op": 1,
+        "condition": 51,
+        "threshold": 101020001
+    },
+    {
+        "ID": 403,
+        "groupId": 50005015,
+        "op": 1,
+        "condition": 51,
+        "threshold": 101020002
+    },
+    {
+        "ID": 404,
+        "groupId": 50005015,
+        "op": 0,
+        "condition": 51,
+        "threshold": 101020005
+    },
+    {
+        "ID": 405,
+        "groupId": 50001002,
+        "op": 0,
+        "condition": 48,
+        "threshold": 32
+    },
+    {
+        "ID": 406,
+        "groupId": 50001003,
+        "op": 0,
+        "condition": 49,
+        "threshold": 16
+    },
+    {
+        "ID": 407,
+        "groupId": 50001004,
+        "op": 0,
+        "condition": 49,
+        "threshold": 26
+    },
+    {
+        "ID": 408,
+        "groupId": 8002,
+        "op": 1,
+        "condition": 47,
+        "threshold": 0
+    },
+    {
+        "ID": 409,
+        "groupId": 8002,
+        "op": 1,
+        "condition": 47,
+        "threshold": 1
+    },
+    {
+        "ID": 410,
+        "groupId": 8002,
+        "op": 1,
+        "condition": 47,
+        "threshold": 2
+    },
+    {
+        "ID": 411,
+        "groupId": 8002,
+        "op": 1,
+        "condition": 47,
+        "threshold": 3
+    },
+    {
+        "ID": 412,
+        "groupId": 8002,
+        "op": 1,
+        "condition": 47,
+        "threshold": 4
+    },
+    {
+        "ID": 413,
+        "groupId": 8002,
+        "op": 1,
+        "condition": 47,
+        "threshold": 5
+    },
+    {
+        "ID": 414,
+        "groupId": 8002,
+        "op": 1,
+        "condition": 47,
+        "threshold": 6
+    },
+    {
+        "ID": 415,
+        "groupId": 8002,
+        "op": 1,
+        "condition": 47,
+        "threshold": 7
+    },
+    {
+        "ID": 416,
+        "groupId": 8002,
+        "op": 1,
+        "condition": 47,
+        "threshold": 8
+    },
+    {
+        "ID": 417,
+        "groupId": 8002,
+        "op": 1,
+        "condition": 47,
+        "threshold": 9
+    },
+    {
+        "ID": 418,
+        "groupId": 8002,
+        "op": 1,
+        "condition": 47,
+        "threshold": 10
+    },
+    {
+        "ID": 419,
+        "groupId": 8002,
+        "op": 1,
+        "condition": 47,
+        "threshold": 11
+    },
+    {
+        "ID": 420,
+        "groupId": 8002,
+        "op": 0,
+        "condition": 47,
+        "threshold": 1000
+    },
+    {
+        "ID": 421,
+        "groupId": 3010001,
+        "op": 0,
+        "condition": 45,
+        "threshold": 1
+    },
+    {
+        "ID": 422,
+        "groupId": 3010002,
+        "op": 0,
+        "condition": 45,
+        "threshold": 2
+    },
+    {
+        "ID": 423,
+        "groupId": 3010003,
+        "op": 0,
+        "condition": 45,
+        "threshold": 3
+    },
+    {
+        "ID": 424,
+        "groupId": 3010004,
+        "op": 0,
+        "condition": 45,
+        "threshold": 4
+    },
+    {
+        "ID": 425,
+        "groupId": 3010005,
+        "op": 0,
+        "condition": 45,
+        "threshold": 5
+    },
+    {
+        "ID": 426,
+        "groupId": 3010006,
+        "op": 0,
+        "condition": 45,
+        "threshold": 6
+    },
+    {
+        "ID": 427,
+        "groupId": 3010007,
+        "op": 0,
+        "condition": 45,
+        "threshold": 7
+    },
+    {
+        "ID": 428,
+        "groupId": 3010008,
+        "op": 0,
+        "condition": 45,
+        "threshold": 8
+    },
+    {
+        "ID": 429,
+        "groupId": 3010009,
+        "op": 0,
+        "condition": 45,
+        "threshold": 9
+    },
+    {
+        "ID": 430,
+        "groupId": 3010010,
+        "op": 0,
+        "condition": 45,
+        "threshold": 10
+    },
+    {
+        "ID": 431,
+        "groupId": 3010011,
+        "op": 0,
+        "condition": 45,
+        "threshold": 11
+    },
+    {
+        "ID": 432,
+        "groupId": 3010012,
+        "op": 0,
+        "condition": 45,
+        "threshold": 12
+    },
+    {
+        "ID": 433,
+        "groupId": 3010013,
+        "op": 0,
+        "condition": 45,
+        "threshold": 13
+    },
+    {
+        "ID": 434,
+        "groupId": 3010014,
+        "op": 0,
+        "condition": 45,
+        "threshold": 14
+    },
+    {
+        "ID": 435,
+        "groupId": 3010015,
+        "op": 0,
+        "condition": 45,
+        "threshold": 15
+    },
+    {
+        "ID": 436,
+        "groupId": 3010016,
+        "op": 0,
+        "condition": 45,
+        "threshold": 16
+    },
+    {
+        "ID": 437,
+        "groupId": 3010017,
+        "op": 0,
+        "condition": 45,
+        "threshold": 17
+    },
+    {
+        "ID": 438,
+        "groupId": 3010018,
+        "op": 0,
+        "condition": 45,
+        "threshold": 18
+    },
+    {
+        "ID": 439,
+        "groupId": 3010019,
+        "op": 0,
+        "condition": 45,
+        "threshold": 19
+    },
+    {
+        "ID": 440,
+        "groupId": 3010020,
+        "op": 0,
+        "condition": 45,
+        "threshold": 20
+    },
+    {
+        "ID": 441,
+        "groupId": 3010021,
+        "op": 0,
+        "condition": 45,
+        "threshold": 21
+    },
+    {
+        "ID": 442,
+        "groupId": 3010022,
+        "op": 0,
+        "condition": 45,
+        "threshold": 22
+    },
+    {
+        "ID": 443,
+        "groupId": 3010023,
+        "op": 0,
+        "condition": 45,
+        "threshold": 23
+    },
+    {
+        "ID": 444,
+        "groupId": 3010024,
+        "op": 0,
+        "condition": 45,
+        "threshold": 24
+    },
+    {
+        "ID": 445,
+        "groupId": 3010025,
+        "op": 0,
+        "condition": 45,
+        "threshold": 25
+    },
+    {
+        "ID": 446,
+        "groupId": 3010026,
+        "op": 0,
+        "condition": 45,
+        "threshold": 26
+    },
+    {
+        "ID": 447,
+        "groupId": 3010027,
+        "op": 0,
+        "condition": 45,
+        "threshold": 27
+    },
+    {
+        "ID": 448,
+        "groupId": 3010028,
+        "op": 0,
+        "condition": 45,
+        "threshold": 28
+    },
+    {
+        "ID": 449,
+        "groupId": 3010029,
+        "op": 0,
+        "condition": 45,
+        "threshold": 29
+    },
+    {
+        "ID": 450,
+        "groupId": 3010030,
+        "op": 0,
+        "condition": 45,
+        "threshold": 30
+    },
+    {
+        "ID": 451,
+        "groupId": 8003,
+        "op": 1,
+        "condition": 47,
+        "threshold": 0
+    },
+    {
+        "ID": 452,
+        "groupId": 8003,
+        "op": 1,
+        "condition": 47,
+        "threshold": 1
+    },
+    {
+        "ID": 453,
+        "groupId": 8003,
+        "op": 1,
+        "condition": 47,
+        "threshold": 2
+    },
+    {
+        "ID": 454,
+        "groupId": 8003,
+        "op": 1,
+        "condition": 47,
+        "threshold": 3
+    },
+    {
+        "ID": 455,
+        "groupId": 8003,
+        "op": 1,
+        "condition": 47,
+        "threshold": 4
+    },
+    {
+        "ID": 456,
+        "groupId": 8003,
+        "op": 1,
+        "condition": 47,
+        "threshold": 5
+    },
+    {
+        "ID": 457,
+        "groupId": 8003,
+        "op": 1,
+        "condition": 47,
+        "threshold": 6
+    },
+    {
+        "ID": 458,
+        "groupId": 8003,
+        "op": 1,
+        "condition": 47,
+        "threshold": 7
+    },
+    {
+        "ID": 459,
+        "groupId": 8003,
+        "op": 1,
+        "condition": 47,
+        "threshold": 8
+    },
+    {
+        "ID": 460,
+        "groupId": 8003,
+        "op": 1,
+        "condition": 47,
+        "threshold": 9
+    },
+    {
+        "ID": 461,
+        "groupId": 8003,
+        "op": 1,
+        "condition": 47,
+        "threshold": 10
+    },
+    {
+        "ID": 462,
+        "groupId": 8003,
+        "op": 1,
+        "condition": 47,
+        "threshold": 11
+    },
+    {
+        "ID": 463,
+        "groupId": 8003,
+        "op": 0,
+        "condition": 47,
+        "threshold": 999
+    },
+    {
+        "ID": 464,
+        "groupId": 30002002,
+        "op": 1,
+        "condition": 28,
+        "threshold": 3
+    },
+    {
+        "ID": 465,
+        "groupId": 30002002,
+        "op": 0,
+        "condition": 28,
+        "threshold": 4
+    },
+    {
+        "ID": 466,
+        "groupId": 20001021,
+        "op": 0,
+        "condition": 20,
+        "threshold": 24
+    },
+    {
+        "ID": 467,
+        "groupId": 50005016,
+        "op": 0,
+        "condition": 51,
+        "threshold": 101070002
+    },
+    {
+        "ID": 468,
+        "groupId": 40016050,
+        "op": 0,
+        "condition": 4,
+        "threshold": 1605
+    },
+    {
+        "ID": 469,
+        "groupId": 50005017,
+        "op": 0,
+        "condition": 51,
+        "threshold": 101052003
+    },
+    {
+        "ID": 470,
+        "groupId": 50005018,
+        "op": 1,
+        "condition": 51,
+        "threshold": 101013001
+    },
+    {
+        "ID": 471,
+        "groupId": 50005018,
+        "op": 0,
+        "condition": 51,
+        "threshold": 101013004
+    },
+    {
+        "ID": 472,
+        "groupId": 38001001,
+        "op": 0,
+        "condition": 24,
+        "threshold": 7
+    },
+    {
+        "ID": 473,
+        "groupId": 50001005,
+        "op": 0,
+        "condition": 49,
+        "threshold": 27
+    },
+    {
+        "ID": 474,
+        "groupId": 40013050,
+        "op": 0,
+        "condition": 4,
+        "threshold": 1306
+    },
+    {
+        "ID": 475,
+        "groupId": 50005019,
+        "op": 0,
+        "condition": 51,
+        "threshold": 101041008
+    },
+    {
+        "ID": 476,
+        "groupId": 32001002,
+        "op": 0,
+        "condition": 5,
+        "threshold": 0
+    },
+    {
+        "ID": 477,
+        "groupId": 9101,
+        "op": 1,
+        "condition": 51,
+        "threshold": 101001001
+    },
+    {
+        "ID": 478,
+        "groupId": 9101,
+        "op": 1,
+        "condition": 51,
+        "threshold": 101001002
+    },
+    {
+        "ID": 479,
+        "groupId": 9101,
+        "op": 1,
+        "condition": 51,
+        "threshold": 101001003
+    },
+    {
+        "ID": 480,
+        "groupId": 9101,
+        "op": 1,
+        "condition": 51,
+        "threshold": 101001901
+    },
+    {
+        "ID": 481,
+        "groupId": 9101,
+        "op": 1,
+        "condition": 51,
+        "threshold": 101002001
+    },
+    {
+        "ID": 482,
+        "groupId": 9101,
+        "op": 1,
+        "condition": 51,
+        "threshold": 101010002
+    },
+    {
+        "ID": 483,
+        "groupId": 9101,
+        "op": 1,
+        "condition": 51,
+        "threshold": 101011002
+    },
+    {
+        "ID": 484,
+        "groupId": 9101,
+        "op": 1,
+        "condition": 51,
+        "threshold": 101012002
+    },
+    {
+        "ID": 485,
+        "groupId": 9101,
+        "op": 1,
+        "condition": 51,
+        "threshold": 101016001
+    },
+    {
+        "ID": 486,
+        "groupId": 9101,
+        "op": 1,
+        "condition": 51,
+        "threshold": 101016002
+    },
+    {
+        "ID": 487,
+        "groupId": 9101,
+        "op": 1,
+        "condition": 51,
+        "threshold": 101016901
+    },
+    {
+        "ID": 488,
+        "groupId": 9101,
+        "op": 1,
+        "condition": 51,
+        "threshold": 101017001
+    },
+    {
+        "ID": 489,
+        "groupId": 9101,
+        "op": 1,
+        "condition": 51,
+        "threshold": 101017002
+    },
+    {
+        "ID": 490,
+        "groupId": 9101,
+        "op": 1,
+        "condition": 51,
+        "threshold": 101017901
+    },
+    {
+        "ID": 491,
+        "groupId": 9101,
+        "op": 1,
+        "condition": 51,
+        "threshold": 101018001
+    },
+    {
+        "ID": 492,
+        "groupId": 9101,
+        "op": 1,
+        "condition": 51,
+        "threshold": 101018002
+    },
+    {
+        "ID": 493,
+        "groupId": 9101,
+        "op": 1,
+        "condition": 51,
+        "threshold": 101018003
+    },
+    {
+        "ID": 494,
+        "groupId": 9101,
+        "op": 1,
+        "condition": 51,
+        "threshold": 101019001
+    },
+    {
+        "ID": 495,
+        "groupId": 9101,
+        "op": 1,
+        "condition": 51,
+        "threshold": 101019002
+    },
+    {
+        "ID": 496,
+        "groupId": 9101,
+        "op": 1,
+        "condition": 51,
+        "threshold": 101019003
+    },
+    {
+        "ID": 497,
+        "groupId": 9101,
+        "op": 1,
+        "condition": 51,
+        "threshold": 101020001
+    },
+    {
+        "ID": 498,
+        "groupId": 9101,
+        "op": 1,
+        "condition": 51,
+        "threshold": 101020002
+    },
+    {
+        "ID": 499,
+        "groupId": 9101,
+        "op": 1,
+        "condition": 51,
+        "threshold": 101020003
+    },
+    {
+        "ID": 500,
+        "groupId": 9101,
+        "op": 1,
+        "condition": 51,
+        "threshold": 101021001
+    },
+    {
+        "ID": 501,
+        "groupId": 9101,
+        "op": 1,
+        "condition": 51,
+        "threshold": 101021002
+    },
+    {
+        "ID": 502,
+        "groupId": 9101,
+        "op": 1,
+        "condition": 51,
+        "threshold": 101021005
+    },
+    {
+        "ID": 503,
+        "groupId": 9101,
+        "op": 1,
+        "condition": 51,
+        "threshold": 101023001
+    },
+    {
+        "ID": 504,
+        "groupId": 9101,
+        "op": 1,
+        "condition": 51,
+        "threshold": 101023002
+    },
+    {
+        "ID": 505,
+        "groupId": 9101,
+        "op": 1,
+        "condition": 51,
+        "threshold": 101025001
+    },
+    {
+        "ID": 506,
+        "groupId": 9101,
+        "op": 1,
+        "condition": 51,
+        "threshold": 101025002
+    },
+    {
+        "ID": 507,
+        "groupId": 9101,
+        "op": 1,
+        "condition": 51,
+        "threshold": 101027001
+    },
+    {
+        "ID": 508,
+        "groupId": 9101,
+        "op": 1,
+        "condition": 51,
+        "threshold": 101027002
+    },
+    {
+        "ID": 509,
+        "groupId": 9101,
+        "op": 1,
+        "condition": 51,
+        "threshold": 101027003
+    },
+    {
+        "ID": 510,
+        "groupId": 9101,
+        "op": 1,
+        "condition": 51,
+        "threshold": 101029001
+    },
+    {
+        "ID": 511,
+        "groupId": 9101,
+        "op": 1,
+        "condition": 51,
+        "threshold": 101029002
+    },
+    {
+        "ID": 512,
+        "groupId": 9101,
+        "op": 1,
+        "condition": 51,
+        "threshold": 101031001
+    },
+    {
+        "ID": 513,
+        "groupId": 9101,
+        "op": 1,
+        "condition": 51,
+        "threshold": 101031002
+    },
+    {
+        "ID": 514,
+        "groupId": 9101,
+        "op": 1,
+        "condition": 51,
+        "threshold": 101033001
+    },
+    {
+        "ID": 515,
+        "groupId": 9101,
+        "op": 1,
+        "condition": 51,
+        "threshold": 101033002
+    },
+    {
+        "ID": 516,
+        "groupId": 9101,
+        "op": 1,
+        "condition": 51,
+        "threshold": 101034001
+    },
+    {
+        "ID": 517,
+        "groupId": 9101,
+        "op": 1,
+        "condition": 51,
+        "threshold": 101034002
+    },
+    {
+        "ID": 518,
+        "groupId": 9101,
+        "op": 1,
+        "condition": 51,
+        "threshold": 101035001
+    },
+    {
+        "ID": 519,
+        "groupId": 9101,
+        "op": 1,
+        "condition": 51,
+        "threshold": 101035002
+    },
+    {
+        "ID": 520,
+        "groupId": 9101,
+        "op": 1,
+        "condition": 51,
+        "threshold": 101036001
+    },
+    {
+        "ID": 521,
+        "groupId": 9101,
+        "op": 1,
+        "condition": 51,
+        "threshold": 101036002
+    },
+    {
+        "ID": 522,
+        "groupId": 9101,
+        "op": 1,
+        "condition": 51,
+        "threshold": 101037001
+    },
+    {
+        "ID": 523,
+        "groupId": 9101,
+        "op": 1,
+        "condition": 51,
+        "threshold": 101037002
+    },
+    {
+        "ID": 524,
+        "groupId": 9101,
+        "op": 1,
+        "condition": 51,
+        "threshold": 101037003
+    },
+    {
+        "ID": 525,
+        "groupId": 9101,
+        "op": 1,
+        "condition": 51,
+        "threshold": 101037004
+    },
+    {
+        "ID": 526,
+        "groupId": 9101,
+        "op": 1,
+        "condition": 51,
+        "threshold": 101038001
+    },
+    {
+        "ID": 527,
+        "groupId": 9101,
+        "op": 1,
+        "condition": 51,
+        "threshold": 101038002
+    },
+    {
+        "ID": 528,
+        "groupId": 9101,
+        "op": 1,
+        "condition": 51,
+        "threshold": 101039001
+    },
+    {
+        "ID": 529,
+        "groupId": 9101,
+        "op": 1,
+        "condition": 51,
+        "threshold": 101039002
+    },
+    {
+        "ID": 530,
+        "groupId": 9101,
+        "op": 1,
+        "condition": 51,
+        "threshold": 101001004
+    },
+    {
+        "ID": 531,
+        "groupId": 9101,
+        "op": 1,
+        "condition": 51,
+        "threshold": 101023003
+    },
+    {
+        "ID": 532,
+        "groupId": 9101,
+        "op": 1,
+        "condition": 51,
+        "threshold": 101016003
+    },
+    {
+        "ID": 533,
+        "groupId": 9101,
+        "op": 1,
+        "condition": 51,
+        "threshold": 101018004
+    },
+    {
+        "ID": 534,
+        "groupId": 9101,
+        "op": 1,
+        "condition": 51,
+        "threshold": 101017004
+    },
+    {
+        "ID": 535,
+        "groupId": 9101,
+        "op": 1,
+        "condition": 51,
+        "threshold": 101037005
+    },
+    {
+        "ID": 536,
+        "groupId": 9101,
+        "op": 1,
+        "condition": 51,
+        "threshold": 101038006
+    },
+    {
+        "ID": 537,
+        "groupId": 9101,
+        "op": 1,
+        "condition": 51,
+        "threshold": 101039006
+    },
+    {
+        "ID": 538,
+        "groupId": 9101,
+        "op": 1,
+        "condition": 51,
+        "threshold": 101035004
+    },
+    {
+        "ID": 539,
+        "groupId": 9101,
+        "op": 1,
+        "condition": 51,
+        "threshold": 101034003
+    },
+    {
+        "ID": 540,
+        "groupId": 9101,
+        "op": 1,
+        "condition": 51,
+        "threshold": 101029003
+    },
+    {
+        "ID": 541,
+        "groupId": 9101,
+        "op": 1,
+        "condition": 51,
+        "threshold": 101038005
+    },
+    {
+        "ID": 542,
+        "groupId": 9101,
+        "op": 1,
+        "condition": 51,
+        "threshold": 101039005
+    },
+    {
+        "ID": 543,
+        "groupId": 9101,
+        "op": 1,
+        "condition": 51,
+        "threshold": 101020004
+    },
+    {
+        "ID": 544,
+        "groupId": 9101,
+        "op": 1,
+        "condition": 51,
+        "threshold": 101019004
+    },
+    {
+        "ID": 545,
+        "groupId": 9101,
+        "op": 1,
+        "condition": 51,
+        "threshold": 101039004
+    },
+    {
+        "ID": 546,
+        "groupId": 9101,
+        "op": 1,
+        "condition": 51,
+        "threshold": 101070001
+    },
+    {
+        "ID": 547,
+        "groupId": 9101,
+        "op": 1,
+        "condition": 51,
+        "threshold": 101070002
+    },
+    {
+        "ID": 548,
+        "groupId": 9101,
+        "op": 1,
+        "condition": 51,
+        "threshold": 101035003
+    },
+    {
+        "ID": 549,
+        "groupId": 9101,
+        "op": 1,
+        "condition": 51,
+        "threshold": 101001005
+    },
+    {
+        "ID": 550,
+        "groupId": 9101,
+        "op": 1,
+        "condition": 51,
+        "threshold": 101035005
+    },
+    {
+        "ID": 551,
+        "groupId": 9101,
+        "op": 1,
+        "condition": 51,
+        "threshold": 101038004
+    },
+    {
+        "ID": 552,
+        "groupId": 9101,
+        "op": 1,
+        "condition": 51,
+        "threshold": 101001006
+    },
+    {
+        "ID": 553,
+        "groupId": 9101,
+        "op": 1,
+        "condition": 51,
+        "threshold": 101033003
+    },
+    {
+        "ID": 554,
+        "groupId": 9101,
+        "op": 1,
+        "condition": 51,
+        "threshold": 101025003
+    },
+    {
+        "ID": 555,
+        "groupId": 9101,
+        "op": 1,
+        "condition": 51,
+        "threshold": 101020005
+    },
+    {
+        "ID": 556,
+        "groupId": 9101,
+        "op": 0,
+        "condition": 51,
+        "threshold": 101016004
+    },
+    {
+        "ID": 557,
+        "groupId": 50005020,
+        "op": 0,
+        "condition": 51,
+        "threshold": 101015001
+    },
+    {
+        "ID": 558,
+        "groupId": 50005021,
+        "op": 1,
+        "condition": 51,
+        "threshold": 101033001
+    },
+    {
+        "ID": 559,
+        "groupId": 50005021,
+        "op": 1,
+        "condition": 51,
+        "threshold": 101033002
+    },
+    {
+        "ID": 560,
+        "groupId": 50005021,
+        "op": 0,
+        "condition": 51,
+        "threshold": 101033003
+    },
+    {
+        "ID": 561,
+        "groupId": 50001006,
+        "op": 0,
+        "condition": 49,
+        "threshold": 18
+    },
+    {
+        "ID": 562,
+        "groupId": 50001007,
+        "op": 0,
+        "condition": 49,
+        "threshold": 19
+    },
+    {
+        "ID": 563,
+        "groupId": 38001002,
+        "op": 0,
+        "condition": 24,
+        "threshold": 4
+    },
+    {
+        "ID": 564,
+        "groupId": 50001008,
+        "op": 0,
+        "condition": 49,
+        "threshold": 30
+    },
+    {
+        "ID": 565,
+        "groupId": 50005022,
+        "op": 1,
+        "condition": 51,
+        "threshold": 101025001
+    },
+    {
+        "ID": 566,
+        "groupId": 50005022,
+        "op": 1,
+        "condition": 51,
+        "threshold": 101025002
+    },
+    {
+        "ID": 567,
+        "groupId": 50005022,
+        "op": 0,
+        "condition": 51,
+        "threshold": 101025003
+    },
+    {
+        "ID": 568,
+        "groupId": 50005023,
+        "op": 1,
+        "condition": 51,
+        "threshold": 101024001
+    },
+    {
+        "ID": 569,
+        "groupId": 50005023,
+        "op": 0,
+        "condition": 51,
+        "threshold": 101024002
+    },
+    {
+        "ID": 570,
+        "groupId": 50005024,
+        "op": 1,
+        "condition": 51,
+        "threshold": 101009001
+    },
+    {
+        "ID": 571,
+        "groupId": 50005024,
+        "op": 0,
+        "condition": 51,
+        "threshold": 101009008
+    },
+    {
+        "ID": 572,
+        "groupId": 11001001,
+        "op": 0,
+        "condition": 11,
+        "threshold": 0
+    },
+    {
+        "ID": 573,
+        "groupId": 11001001,
+        "op": 0,
+        "condition": 25,
+        "threshold": 0
+    },
+    {
+        "ID": 574,
+        "groupId": 50005025,
+        "op": 1,
+        "condition": 51,
+        "threshold": 101016001
+    },
+    {
+        "ID": 575,
+        "groupId": 50005025,
+        "op": 1,
+        "condition": 51,
+        "threshold": 101016002
+    },
+    {
+        "ID": 576,
+        "groupId": 50005025,
+        "op": 0,
+        "condition": 51,
+        "threshold": 101016004
+    }
+]

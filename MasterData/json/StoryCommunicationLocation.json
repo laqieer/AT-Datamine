@@ -1,0 +1,154 @@
+[
+    {
+        "ID": 1,
+        "name": "ロンディニウム",
+        "conditionAbility": 49,
+        "adv": 102235,
+        "conditionTimeSlot": 119,
+        "conditionWeather": 9
+    },
+    {
+        "ID": 2,
+        "name": "ロジーの里",
+        "conditionAbility": 50,
+        "adv": 102236,
+        "conditionTimeSlot": 119,
+        "conditionWeather": 9
+    },
+    {
+        "ID": 3,
+        "name": "リムニーナ村",
+        "conditionAbility": 51,
+        "adv": 102237,
+        "conditionTimeSlot": 119,
+        "conditionWeather": 9
+    },
+    {
+        "ID": 4,
+        "name": "カンタベリー",
+        "conditionAbility": 52,
+        "adv": 102238,
+        "conditionTimeSlot": 119,
+        "conditionWeather": 9
+    },
+    {
+        "ID": 5,
+        "name": "大聖堂",
+        "conditionAbility": 0,
+        "adv": 102239,
+        "conditionTimeSlot": 119,
+        "conditionWeather": 9
+    },
+    {
+        "ID": 6,
+        "name": "食堂",
+        "conditionAbility": 0,
+        "adv": 102240,
+        "conditionTimeSlot": 119,
+        "conditionWeather": 9
+    },
+    {
+        "ID": 7,
+        "name": "コーンウォール",
+        "conditionAbility": 53,
+        "adv": 102241,
+        "conditionTimeSlot": 119,
+        "conditionWeather": 9
+    },
+    {
+        "ID": 8,
+        "name": "大図書院",
+        "conditionAbility": 0,
+        "adv": 102242,
+        "conditionTimeSlot": 116,
+        "conditionWeather": 9
+    },
+    {
+        "ID": 9,
+        "name": "談話室",
+        "conditionAbility": 0,
+        "adv": 102244,
+        "conditionTimeSlot": 119,
+        "conditionWeather": 9
+    },
+    {
+        "ID": 10,
+        "name": "酒場",
+        "conditionAbility": 0,
+        "adv": 102245,
+        "conditionTimeSlot": 119,
+        "conditionWeather": 9
+    },
+    {
+        "ID": 11,
+        "name": "大工房",
+        "conditionAbility": 0,
+        "adv": 102246,
+        "conditionTimeSlot": 119,
+        "conditionWeather": 9
+    },
+    {
+        "ID": 12,
+        "name": "遺跡",
+        "conditionAbility": 0,
+        "adv": 102247,
+        "conditionTimeSlot": 119,
+        "conditionWeather": 9
+    },
+    {
+        "ID": 13,
+        "name": "アストラット郷",
+        "conditionAbility": 54,
+        "adv": 102248,
+        "conditionTimeSlot": 119,
+        "conditionWeather": 9
+    },
+    {
+        "ID": 14,
+        "name": "音楽室",
+        "conditionAbility": 0,
+        "adv": 102249,
+        "conditionTimeSlot": 116,
+        "conditionWeather": 9
+    },
+    {
+        "ID": 15,
+        "name": "マーケット",
+        "conditionAbility": 0,
+        "adv": 102250,
+        "conditionTimeSlot": 119,
+        "conditionWeather": 9
+    },
+    {
+        "ID": 16,
+        "name": "ローマン・バス",
+        "conditionAbility": 55,
+        "adv": 102251,
+        "conditionTimeSlot": 119,
+        "conditionWeather": 9
+    },
+    {
+        "ID": 17,
+        "name": "スノードン山",
+        "conditionAbility": 56,
+        "adv": 200199,
+        "conditionTimeSlot": 119,
+        "conditionWeather": 9
+    },
+    {
+        "ID": 18,
+        "name": "果てなき森",
+        "conditionAbility": 57,
+        "adv": 200200,
+        "conditionTimeSlot": 119,
+        "conditionWeather": 9
+    },
+    {
+        "ID": 19,
+        "name": "ログレス近郊",
+        "conditionAbility": 58,
+        "adv": 200201,
+        "conditionTimeSlot": 119,
+        "conditionWeather": 9
+    }
+]

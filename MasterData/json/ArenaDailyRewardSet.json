@@ -1,0 +1,3026 @@
+[
+    {
+        "ID": 1,
+        "name": "通貨アリーナデイリー報酬1",
+        "arenaDailyRewardTerm": 1,
+        "fromRanking": 1,
+        "toRanking": 10
+    },
+    {
+        "ID": 2,
+        "name": "通貨アリーナデイリー報酬2",
+        "arenaDailyRewardTerm": 1,
+        "fromRanking": 11,
+        "toRanking": 30
+    },
+    {
+        "ID": 3,
+        "name": "通貨アリーナデイリー報酬3",
+        "arenaDailyRewardTerm": 1,
+        "fromRanking": 31,
+        "toRanking": 80
+    },
+    {
+        "ID": 4,
+        "name": "通貨アリーナデイリー報酬4",
+        "arenaDailyRewardTerm": 1,
+        "fromRanking": 81,
+        "toRanking": 150
+    },
+    {
+        "ID": 5,
+        "name": "育成ボードアリーナデイリー報酬1",
+        "arenaDailyRewardTerm": 2,
+        "fromRanking": 1,
+        "toRanking": 20
+    },
+    {
+        "ID": 6,
+        "name": "育成ボードアリーナデイリー報酬2",
+        "arenaDailyRewardTerm": 2,
+        "fromRanking": 21,
+        "toRanking": 50
+    },
+    {
+        "ID": 7,
+        "name": "育成ボードアリーナデイリー報酬3",
+        "arenaDailyRewardTerm": 2,
+        "fromRanking": 51,
+        "toRanking": 100
+    },
+    {
+        "ID": 8,
+        "name": "育成ボードアリーナデイリー報酬4",
+        "arenaDailyRewardTerm": 2,
+        "fromRanking": 101,
+        "toRanking": 150
+    },
+    {
+        "ID": 9,
+        "name": "強化スキルアリーナデイリー報酬1",
+        "arenaDailyRewardTerm": 3,
+        "fromRanking": 1,
+        "toRanking": 20
+    },
+    {
+        "ID": 10,
+        "name": "強化スキルアリーナデイリー報酬2",
+        "arenaDailyRewardTerm": 3,
+        "fromRanking": 21,
+        "toRanking": 50
+    },
+    {
+        "ID": 11,
+        "name": "強化スキルアリーナデイリー報酬3",
+        "arenaDailyRewardTerm": 3,
+        "fromRanking": 51,
+        "toRanking": 100
+    },
+    {
+        "ID": 12,
+        "name": "強化スキルアリーナデイリー報酬4",
+        "arenaDailyRewardTerm": 3,
+        "fromRanking": 101,
+        "toRanking": 150
+    },
+    {
+        "ID": 13,
+        "name": "β報酬1_1",
+        "arenaDailyRewardTerm": 4,
+        "fromRanking": 1,
+        "toRanking": 10
+    },
+    {
+        "ID": 14,
+        "name": "β報酬1_2",
+        "arenaDailyRewardTerm": 4,
+        "fromRanking": 11,
+        "toRanking": 20
+    },
+    {
+        "ID": 15,
+        "name": "β報酬1_3",
+        "arenaDailyRewardTerm": 4,
+        "fromRanking": 21,
+        "toRanking": 30
+    },
+    {
+        "ID": 16,
+        "name": "β報酬1_4",
+        "arenaDailyRewardTerm": 4,
+        "fromRanking": 31,
+        "toRanking": 50
+    },
+    {
+        "ID": 17,
+        "name": "β報酬1_5",
+        "arenaDailyRewardTerm": 4,
+        "fromRanking": 51,
+        "toRanking": 75
+    },
+    {
+        "ID": 18,
+        "name": "β報酬1_6",
+        "arenaDailyRewardTerm": 4,
+        "fromRanking": 76,
+        "toRanking": 100
+    },
+    {
+        "ID": 19,
+        "name": "β報酬1_7",
+        "arenaDailyRewardTerm": 4,
+        "fromRanking": 101,
+        "toRanking": 200
+    },
+    {
+        "ID": 20,
+        "name": "β報酬1_8",
+        "arenaDailyRewardTerm": 4,
+        "fromRanking": 201,
+        "toRanking": 300
+    },
+    {
+        "ID": 21,
+        "name": "β報酬1_9",
+        "arenaDailyRewardTerm": 4,
+        "fromRanking": 301,
+        "toRanking": 400
+    },
+    {
+        "ID": 22,
+        "name": "β報酬1_10",
+        "arenaDailyRewardTerm": 4,
+        "fromRanking": 401,
+        "toRanking": 500
+    },
+    {
+        "ID": 23,
+        "name": "β報酬1_11",
+        "arenaDailyRewardTerm": 4,
+        "fromRanking": 501,
+        "toRanking": 750
+    },
+    {
+        "ID": 24,
+        "name": "β報酬1_12",
+        "arenaDailyRewardTerm": 4,
+        "fromRanking": 751,
+        "toRanking": 1000
+    },
+    {
+        "ID": 25,
+        "name": "β報酬1_13",
+        "arenaDailyRewardTerm": 4,
+        "fromRanking": 1001,
+        "toRanking": 2000
+    },
+    {
+        "ID": 26,
+        "name": "β報酬1_14",
+        "arenaDailyRewardTerm": 4,
+        "fromRanking": 2001,
+        "toRanking": 5000
+    },
+    {
+        "ID": 27,
+        "name": "β報酬2_1",
+        "arenaDailyRewardTerm": 5,
+        "fromRanking": 1,
+        "toRanking": 10
+    },
+    {
+        "ID": 28,
+        "name": "β報酬2_2",
+        "arenaDailyRewardTerm": 5,
+        "fromRanking": 11,
+        "toRanking": 20
+    },
+    {
+        "ID": 29,
+        "name": "β報酬2_3",
+        "arenaDailyRewardTerm": 5,
+        "fromRanking": 21,
+        "toRanking": 30
+    },
+    {
+        "ID": 30,
+        "name": "β報酬2_4",
+        "arenaDailyRewardTerm": 5,
+        "fromRanking": 31,
+        "toRanking": 50
+    },
+    {
+        "ID": 31,
+        "name": "β報酬2_5",
+        "arenaDailyRewardTerm": 5,
+        "fromRanking": 51,
+        "toRanking": 75
+    },
+    {
+        "ID": 32,
+        "name": "β報酬2_6",
+        "arenaDailyRewardTerm": 5,
+        "fromRanking": 76,
+        "toRanking": 100
+    },
+    {
+        "ID": 33,
+        "name": "β報酬2_7",
+        "arenaDailyRewardTerm": 5,
+        "fromRanking": 101,
+        "toRanking": 200
+    },
+    {
+        "ID": 34,
+        "name": "β報酬2_8",
+        "arenaDailyRewardTerm": 5,
+        "fromRanking": 201,
+        "toRanking": 300
+    },
+    {
+        "ID": 35,
+        "name": "β報酬2_9",
+        "arenaDailyRewardTerm": 5,
+        "fromRanking": 301,
+        "toRanking": 400
+    },
+    {
+        "ID": 36,
+        "name": "β報酬2_10",
+        "arenaDailyRewardTerm": 5,
+        "fromRanking": 401,
+        "toRanking": 500
+    },
+    {
+        "ID": 37,
+        "name": "β報酬2_11",
+        "arenaDailyRewardTerm": 5,
+        "fromRanking": 501,
+        "toRanking": 750
+    },
+    {
+        "ID": 38,
+        "name": "β報酬2_12",
+        "arenaDailyRewardTerm": 5,
+        "fromRanking": 751,
+        "toRanking": 1000
+    },
+    {
+        "ID": 39,
+        "name": "β報酬2_13",
+        "arenaDailyRewardTerm": 5,
+        "fromRanking": 1001,
+        "toRanking": 2000
+    },
+    {
+        "ID": 40,
+        "name": "β報酬2_14",
+        "arenaDailyRewardTerm": 5,
+        "fromRanking": 2001,
+        "toRanking": 5000
+    },
+    {
+        "ID": 41,
+        "name": "γ報酬1_1",
+        "arenaDailyRewardTerm": 6,
+        "fromRanking": 1,
+        "toRanking": 10
+    },
+    {
+        "ID": 42,
+        "name": "γ報酬1_2",
+        "arenaDailyRewardTerm": 6,
+        "fromRanking": 11,
+        "toRanking": 20
+    },
+    {
+        "ID": 43,
+        "name": "γ報酬1_3",
+        "arenaDailyRewardTerm": 6,
+        "fromRanking": 21,
+        "toRanking": 30
+    },
+    {
+        "ID": 44,
+        "name": "γ報酬1_4",
+        "arenaDailyRewardTerm": 6,
+        "fromRanking": 31,
+        "toRanking": 50
+    },
+    {
+        "ID": 45,
+        "name": "γ報酬1_5",
+        "arenaDailyRewardTerm": 6,
+        "fromRanking": 51,
+        "toRanking": 75
+    },
+    {
+        "ID": 46,
+        "name": "γ報酬1_6",
+        "arenaDailyRewardTerm": 6,
+        "fromRanking": 76,
+        "toRanking": 100
+    },
+    {
+        "ID": 47,
+        "name": "γ報酬1_7",
+        "arenaDailyRewardTerm": 6,
+        "fromRanking": 101,
+        "toRanking": 200
+    },
+    {
+        "ID": 48,
+        "name": "γ報酬1_8",
+        "arenaDailyRewardTerm": 6,
+        "fromRanking": 201,
+        "toRanking": 300
+    },
+    {
+        "ID": 49,
+        "name": "γ報酬1_9",
+        "arenaDailyRewardTerm": 6,
+        "fromRanking": 301,
+        "toRanking": 400
+    },
+    {
+        "ID": 50,
+        "name": "γ報酬1_10",
+        "arenaDailyRewardTerm": 6,
+        "fromRanking": 401,
+        "toRanking": 500
+    },
+    {
+        "ID": 51,
+        "name": "γ報酬1_11",
+        "arenaDailyRewardTerm": 6,
+        "fromRanking": 501,
+        "toRanking": 750
+    },
+    {
+        "ID": 52,
+        "name": "γ報酬1_12",
+        "arenaDailyRewardTerm": 6,
+        "fromRanking": 751,
+        "toRanking": 1000
+    },
+    {
+        "ID": 53,
+        "name": "γ報酬1_13",
+        "arenaDailyRewardTerm": 6,
+        "fromRanking": 1001,
+        "toRanking": 2000
+    },
+    {
+        "ID": 54,
+        "name": "γ報酬1_14",
+        "arenaDailyRewardTerm": 6,
+        "fromRanking": 2001,
+        "toRanking": 5000
+    },
+    {
+        "ID": 55,
+        "name": "γ報酬2_1",
+        "arenaDailyRewardTerm": 7,
+        "fromRanking": 1,
+        "toRanking": 10
+    },
+    {
+        "ID": 56,
+        "name": "γ報酬2_2",
+        "arenaDailyRewardTerm": 7,
+        "fromRanking": 11,
+        "toRanking": 20
+    },
+    {
+        "ID": 57,
+        "name": "γ報酬2_3",
+        "arenaDailyRewardTerm": 7,
+        "fromRanking": 21,
+        "toRanking": 30
+    },
+    {
+        "ID": 58,
+        "name": "γ報酬2_4",
+        "arenaDailyRewardTerm": 7,
+        "fromRanking": 31,
+        "toRanking": 50
+    },
+    {
+        "ID": 59,
+        "name": "γ報酬2_5",
+        "arenaDailyRewardTerm": 7,
+        "fromRanking": 51,
+        "toRanking": 75
+    },
+    {
+        "ID": 60,
+        "name": "γ報酬2_6",
+        "arenaDailyRewardTerm": 7,
+        "fromRanking": 76,
+        "toRanking": 100
+    },
+    {
+        "ID": 61,
+        "name": "γ報酬2_7",
+        "arenaDailyRewardTerm": 7,
+        "fromRanking": 101,
+        "toRanking": 200
+    },
+    {
+        "ID": 62,
+        "name": "γ報酬2_8",
+        "arenaDailyRewardTerm": 7,
+        "fromRanking": 201,
+        "toRanking": 300
+    },
+    {
+        "ID": 63,
+        "name": "γ報酬2_9",
+        "arenaDailyRewardTerm": 7,
+        "fromRanking": 301,
+        "toRanking": 400
+    },
+    {
+        "ID": 64,
+        "name": "γ報酬2_10",
+        "arenaDailyRewardTerm": 7,
+        "fromRanking": 401,
+        "toRanking": 500
+    },
+    {
+        "ID": 65,
+        "name": "γ報酬2_11",
+        "arenaDailyRewardTerm": 7,
+        "fromRanking": 501,
+        "toRanking": 750
+    },
+    {
+        "ID": 66,
+        "name": "γ報酬2_12",
+        "arenaDailyRewardTerm": 7,
+        "fromRanking": 751,
+        "toRanking": 1000
+    },
+    {
+        "ID": 67,
+        "name": "γ報酬2_13",
+        "arenaDailyRewardTerm": 7,
+        "fromRanking": 1001,
+        "toRanking": 2000
+    },
+    {
+        "ID": 68,
+        "name": "γ報酬2_14",
+        "arenaDailyRewardTerm": 7,
+        "fromRanking": 2001,
+        "toRanking": 5000
+    },
+    {
+        "ID": 69,
+        "name": "コロシアムδ_デイリーその1_1",
+        "arenaDailyRewardTerm": 8,
+        "fromRanking": 1,
+        "toRanking": 10
+    },
+    {
+        "ID": 70,
+        "name": "コロシアムδ_デイリーその1_2",
+        "arenaDailyRewardTerm": 8,
+        "fromRanking": 11,
+        "toRanking": 20
+    },
+    {
+        "ID": 71,
+        "name": "コロシアムδ_デイリーその1_3",
+        "arenaDailyRewardTerm": 8,
+        "fromRanking": 21,
+        "toRanking": 30
+    },
+    {
+        "ID": 72,
+        "name": "コロシアムδ_デイリーその1_4",
+        "arenaDailyRewardTerm": 8,
+        "fromRanking": 31,
+        "toRanking": 50
+    },
+    {
+        "ID": 73,
+        "name": "コロシアムδ_デイリーその1_5",
+        "arenaDailyRewardTerm": 8,
+        "fromRanking": 51,
+        "toRanking": 75
+    },
+    {
+        "ID": 74,
+        "name": "コロシアムδ_デイリーその1_6",
+        "arenaDailyRewardTerm": 8,
+        "fromRanking": 76,
+        "toRanking": 100
+    },
+    {
+        "ID": 75,
+        "name": "コロシアムδ_デイリーその1_7",
+        "arenaDailyRewardTerm": 8,
+        "fromRanking": 101,
+        "toRanking": 200
+    },
+    {
+        "ID": 76,
+        "name": "コロシアムδ_デイリーその1_8",
+        "arenaDailyRewardTerm": 8,
+        "fromRanking": 201,
+        "toRanking": 300
+    },
+    {
+        "ID": 77,
+        "name": "コロシアムδ_デイリーその1_9",
+        "arenaDailyRewardTerm": 8,
+        "fromRanking": 301,
+        "toRanking": 400
+    },
+    {
+        "ID": 78,
+        "name": "コロシアムδ_デイリーその1_10",
+        "arenaDailyRewardTerm": 8,
+        "fromRanking": 401,
+        "toRanking": 500
+    },
+    {
+        "ID": 79,
+        "name": "コロシアムδ_デイリーその1_11",
+        "arenaDailyRewardTerm": 8,
+        "fromRanking": 501,
+        "toRanking": 750
+    },
+    {
+        "ID": 80,
+        "name": "コロシアムδ_デイリーその1_12",
+        "arenaDailyRewardTerm": 8,
+        "fromRanking": 751,
+        "toRanking": 1000
+    },
+    {
+        "ID": 81,
+        "name": "コロシアムδ_デイリーその1_13",
+        "arenaDailyRewardTerm": 8,
+        "fromRanking": 1001,
+        "toRanking": 2000
+    },
+    {
+        "ID": 82,
+        "name": "コロシアムδ_デイリーその1_14",
+        "arenaDailyRewardTerm": 8,
+        "fromRanking": 2001,
+        "toRanking": 5000
+    },
+    {
+        "ID": 83,
+        "name": "コロシアムδ_デイリーその2_1_1",
+        "arenaDailyRewardTerm": 9,
+        "fromRanking": 1,
+        "toRanking": 10
+    },
+    {
+        "ID": 84,
+        "name": "コロシアムδ_デイリーその2_1_2",
+        "arenaDailyRewardTerm": 9,
+        "fromRanking": 11,
+        "toRanking": 20
+    },
+    {
+        "ID": 85,
+        "name": "コロシアムδ_デイリーその2_1_3",
+        "arenaDailyRewardTerm": 9,
+        "fromRanking": 21,
+        "toRanking": 30
+    },
+    {
+        "ID": 86,
+        "name": "コロシアムδ_デイリーその2_1_4",
+        "arenaDailyRewardTerm": 9,
+        "fromRanking": 31,
+        "toRanking": 50
+    },
+    {
+        "ID": 87,
+        "name": "コロシアムδ_デイリーその2_1_5",
+        "arenaDailyRewardTerm": 9,
+        "fromRanking": 51,
+        "toRanking": 75
+    },
+    {
+        "ID": 88,
+        "name": "コロシアムδ_デイリーその2_1_6",
+        "arenaDailyRewardTerm": 9,
+        "fromRanking": 76,
+        "toRanking": 100
+    },
+    {
+        "ID": 89,
+        "name": "コロシアムδ_デイリーその2_1_7",
+        "arenaDailyRewardTerm": 9,
+        "fromRanking": 101,
+        "toRanking": 200
+    },
+    {
+        "ID": 90,
+        "name": "コロシアムδ_デイリーその2_1_8",
+        "arenaDailyRewardTerm": 9,
+        "fromRanking": 201,
+        "toRanking": 300
+    },
+    {
+        "ID": 91,
+        "name": "コロシアムδ_デイリーその2_1_9",
+        "arenaDailyRewardTerm": 9,
+        "fromRanking": 301,
+        "toRanking": 400
+    },
+    {
+        "ID": 92,
+        "name": "コロシアムδ_デイリーその2_1_10",
+        "arenaDailyRewardTerm": 9,
+        "fromRanking": 401,
+        "toRanking": 500
+    },
+    {
+        "ID": 93,
+        "name": "コロシアムδ_デイリーその2_1_11",
+        "arenaDailyRewardTerm": 9,
+        "fromRanking": 501,
+        "toRanking": 750
+    },
+    {
+        "ID": 94,
+        "name": "コロシアムδ_デイリーその2_1_12",
+        "arenaDailyRewardTerm": 9,
+        "fromRanking": 751,
+        "toRanking": 1000
+    },
+    {
+        "ID": 95,
+        "name": "コロシアムδ_デイリーその2_1_13",
+        "arenaDailyRewardTerm": 9,
+        "fromRanking": 1001,
+        "toRanking": 2000
+    },
+    {
+        "ID": 96,
+        "name": "コロシアムδ_デイリーその2_1_14",
+        "arenaDailyRewardTerm": 9,
+        "fromRanking": 2001,
+        "toRanking": 5000
+    },
+    {
+        "ID": 97,
+        "name": "コロシアムδ_デイリーその3_1_1",
+        "arenaDailyRewardTerm": 10,
+        "fromRanking": 1,
+        "toRanking": 10
+    },
+    {
+        "ID": 98,
+        "name": "コロシアムδ_デイリーその3_1_2",
+        "arenaDailyRewardTerm": 10,
+        "fromRanking": 11,
+        "toRanking": 20
+    },
+    {
+        "ID": 99,
+        "name": "コロシアムδ_デイリーその3_1_3",
+        "arenaDailyRewardTerm": 10,
+        "fromRanking": 21,
+        "toRanking": 30
+    },
+    {
+        "ID": 100,
+        "name": "コロシアムδ_デイリーその3_1_4",
+        "arenaDailyRewardTerm": 10,
+        "fromRanking": 31,
+        "toRanking": 50
+    },
+    {
+        "ID": 101,
+        "name": "コロシアムδ_デイリーその3_1_5",
+        "arenaDailyRewardTerm": 10,
+        "fromRanking": 51,
+        "toRanking": 75
+    },
+    {
+        "ID": 102,
+        "name": "コロシアムδ_デイリーその3_1_6",
+        "arenaDailyRewardTerm": 10,
+        "fromRanking": 76,
+        "toRanking": 100
+    },
+    {
+        "ID": 103,
+        "name": "コロシアムδ_デイリーその3_1_7",
+        "arenaDailyRewardTerm": 10,
+        "fromRanking": 101,
+        "toRanking": 200
+    },
+    {
+        "ID": 104,
+        "name": "コロシアムδ_デイリーその3_1_8",
+        "arenaDailyRewardTerm": 10,
+        "fromRanking": 201,
+        "toRanking": 300
+    },
+    {
+        "ID": 105,
+        "name": "コロシアムδ_デイリーその3_1_9",
+        "arenaDailyRewardTerm": 10,
+        "fromRanking": 301,
+        "toRanking": 400
+    },
+    {
+        "ID": 106,
+        "name": "コロシアムδ_デイリーその3_1_10",
+        "arenaDailyRewardTerm": 10,
+        "fromRanking": 401,
+        "toRanking": 500
+    },
+    {
+        "ID": 107,
+        "name": "コロシアムδ_デイリーその3_1_11",
+        "arenaDailyRewardTerm": 10,
+        "fromRanking": 501,
+        "toRanking": 750
+    },
+    {
+        "ID": 108,
+        "name": "コロシアムδ_デイリーその3_1_12",
+        "arenaDailyRewardTerm": 10,
+        "fromRanking": 751,
+        "toRanking": 1000
+    },
+    {
+        "ID": 109,
+        "name": "コロシアムδ_デイリーその3_1_13",
+        "arenaDailyRewardTerm": 10,
+        "fromRanking": 1001,
+        "toRanking": 2000
+    },
+    {
+        "ID": 110,
+        "name": "コロシアムδ_デイリーその3_1_14",
+        "arenaDailyRewardTerm": 10,
+        "fromRanking": 2001,
+        "toRanking": 5000
+    },
+    {
+        "ID": 111,
+        "name": "コロシアムδ_デイリーその4_1_1",
+        "arenaDailyRewardTerm": 11,
+        "fromRanking": 1,
+        "toRanking": 10
+    },
+    {
+        "ID": 112,
+        "name": "コロシアムδ_デイリーその4_1_2",
+        "arenaDailyRewardTerm": 11,
+        "fromRanking": 11,
+        "toRanking": 20
+    },
+    {
+        "ID": 113,
+        "name": "コロシアムδ_デイリーその4_1_3",
+        "arenaDailyRewardTerm": 11,
+        "fromRanking": 21,
+        "toRanking": 30
+    },
+    {
+        "ID": 114,
+        "name": "コロシアムδ_デイリーその4_1_4",
+        "arenaDailyRewardTerm": 11,
+        "fromRanking": 31,
+        "toRanking": 50
+    },
+    {
+        "ID": 115,
+        "name": "コロシアムδ_デイリーその4_1_5",
+        "arenaDailyRewardTerm": 11,
+        "fromRanking": 51,
+        "toRanking": 75
+    },
+    {
+        "ID": 116,
+        "name": "コロシアムδ_デイリーその4_1_6",
+        "arenaDailyRewardTerm": 11,
+        "fromRanking": 76,
+        "toRanking": 100
+    },
+    {
+        "ID": 117,
+        "name": "コロシアムδ_デイリーその4_1_7",
+        "arenaDailyRewardTerm": 11,
+        "fromRanking": 101,
+        "toRanking": 200
+    },
+    {
+        "ID": 118,
+        "name": "コロシアムδ_デイリーその4_1_8",
+        "arenaDailyRewardTerm": 11,
+        "fromRanking": 201,
+        "toRanking": 300
+    },
+    {
+        "ID": 119,
+        "name": "コロシアムδ_デイリーその4_1_9",
+        "arenaDailyRewardTerm": 11,
+        "fromRanking": 301,
+        "toRanking": 400
+    },
+    {
+        "ID": 120,
+        "name": "コロシアムδ_デイリーその4_1_10",
+        "arenaDailyRewardTerm": 11,
+        "fromRanking": 401,
+        "toRanking": 500
+    },
+    {
+        "ID": 121,
+        "name": "コロシアムδ_デイリーその4_1_11",
+        "arenaDailyRewardTerm": 11,
+        "fromRanking": 501,
+        "toRanking": 750
+    },
+    {
+        "ID": 122,
+        "name": "コロシアムδ_デイリーその4_1_12",
+        "arenaDailyRewardTerm": 11,
+        "fromRanking": 751,
+        "toRanking": 1000
+    },
+    {
+        "ID": 123,
+        "name": "コロシアムδ_デイリーその4_1_13",
+        "arenaDailyRewardTerm": 11,
+        "fromRanking": 1001,
+        "toRanking": 2000
+    },
+    {
+        "ID": 124,
+        "name": "コロシアムδ_デイリーその4_1_14",
+        "arenaDailyRewardTerm": 11,
+        "fromRanking": 2001,
+        "toRanking": 5000
+    },
+    {
+        "ID": 125,
+        "name": "コロシアム鬼滅デイリーその1_1_1",
+        "arenaDailyRewardTerm": 12,
+        "fromRanking": 1,
+        "toRanking": 10
+    },
+    {
+        "ID": 126,
+        "name": "コロシアム鬼滅デイリーその1_1_2",
+        "arenaDailyRewardTerm": 12,
+        "fromRanking": 11,
+        "toRanking": 20
+    },
+    {
+        "ID": 127,
+        "name": "コロシアム鬼滅デイリーその1_1_3",
+        "arenaDailyRewardTerm": 12,
+        "fromRanking": 21,
+        "toRanking": 30
+    },
+    {
+        "ID": 128,
+        "name": "コロシアム鬼滅デイリーその1_1_4",
+        "arenaDailyRewardTerm": 12,
+        "fromRanking": 31,
+        "toRanking": 50
+    },
+    {
+        "ID": 129,
+        "name": "コロシアム鬼滅デイリーその1_1_5",
+        "arenaDailyRewardTerm": 12,
+        "fromRanking": 51,
+        "toRanking": 75
+    },
+    {
+        "ID": 130,
+        "name": "コロシアム鬼滅デイリーその1_1_6",
+        "arenaDailyRewardTerm": 12,
+        "fromRanking": 76,
+        "toRanking": 100
+    },
+    {
+        "ID": 131,
+        "name": "コロシアム鬼滅デイリーその1_1_7",
+        "arenaDailyRewardTerm": 12,
+        "fromRanking": 101,
+        "toRanking": 200
+    },
+    {
+        "ID": 132,
+        "name": "コロシアム鬼滅デイリーその1_1_8",
+        "arenaDailyRewardTerm": 12,
+        "fromRanking": 201,
+        "toRanking": 300
+    },
+    {
+        "ID": 133,
+        "name": "コロシアム鬼滅デイリーその1_1_9",
+        "arenaDailyRewardTerm": 12,
+        "fromRanking": 301,
+        "toRanking": 400
+    },
+    {
+        "ID": 134,
+        "name": "コロシアム鬼滅デイリーその1_1_10",
+        "arenaDailyRewardTerm": 12,
+        "fromRanking": 401,
+        "toRanking": 500
+    },
+    {
+        "ID": 135,
+        "name": "コロシアム鬼滅デイリーその1_1_11",
+        "arenaDailyRewardTerm": 12,
+        "fromRanking": 501,
+        "toRanking": 750
+    },
+    {
+        "ID": 136,
+        "name": "コロシアム鬼滅デイリーその1_1_12",
+        "arenaDailyRewardTerm": 12,
+        "fromRanking": 751,
+        "toRanking": 1000
+    },
+    {
+        "ID": 137,
+        "name": "コロシアム鬼滅デイリーその1_1_13",
+        "arenaDailyRewardTerm": 12,
+        "fromRanking": 1001,
+        "toRanking": 2000
+    },
+    {
+        "ID": 138,
+        "name": "コロシアム鬼滅デイリーその1_1_14",
+        "arenaDailyRewardTerm": 12,
+        "fromRanking": 2001,
+        "toRanking": 5000
+    },
+    {
+        "ID": 139,
+        "name": "コロシアム鬼滅デイリーその2_1_1",
+        "arenaDailyRewardTerm": 13,
+        "fromRanking": 1,
+        "toRanking": 10
+    },
+    {
+        "ID": 140,
+        "name": "コロシアム鬼滅デイリーその2_1_2",
+        "arenaDailyRewardTerm": 13,
+        "fromRanking": 11,
+        "toRanking": 20
+    },
+    {
+        "ID": 141,
+        "name": "コロシアム鬼滅デイリーその2_1_3",
+        "arenaDailyRewardTerm": 13,
+        "fromRanking": 21,
+        "toRanking": 30
+    },
+    {
+        "ID": 142,
+        "name": "コロシアム鬼滅デイリーその2_1_4",
+        "arenaDailyRewardTerm": 13,
+        "fromRanking": 31,
+        "toRanking": 50
+    },
+    {
+        "ID": 143,
+        "name": "コロシアム鬼滅デイリーその2_1_5",
+        "arenaDailyRewardTerm": 13,
+        "fromRanking": 51,
+        "toRanking": 75
+    },
+    {
+        "ID": 144,
+        "name": "コロシアム鬼滅デイリーその2_1_6",
+        "arenaDailyRewardTerm": 13,
+        "fromRanking": 76,
+        "toRanking": 100
+    },
+    {
+        "ID": 145,
+        "name": "コロシアム鬼滅デイリーその2_1_7",
+        "arenaDailyRewardTerm": 13,
+        "fromRanking": 101,
+        "toRanking": 200
+    },
+    {
+        "ID": 146,
+        "name": "コロシアム鬼滅デイリーその2_1_8",
+        "arenaDailyRewardTerm": 13,
+        "fromRanking": 201,
+        "toRanking": 300
+    },
+    {
+        "ID": 147,
+        "name": "コロシアム鬼滅デイリーその2_1_9",
+        "arenaDailyRewardTerm": 13,
+        "fromRanking": 301,
+        "toRanking": 400
+    },
+    {
+        "ID": 148,
+        "name": "コロシアム鬼滅デイリーその2_1_10",
+        "arenaDailyRewardTerm": 13,
+        "fromRanking": 401,
+        "toRanking": 500
+    },
+    {
+        "ID": 149,
+        "name": "コロシアム鬼滅デイリーその2_1_11",
+        "arenaDailyRewardTerm": 13,
+        "fromRanking": 501,
+        "toRanking": 750
+    },
+    {
+        "ID": 150,
+        "name": "コロシアム鬼滅デイリーその2_1_12",
+        "arenaDailyRewardTerm": 13,
+        "fromRanking": 751,
+        "toRanking": 1000
+    },
+    {
+        "ID": 151,
+        "name": "コロシアム鬼滅デイリーその2_1_13",
+        "arenaDailyRewardTerm": 13,
+        "fromRanking": 1001,
+        "toRanking": 2000
+    },
+    {
+        "ID": 152,
+        "name": "コロシアム鬼滅デイリーその2_1_14",
+        "arenaDailyRewardTerm": 13,
+        "fromRanking": 2001,
+        "toRanking": 5000
+    },
+    {
+        "ID": 153,
+        "name": "コロシアムδ_デイリーその5_1_1",
+        "arenaDailyRewardTerm": 14,
+        "fromRanking": 1,
+        "toRanking": 10
+    },
+    {
+        "ID": 154,
+        "name": "コロシアムδ_デイリーその5_1_2",
+        "arenaDailyRewardTerm": 14,
+        "fromRanking": 11,
+        "toRanking": 20
+    },
+    {
+        "ID": 155,
+        "name": "コロシアムδ_デイリーその5_1_3",
+        "arenaDailyRewardTerm": 14,
+        "fromRanking": 21,
+        "toRanking": 30
+    },
+    {
+        "ID": 156,
+        "name": "コロシアムδ_デイリーその5_1_4",
+        "arenaDailyRewardTerm": 14,
+        "fromRanking": 31,
+        "toRanking": 50
+    },
+    {
+        "ID": 157,
+        "name": "コロシアムδ_デイリーその5_1_5",
+        "arenaDailyRewardTerm": 14,
+        "fromRanking": 51,
+        "toRanking": 75
+    },
+    {
+        "ID": 158,
+        "name": "コロシアムδ_デイリーその5_1_6",
+        "arenaDailyRewardTerm": 14,
+        "fromRanking": 76,
+        "toRanking": 100
+    },
+    {
+        "ID": 159,
+        "name": "コロシアムδ_デイリーその5_1_7",
+        "arenaDailyRewardTerm": 14,
+        "fromRanking": 101,
+        "toRanking": 200
+    },
+    {
+        "ID": 160,
+        "name": "コロシアムδ_デイリーその5_1_8",
+        "arenaDailyRewardTerm": 14,
+        "fromRanking": 201,
+        "toRanking": 300
+    },
+    {
+        "ID": 161,
+        "name": "コロシアムδ_デイリーその5_1_9",
+        "arenaDailyRewardTerm": 14,
+        "fromRanking": 301,
+        "toRanking": 400
+    },
+    {
+        "ID": 162,
+        "name": "コロシアムδ_デイリーその5_1_10",
+        "arenaDailyRewardTerm": 14,
+        "fromRanking": 401,
+        "toRanking": 500
+    },
+    {
+        "ID": 163,
+        "name": "コロシアムδ_デイリーその5_1_11",
+        "arenaDailyRewardTerm": 14,
+        "fromRanking": 501,
+        "toRanking": 750
+    },
+    {
+        "ID": 164,
+        "name": "コロシアムδ_デイリーその5_1_12",
+        "arenaDailyRewardTerm": 14,
+        "fromRanking": 751,
+        "toRanking": 1000
+    },
+    {
+        "ID": 165,
+        "name": "コロシアムδ_デイリーその5_1_13",
+        "arenaDailyRewardTerm": 14,
+        "fromRanking": 1001,
+        "toRanking": 2000
+    },
+    {
+        "ID": 166,
+        "name": "コロシアムδ_デイリーその5_1_14",
+        "arenaDailyRewardTerm": 14,
+        "fromRanking": 2001,
+        "toRanking": 5000
+    },
+    {
+        "ID": 167,
+        "name": "コロシアムδ_デイリーその6_1_1",
+        "arenaDailyRewardTerm": 15,
+        "fromRanking": 1,
+        "toRanking": 10
+    },
+    {
+        "ID": 168,
+        "name": "コロシアムδ_デイリーその6_1_2",
+        "arenaDailyRewardTerm": 15,
+        "fromRanking": 11,
+        "toRanking": 20
+    },
+    {
+        "ID": 169,
+        "name": "コロシアムδ_デイリーその6_1_3",
+        "arenaDailyRewardTerm": 15,
+        "fromRanking": 21,
+        "toRanking": 30
+    },
+    {
+        "ID": 170,
+        "name": "コロシアムδ_デイリーその6_1_4",
+        "arenaDailyRewardTerm": 15,
+        "fromRanking": 31,
+        "toRanking": 50
+    },
+    {
+        "ID": 171,
+        "name": "コロシアムδ_デイリーその6_1_5",
+        "arenaDailyRewardTerm": 15,
+        "fromRanking": 51,
+        "toRanking": 75
+    },
+    {
+        "ID": 172,
+        "name": "コロシアムδ_デイリーその6_1_6",
+        "arenaDailyRewardTerm": 15,
+        "fromRanking": 76,
+        "toRanking": 100
+    },
+    {
+        "ID": 173,
+        "name": "コロシアムδ_デイリーその6_1_7",
+        "arenaDailyRewardTerm": 15,
+        "fromRanking": 101,
+        "toRanking": 200
+    },
+    {
+        "ID": 174,
+        "name": "コロシアムδ_デイリーその6_1_8",
+        "arenaDailyRewardTerm": 15,
+        "fromRanking": 201,
+        "toRanking": 300
+    },
+    {
+        "ID": 175,
+        "name": "コロシアムδ_デイリーその6_1_9",
+        "arenaDailyRewardTerm": 15,
+        "fromRanking": 301,
+        "toRanking": 400
+    },
+    {
+        "ID": 176,
+        "name": "コロシアムδ_デイリーその6_1_10",
+        "arenaDailyRewardTerm": 15,
+        "fromRanking": 401,
+        "toRanking": 500
+    },
+    {
+        "ID": 177,
+        "name": "コロシアムδ_デイリーその6_1_11",
+        "arenaDailyRewardTerm": 15,
+        "fromRanking": 501,
+        "toRanking": 750
+    },
+    {
+        "ID": 178,
+        "name": "コロシアムδ_デイリーその6_1_12",
+        "arenaDailyRewardTerm": 15,
+        "fromRanking": 751,
+        "toRanking": 1000
+    },
+    {
+        "ID": 179,
+        "name": "コロシアムδ_デイリーその6_1_13",
+        "arenaDailyRewardTerm": 15,
+        "fromRanking": 1001,
+        "toRanking": 2000
+    },
+    {
+        "ID": 180,
+        "name": "コロシアムδ_デイリーその6_1_14",
+        "arenaDailyRewardTerm": 15,
+        "fromRanking": 2001,
+        "toRanking": 5000
+    },
+    {
+        "ID": 181,
+        "name": "コロシアムδ_デイリーその7_1_1",
+        "arenaDailyRewardTerm": 16,
+        "fromRanking": 1,
+        "toRanking": 10
+    },
+    {
+        "ID": 182,
+        "name": "コロシアムδ_デイリーその7_1_2",
+        "arenaDailyRewardTerm": 16,
+        "fromRanking": 11,
+        "toRanking": 20
+    },
+    {
+        "ID": 183,
+        "name": "コロシアムδ_デイリーその7_1_3",
+        "arenaDailyRewardTerm": 16,
+        "fromRanking": 21,
+        "toRanking": 30
+    },
+    {
+        "ID": 184,
+        "name": "コロシアムδ_デイリーその7_1_4",
+        "arenaDailyRewardTerm": 16,
+        "fromRanking": 31,
+        "toRanking": 50
+    },
+    {
+        "ID": 185,
+        "name": "コロシアムδ_デイリーその7_1_5",
+        "arenaDailyRewardTerm": 16,
+        "fromRanking": 51,
+        "toRanking": 75
+    },
+    {
+        "ID": 186,
+        "name": "コロシアムδ_デイリーその7_1_6",
+        "arenaDailyRewardTerm": 16,
+        "fromRanking": 76,
+        "toRanking": 100
+    },
+    {
+        "ID": 187,
+        "name": "コロシアムδ_デイリーその7_1_7",
+        "arenaDailyRewardTerm": 16,
+        "fromRanking": 101,
+        "toRanking": 200
+    },
+    {
+        "ID": 188,
+        "name": "コロシアムδ_デイリーその7_1_8",
+        "arenaDailyRewardTerm": 16,
+        "fromRanking": 201,
+        "toRanking": 300
+    },
+    {
+        "ID": 189,
+        "name": "コロシアムδ_デイリーその7_1_9",
+        "arenaDailyRewardTerm": 16,
+        "fromRanking": 301,
+        "toRanking": 400
+    },
+    {
+        "ID": 190,
+        "name": "コロシアムδ_デイリーその7_1_10",
+        "arenaDailyRewardTerm": 16,
+        "fromRanking": 401,
+        "toRanking": 500
+    },
+    {
+        "ID": 191,
+        "name": "コロシアムδ_デイリーその7_1_11",
+        "arenaDailyRewardTerm": 16,
+        "fromRanking": 501,
+        "toRanking": 750
+    },
+    {
+        "ID": 192,
+        "name": "コロシアムδ_デイリーその7_1_12",
+        "arenaDailyRewardTerm": 16,
+        "fromRanking": 751,
+        "toRanking": 1000
+    },
+    {
+        "ID": 193,
+        "name": "コロシアムδ_デイリーその7_1_13",
+        "arenaDailyRewardTerm": 16,
+        "fromRanking": 1001,
+        "toRanking": 2000
+    },
+    {
+        "ID": 194,
+        "name": "コロシアムδ_デイリーその7_1_14",
+        "arenaDailyRewardTerm": 16,
+        "fromRanking": 2001,
+        "toRanking": 5000
+    },
+    {
+        "ID": 195,
+        "name": "コロシアムδ_デイリーその8_1_1",
+        "arenaDailyRewardTerm": 17,
+        "fromRanking": 1,
+        "toRanking": 10
+    },
+    {
+        "ID": 196,
+        "name": "コロシアムδ_デイリーその8_1_2",
+        "arenaDailyRewardTerm": 17,
+        "fromRanking": 11,
+        "toRanking": 20
+    },
+    {
+        "ID": 197,
+        "name": "コロシアムδ_デイリーその8_1_3",
+        "arenaDailyRewardTerm": 17,
+        "fromRanking": 21,
+        "toRanking": 30
+    },
+    {
+        "ID": 198,
+        "name": "コロシアムδ_デイリーその8_1_4",
+        "arenaDailyRewardTerm": 17,
+        "fromRanking": 31,
+        "toRanking": 50
+    },
+    {
+        "ID": 199,
+        "name": "コロシアムδ_デイリーその8_1_5",
+        "arenaDailyRewardTerm": 17,
+        "fromRanking": 51,
+        "toRanking": 75
+    },
+    {
+        "ID": 200,
+        "name": "コロシアムδ_デイリーその8_1_6",
+        "arenaDailyRewardTerm": 17,
+        "fromRanking": 76,
+        "toRanking": 100
+    },
+    {
+        "ID": 201,
+        "name": "コロシアムδ_デイリーその8_1_7",
+        "arenaDailyRewardTerm": 17,
+        "fromRanking": 101,
+        "toRanking": 200
+    },
+    {
+        "ID": 202,
+        "name": "コロシアムδ_デイリーその8_1_8",
+        "arenaDailyRewardTerm": 17,
+        "fromRanking": 201,
+        "toRanking": 300
+    },
+    {
+        "ID": 203,
+        "name": "コロシアムδ_デイリーその8_1_9",
+        "arenaDailyRewardTerm": 17,
+        "fromRanking": 301,
+        "toRanking": 400
+    },
+    {
+        "ID": 204,
+        "name": "コロシアムδ_デイリーその8_1_10",
+        "arenaDailyRewardTerm": 17,
+        "fromRanking": 401,
+        "toRanking": 500
+    },
+    {
+        "ID": 205,
+        "name": "コロシアムδ_デイリーその8_1_11",
+        "arenaDailyRewardTerm": 17,
+        "fromRanking": 501,
+        "toRanking": 750
+    },
+    {
+        "ID": 206,
+        "name": "コロシアムδ_デイリーその8_1_12",
+        "arenaDailyRewardTerm": 17,
+        "fromRanking": 751,
+        "toRanking": 1000
+    },
+    {
+        "ID": 207,
+        "name": "コロシアムδ_デイリーその8_1_13",
+        "arenaDailyRewardTerm": 17,
+        "fromRanking": 1001,
+        "toRanking": 2000
+    },
+    {
+        "ID": 208,
+        "name": "コロシアムδ_デイリーその8_1_14",
+        "arenaDailyRewardTerm": 17,
+        "fromRanking": 2001,
+        "toRanking": 5000
+    },
+    {
+        "ID": 209,
+        "name": "コロシアムδ_デイリーその9_1_1",
+        "arenaDailyRewardTerm": 18,
+        "fromRanking": 1,
+        "toRanking": 10
+    },
+    {
+        "ID": 210,
+        "name": "コロシアムδ_デイリーその9_1_2",
+        "arenaDailyRewardTerm": 18,
+        "fromRanking": 11,
+        "toRanking": 20
+    },
+    {
+        "ID": 211,
+        "name": "コロシアムδ_デイリーその9_1_3",
+        "arenaDailyRewardTerm": 18,
+        "fromRanking": 21,
+        "toRanking": 30
+    },
+    {
+        "ID": 212,
+        "name": "コロシアムδ_デイリーその9_1_4",
+        "arenaDailyRewardTerm": 18,
+        "fromRanking": 31,
+        "toRanking": 50
+    },
+    {
+        "ID": 213,
+        "name": "コロシアムδ_デイリーその9_1_5",
+        "arenaDailyRewardTerm": 18,
+        "fromRanking": 51,
+        "toRanking": 75
+    },
+    {
+        "ID": 214,
+        "name": "コロシアムδ_デイリーその9_1_6",
+        "arenaDailyRewardTerm": 18,
+        "fromRanking": 76,
+        "toRanking": 100
+    },
+    {
+        "ID": 215,
+        "name": "コロシアムδ_デイリーその9_1_7",
+        "arenaDailyRewardTerm": 18,
+        "fromRanking": 101,
+        "toRanking": 200
+    },
+    {
+        "ID": 216,
+        "name": "コロシアムδ_デイリーその9_1_8",
+        "arenaDailyRewardTerm": 18,
+        "fromRanking": 201,
+        "toRanking": 300
+    },
+    {
+        "ID": 217,
+        "name": "コロシアムδ_デイリーその9_1_9",
+        "arenaDailyRewardTerm": 18,
+        "fromRanking": 301,
+        "toRanking": 400
+    },
+    {
+        "ID": 218,
+        "name": "コロシアムδ_デイリーその9_1_10",
+        "arenaDailyRewardTerm": 18,
+        "fromRanking": 401,
+        "toRanking": 500
+    },
+    {
+        "ID": 219,
+        "name": "コロシアムδ_デイリーその9_1_11",
+        "arenaDailyRewardTerm": 18,
+        "fromRanking": 501,
+        "toRanking": 750
+    },
+    {
+        "ID": 220,
+        "name": "コロシアムδ_デイリーその9_1_12",
+        "arenaDailyRewardTerm": 18,
+        "fromRanking": 751,
+        "toRanking": 1000
+    },
+    {
+        "ID": 221,
+        "name": "コロシアムδ_デイリーその9_1_13",
+        "arenaDailyRewardTerm": 18,
+        "fromRanking": 1001,
+        "toRanking": 2000
+    },
+    {
+        "ID": 222,
+        "name": "コロシアムδ_デイリーその9_1_14",
+        "arenaDailyRewardTerm": 18,
+        "fromRanking": 2001,
+        "toRanking": 5000
+    },
+    {
+        "ID": 223,
+        "name": "コロシアムδ_デイリーその10_1_1",
+        "arenaDailyRewardTerm": 19,
+        "fromRanking": 1,
+        "toRanking": 10
+    },
+    {
+        "ID": 224,
+        "name": "コロシアムδ_デイリーその10_1_2",
+        "arenaDailyRewardTerm": 19,
+        "fromRanking": 11,
+        "toRanking": 20
+    },
+    {
+        "ID": 225,
+        "name": "コロシアムδ_デイリーその10_1_3",
+        "arenaDailyRewardTerm": 19,
+        "fromRanking": 21,
+        "toRanking": 30
+    },
+    {
+        "ID": 226,
+        "name": "コロシアムδ_デイリーその10_1_4",
+        "arenaDailyRewardTerm": 19,
+        "fromRanking": 31,
+        "toRanking": 50
+    },
+    {
+        "ID": 227,
+        "name": "コロシアムδ_デイリーその10_1_5",
+        "arenaDailyRewardTerm": 19,
+        "fromRanking": 51,
+        "toRanking": 75
+    },
+    {
+        "ID": 228,
+        "name": "コロシアムδ_デイリーその10_1_6",
+        "arenaDailyRewardTerm": 19,
+        "fromRanking": 76,
+        "toRanking": 100
+    },
+    {
+        "ID": 229,
+        "name": "コロシアムδ_デイリーその10_1_7",
+        "arenaDailyRewardTerm": 19,
+        "fromRanking": 101,
+        "toRanking": 200
+    },
+    {
+        "ID": 230,
+        "name": "コロシアムδ_デイリーその10_1_8",
+        "arenaDailyRewardTerm": 19,
+        "fromRanking": 201,
+        "toRanking": 300
+    },
+    {
+        "ID": 231,
+        "name": "コロシアムδ_デイリーその10_1_9",
+        "arenaDailyRewardTerm": 19,
+        "fromRanking": 301,
+        "toRanking": 400
+    },
+    {
+        "ID": 232,
+        "name": "コロシアムδ_デイリーその10_1_10",
+        "arenaDailyRewardTerm": 19,
+        "fromRanking": 401,
+        "toRanking": 500
+    },
+    {
+        "ID": 233,
+        "name": "コロシアムδ_デイリーその10_1_11",
+        "arenaDailyRewardTerm": 19,
+        "fromRanking": 501,
+        "toRanking": 750
+    },
+    {
+        "ID": 234,
+        "name": "コロシアムδ_デイリーその10_1_12",
+        "arenaDailyRewardTerm": 19,
+        "fromRanking": 751,
+        "toRanking": 1000
+    },
+    {
+        "ID": 235,
+        "name": "コロシアムδ_デイリーその10_1_13",
+        "arenaDailyRewardTerm": 19,
+        "fromRanking": 1001,
+        "toRanking": 2000
+    },
+    {
+        "ID": 236,
+        "name": "コロシアムδ_デイリーその10_1_14",
+        "arenaDailyRewardTerm": 19,
+        "fromRanking": 2001,
+        "toRanking": 5000
+    },
+    {
+        "ID": 237,
+        "name": "コロシアムδ_デイリーその11_1_1",
+        "arenaDailyRewardTerm": 20,
+        "fromRanking": 1,
+        "toRanking": 10
+    },
+    {
+        "ID": 238,
+        "name": "コロシアムδ_デイリーその11_1_2",
+        "arenaDailyRewardTerm": 20,
+        "fromRanking": 11,
+        "toRanking": 20
+    },
+    {
+        "ID": 239,
+        "name": "コロシアムδ_デイリーその11_1_3",
+        "arenaDailyRewardTerm": 20,
+        "fromRanking": 21,
+        "toRanking": 30
+    },
+    {
+        "ID": 240,
+        "name": "コロシアムδ_デイリーその11_1_4",
+        "arenaDailyRewardTerm": 20,
+        "fromRanking": 31,
+        "toRanking": 50
+    },
+    {
+        "ID": 241,
+        "name": "コロシアムδ_デイリーその11_1_5",
+        "arenaDailyRewardTerm": 20,
+        "fromRanking": 51,
+        "toRanking": 75
+    },
+    {
+        "ID": 242,
+        "name": "コロシアムδ_デイリーその11_1_6",
+        "arenaDailyRewardTerm": 20,
+        "fromRanking": 76,
+        "toRanking": 100
+    },
+    {
+        "ID": 243,
+        "name": "コロシアムδ_デイリーその11_1_7",
+        "arenaDailyRewardTerm": 20,
+        "fromRanking": 101,
+        "toRanking": 200
+    },
+    {
+        "ID": 244,
+        "name": "コロシアムδ_デイリーその11_1_8",
+        "arenaDailyRewardTerm": 20,
+        "fromRanking": 201,
+        "toRanking": 300
+    },
+    {
+        "ID": 245,
+        "name": "コロシアムδ_デイリーその11_1_9",
+        "arenaDailyRewardTerm": 20,
+        "fromRanking": 301,
+        "toRanking": 400
+    },
+    {
+        "ID": 246,
+        "name": "コロシアムδ_デイリーその11_1_10",
+        "arenaDailyRewardTerm": 20,
+        "fromRanking": 401,
+        "toRanking": 500
+    },
+    {
+        "ID": 247,
+        "name": "コロシアムδ_デイリーその11_1_11",
+        "arenaDailyRewardTerm": 20,
+        "fromRanking": 501,
+        "toRanking": 750
+    },
+    {
+        "ID": 248,
+        "name": "コロシアムδ_デイリーその11_1_12",
+        "arenaDailyRewardTerm": 20,
+        "fromRanking": 751,
+        "toRanking": 1000
+    },
+    {
+        "ID": 249,
+        "name": "コロシアムδ_デイリーその11_1_13",
+        "arenaDailyRewardTerm": 20,
+        "fromRanking": 1001,
+        "toRanking": 2000
+    },
+    {
+        "ID": 250,
+        "name": "コロシアムδ_デイリーその11_1_14",
+        "arenaDailyRewardTerm": 20,
+        "fromRanking": 2001,
+        "toRanking": 5000
+    },
+    {
+        "ID": 251,
+        "name": "コロシアムδ_デイリーその12_1_1",
+        "arenaDailyRewardTerm": 21,
+        "fromRanking": 1,
+        "toRanking": 10
+    },
+    {
+        "ID": 252,
+        "name": "コロシアムδ_デイリーその12_1_2",
+        "arenaDailyRewardTerm": 21,
+        "fromRanking": 11,
+        "toRanking": 20
+    },
+    {
+        "ID": 253,
+        "name": "コロシアムδ_デイリーその12_1_3",
+        "arenaDailyRewardTerm": 21,
+        "fromRanking": 21,
+        "toRanking": 30
+    },
+    {
+        "ID": 254,
+        "name": "コロシアムδ_デイリーその12_1_4",
+        "arenaDailyRewardTerm": 21,
+        "fromRanking": 31,
+        "toRanking": 50
+    },
+    {
+        "ID": 255,
+        "name": "コロシアムδ_デイリーその12_1_5",
+        "arenaDailyRewardTerm": 21,
+        "fromRanking": 51,
+        "toRanking": 75
+    },
+    {
+        "ID": 256,
+        "name": "コロシアムδ_デイリーその12_1_6",
+        "arenaDailyRewardTerm": 21,
+        "fromRanking": 76,
+        "toRanking": 100
+    },
+    {
+        "ID": 257,
+        "name": "コロシアムδ_デイリーその12_1_7",
+        "arenaDailyRewardTerm": 21,
+        "fromRanking": 101,
+        "toRanking": 200
+    },
+    {
+        "ID": 258,
+        "name": "コロシアムδ_デイリーその12_1_8",
+        "arenaDailyRewardTerm": 21,
+        "fromRanking": 201,
+        "toRanking": 300
+    },
+    {
+        "ID": 259,
+        "name": "コロシアムδ_デイリーその12_1_9",
+        "arenaDailyRewardTerm": 21,
+        "fromRanking": 301,
+        "toRanking": 400
+    },
+    {
+        "ID": 260,
+        "name": "コロシアムδ_デイリーその12_1_10",
+        "arenaDailyRewardTerm": 21,
+        "fromRanking": 401,
+        "toRanking": 500
+    },
+    {
+        "ID": 261,
+        "name": "コロシアムδ_デイリーその12_1_11",
+        "arenaDailyRewardTerm": 21,
+        "fromRanking": 501,
+        "toRanking": 750
+    },
+    {
+        "ID": 262,
+        "name": "コロシアムδ_デイリーその12_1_12",
+        "arenaDailyRewardTerm": 21,
+        "fromRanking": 751,
+        "toRanking": 1000
+    },
+    {
+        "ID": 263,
+        "name": "コロシアムδ_デイリーその12_1_13",
+        "arenaDailyRewardTerm": 21,
+        "fromRanking": 1001,
+        "toRanking": 2000
+    },
+    {
+        "ID": 264,
+        "name": "コロシアムδ_デイリーその12_1_14",
+        "arenaDailyRewardTerm": 21,
+        "fromRanking": 2001,
+        "toRanking": 5000
+    },
+    {
+        "ID": 265,
+        "name": "コロシアムδ_デイリーその13_1_1",
+        "arenaDailyRewardTerm": 22,
+        "fromRanking": 1,
+        "toRanking": 10
+    },
+    {
+        "ID": 266,
+        "name": "コロシアムδ_デイリーその13_1_2",
+        "arenaDailyRewardTerm": 22,
+        "fromRanking": 11,
+        "toRanking": 20
+    },
+    {
+        "ID": 267,
+        "name": "コロシアムδ_デイリーその13_1_3",
+        "arenaDailyRewardTerm": 22,
+        "fromRanking": 21,
+        "toRanking": 30
+    },
+    {
+        "ID": 268,
+        "name": "コロシアムδ_デイリーその13_1_4",
+        "arenaDailyRewardTerm": 22,
+        "fromRanking": 31,
+        "toRanking": 50
+    },
+    {
+        "ID": 269,
+        "name": "コロシアムδ_デイリーその13_1_5",
+        "arenaDailyRewardTerm": 22,
+        "fromRanking": 51,
+        "toRanking": 75
+    },
+    {
+        "ID": 270,
+        "name": "コロシアムδ_デイリーその13_1_6",
+        "arenaDailyRewardTerm": 22,
+        "fromRanking": 76,
+        "toRanking": 100
+    },
+    {
+        "ID": 271,
+        "name": "コロシアムδ_デイリーその13_1_7",
+        "arenaDailyRewardTerm": 22,
+        "fromRanking": 101,
+        "toRanking": 200
+    },
+    {
+        "ID": 272,
+        "name": "コロシアムδ_デイリーその13_1_8",
+        "arenaDailyRewardTerm": 22,
+        "fromRanking": 201,
+        "toRanking": 300
+    },
+    {
+        "ID": 273,
+        "name": "コロシアムδ_デイリーその13_1_9",
+        "arenaDailyRewardTerm": 22,
+        "fromRanking": 301,
+        "toRanking": 400
+    },
+    {
+        "ID": 274,
+        "name": "コロシアムδ_デイリーその13_1_10",
+        "arenaDailyRewardTerm": 22,
+        "fromRanking": 401,
+        "toRanking": 500
+    },
+    {
+        "ID": 275,
+        "name": "コロシアムδ_デイリーその13_1_11",
+        "arenaDailyRewardTerm": 22,
+        "fromRanking": 501,
+        "toRanking": 750
+    },
+    {
+        "ID": 276,
+        "name": "コロシアムδ_デイリーその13_1_12",
+        "arenaDailyRewardTerm": 22,
+        "fromRanking": 751,
+        "toRanking": 1000
+    },
+    {
+        "ID": 277,
+        "name": "コロシアムδ_デイリーその13_1_13",
+        "arenaDailyRewardTerm": 22,
+        "fromRanking": 1001,
+        "toRanking": 2000
+    },
+    {
+        "ID": 278,
+        "name": "コロシアムδ_デイリーその13_1_14",
+        "arenaDailyRewardTerm": 22,
+        "fromRanking": 2001,
+        "toRanking": 5000
+    },
+    {
+        "ID": 279,
+        "name": "コロシアムδ_デイリーその14_1_1",
+        "arenaDailyRewardTerm": 23,
+        "fromRanking": 1,
+        "toRanking": 10
+    },
+    {
+        "ID": 280,
+        "name": "コロシアムδ_デイリーその14_1_2",
+        "arenaDailyRewardTerm": 23,
+        "fromRanking": 11,
+        "toRanking": 20
+    },
+    {
+        "ID": 281,
+        "name": "コロシアムδ_デイリーその14_1_3",
+        "arenaDailyRewardTerm": 23,
+        "fromRanking": 21,
+        "toRanking": 30
+    },
+    {
+        "ID": 282,
+        "name": "コロシアムδ_デイリーその14_1_4",
+        "arenaDailyRewardTerm": 23,
+        "fromRanking": 31,
+        "toRanking": 50
+    },
+    {
+        "ID": 283,
+        "name": "コロシアムδ_デイリーその14_1_5",
+        "arenaDailyRewardTerm": 23,
+        "fromRanking": 51,
+        "toRanking": 75
+    },
+    {
+        "ID": 284,
+        "name": "コロシアムδ_デイリーその14_1_6",
+        "arenaDailyRewardTerm": 23,
+        "fromRanking": 76,
+        "toRanking": 100
+    },
+    {
+        "ID": 285,
+        "name": "コロシアムδ_デイリーその14_1_7",
+        "arenaDailyRewardTerm": 23,
+        "fromRanking": 101,
+        "toRanking": 200
+    },
+    {
+        "ID": 286,
+        "name": "コロシアムδ_デイリーその14_1_8",
+        "arenaDailyRewardTerm": 23,
+        "fromRanking": 201,
+        "toRanking": 300
+    },
+    {
+        "ID": 287,
+        "name": "コロシアムδ_デイリーその14_1_9",
+        "arenaDailyRewardTerm": 23,
+        "fromRanking": 301,
+        "toRanking": 400
+    },
+    {
+        "ID": 288,
+        "name": "コロシアムδ_デイリーその14_1_10",
+        "arenaDailyRewardTerm": 23,
+        "fromRanking": 401,
+        "toRanking": 500
+    },
+    {
+        "ID": 289,
+        "name": "コロシアムδ_デイリーその14_1_11",
+        "arenaDailyRewardTerm": 23,
+        "fromRanking": 501,
+        "toRanking": 750
+    },
+    {
+        "ID": 290,
+        "name": "コロシアムδ_デイリーその14_1_12",
+        "arenaDailyRewardTerm": 23,
+        "fromRanking": 751,
+        "toRanking": 1000
+    },
+    {
+        "ID": 291,
+        "name": "コロシアムδ_デイリーその14_1_13",
+        "arenaDailyRewardTerm": 23,
+        "fromRanking": 1001,
+        "toRanking": 2000
+    },
+    {
+        "ID": 292,
+        "name": "コロシアムδ_デイリーその14_1_14",
+        "arenaDailyRewardTerm": 23,
+        "fromRanking": 2001,
+        "toRanking": 5000
+    },
+    {
+        "ID": 293,
+        "name": "コロシアムδ_デイリーその15_1_1",
+        "arenaDailyRewardTerm": 24,
+        "fromRanking": 1,
+        "toRanking": 10
+    },
+    {
+        "ID": 294,
+        "name": "コロシアムδ_デイリーその15_1_2",
+        "arenaDailyRewardTerm": 24,
+        "fromRanking": 11,
+        "toRanking": 20
+    },
+    {
+        "ID": 295,
+        "name": "コロシアムδ_デイリーその15_1_3",
+        "arenaDailyRewardTerm": 24,
+        "fromRanking": 21,
+        "toRanking": 30
+    },
+    {
+        "ID": 296,
+        "name": "コロシアムδ_デイリーその15_1_4",
+        "arenaDailyRewardTerm": 24,
+        "fromRanking": 31,
+        "toRanking": 50
+    },
+    {
+        "ID": 297,
+        "name": "コロシアムδ_デイリーその15_1_5",
+        "arenaDailyRewardTerm": 24,
+        "fromRanking": 51,
+        "toRanking": 75
+    },
+    {
+        "ID": 298,
+        "name": "コロシアムδ_デイリーその15_1_6",
+        "arenaDailyRewardTerm": 24,
+        "fromRanking": 76,
+        "toRanking": 100
+    },
+    {
+        "ID": 299,
+        "name": "コロシアムδ_デイリーその15_1_7",
+        "arenaDailyRewardTerm": 24,
+        "fromRanking": 101,
+        "toRanking": 200
+    },
+    {
+        "ID": 300,
+        "name": "コロシアムδ_デイリーその15_1_8",
+        "arenaDailyRewardTerm": 24,
+        "fromRanking": 201,
+        "toRanking": 300
+    },
+    {
+        "ID": 301,
+        "name": "コロシアムδ_デイリーその15_1_9",
+        "arenaDailyRewardTerm": 24,
+        "fromRanking": 301,
+        "toRanking": 400
+    },
+    {
+        "ID": 302,
+        "name": "コロシアムδ_デイリーその15_1_10",
+        "arenaDailyRewardTerm": 24,
+        "fromRanking": 401,
+        "toRanking": 500
+    },
+    {
+        "ID": 303,
+        "name": "コロシアムδ_デイリーその15_1_11",
+        "arenaDailyRewardTerm": 24,
+        "fromRanking": 501,
+        "toRanking": 750
+    },
+    {
+        "ID": 304,
+        "name": "コロシアムδ_デイリーその15_1_12",
+        "arenaDailyRewardTerm": 24,
+        "fromRanking": 751,
+        "toRanking": 1000
+    },
+    {
+        "ID": 305,
+        "name": "コロシアムδ_デイリーその15_1_13",
+        "arenaDailyRewardTerm": 24,
+        "fromRanking": 1001,
+        "toRanking": 2000
+    },
+    {
+        "ID": 306,
+        "name": "コロシアムδ_デイリーその15_1_14",
+        "arenaDailyRewardTerm": 24,
+        "fromRanking": 2001,
+        "toRanking": 5000
+    },
+    {
+        "ID": 307,
+        "name": "コロシアムδ_デイリーその16_1_1",
+        "arenaDailyRewardTerm": 25,
+        "fromRanking": 1,
+        "toRanking": 10
+    },
+    {
+        "ID": 308,
+        "name": "コロシアムδ_デイリーその16_1_2",
+        "arenaDailyRewardTerm": 25,
+        "fromRanking": 11,
+        "toRanking": 20
+    },
+    {
+        "ID": 309,
+        "name": "コロシアムδ_デイリーその16_1_3",
+        "arenaDailyRewardTerm": 25,
+        "fromRanking": 21,
+        "toRanking": 30
+    },
+    {
+        "ID": 310,
+        "name": "コロシアムδ_デイリーその16_1_4",
+        "arenaDailyRewardTerm": 25,
+        "fromRanking": 31,
+        "toRanking": 50
+    },
+    {
+        "ID": 311,
+        "name": "コロシアムδ_デイリーその16_1_5",
+        "arenaDailyRewardTerm": 25,
+        "fromRanking": 51,
+        "toRanking": 75
+    },
+    {
+        "ID": 312,
+        "name": "コロシアムδ_デイリーその16_1_6",
+        "arenaDailyRewardTerm": 25,
+        "fromRanking": 76,
+        "toRanking": 100
+    },
+    {
+        "ID": 313,
+        "name": "コロシアムδ_デイリーその16_1_7",
+        "arenaDailyRewardTerm": 25,
+        "fromRanking": 101,
+        "toRanking": 200
+    },
+    {
+        "ID": 314,
+        "name": "コロシアムδ_デイリーその16_1_8",
+        "arenaDailyRewardTerm": 25,
+        "fromRanking": 201,
+        "toRanking": 300
+    },
+    {
+        "ID": 315,
+        "name": "コロシアムδ_デイリーその16_1_9",
+        "arenaDailyRewardTerm": 25,
+        "fromRanking": 301,
+        "toRanking": 400
+    },
+    {
+        "ID": 316,
+        "name": "コロシアムδ_デイリーその16_1_10",
+        "arenaDailyRewardTerm": 25,
+        "fromRanking": 401,
+        "toRanking": 500
+    },
+    {
+        "ID": 317,
+        "name": "コロシアムδ_デイリーその16_1_11",
+        "arenaDailyRewardTerm": 25,
+        "fromRanking": 501,
+        "toRanking": 750
+    },
+    {
+        "ID": 318,
+        "name": "コロシアムδ_デイリーその16_1_12",
+        "arenaDailyRewardTerm": 25,
+        "fromRanking": 751,
+        "toRanking": 1000
+    },
+    {
+        "ID": 319,
+        "name": "コロシアムδ_デイリーその16_1_13",
+        "arenaDailyRewardTerm": 25,
+        "fromRanking": 1001,
+        "toRanking": 2000
+    },
+    {
+        "ID": 320,
+        "name": "コロシアムδ_デイリーその16_1_14",
+        "arenaDailyRewardTerm": 25,
+        "fromRanking": 2001,
+        "toRanking": 5000
+    },
+    {
+        "ID": 321,
+        "name": "コロシアムδ_デイリーその17_1_1",
+        "arenaDailyRewardTerm": 26,
+        "fromRanking": 1,
+        "toRanking": 10
+    },
+    {
+        "ID": 322,
+        "name": "コロシアムδ_デイリーその17_1_2",
+        "arenaDailyRewardTerm": 26,
+        "fromRanking": 11,
+        "toRanking": 20
+    },
+    {
+        "ID": 323,
+        "name": "コロシアムδ_デイリーその17_1_3",
+        "arenaDailyRewardTerm": 26,
+        "fromRanking": 21,
+        "toRanking": 30
+    },
+    {
+        "ID": 324,
+        "name": "コロシアムδ_デイリーその17_1_4",
+        "arenaDailyRewardTerm": 26,
+        "fromRanking": 31,
+        "toRanking": 50
+    },
+    {
+        "ID": 325,
+        "name": "コロシアムδ_デイリーその17_1_5",
+        "arenaDailyRewardTerm": 26,
+        "fromRanking": 51,
+        "toRanking": 75
+    },
+    {
+        "ID": 326,
+        "name": "コロシアムδ_デイリーその17_1_6",
+        "arenaDailyRewardTerm": 26,
+        "fromRanking": 76,
+        "toRanking": 100
+    },
+    {
+        "ID": 327,
+        "name": "コロシアムδ_デイリーその17_1_7",
+        "arenaDailyRewardTerm": 26,
+        "fromRanking": 101,
+        "toRanking": 200
+    },
+    {
+        "ID": 328,
+        "name": "コロシアムδ_デイリーその17_1_8",
+        "arenaDailyRewardTerm": 26,
+        "fromRanking": 201,
+        "toRanking": 300
+    },
+    {
+        "ID": 329,
+        "name": "コロシアムδ_デイリーその17_1_9",
+        "arenaDailyRewardTerm": 26,
+        "fromRanking": 301,
+        "toRanking": 400
+    },
+    {
+        "ID": 330,
+        "name": "コロシアムδ_デイリーその17_1_10",
+        "arenaDailyRewardTerm": 26,
+        "fromRanking": 401,
+        "toRanking": 500
+    },
+    {
+        "ID": 331,
+        "name": "コロシアムδ_デイリーその17_1_11",
+        "arenaDailyRewardTerm": 26,
+        "fromRanking": 501,
+        "toRanking": 750
+    },
+    {
+        "ID": 332,
+        "name": "コロシアムδ_デイリーその17_1_12",
+        "arenaDailyRewardTerm": 26,
+        "fromRanking": 751,
+        "toRanking": 1000
+    },
+    {
+        "ID": 333,
+        "name": "コロシアムδ_デイリーその17_1_13",
+        "arenaDailyRewardTerm": 26,
+        "fromRanking": 1001,
+        "toRanking": 2000
+    },
+    {
+        "ID": 334,
+        "name": "コロシアムδ_デイリーその17_1_14",
+        "arenaDailyRewardTerm": 26,
+        "fromRanking": 2001,
+        "toRanking": 5000
+    },
+    {
+        "ID": 335,
+        "name": "コロシアムδ_デイリーその18_1_1",
+        "arenaDailyRewardTerm": 27,
+        "fromRanking": 1,
+        "toRanking": 10
+    },
+    {
+        "ID": 336,
+        "name": "コロシアムδ_デイリーその18_1_2",
+        "arenaDailyRewardTerm": 27,
+        "fromRanking": 11,
+        "toRanking": 20
+    },
+    {
+        "ID": 337,
+        "name": "コロシアムδ_デイリーその18_1_3",
+        "arenaDailyRewardTerm": 27,
+        "fromRanking": 21,
+        "toRanking": 30
+    },
+    {
+        "ID": 338,
+        "name": "コロシアムδ_デイリーその18_1_4",
+        "arenaDailyRewardTerm": 27,
+        "fromRanking": 31,
+        "toRanking": 50
+    },
+    {
+        "ID": 339,
+        "name": "コロシアムδ_デイリーその18_1_5",
+        "arenaDailyRewardTerm": 27,
+        "fromRanking": 51,
+        "toRanking": 75
+    },
+    {
+        "ID": 340,
+        "name": "コロシアムδ_デイリーその18_1_6",
+        "arenaDailyRewardTerm": 27,
+        "fromRanking": 76,
+        "toRanking": 100
+    },
+    {
+        "ID": 341,
+        "name": "コロシアムδ_デイリーその18_1_7",
+        "arenaDailyRewardTerm": 27,
+        "fromRanking": 101,
+        "toRanking": 200
+    },
+    {
+        "ID": 342,
+        "name": "コロシアムδ_デイリーその18_1_8",
+        "arenaDailyRewardTerm": 27,
+        "fromRanking": 201,
+        "toRanking": 300
+    },
+    {
+        "ID": 343,
+        "name": "コロシアムδ_デイリーその18_1_9",
+        "arenaDailyRewardTerm": 27,
+        "fromRanking": 301,
+        "toRanking": 400
+    },
+    {
+        "ID": 344,
+        "name": "コロシアムδ_デイリーその18_1_10",
+        "arenaDailyRewardTerm": 27,
+        "fromRanking": 401,
+        "toRanking": 500
+    },
+    {
+        "ID": 345,
+        "name": "コロシアムδ_デイリーその18_1_11",
+        "arenaDailyRewardTerm": 27,
+        "fromRanking": 501,
+        "toRanking": 750
+    },
+    {
+        "ID": 346,
+        "name": "コロシアムδ_デイリーその18_1_12",
+        "arenaDailyRewardTerm": 27,
+        "fromRanking": 751,
+        "toRanking": 1000
+    },
+    {
+        "ID": 347,
+        "name": "コロシアムδ_デイリーその18_1_13",
+        "arenaDailyRewardTerm": 27,
+        "fromRanking": 1001,
+        "toRanking": 2000
+    },
+    {
+        "ID": 348,
+        "name": "コロシアムδ_デイリーその18_1_14",
+        "arenaDailyRewardTerm": 27,
+        "fromRanking": 2001,
+        "toRanking": 5000
+    },
+    {
+        "ID": 349,
+        "name": "コロシアムδ_デイリーその19_1_1",
+        "arenaDailyRewardTerm": 28,
+        "fromRanking": 1,
+        "toRanking": 10
+    },
+    {
+        "ID": 350,
+        "name": "コロシアムδ_デイリーその19_1_2",
+        "arenaDailyRewardTerm": 28,
+        "fromRanking": 11,
+        "toRanking": 20
+    },
+    {
+        "ID": 351,
+        "name": "コロシアムδ_デイリーその19_1_3",
+        "arenaDailyRewardTerm": 28,
+        "fromRanking": 21,
+        "toRanking": 30
+    },
+    {
+        "ID": 352,
+        "name": "コロシアムδ_デイリーその19_1_4",
+        "arenaDailyRewardTerm": 28,
+        "fromRanking": 31,
+        "toRanking": 50
+    },
+    {
+        "ID": 353,
+        "name": "コロシアムδ_デイリーその19_1_5",
+        "arenaDailyRewardTerm": 28,
+        "fromRanking": 51,
+        "toRanking": 75
+    },
+    {
+        "ID": 354,
+        "name": "コロシアムδ_デイリーその19_1_6",
+        "arenaDailyRewardTerm": 28,
+        "fromRanking": 76,
+        "toRanking": 100
+    },
+    {
+        "ID": 355,
+        "name": "コロシアムδ_デイリーその19_1_7",
+        "arenaDailyRewardTerm": 28,
+        "fromRanking": 101,
+        "toRanking": 200
+    },
+    {
+        "ID": 356,
+        "name": "コロシアムδ_デイリーその19_1_8",
+        "arenaDailyRewardTerm": 28,
+        "fromRanking": 201,
+        "toRanking": 300
+    },
+    {
+        "ID": 357,
+        "name": "コロシアムδ_デイリーその19_1_9",
+        "arenaDailyRewardTerm": 28,
+        "fromRanking": 301,
+        "toRanking": 400
+    },
+    {
+        "ID": 358,
+        "name": "コロシアムδ_デイリーその19_1_10",
+        "arenaDailyRewardTerm": 28,
+        "fromRanking": 401,
+        "toRanking": 500
+    },
+    {
+        "ID": 359,
+        "name": "コロシアムδ_デイリーその19_1_11",
+        "arenaDailyRewardTerm": 28,
+        "fromRanking": 501,
+        "toRanking": 750
+    },
+    {
+        "ID": 360,
+        "name": "コロシアムδ_デイリーその19_1_12",
+        "arenaDailyRewardTerm": 28,
+        "fromRanking": 751,
+        "toRanking": 1000
+    },
+    {
+        "ID": 361,
+        "name": "コロシアムδ_デイリーその19_1_13",
+        "arenaDailyRewardTerm": 28,
+        "fromRanking": 1001,
+        "toRanking": 2000
+    },
+    {
+        "ID": 362,
+        "name": "コロシアムδ_デイリーその19_1_14",
+        "arenaDailyRewardTerm": 28,
+        "fromRanking": 2001,
+        "toRanking": 5000
+    },
+    {
+        "ID": 363,
+        "name": "コロシアムδ_デイリーその20_1_1",
+        "arenaDailyRewardTerm": 29,
+        "fromRanking": 1,
+        "toRanking": 10
+    },
+    {
+        "ID": 364,
+        "name": "コロシアムδ_デイリーその20_1_2",
+        "arenaDailyRewardTerm": 29,
+        "fromRanking": 11,
+        "toRanking": 20
+    },
+    {
+        "ID": 365,
+        "name": "コロシアムδ_デイリーその20_1_3",
+        "arenaDailyRewardTerm": 29,
+        "fromRanking": 21,
+        "toRanking": 30
+    },
+    {
+        "ID": 366,
+        "name": "コロシアムδ_デイリーその20_1_4",
+        "arenaDailyRewardTerm": 29,
+        "fromRanking": 31,
+        "toRanking": 50
+    },
+    {
+        "ID": 367,
+        "name": "コロシアムδ_デイリーその20_1_5",
+        "arenaDailyRewardTerm": 29,
+        "fromRanking": 51,
+        "toRanking": 75
+    },
+    {
+        "ID": 368,
+        "name": "コロシアムδ_デイリーその20_1_6",
+        "arenaDailyRewardTerm": 29,
+        "fromRanking": 76,
+        "toRanking": 100
+    },
+    {
+        "ID": 369,
+        "name": "コロシアムδ_デイリーその20_1_7",
+        "arenaDailyRewardTerm": 29,
+        "fromRanking": 101,
+        "toRanking": 200
+    },
+    {
+        "ID": 370,
+        "name": "コロシアムδ_デイリーその20_1_8",
+        "arenaDailyRewardTerm": 29,
+        "fromRanking": 201,
+        "toRanking": 300
+    },
+    {
+        "ID": 371,
+        "name": "コロシアムδ_デイリーその20_1_9",
+        "arenaDailyRewardTerm": 29,
+        "fromRanking": 301,
+        "toRanking": 400
+    },
+    {
+        "ID": 372,
+        "name": "コロシアムδ_デイリーその20_1_10",
+        "arenaDailyRewardTerm": 29,
+        "fromRanking": 401,
+        "toRanking": 500
+    },
+    {
+        "ID": 373,
+        "name": "コロシアムδ_デイリーその20_1_11",
+        "arenaDailyRewardTerm": 29,
+        "fromRanking": 501,
+        "toRanking": 750
+    },
+    {
+        "ID": 374,
+        "name": "コロシアムδ_デイリーその20_1_12",
+        "arenaDailyRewardTerm": 29,
+        "fromRanking": 751,
+        "toRanking": 1000
+    },
+    {
+        "ID": 375,
+        "name": "コロシアムδ_デイリーその20_1_13",
+        "arenaDailyRewardTerm": 29,
+        "fromRanking": 1001,
+        "toRanking": 2000
+    },
+    {
+        "ID": 376,
+        "name": "コロシアムδ_デイリーその20_1_14",
+        "arenaDailyRewardTerm": 29,
+        "fromRanking": 2001,
+        "toRanking": 5000
+    },
+    {
+        "ID": 377,
+        "name": "コロシアムδ_デイリーその21_1_1",
+        "arenaDailyRewardTerm": 30,
+        "fromRanking": 1,
+        "toRanking": 10
+    },
+    {
+        "ID": 378,
+        "name": "コロシアムδ_デイリーその21_1_2",
+        "arenaDailyRewardTerm": 30,
+        "fromRanking": 11,
+        "toRanking": 20
+    },
+    {
+        "ID": 379,
+        "name": "コロシアムδ_デイリーその21_1_3",
+        "arenaDailyRewardTerm": 30,
+        "fromRanking": 21,
+        "toRanking": 30
+    },
+    {
+        "ID": 380,
+        "name": "コロシアムδ_デイリーその21_1_4",
+        "arenaDailyRewardTerm": 30,
+        "fromRanking": 31,
+        "toRanking": 50
+    },
+    {
+        "ID": 381,
+        "name": "コロシアムδ_デイリーその21_1_5",
+        "arenaDailyRewardTerm": 30,
+        "fromRanking": 51,
+        "toRanking": 75
+    },
+    {
+        "ID": 382,
+        "name": "コロシアムδ_デイリーその21_1_6",
+        "arenaDailyRewardTerm": 30,
+        "fromRanking": 76,
+        "toRanking": 100
+    },
+    {
+        "ID": 383,
+        "name": "コロシアムδ_デイリーその21_1_7",
+        "arenaDailyRewardTerm": 30,
+        "fromRanking": 101,
+        "toRanking": 200
+    },
+    {
+        "ID": 384,
+        "name": "コロシアムδ_デイリーその21_1_8",
+        "arenaDailyRewardTerm": 30,
+        "fromRanking": 201,
+        "toRanking": 300
+    },
+    {
+        "ID": 385,
+        "name": "コロシアムδ_デイリーその21_1_9",
+        "arenaDailyRewardTerm": 30,
+        "fromRanking": 301,
+        "toRanking": 400
+    },
+    {
+        "ID": 386,
+        "name": "コロシアムδ_デイリーその21_1_10",
+        "arenaDailyRewardTerm": 30,
+        "fromRanking": 401,
+        "toRanking": 500
+    },
+    {
+        "ID": 387,
+        "name": "コロシアムδ_デイリーその21_1_11",
+        "arenaDailyRewardTerm": 30,
+        "fromRanking": 501,
+        "toRanking": 750
+    },
+    {
+        "ID": 388,
+        "name": "コロシアムδ_デイリーその21_1_12",
+        "arenaDailyRewardTerm": 30,
+        "fromRanking": 751,
+        "toRanking": 1000
+    },
+    {
+        "ID": 389,
+        "name": "コロシアムδ_デイリーその21_1_13",
+        "arenaDailyRewardTerm": 30,
+        "fromRanking": 1001,
+        "toRanking": 2000
+    },
+    {
+        "ID": 390,
+        "name": "コロシアムδ_デイリーその21_1_14",
+        "arenaDailyRewardTerm": 30,
+        "fromRanking": 2001,
+        "toRanking": 5000
+    },
+    {
+        "ID": 391,
+        "name": "コロシアムδ_デイリーその22_1_1",
+        "arenaDailyRewardTerm": 31,
+        "fromRanking": 1,
+        "toRanking": 10
+    },
+    {
+        "ID": 392,
+        "name": "コロシアムδ_デイリーその22_1_2",
+        "arenaDailyRewardTerm": 31,
+        "fromRanking": 11,
+        "toRanking": 20
+    },
+    {
+        "ID": 393,
+        "name": "コロシアムδ_デイリーその22_1_3",
+        "arenaDailyRewardTerm": 31,
+        "fromRanking": 21,
+        "toRanking": 30
+    },
+    {
+        "ID": 394,
+        "name": "コロシアムδ_デイリーその22_1_4",
+        "arenaDailyRewardTerm": 31,
+        "fromRanking": 31,
+        "toRanking": 50
+    },
+    {
+        "ID": 395,
+        "name": "コロシアムδ_デイリーその22_1_5",
+        "arenaDailyRewardTerm": 31,
+        "fromRanking": 51,
+        "toRanking": 75
+    },
+    {
+        "ID": 396,
+        "name": "コロシアムδ_デイリーその22_1_6",
+        "arenaDailyRewardTerm": 31,
+        "fromRanking": 76,
+        "toRanking": 100
+    },
+    {
+        "ID": 397,
+        "name": "コロシアムδ_デイリーその22_1_7",
+        "arenaDailyRewardTerm": 31,
+        "fromRanking": 101,
+        "toRanking": 200
+    },
+    {
+        "ID": 398,
+        "name": "コロシアムδ_デイリーその22_1_8",
+        "arenaDailyRewardTerm": 31,
+        "fromRanking": 201,
+        "toRanking": 300
+    },
+    {
+        "ID": 399,
+        "name": "コロシアムδ_デイリーその22_1_9",
+        "arenaDailyRewardTerm": 31,
+        "fromRanking": 301,
+        "toRanking": 400
+    },
+    {
+        "ID": 400,
+        "name": "コロシアムδ_デイリーその22_1_10",
+        "arenaDailyRewardTerm": 31,
+        "fromRanking": 401,
+        "toRanking": 500
+    },
+    {
+        "ID": 401,
+        "name": "コロシアムδ_デイリーその22_1_11",
+        "arenaDailyRewardTerm": 31,
+        "fromRanking": 501,
+        "toRanking": 750
+    },
+    {
+        "ID": 402,
+        "name": "コロシアムδ_デイリーその22_1_12",
+        "arenaDailyRewardTerm": 31,
+        "fromRanking": 751,
+        "toRanking": 1000
+    },
+    {
+        "ID": 403,
+        "name": "コロシアムδ_デイリーその22_1_13",
+        "arenaDailyRewardTerm": 31,
+        "fromRanking": 1001,
+        "toRanking": 2000
+    },
+    {
+        "ID": 404,
+        "name": "コロシアムδ_デイリーその22_1_14",
+        "arenaDailyRewardTerm": 31,
+        "fromRanking": 2001,
+        "toRanking": 5000
+    },
+    {
+        "ID": 405,
+        "name": "コロシアムδ_デイリーその23_1_1",
+        "arenaDailyRewardTerm": 32,
+        "fromRanking": 1,
+        "toRanking": 10
+    },
+    {
+        "ID": 406,
+        "name": "コロシアムδ_デイリーその23_1_2",
+        "arenaDailyRewardTerm": 32,
+        "fromRanking": 11,
+        "toRanking": 20
+    },
+    {
+        "ID": 407,
+        "name": "コロシアムδ_デイリーその23_1_3",
+        "arenaDailyRewardTerm": 32,
+        "fromRanking": 21,
+        "toRanking": 30
+    },
+    {
+        "ID": 408,
+        "name": "コロシアムδ_デイリーその23_1_4",
+        "arenaDailyRewardTerm": 32,
+        "fromRanking": 31,
+        "toRanking": 50
+    },
+    {
+        "ID": 409,
+        "name": "コロシアムδ_デイリーその23_1_5",
+        "arenaDailyRewardTerm": 32,
+        "fromRanking": 51,
+        "toRanking": 75
+    },
+    {
+        "ID": 410,
+        "name": "コロシアムδ_デイリーその23_1_6",
+        "arenaDailyRewardTerm": 32,
+        "fromRanking": 76,
+        "toRanking": 100
+    },
+    {
+        "ID": 411,
+        "name": "コロシアムδ_デイリーその23_1_7",
+        "arenaDailyRewardTerm": 32,
+        "fromRanking": 101,
+        "toRanking": 200
+    },
+    {
+        "ID": 412,
+        "name": "コロシアムδ_デイリーその23_1_8",
+        "arenaDailyRewardTerm": 32,
+        "fromRanking": 201,
+        "toRanking": 300
+    },
+    {
+        "ID": 413,
+        "name": "コロシアムδ_デイリーその23_1_9",
+        "arenaDailyRewardTerm": 32,
+        "fromRanking": 301,
+        "toRanking": 400
+    },
+    {
+        "ID": 414,
+        "name": "コロシアムδ_デイリーその23_1_10",
+        "arenaDailyRewardTerm": 32,
+        "fromRanking": 401,
+        "toRanking": 500
+    },
+    {
+        "ID": 415,
+        "name": "コロシアムδ_デイリーその23_1_11",
+        "arenaDailyRewardTerm": 32,
+        "fromRanking": 501,
+        "toRanking": 750
+    },
+    {
+        "ID": 416,
+        "name": "コロシアムδ_デイリーその23_1_12",
+        "arenaDailyRewardTerm": 32,
+        "fromRanking": 751,
+        "toRanking": 1000
+    },
+    {
+        "ID": 417,
+        "name": "コロシアムδ_デイリーその23_1_13",
+        "arenaDailyRewardTerm": 32,
+        "fromRanking": 1001,
+        "toRanking": 2000
+    },
+    {
+        "ID": 418,
+        "name": "コロシアムδ_デイリーその23_1_14",
+        "arenaDailyRewardTerm": 32,
+        "fromRanking": 2001,
+        "toRanking": 5000
+    },
+    {
+        "ID": 419,
+        "name": "コロシアムδ_デイリーその24_1_1",
+        "arenaDailyRewardTerm": 33,
+        "fromRanking": 1,
+        "toRanking": 10
+    },
+    {
+        "ID": 420,
+        "name": "コロシアムδ_デイリーその24_1_2",
+        "arenaDailyRewardTerm": 33,
+        "fromRanking": 11,
+        "toRanking": 20
+    },
+    {
+        "ID": 421,
+        "name": "コロシアムδ_デイリーその24_1_3",
+        "arenaDailyRewardTerm": 33,
+        "fromRanking": 21,
+        "toRanking": 30
+    },
+    {
+        "ID": 422,
+        "name": "コロシアムδ_デイリーその24_1_4",
+        "arenaDailyRewardTerm": 33,
+        "fromRanking": 31,
+        "toRanking": 50
+    },
+    {
+        "ID": 423,
+        "name": "コロシアムδ_デイリーその24_1_5",
+        "arenaDailyRewardTerm": 33,
+        "fromRanking": 51,
+        "toRanking": 75
+    },
+    {
+        "ID": 424,
+        "name": "コロシアムδ_デイリーその24_1_6",
+        "arenaDailyRewardTerm": 33,
+        "fromRanking": 76,
+        "toRanking": 100
+    },
+    {
+        "ID": 425,
+        "name": "コロシアムδ_デイリーその24_1_7",
+        "arenaDailyRewardTerm": 33,
+        "fromRanking": 101,
+        "toRanking": 200
+    },
+    {
+        "ID": 426,
+        "name": "コロシアムδ_デイリーその24_1_8",
+        "arenaDailyRewardTerm": 33,
+        "fromRanking": 201,
+        "toRanking": 300
+    },
+    {
+        "ID": 427,
+        "name": "コロシアムδ_デイリーその24_1_9",
+        "arenaDailyRewardTerm": 33,
+        "fromRanking": 301,
+        "toRanking": 400
+    },
+    {
+        "ID": 428,
+        "name": "コロシアムδ_デイリーその24_1_10",
+        "arenaDailyRewardTerm": 33,
+        "fromRanking": 401,
+        "toRanking": 500
+    },
+    {
+        "ID": 429,
+        "name": "コロシアムδ_デイリーその24_1_11",
+        "arenaDailyRewardTerm": 33,
+        "fromRanking": 501,
+        "toRanking": 750
+    },
+    {
+        "ID": 430,
+        "name": "コロシアムδ_デイリーその24_1_12",
+        "arenaDailyRewardTerm": 33,
+        "fromRanking": 751,
+        "toRanking": 1000
+    },
+    {
+        "ID": 431,
+        "name": "コロシアムδ_デイリーその24_1_13",
+        "arenaDailyRewardTerm": 33,
+        "fromRanking": 1001,
+        "toRanking": 2000
+    },
+    {
+        "ID": 432,
+        "name": "コロシアムδ_デイリーその24_1_14",
+        "arenaDailyRewardTerm": 33,
+        "fromRanking": 2001,
+        "toRanking": 5000
+    }
+]

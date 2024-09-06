@@ -1,0 +1,13 @@
+[
+    {
+        "ID": 0,
+        "name": "デフォルト設定",
+        "areaSettingLabel": 1,
+        "layoutLabel": 2,
+        "layoutSubLabel": 0,
+        "lobbyEventGroupLabel": 1,
+        "lobbySubEventGroupLabel": 0,
+        "leaderUnitLayoutLabel": 1,
+        "leaderUnitEventLabel": 1
+    }
+]

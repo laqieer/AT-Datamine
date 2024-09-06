@@ -1,0 +1,3902 @@
+[
+    {
+        "ID": 1,
+        "deckGroup": 1005,
+        "npcUnitId": 401050101
+    },
+    {
+        "ID": 2,
+        "deckGroup": 1005,
+        "npcUnitId": 401050201
+    },
+    {
+        "ID": 3,
+        "deckGroup": 1005,
+        "npcUnitId": 401050301
+    },
+    {
+        "ID": 4,
+        "deckGroup": 1005,
+        "npcUnitId": 401050401
+    },
+    {
+        "ID": 5,
+        "deckGroup": 1005,
+        "npcUnitId": 401050501
+    },
+    {
+        "ID": 6,
+        "deckGroup": 1005,
+        "npcUnitId": 401050601
+    },
+    {
+        "ID": 7,
+        "deckGroup": 1005,
+        "npcUnitId": 401050701
+    },
+    {
+        "ID": 8,
+        "deckGroup": 1005,
+        "npcUnitId": 401050801
+    },
+    {
+        "ID": 9,
+        "deckGroup": 1005,
+        "npcUnitId": 401050901
+    },
+    {
+        "ID": 10,
+        "deckGroup": 1005,
+        "npcUnitId": 401051001
+    },
+    {
+        "ID": 11,
+        "deckGroup": 1005,
+        "npcUnitId": 401051101
+    },
+    {
+        "ID": 12,
+        "deckGroup": 1005,
+        "npcUnitId": 401051201
+    },
+    {
+        "ID": 13,
+        "deckGroup": 1005,
+        "npcUnitId": 401051301
+    },
+    {
+        "ID": 14,
+        "deckGroup": 1005,
+        "npcUnitId": 401051401
+    },
+    {
+        "ID": 15,
+        "deckGroup": 1005,
+        "npcUnitId": 401051501
+    },
+    {
+        "ID": 16,
+        "deckGroup": 1005,
+        "npcUnitId": 401051601
+    },
+    {
+        "ID": 17,
+        "deckGroup": 1005,
+        "npcUnitId": 401051701
+    },
+    {
+        "ID": 18,
+        "deckGroup": 1005,
+        "npcUnitId": 401051801
+    },
+    {
+        "ID": 19,
+        "deckGroup": 1005,
+        "npcUnitId": 401051901
+    },
+    {
+        "ID": 20,
+        "deckGroup": 1005,
+        "npcUnitId": 401052001
+    },
+    {
+        "ID": 21,
+        "deckGroup": 1005,
+        "npcUnitId": 401052101
+    },
+    {
+        "ID": 22,
+        "deckGroup": 1005,
+        "npcUnitId": 401052201
+    },
+    {
+        "ID": 23,
+        "deckGroup": 1005,
+        "npcUnitId": 401052301
+    },
+    {
+        "ID": 24,
+        "deckGroup": 1005,
+        "npcUnitId": 401052401
+    },
+    {
+        "ID": 25,
+        "deckGroup": 1005,
+        "npcUnitId": 401052501
+    },
+    {
+        "ID": 26,
+        "deckGroup": 1005,
+        "npcUnitId": 401052601
+    },
+    {
+        "ID": 27,
+        "deckGroup": 1005,
+        "npcUnitId": 401052701
+    },
+    {
+        "ID": 28,
+        "deckGroup": 1005,
+        "npcUnitId": 401052801
+    },
+    {
+        "ID": 29,
+        "deckGroup": 1005,
+        "npcUnitId": 401052901
+    },
+    {
+        "ID": 30,
+        "deckGroup": 1005,
+        "npcUnitId": 401053001
+    },
+    {
+        "ID": 31,
+        "deckGroup": 1006,
+        "npcUnitId": 401060101
+    },
+    {
+        "ID": 32,
+        "deckGroup": 1006,
+        "npcUnitId": 401060201
+    },
+    {
+        "ID": 33,
+        "deckGroup": 1006,
+        "npcUnitId": 401060301
+    },
+    {
+        "ID": 34,
+        "deckGroup": 1006,
+        "npcUnitId": 401060401
+    },
+    {
+        "ID": 35,
+        "deckGroup": 1006,
+        "npcUnitId": 401060501
+    },
+    {
+        "ID": 36,
+        "deckGroup": 1006,
+        "npcUnitId": 401060601
+    },
+    {
+        "ID": 37,
+        "deckGroup": 1006,
+        "npcUnitId": 401060701
+    },
+    {
+        "ID": 38,
+        "deckGroup": 1006,
+        "npcUnitId": 401060801
+    },
+    {
+        "ID": 39,
+        "deckGroup": 1006,
+        "npcUnitId": 401060901
+    },
+    {
+        "ID": 40,
+        "deckGroup": 1006,
+        "npcUnitId": 401061001
+    },
+    {
+        "ID": 41,
+        "deckGroup": 1006,
+        "npcUnitId": 401061101
+    },
+    {
+        "ID": 42,
+        "deckGroup": 1006,
+        "npcUnitId": 401061201
+    },
+    {
+        "ID": 43,
+        "deckGroup": 1006,
+        "npcUnitId": 401061301
+    },
+    {
+        "ID": 44,
+        "deckGroup": 1006,
+        "npcUnitId": 401061401
+    },
+    {
+        "ID": 45,
+        "deckGroup": 1006,
+        "npcUnitId": 401061501
+    },
+    {
+        "ID": 46,
+        "deckGroup": 1006,
+        "npcUnitId": 401061601
+    },
+    {
+        "ID": 47,
+        "deckGroup": 1006,
+        "npcUnitId": 401061701
+    },
+    {
+        "ID": 48,
+        "deckGroup": 1006,
+        "npcUnitId": 401061801
+    },
+    {
+        "ID": 49,
+        "deckGroup": 1006,
+        "npcUnitId": 401061901
+    },
+    {
+        "ID": 50,
+        "deckGroup": 1006,
+        "npcUnitId": 401062001
+    },
+    {
+        "ID": 51,
+        "deckGroup": 1006,
+        "npcUnitId": 401062101
+    },
+    {
+        "ID": 52,
+        "deckGroup": 1006,
+        "npcUnitId": 401062201
+    },
+    {
+        "ID": 53,
+        "deckGroup": 1006,
+        "npcUnitId": 401062301
+    },
+    {
+        "ID": 54,
+        "deckGroup": 1006,
+        "npcUnitId": 401062401
+    },
+    {
+        "ID": 55,
+        "deckGroup": 1006,
+        "npcUnitId": 401062501
+    },
+    {
+        "ID": 56,
+        "deckGroup": 1006,
+        "npcUnitId": 401062601
+    },
+    {
+        "ID": 57,
+        "deckGroup": 1006,
+        "npcUnitId": 401062701
+    },
+    {
+        "ID": 58,
+        "deckGroup": 1006,
+        "npcUnitId": 401062801
+    },
+    {
+        "ID": 59,
+        "deckGroup": 1006,
+        "npcUnitId": 401062901
+    },
+    {
+        "ID": 60,
+        "deckGroup": 1006,
+        "npcUnitId": 401063001
+    },
+    {
+        "ID": 61,
+        "deckGroup": 1007,
+        "npcUnitId": 401070101
+    },
+    {
+        "ID": 62,
+        "deckGroup": 1007,
+        "npcUnitId": 401070201
+    },
+    {
+        "ID": 63,
+        "deckGroup": 1007,
+        "npcUnitId": 401070301
+    },
+    {
+        "ID": 64,
+        "deckGroup": 1007,
+        "npcUnitId": 401070401
+    },
+    {
+        "ID": 65,
+        "deckGroup": 1007,
+        "npcUnitId": 401070501
+    },
+    {
+        "ID": 66,
+        "deckGroup": 1007,
+        "npcUnitId": 401070601
+    },
+    {
+        "ID": 67,
+        "deckGroup": 1007,
+        "npcUnitId": 401070701
+    },
+    {
+        "ID": 68,
+        "deckGroup": 1007,
+        "npcUnitId": 401070801
+    },
+    {
+        "ID": 69,
+        "deckGroup": 1007,
+        "npcUnitId": 401070901
+    },
+    {
+        "ID": 70,
+        "deckGroup": 1007,
+        "npcUnitId": 401071001
+    },
+    {
+        "ID": 71,
+        "deckGroup": 1007,
+        "npcUnitId": 401071101
+    },
+    {
+        "ID": 72,
+        "deckGroup": 1007,
+        "npcUnitId": 401071201
+    },
+    {
+        "ID": 73,
+        "deckGroup": 1007,
+        "npcUnitId": 401071301
+    },
+    {
+        "ID": 74,
+        "deckGroup": 1007,
+        "npcUnitId": 401071401
+    },
+    {
+        "ID": 75,
+        "deckGroup": 1007,
+        "npcUnitId": 401071501
+    },
+    {
+        "ID": 76,
+        "deckGroup": 1007,
+        "npcUnitId": 401071601
+    },
+    {
+        "ID": 77,
+        "deckGroup": 1007,
+        "npcUnitId": 401071701
+    },
+    {
+        "ID": 78,
+        "deckGroup": 1007,
+        "npcUnitId": 401071801
+    },
+    {
+        "ID": 79,
+        "deckGroup": 1007,
+        "npcUnitId": 401071901
+    },
+    {
+        "ID": 80,
+        "deckGroup": 1007,
+        "npcUnitId": 401072001
+    },
+    {
+        "ID": 81,
+        "deckGroup": 1007,
+        "npcUnitId": 401072101
+    },
+    {
+        "ID": 82,
+        "deckGroup": 1007,
+        "npcUnitId": 401072201
+    },
+    {
+        "ID": 83,
+        "deckGroup": 1007,
+        "npcUnitId": 401072301
+    },
+    {
+        "ID": 84,
+        "deckGroup": 1007,
+        "npcUnitId": 401072401
+    },
+    {
+        "ID": 85,
+        "deckGroup": 1007,
+        "npcUnitId": 401072501
+    },
+    {
+        "ID": 86,
+        "deckGroup": 1007,
+        "npcUnitId": 401072601
+    },
+    {
+        "ID": 87,
+        "deckGroup": 1007,
+        "npcUnitId": 401072701
+    },
+    {
+        "ID": 88,
+        "deckGroup": 1007,
+        "npcUnitId": 401072801
+    },
+    {
+        "ID": 89,
+        "deckGroup": 1007,
+        "npcUnitId": 401072901
+    },
+    {
+        "ID": 90,
+        "deckGroup": 1007,
+        "npcUnitId": 401073001
+    },
+    {
+        "ID": 91,
+        "deckGroup": 1008,
+        "npcUnitId": 401010101
+    },
+    {
+        "ID": 92,
+        "deckGroup": 1008,
+        "npcUnitId": 401010201
+    },
+    {
+        "ID": 93,
+        "deckGroup": 1008,
+        "npcUnitId": 401010301
+    },
+    {
+        "ID": 94,
+        "deckGroup": 1008,
+        "npcUnitId": 401010401
+    },
+    {
+        "ID": 95,
+        "deckGroup": 1008,
+        "npcUnitId": 401010501
+    },
+    {
+        "ID": 96,
+        "deckGroup": 1008,
+        "npcUnitId": 401010601
+    },
+    {
+        "ID": 97,
+        "deckGroup": 1008,
+        "npcUnitId": 401010701
+    },
+    {
+        "ID": 98,
+        "deckGroup": 1008,
+        "npcUnitId": 401010801
+    },
+    {
+        "ID": 99,
+        "deckGroup": 1008,
+        "npcUnitId": 401010901
+    },
+    {
+        "ID": 100,
+        "deckGroup": 1008,
+        "npcUnitId": 401011001
+    },
+    {
+        "ID": 101,
+        "deckGroup": 1008,
+        "npcUnitId": 401011101
+    },
+    {
+        "ID": 102,
+        "deckGroup": 1008,
+        "npcUnitId": 401011201
+    },
+    {
+        "ID": 103,
+        "deckGroup": 1008,
+        "npcUnitId": 401011301
+    },
+    {
+        "ID": 104,
+        "deckGroup": 1008,
+        "npcUnitId": 401011401
+    },
+    {
+        "ID": 105,
+        "deckGroup": 1008,
+        "npcUnitId": 401011501
+    },
+    {
+        "ID": 106,
+        "deckGroup": 1008,
+        "npcUnitId": 401011601
+    },
+    {
+        "ID": 107,
+        "deckGroup": 1008,
+        "npcUnitId": 401011701
+    },
+    {
+        "ID": 108,
+        "deckGroup": 1008,
+        "npcUnitId": 401011801
+    },
+    {
+        "ID": 109,
+        "deckGroup": 1008,
+        "npcUnitId": 401011901
+    },
+    {
+        "ID": 110,
+        "deckGroup": 1008,
+        "npcUnitId": 401012001
+    },
+    {
+        "ID": 111,
+        "deckGroup": 1008,
+        "npcUnitId": 401012101
+    },
+    {
+        "ID": 112,
+        "deckGroup": 1008,
+        "npcUnitId": 401012201
+    },
+    {
+        "ID": 113,
+        "deckGroup": 1008,
+        "npcUnitId": 401012301
+    },
+    {
+        "ID": 114,
+        "deckGroup": 1008,
+        "npcUnitId": 401012401
+    },
+    {
+        "ID": 115,
+        "deckGroup": 1008,
+        "npcUnitId": 401012501
+    },
+    {
+        "ID": 116,
+        "deckGroup": 1008,
+        "npcUnitId": 401012601
+    },
+    {
+        "ID": 117,
+        "deckGroup": 1008,
+        "npcUnitId": 401012701
+    },
+    {
+        "ID": 118,
+        "deckGroup": 1008,
+        "npcUnitId": 401012801
+    },
+    {
+        "ID": 119,
+        "deckGroup": 1008,
+        "npcUnitId": 401012901
+    },
+    {
+        "ID": 120,
+        "deckGroup": 1008,
+        "npcUnitId": 401013001
+    },
+    {
+        "ID": 121,
+        "deckGroup": 1009,
+        "npcUnitId": 401093001
+    },
+    {
+        "ID": 122,
+        "deckGroup": 1009,
+        "npcUnitId": 401093101
+    },
+    {
+        "ID": 123,
+        "deckGroup": 1009,
+        "npcUnitId": 401093201
+    },
+    {
+        "ID": 124,
+        "deckGroup": 1009,
+        "npcUnitId": 401093301
+    },
+    {
+        "ID": 125,
+        "deckGroup": 1009,
+        "npcUnitId": 401093401
+    },
+    {
+        "ID": 126,
+        "deckGroup": 1009,
+        "npcUnitId": 401093501
+    },
+    {
+        "ID": 127,
+        "deckGroup": 1009,
+        "npcUnitId": 401093601
+    },
+    {
+        "ID": 128,
+        "deckGroup": 1009,
+        "npcUnitId": 401093701
+    },
+    {
+        "ID": 129,
+        "deckGroup": 1009,
+        "npcUnitId": 401093801
+    },
+    {
+        "ID": 130,
+        "deckGroup": 1009,
+        "npcUnitId": 401093901
+    },
+    {
+        "ID": 131,
+        "deckGroup": 1009,
+        "npcUnitId": 401094001
+    },
+    {
+        "ID": 132,
+        "deckGroup": 1009,
+        "npcUnitId": 401094101
+    },
+    {
+        "ID": 133,
+        "deckGroup": 1009,
+        "npcUnitId": 401094201
+    },
+    {
+        "ID": 134,
+        "deckGroup": 1009,
+        "npcUnitId": 401094301
+    },
+    {
+        "ID": 135,
+        "deckGroup": 1009,
+        "npcUnitId": 401094401
+    },
+    {
+        "ID": 136,
+        "deckGroup": 1009,
+        "npcUnitId": 401094501
+    },
+    {
+        "ID": 137,
+        "deckGroup": 1009,
+        "npcUnitId": 401094601
+    },
+    {
+        "ID": 138,
+        "deckGroup": 1009,
+        "npcUnitId": 401094701
+    },
+    {
+        "ID": 139,
+        "deckGroup": 1009,
+        "npcUnitId": 401094801
+    },
+    {
+        "ID": 140,
+        "deckGroup": 1009,
+        "npcUnitId": 401094901
+    },
+    {
+        "ID": 141,
+        "deckGroup": 1009,
+        "npcUnitId": 401095001
+    },
+    {
+        "ID": 142,
+        "deckGroup": 1009,
+        "npcUnitId": 401095101
+    },
+    {
+        "ID": 143,
+        "deckGroup": 1009,
+        "npcUnitId": 401095201
+    },
+    {
+        "ID": 144,
+        "deckGroup": 1009,
+        "npcUnitId": 401095301
+    },
+    {
+        "ID": 145,
+        "deckGroup": 1009,
+        "npcUnitId": 401095401
+    },
+    {
+        "ID": 146,
+        "deckGroup": 1009,
+        "npcUnitId": 401095501
+    },
+    {
+        "ID": 147,
+        "deckGroup": 1009,
+        "npcUnitId": 401095601
+    },
+    {
+        "ID": 148,
+        "deckGroup": 1009,
+        "npcUnitId": 401095701
+    },
+    {
+        "ID": 149,
+        "deckGroup": 1009,
+        "npcUnitId": 401095801
+    },
+    {
+        "ID": 150,
+        "deckGroup": 1009,
+        "npcUnitId": 401095901
+    },
+    {
+        "ID": 151,
+        "deckGroup": 1010,
+        "npcUnitId": 401103001
+    },
+    {
+        "ID": 152,
+        "deckGroup": 1010,
+        "npcUnitId": 401103101
+    },
+    {
+        "ID": 153,
+        "deckGroup": 1010,
+        "npcUnitId": 401103201
+    },
+    {
+        "ID": 154,
+        "deckGroup": 1010,
+        "npcUnitId": 401103301
+    },
+    {
+        "ID": 155,
+        "deckGroup": 1010,
+        "npcUnitId": 401103401
+    },
+    {
+        "ID": 156,
+        "deckGroup": 1010,
+        "npcUnitId": 401103501
+    },
+    {
+        "ID": 157,
+        "deckGroup": 1010,
+        "npcUnitId": 401103601
+    },
+    {
+        "ID": 158,
+        "deckGroup": 1010,
+        "npcUnitId": 401103701
+    },
+    {
+        "ID": 159,
+        "deckGroup": 1010,
+        "npcUnitId": 401103801
+    },
+    {
+        "ID": 160,
+        "deckGroup": 1010,
+        "npcUnitId": 401103901
+    },
+    {
+        "ID": 161,
+        "deckGroup": 1010,
+        "npcUnitId": 401104001
+    },
+    {
+        "ID": 162,
+        "deckGroup": 1010,
+        "npcUnitId": 401104101
+    },
+    {
+        "ID": 163,
+        "deckGroup": 1010,
+        "npcUnitId": 401104201
+    },
+    {
+        "ID": 164,
+        "deckGroup": 1010,
+        "npcUnitId": 401104301
+    },
+    {
+        "ID": 165,
+        "deckGroup": 1010,
+        "npcUnitId": 401104401
+    },
+    {
+        "ID": 166,
+        "deckGroup": 1010,
+        "npcUnitId": 401104501
+    },
+    {
+        "ID": 167,
+        "deckGroup": 1010,
+        "npcUnitId": 401104601
+    },
+    {
+        "ID": 168,
+        "deckGroup": 1010,
+        "npcUnitId": 401104701
+    },
+    {
+        "ID": 169,
+        "deckGroup": 1010,
+        "npcUnitId": 401104801
+    },
+    {
+        "ID": 170,
+        "deckGroup": 1010,
+        "npcUnitId": 401104901
+    },
+    {
+        "ID": 171,
+        "deckGroup": 1010,
+        "npcUnitId": 401105001
+    },
+    {
+        "ID": 172,
+        "deckGroup": 1010,
+        "npcUnitId": 401105101
+    },
+    {
+        "ID": 173,
+        "deckGroup": 1010,
+        "npcUnitId": 401105201
+    },
+    {
+        "ID": 174,
+        "deckGroup": 1010,
+        "npcUnitId": 401105301
+    },
+    {
+        "ID": 175,
+        "deckGroup": 1010,
+        "npcUnitId": 401105401
+    },
+    {
+        "ID": 176,
+        "deckGroup": 1010,
+        "npcUnitId": 401105501
+    },
+    {
+        "ID": 177,
+        "deckGroup": 1010,
+        "npcUnitId": 401105601
+    },
+    {
+        "ID": 178,
+        "deckGroup": 1010,
+        "npcUnitId": 401105701
+    },
+    {
+        "ID": 179,
+        "deckGroup": 1010,
+        "npcUnitId": 401105801
+    },
+    {
+        "ID": 180,
+        "deckGroup": 1010,
+        "npcUnitId": 401105901
+    },
+    {
+        "ID": 181,
+        "deckGroup": 1012,
+        "npcUnitId": 401123001
+    },
+    {
+        "ID": 182,
+        "deckGroup": 1012,
+        "npcUnitId": 401123101
+    },
+    {
+        "ID": 183,
+        "deckGroup": 1012,
+        "npcUnitId": 401123201
+    },
+    {
+        "ID": 184,
+        "deckGroup": 1012,
+        "npcUnitId": 401123301
+    },
+    {
+        "ID": 185,
+        "deckGroup": 1012,
+        "npcUnitId": 401123401
+    },
+    {
+        "ID": 186,
+        "deckGroup": 1012,
+        "npcUnitId": 401123501
+    },
+    {
+        "ID": 187,
+        "deckGroup": 1012,
+        "npcUnitId": 401123601
+    },
+    {
+        "ID": 188,
+        "deckGroup": 1012,
+        "npcUnitId": 401123701
+    },
+    {
+        "ID": 189,
+        "deckGroup": 1012,
+        "npcUnitId": 401123801
+    },
+    {
+        "ID": 190,
+        "deckGroup": 1012,
+        "npcUnitId": 401123901
+    },
+    {
+        "ID": 191,
+        "deckGroup": 1012,
+        "npcUnitId": 401124001
+    },
+    {
+        "ID": 192,
+        "deckGroup": 1012,
+        "npcUnitId": 401124101
+    },
+    {
+        "ID": 193,
+        "deckGroup": 1012,
+        "npcUnitId": 401124201
+    },
+    {
+        "ID": 194,
+        "deckGroup": 1012,
+        "npcUnitId": 401124301
+    },
+    {
+        "ID": 195,
+        "deckGroup": 1012,
+        "npcUnitId": 401124401
+    },
+    {
+        "ID": 196,
+        "deckGroup": 1012,
+        "npcUnitId": 401124501
+    },
+    {
+        "ID": 197,
+        "deckGroup": 1012,
+        "npcUnitId": 401124601
+    },
+    {
+        "ID": 198,
+        "deckGroup": 1012,
+        "npcUnitId": 401124701
+    },
+    {
+        "ID": 199,
+        "deckGroup": 1012,
+        "npcUnitId": 401124801
+    },
+    {
+        "ID": 200,
+        "deckGroup": 1012,
+        "npcUnitId": 401124901
+    },
+    {
+        "ID": 201,
+        "deckGroup": 1012,
+        "npcUnitId": 401125001
+    },
+    {
+        "ID": 202,
+        "deckGroup": 1012,
+        "npcUnitId": 401125101
+    },
+    {
+        "ID": 203,
+        "deckGroup": 1012,
+        "npcUnitId": 401125201
+    },
+    {
+        "ID": 204,
+        "deckGroup": 1012,
+        "npcUnitId": 401125301
+    },
+    {
+        "ID": 205,
+        "deckGroup": 1012,
+        "npcUnitId": 401125401
+    },
+    {
+        "ID": 206,
+        "deckGroup": 1012,
+        "npcUnitId": 401125501
+    },
+    {
+        "ID": 207,
+        "deckGroup": 1012,
+        "npcUnitId": 401125601
+    },
+    {
+        "ID": 208,
+        "deckGroup": 1012,
+        "npcUnitId": 401125701
+    },
+    {
+        "ID": 209,
+        "deckGroup": 1012,
+        "npcUnitId": 401125801
+    },
+    {
+        "ID": 210,
+        "deckGroup": 1012,
+        "npcUnitId": 401125901
+    },
+    {
+        "ID": 211,
+        "deckGroup": 1014,
+        "npcUnitId": 401140101
+    },
+    {
+        "ID": 212,
+        "deckGroup": 1014,
+        "npcUnitId": 401140201
+    },
+    {
+        "ID": 213,
+        "deckGroup": 1014,
+        "npcUnitId": 401140301
+    },
+    {
+        "ID": 214,
+        "deckGroup": 1014,
+        "npcUnitId": 401140401
+    },
+    {
+        "ID": 215,
+        "deckGroup": 1014,
+        "npcUnitId": 401140501
+    },
+    {
+        "ID": 216,
+        "deckGroup": 1014,
+        "npcUnitId": 401140601
+    },
+    {
+        "ID": 217,
+        "deckGroup": 1014,
+        "npcUnitId": 401140701
+    },
+    {
+        "ID": 218,
+        "deckGroup": 1014,
+        "npcUnitId": 401140801
+    },
+    {
+        "ID": 219,
+        "deckGroup": 1014,
+        "npcUnitId": 401140901
+    },
+    {
+        "ID": 220,
+        "deckGroup": 1014,
+        "npcUnitId": 401141001
+    },
+    {
+        "ID": 221,
+        "deckGroup": 1014,
+        "npcUnitId": 401141101
+    },
+    {
+        "ID": 222,
+        "deckGroup": 1014,
+        "npcUnitId": 401141201
+    },
+    {
+        "ID": 223,
+        "deckGroup": 1014,
+        "npcUnitId": 401141301
+    },
+    {
+        "ID": 224,
+        "deckGroup": 1014,
+        "npcUnitId": 401141401
+    },
+    {
+        "ID": 225,
+        "deckGroup": 1014,
+        "npcUnitId": 401141501
+    },
+    {
+        "ID": 226,
+        "deckGroup": 1014,
+        "npcUnitId": 401141601
+    },
+    {
+        "ID": 227,
+        "deckGroup": 1014,
+        "npcUnitId": 401141701
+    },
+    {
+        "ID": 228,
+        "deckGroup": 1014,
+        "npcUnitId": 401141801
+    },
+    {
+        "ID": 229,
+        "deckGroup": 1014,
+        "npcUnitId": 401141901
+    },
+    {
+        "ID": 230,
+        "deckGroup": 1014,
+        "npcUnitId": 401142001
+    },
+    {
+        "ID": 231,
+        "deckGroup": 1014,
+        "npcUnitId": 401142101
+    },
+    {
+        "ID": 232,
+        "deckGroup": 1014,
+        "npcUnitId": 401142201
+    },
+    {
+        "ID": 233,
+        "deckGroup": 1014,
+        "npcUnitId": 401142301
+    },
+    {
+        "ID": 234,
+        "deckGroup": 1014,
+        "npcUnitId": 401142401
+    },
+    {
+        "ID": 235,
+        "deckGroup": 1014,
+        "npcUnitId": 401142501
+    },
+    {
+        "ID": 236,
+        "deckGroup": 1014,
+        "npcUnitId": 401142601
+    },
+    {
+        "ID": 237,
+        "deckGroup": 1014,
+        "npcUnitId": 401142701
+    },
+    {
+        "ID": 238,
+        "deckGroup": 1014,
+        "npcUnitId": 401142801
+    },
+    {
+        "ID": 239,
+        "deckGroup": 1014,
+        "npcUnitId": 401142901
+    },
+    {
+        "ID": 240,
+        "deckGroup": 1014,
+        "npcUnitId": 401143001
+    },
+    {
+        "ID": 241,
+        "deckGroup": 1016,
+        "npcUnitId": 401160101
+    },
+    {
+        "ID": 242,
+        "deckGroup": 1016,
+        "npcUnitId": 401160201
+    },
+    {
+        "ID": 243,
+        "deckGroup": 1016,
+        "npcUnitId": 401160301
+    },
+    {
+        "ID": 244,
+        "deckGroup": 1016,
+        "npcUnitId": 401160401
+    },
+    {
+        "ID": 245,
+        "deckGroup": 1016,
+        "npcUnitId": 401160501
+    },
+    {
+        "ID": 246,
+        "deckGroup": 1016,
+        "npcUnitId": 401160601
+    },
+    {
+        "ID": 247,
+        "deckGroup": 1016,
+        "npcUnitId": 401160701
+    },
+    {
+        "ID": 248,
+        "deckGroup": 1016,
+        "npcUnitId": 401160801
+    },
+    {
+        "ID": 249,
+        "deckGroup": 1016,
+        "npcUnitId": 401160901
+    },
+    {
+        "ID": 250,
+        "deckGroup": 1016,
+        "npcUnitId": 401161001
+    },
+    {
+        "ID": 251,
+        "deckGroup": 1016,
+        "npcUnitId": 401161101
+    },
+    {
+        "ID": 252,
+        "deckGroup": 1016,
+        "npcUnitId": 401161201
+    },
+    {
+        "ID": 253,
+        "deckGroup": 1016,
+        "npcUnitId": 401161301
+    },
+    {
+        "ID": 254,
+        "deckGroup": 1016,
+        "npcUnitId": 401161401
+    },
+    {
+        "ID": 255,
+        "deckGroup": 1016,
+        "npcUnitId": 401161501
+    },
+    {
+        "ID": 256,
+        "deckGroup": 1016,
+        "npcUnitId": 401161601
+    },
+    {
+        "ID": 257,
+        "deckGroup": 1016,
+        "npcUnitId": 401161701
+    },
+    {
+        "ID": 258,
+        "deckGroup": 1016,
+        "npcUnitId": 401161801
+    },
+    {
+        "ID": 259,
+        "deckGroup": 1016,
+        "npcUnitId": 401161901
+    },
+    {
+        "ID": 260,
+        "deckGroup": 1016,
+        "npcUnitId": 401162001
+    },
+    {
+        "ID": 261,
+        "deckGroup": 1016,
+        "npcUnitId": 401162101
+    },
+    {
+        "ID": 262,
+        "deckGroup": 1016,
+        "npcUnitId": 401162201
+    },
+    {
+        "ID": 263,
+        "deckGroup": 1016,
+        "npcUnitId": 401162301
+    },
+    {
+        "ID": 264,
+        "deckGroup": 1016,
+        "npcUnitId": 401162401
+    },
+    {
+        "ID": 265,
+        "deckGroup": 1016,
+        "npcUnitId": 401162501
+    },
+    {
+        "ID": 266,
+        "deckGroup": 1016,
+        "npcUnitId": 401162601
+    },
+    {
+        "ID": 267,
+        "deckGroup": 1016,
+        "npcUnitId": 401162701
+    },
+    {
+        "ID": 268,
+        "deckGroup": 1016,
+        "npcUnitId": 401162801
+    },
+    {
+        "ID": 269,
+        "deckGroup": 1016,
+        "npcUnitId": 401162901
+    },
+    {
+        "ID": 270,
+        "deckGroup": 1016,
+        "npcUnitId": 401163001
+    },
+    {
+        "ID": 271,
+        "deckGroup": 1018,
+        "npcUnitId": 401180101
+    },
+    {
+        "ID": 272,
+        "deckGroup": 1018,
+        "npcUnitId": 401180201
+    },
+    {
+        "ID": 273,
+        "deckGroup": 1018,
+        "npcUnitId": 401180301
+    },
+    {
+        "ID": 274,
+        "deckGroup": 1018,
+        "npcUnitId": 401180401
+    },
+    {
+        "ID": 275,
+        "deckGroup": 1018,
+        "npcUnitId": 401180501
+    },
+    {
+        "ID": 276,
+        "deckGroup": 1018,
+        "npcUnitId": 401180601
+    },
+    {
+        "ID": 277,
+        "deckGroup": 1018,
+        "npcUnitId": 401180701
+    },
+    {
+        "ID": 278,
+        "deckGroup": 1018,
+        "npcUnitId": 401180801
+    },
+    {
+        "ID": 279,
+        "deckGroup": 1018,
+        "npcUnitId": 401180901
+    },
+    {
+        "ID": 280,
+        "deckGroup": 1018,
+        "npcUnitId": 401181001
+    },
+    {
+        "ID": 281,
+        "deckGroup": 1018,
+        "npcUnitId": 401181101
+    },
+    {
+        "ID": 282,
+        "deckGroup": 1018,
+        "npcUnitId": 401181201
+    },
+    {
+        "ID": 283,
+        "deckGroup": 1018,
+        "npcUnitId": 401181301
+    },
+    {
+        "ID": 284,
+        "deckGroup": 1018,
+        "npcUnitId": 401181401
+    },
+    {
+        "ID": 285,
+        "deckGroup": 1018,
+        "npcUnitId": 401181501
+    },
+    {
+        "ID": 286,
+        "deckGroup": 1018,
+        "npcUnitId": 401181601
+    },
+    {
+        "ID": 287,
+        "deckGroup": 1018,
+        "npcUnitId": 401181701
+    },
+    {
+        "ID": 288,
+        "deckGroup": 1018,
+        "npcUnitId": 401181801
+    },
+    {
+        "ID": 289,
+        "deckGroup": 1018,
+        "npcUnitId": 401181901
+    },
+    {
+        "ID": 290,
+        "deckGroup": 1018,
+        "npcUnitId": 401182001
+    },
+    {
+        "ID": 291,
+        "deckGroup": 1018,
+        "npcUnitId": 401182101
+    },
+    {
+        "ID": 292,
+        "deckGroup": 1018,
+        "npcUnitId": 401182201
+    },
+    {
+        "ID": 293,
+        "deckGroup": 1018,
+        "npcUnitId": 401182301
+    },
+    {
+        "ID": 294,
+        "deckGroup": 1018,
+        "npcUnitId": 401182401
+    },
+    {
+        "ID": 295,
+        "deckGroup": 1018,
+        "npcUnitId": 401182501
+    },
+    {
+        "ID": 296,
+        "deckGroup": 1018,
+        "npcUnitId": 401182601
+    },
+    {
+        "ID": 297,
+        "deckGroup": 1018,
+        "npcUnitId": 401182701
+    },
+    {
+        "ID": 298,
+        "deckGroup": 1018,
+        "npcUnitId": 401182801
+    },
+    {
+        "ID": 299,
+        "deckGroup": 1018,
+        "npcUnitId": 401182901
+    },
+    {
+        "ID": 300,
+        "deckGroup": 1018,
+        "npcUnitId": 401183001
+    },
+    {
+        "ID": 301,
+        "deckGroup": 1020,
+        "npcUnitId": 401200101
+    },
+    {
+        "ID": 302,
+        "deckGroup": 1020,
+        "npcUnitId": 401200201
+    },
+    {
+        "ID": 303,
+        "deckGroup": 1020,
+        "npcUnitId": 401200301
+    },
+    {
+        "ID": 304,
+        "deckGroup": 1020,
+        "npcUnitId": 401200401
+    },
+    {
+        "ID": 305,
+        "deckGroup": 1020,
+        "npcUnitId": 401200501
+    },
+    {
+        "ID": 306,
+        "deckGroup": 1020,
+        "npcUnitId": 401200601
+    },
+    {
+        "ID": 307,
+        "deckGroup": 1020,
+        "npcUnitId": 401200701
+    },
+    {
+        "ID": 308,
+        "deckGroup": 1020,
+        "npcUnitId": 401200801
+    },
+    {
+        "ID": 309,
+        "deckGroup": 1020,
+        "npcUnitId": 401200901
+    },
+    {
+        "ID": 310,
+        "deckGroup": 1020,
+        "npcUnitId": 401201001
+    },
+    {
+        "ID": 311,
+        "deckGroup": 1020,
+        "npcUnitId": 401201101
+    },
+    {
+        "ID": 312,
+        "deckGroup": 1020,
+        "npcUnitId": 401201201
+    },
+    {
+        "ID": 313,
+        "deckGroup": 1020,
+        "npcUnitId": 401201301
+    },
+    {
+        "ID": 314,
+        "deckGroup": 1020,
+        "npcUnitId": 401201401
+    },
+    {
+        "ID": 315,
+        "deckGroup": 1020,
+        "npcUnitId": 401201501
+    },
+    {
+        "ID": 316,
+        "deckGroup": 1020,
+        "npcUnitId": 401201601
+    },
+    {
+        "ID": 317,
+        "deckGroup": 1020,
+        "npcUnitId": 401201701
+    },
+    {
+        "ID": 318,
+        "deckGroup": 1020,
+        "npcUnitId": 401201801
+    },
+    {
+        "ID": 319,
+        "deckGroup": 1020,
+        "npcUnitId": 401201901
+    },
+    {
+        "ID": 320,
+        "deckGroup": 1020,
+        "npcUnitId": 401202001
+    },
+    {
+        "ID": 321,
+        "deckGroup": 1020,
+        "npcUnitId": 401202101
+    },
+    {
+        "ID": 322,
+        "deckGroup": 1020,
+        "npcUnitId": 401202201
+    },
+    {
+        "ID": 323,
+        "deckGroup": 1020,
+        "npcUnitId": 401202301
+    },
+    {
+        "ID": 324,
+        "deckGroup": 1020,
+        "npcUnitId": 401202401
+    },
+    {
+        "ID": 325,
+        "deckGroup": 1020,
+        "npcUnitId": 401202501
+    },
+    {
+        "ID": 326,
+        "deckGroup": 1020,
+        "npcUnitId": 401202601
+    },
+    {
+        "ID": 327,
+        "deckGroup": 1020,
+        "npcUnitId": 401202701
+    },
+    {
+        "ID": 328,
+        "deckGroup": 1020,
+        "npcUnitId": 401202801
+    },
+    {
+        "ID": 329,
+        "deckGroup": 1020,
+        "npcUnitId": 401202901
+    },
+    {
+        "ID": 330,
+        "deckGroup": 1020,
+        "npcUnitId": 401203001
+    },
+    {
+        "ID": 331,
+        "deckGroup": 1022,
+        "npcUnitId": 401220101
+    },
+    {
+        "ID": 332,
+        "deckGroup": 1022,
+        "npcUnitId": 401220201
+    },
+    {
+        "ID": 333,
+        "deckGroup": 1022,
+        "npcUnitId": 401220301
+    },
+    {
+        "ID": 334,
+        "deckGroup": 1022,
+        "npcUnitId": 401220401
+    },
+    {
+        "ID": 335,
+        "deckGroup": 1022,
+        "npcUnitId": 401220501
+    },
+    {
+        "ID": 336,
+        "deckGroup": 1022,
+        "npcUnitId": 401220601
+    },
+    {
+        "ID": 337,
+        "deckGroup": 1022,
+        "npcUnitId": 401220701
+    },
+    {
+        "ID": 338,
+        "deckGroup": 1022,
+        "npcUnitId": 401220801
+    },
+    {
+        "ID": 339,
+        "deckGroup": 1022,
+        "npcUnitId": 401220901
+    },
+    {
+        "ID": 340,
+        "deckGroup": 1022,
+        "npcUnitId": 401221001
+    },
+    {
+        "ID": 341,
+        "deckGroup": 1022,
+        "npcUnitId": 401221101
+    },
+    {
+        "ID": 342,
+        "deckGroup": 1022,
+        "npcUnitId": 401221201
+    },
+    {
+        "ID": 343,
+        "deckGroup": 1022,
+        "npcUnitId": 401221301
+    },
+    {
+        "ID": 344,
+        "deckGroup": 1022,
+        "npcUnitId": 401221401
+    },
+    {
+        "ID": 345,
+        "deckGroup": 1022,
+        "npcUnitId": 401221501
+    },
+    {
+        "ID": 346,
+        "deckGroup": 1022,
+        "npcUnitId": 401221601
+    },
+    {
+        "ID": 347,
+        "deckGroup": 1022,
+        "npcUnitId": 401221701
+    },
+    {
+        "ID": 348,
+        "deckGroup": 1022,
+        "npcUnitId": 401221801
+    },
+    {
+        "ID": 349,
+        "deckGroup": 1022,
+        "npcUnitId": 401221901
+    },
+    {
+        "ID": 350,
+        "deckGroup": 1022,
+        "npcUnitId": 401222001
+    },
+    {
+        "ID": 351,
+        "deckGroup": 1022,
+        "npcUnitId": 401222101
+    },
+    {
+        "ID": 352,
+        "deckGroup": 1022,
+        "npcUnitId": 401222201
+    },
+    {
+        "ID": 353,
+        "deckGroup": 1022,
+        "npcUnitId": 401222301
+    },
+    {
+        "ID": 354,
+        "deckGroup": 1022,
+        "npcUnitId": 401222401
+    },
+    {
+        "ID": 355,
+        "deckGroup": 1022,
+        "npcUnitId": 401222501
+    },
+    {
+        "ID": 356,
+        "deckGroup": 1022,
+        "npcUnitId": 401222601
+    },
+    {
+        "ID": 357,
+        "deckGroup": 1022,
+        "npcUnitId": 401222701
+    },
+    {
+        "ID": 358,
+        "deckGroup": 1022,
+        "npcUnitId": 401222801
+    },
+    {
+        "ID": 359,
+        "deckGroup": 1022,
+        "npcUnitId": 401222901
+    },
+    {
+        "ID": 360,
+        "deckGroup": 1022,
+        "npcUnitId": 401223001
+    },
+    {
+        "ID": 361,
+        "deckGroup": 1024,
+        "npcUnitId": 401240101
+    },
+    {
+        "ID": 362,
+        "deckGroup": 1024,
+        "npcUnitId": 401240201
+    },
+    {
+        "ID": 363,
+        "deckGroup": 1024,
+        "npcUnitId": 401240301
+    },
+    {
+        "ID": 364,
+        "deckGroup": 1024,
+        "npcUnitId": 401240401
+    },
+    {
+        "ID": 365,
+        "deckGroup": 1024,
+        "npcUnitId": 401240501
+    },
+    {
+        "ID": 366,
+        "deckGroup": 1024,
+        "npcUnitId": 401240601
+    },
+    {
+        "ID": 367,
+        "deckGroup": 1024,
+        "npcUnitId": 401240701
+    },
+    {
+        "ID": 368,
+        "deckGroup": 1024,
+        "npcUnitId": 401240801
+    },
+    {
+        "ID": 369,
+        "deckGroup": 1024,
+        "npcUnitId": 401240901
+    },
+    {
+        "ID": 370,
+        "deckGroup": 1024,
+        "npcUnitId": 401241001
+    },
+    {
+        "ID": 371,
+        "deckGroup": 1024,
+        "npcUnitId": 401241101
+    },
+    {
+        "ID": 372,
+        "deckGroup": 1024,
+        "npcUnitId": 401241201
+    },
+    {
+        "ID": 373,
+        "deckGroup": 1024,
+        "npcUnitId": 401241301
+    },
+    {
+        "ID": 374,
+        "deckGroup": 1024,
+        "npcUnitId": 401241401
+    },
+    {
+        "ID": 375,
+        "deckGroup": 1024,
+        "npcUnitId": 401241501
+    },
+    {
+        "ID": 376,
+        "deckGroup": 1024,
+        "npcUnitId": 401241601
+    },
+    {
+        "ID": 377,
+        "deckGroup": 1024,
+        "npcUnitId": 401241701
+    },
+    {
+        "ID": 378,
+        "deckGroup": 1024,
+        "npcUnitId": 401241801
+    },
+    {
+        "ID": 379,
+        "deckGroup": 1024,
+        "npcUnitId": 401241901
+    },
+    {
+        "ID": 380,
+        "deckGroup": 1024,
+        "npcUnitId": 401242001
+    },
+    {
+        "ID": 381,
+        "deckGroup": 1024,
+        "npcUnitId": 401242101
+    },
+    {
+        "ID": 382,
+        "deckGroup": 1024,
+        "npcUnitId": 401242201
+    },
+    {
+        "ID": 383,
+        "deckGroup": 1024,
+        "npcUnitId": 401242301
+    },
+    {
+        "ID": 384,
+        "deckGroup": 1024,
+        "npcUnitId": 401242401
+    },
+    {
+        "ID": 385,
+        "deckGroup": 1024,
+        "npcUnitId": 401242501
+    },
+    {
+        "ID": 386,
+        "deckGroup": 1024,
+        "npcUnitId": 401242601
+    },
+    {
+        "ID": 387,
+        "deckGroup": 1024,
+        "npcUnitId": 401242701
+    },
+    {
+        "ID": 388,
+        "deckGroup": 1024,
+        "npcUnitId": 401242801
+    },
+    {
+        "ID": 389,
+        "deckGroup": 1024,
+        "npcUnitId": 401242901
+    },
+    {
+        "ID": 390,
+        "deckGroup": 1024,
+        "npcUnitId": 401243001
+    },
+    {
+        "ID": 391,
+        "deckGroup": 1026,
+        "npcUnitId": 401260101
+    },
+    {
+        "ID": 392,
+        "deckGroup": 1026,
+        "npcUnitId": 401260201
+    },
+    {
+        "ID": 393,
+        "deckGroup": 1026,
+        "npcUnitId": 401260301
+    },
+    {
+        "ID": 394,
+        "deckGroup": 1026,
+        "npcUnitId": 401260401
+    },
+    {
+        "ID": 395,
+        "deckGroup": 1026,
+        "npcUnitId": 401260501
+    },
+    {
+        "ID": 396,
+        "deckGroup": 1026,
+        "npcUnitId": 401260601
+    },
+    {
+        "ID": 397,
+        "deckGroup": 1026,
+        "npcUnitId": 401260701
+    },
+    {
+        "ID": 398,
+        "deckGroup": 1026,
+        "npcUnitId": 401260801
+    },
+    {
+        "ID": 399,
+        "deckGroup": 1026,
+        "npcUnitId": 401260901
+    },
+    {
+        "ID": 400,
+        "deckGroup": 1026,
+        "npcUnitId": 401261001
+    },
+    {
+        "ID": 401,
+        "deckGroup": 1026,
+        "npcUnitId": 401261101
+    },
+    {
+        "ID": 402,
+        "deckGroup": 1026,
+        "npcUnitId": 401261201
+    },
+    {
+        "ID": 403,
+        "deckGroup": 1026,
+        "npcUnitId": 401261301
+    },
+    {
+        "ID": 404,
+        "deckGroup": 1026,
+        "npcUnitId": 401261401
+    },
+    {
+        "ID": 405,
+        "deckGroup": 1026,
+        "npcUnitId": 401261501
+    },
+    {
+        "ID": 406,
+        "deckGroup": 1026,
+        "npcUnitId": 401261601
+    },
+    {
+        "ID": 407,
+        "deckGroup": 1026,
+        "npcUnitId": 401261701
+    },
+    {
+        "ID": 408,
+        "deckGroup": 1026,
+        "npcUnitId": 401261801
+    },
+    {
+        "ID": 409,
+        "deckGroup": 1026,
+        "npcUnitId": 401261901
+    },
+    {
+        "ID": 410,
+        "deckGroup": 1026,
+        "npcUnitId": 401262001
+    },
+    {
+        "ID": 411,
+        "deckGroup": 1026,
+        "npcUnitId": 401262101
+    },
+    {
+        "ID": 412,
+        "deckGroup": 1026,
+        "npcUnitId": 401262201
+    },
+    {
+        "ID": 413,
+        "deckGroup": 1026,
+        "npcUnitId": 401262301
+    },
+    {
+        "ID": 414,
+        "deckGroup": 1026,
+        "npcUnitId": 401262401
+    },
+    {
+        "ID": 415,
+        "deckGroup": 1026,
+        "npcUnitId": 401262501
+    },
+    {
+        "ID": 416,
+        "deckGroup": 1026,
+        "npcUnitId": 401262601
+    },
+    {
+        "ID": 417,
+        "deckGroup": 1026,
+        "npcUnitId": 401262701
+    },
+    {
+        "ID": 418,
+        "deckGroup": 1026,
+        "npcUnitId": 401262801
+    },
+    {
+        "ID": 419,
+        "deckGroup": 1026,
+        "npcUnitId": 401262901
+    },
+    {
+        "ID": 420,
+        "deckGroup": 1026,
+        "npcUnitId": 401263001
+    },
+    {
+        "ID": 421,
+        "deckGroup": 1028,
+        "npcUnitId": 401280101
+    },
+    {
+        "ID": 422,
+        "deckGroup": 1028,
+        "npcUnitId": 401280201
+    },
+    {
+        "ID": 423,
+        "deckGroup": 1028,
+        "npcUnitId": 401280301
+    },
+    {
+        "ID": 424,
+        "deckGroup": 1028,
+        "npcUnitId": 401280401
+    },
+    {
+        "ID": 425,
+        "deckGroup": 1028,
+        "npcUnitId": 401280501
+    },
+    {
+        "ID": 426,
+        "deckGroup": 1028,
+        "npcUnitId": 401280601
+    },
+    {
+        "ID": 427,
+        "deckGroup": 1028,
+        "npcUnitId": 401280701
+    },
+    {
+        "ID": 428,
+        "deckGroup": 1028,
+        "npcUnitId": 401280801
+    },
+    {
+        "ID": 429,
+        "deckGroup": 1028,
+        "npcUnitId": 401280901
+    },
+    {
+        "ID": 430,
+        "deckGroup": 1028,
+        "npcUnitId": 401281001
+    },
+    {
+        "ID": 431,
+        "deckGroup": 1028,
+        "npcUnitId": 401281101
+    },
+    {
+        "ID": 432,
+        "deckGroup": 1028,
+        "npcUnitId": 401281201
+    },
+    {
+        "ID": 433,
+        "deckGroup": 1028,
+        "npcUnitId": 401281301
+    },
+    {
+        "ID": 434,
+        "deckGroup": 1028,
+        "npcUnitId": 401281401
+    },
+    {
+        "ID": 435,
+        "deckGroup": 1028,
+        "npcUnitId": 401281501
+    },
+    {
+        "ID": 436,
+        "deckGroup": 1028,
+        "npcUnitId": 401281601
+    },
+    {
+        "ID": 437,
+        "deckGroup": 1028,
+        "npcUnitId": 401281701
+    },
+    {
+        "ID": 438,
+        "deckGroup": 1028,
+        "npcUnitId": 401281801
+    },
+    {
+        "ID": 439,
+        "deckGroup": 1028,
+        "npcUnitId": 401281901
+    },
+    {
+        "ID": 440,
+        "deckGroup": 1028,
+        "npcUnitId": 401282001
+    },
+    {
+        "ID": 441,
+        "deckGroup": 1028,
+        "npcUnitId": 401282101
+    },
+    {
+        "ID": 442,
+        "deckGroup": 1028,
+        "npcUnitId": 401282201
+    },
+    {
+        "ID": 443,
+        "deckGroup": 1028,
+        "npcUnitId": 401282301
+    },
+    {
+        "ID": 444,
+        "deckGroup": 1028,
+        "npcUnitId": 401282401
+    },
+    {
+        "ID": 445,
+        "deckGroup": 1028,
+        "npcUnitId": 401282501
+    },
+    {
+        "ID": 446,
+        "deckGroup": 1028,
+        "npcUnitId": 401282601
+    },
+    {
+        "ID": 447,
+        "deckGroup": 1028,
+        "npcUnitId": 401282701
+    },
+    {
+        "ID": 448,
+        "deckGroup": 1028,
+        "npcUnitId": 401282801
+    },
+    {
+        "ID": 449,
+        "deckGroup": 1028,
+        "npcUnitId": 401282901
+    },
+    {
+        "ID": 450,
+        "deckGroup": 1028,
+        "npcUnitId": 401283001
+    },
+    {
+        "ID": 451,
+        "deckGroup": 1030,
+        "npcUnitId": 401300101
+    },
+    {
+        "ID": 452,
+        "deckGroup": 1030,
+        "npcUnitId": 401300201
+    },
+    {
+        "ID": 453,
+        "deckGroup": 1030,
+        "npcUnitId": 401300301
+    },
+    {
+        "ID": 454,
+        "deckGroup": 1030,
+        "npcUnitId": 401300401
+    },
+    {
+        "ID": 455,
+        "deckGroup": 1030,
+        "npcUnitId": 401300501
+    },
+    {
+        "ID": 456,
+        "deckGroup": 1030,
+        "npcUnitId": 401300601
+    },
+    {
+        "ID": 457,
+        "deckGroup": 1030,
+        "npcUnitId": 401300701
+    },
+    {
+        "ID": 458,
+        "deckGroup": 1030,
+        "npcUnitId": 401300801
+    },
+    {
+        "ID": 459,
+        "deckGroup": 1030,
+        "npcUnitId": 401300901
+    },
+    {
+        "ID": 460,
+        "deckGroup": 1030,
+        "npcUnitId": 401301001
+    },
+    {
+        "ID": 461,
+        "deckGroup": 1030,
+        "npcUnitId": 401301101
+    },
+    {
+        "ID": 462,
+        "deckGroup": 1030,
+        "npcUnitId": 401301201
+    },
+    {
+        "ID": 463,
+        "deckGroup": 1030,
+        "npcUnitId": 401301301
+    },
+    {
+        "ID": 464,
+        "deckGroup": 1030,
+        "npcUnitId": 401301401
+    },
+    {
+        "ID": 465,
+        "deckGroup": 1030,
+        "npcUnitId": 401301501
+    },
+    {
+        "ID": 466,
+        "deckGroup": 1030,
+        "npcUnitId": 401301601
+    },
+    {
+        "ID": 467,
+        "deckGroup": 1030,
+        "npcUnitId": 401301701
+    },
+    {
+        "ID": 468,
+        "deckGroup": 1030,
+        "npcUnitId": 401301801
+    },
+    {
+        "ID": 469,
+        "deckGroup": 1030,
+        "npcUnitId": 401301901
+    },
+    {
+        "ID": 470,
+        "deckGroup": 1030,
+        "npcUnitId": 401302001
+    },
+    {
+        "ID": 471,
+        "deckGroup": 1030,
+        "npcUnitId": 401302101
+    },
+    {
+        "ID": 472,
+        "deckGroup": 1030,
+        "npcUnitId": 401302201
+    },
+    {
+        "ID": 473,
+        "deckGroup": 1030,
+        "npcUnitId": 401302301
+    },
+    {
+        "ID": 474,
+        "deckGroup": 1030,
+        "npcUnitId": 401302401
+    },
+    {
+        "ID": 475,
+        "deckGroup": 1030,
+        "npcUnitId": 401302501
+    },
+    {
+        "ID": 476,
+        "deckGroup": 1030,
+        "npcUnitId": 401302601
+    },
+    {
+        "ID": 477,
+        "deckGroup": 1030,
+        "npcUnitId": 401302701
+    },
+    {
+        "ID": 478,
+        "deckGroup": 1030,
+        "npcUnitId": 401302801
+    },
+    {
+        "ID": 479,
+        "deckGroup": 1030,
+        "npcUnitId": 401302901
+    },
+    {
+        "ID": 480,
+        "deckGroup": 1030,
+        "npcUnitId": 401303001
+    },
+    {
+        "ID": 481,
+        "deckGroup": 1032,
+        "npcUnitId": 401320101
+    },
+    {
+        "ID": 482,
+        "deckGroup": 1032,
+        "npcUnitId": 401320201
+    },
+    {
+        "ID": 483,
+        "deckGroup": 1032,
+        "npcUnitId": 401320301
+    },
+    {
+        "ID": 484,
+        "deckGroup": 1032,
+        "npcUnitId": 401320401
+    },
+    {
+        "ID": 485,
+        "deckGroup": 1032,
+        "npcUnitId": 401320501
+    },
+    {
+        "ID": 486,
+        "deckGroup": 1032,
+        "npcUnitId": 401320601
+    },
+    {
+        "ID": 487,
+        "deckGroup": 1032,
+        "npcUnitId": 401320701
+    },
+    {
+        "ID": 488,
+        "deckGroup": 1032,
+        "npcUnitId": 401320801
+    },
+    {
+        "ID": 489,
+        "deckGroup": 1032,
+        "npcUnitId": 401320901
+    },
+    {
+        "ID": 490,
+        "deckGroup": 1032,
+        "npcUnitId": 401321001
+    },
+    {
+        "ID": 491,
+        "deckGroup": 1032,
+        "npcUnitId": 401321101
+    },
+    {
+        "ID": 492,
+        "deckGroup": 1032,
+        "npcUnitId": 401321201
+    },
+    {
+        "ID": 493,
+        "deckGroup": 1032,
+        "npcUnitId": 401321301
+    },
+    {
+        "ID": 494,
+        "deckGroup": 1032,
+        "npcUnitId": 401321401
+    },
+    {
+        "ID": 495,
+        "deckGroup": 1032,
+        "npcUnitId": 401321501
+    },
+    {
+        "ID": 496,
+        "deckGroup": 1032,
+        "npcUnitId": 401321601
+    },
+    {
+        "ID": 497,
+        "deckGroup": 1032,
+        "npcUnitId": 401321701
+    },
+    {
+        "ID": 498,
+        "deckGroup": 1032,
+        "npcUnitId": 401321801
+    },
+    {
+        "ID": 499,
+        "deckGroup": 1032,
+        "npcUnitId": 401321901
+    },
+    {
+        "ID": 500,
+        "deckGroup": 1032,
+        "npcUnitId": 401322001
+    },
+    {
+        "ID": 501,
+        "deckGroup": 1032,
+        "npcUnitId": 401322101
+    },
+    {
+        "ID": 502,
+        "deckGroup": 1032,
+        "npcUnitId": 401322201
+    },
+    {
+        "ID": 503,
+        "deckGroup": 1032,
+        "npcUnitId": 401322301
+    },
+    {
+        "ID": 504,
+        "deckGroup": 1032,
+        "npcUnitId": 401322401
+    },
+    {
+        "ID": 505,
+        "deckGroup": 1032,
+        "npcUnitId": 401322501
+    },
+    {
+        "ID": 506,
+        "deckGroup": 1032,
+        "npcUnitId": 401322601
+    },
+    {
+        "ID": 507,
+        "deckGroup": 1032,
+        "npcUnitId": 401322701
+    },
+    {
+        "ID": 508,
+        "deckGroup": 1032,
+        "npcUnitId": 401322801
+    },
+    {
+        "ID": 509,
+        "deckGroup": 1032,
+        "npcUnitId": 401322901
+    },
+    {
+        "ID": 510,
+        "deckGroup": 1032,
+        "npcUnitId": 401323001
+    },
+    {
+        "ID": 511,
+        "deckGroup": 1034,
+        "npcUnitId": 401340101
+    },
+    {
+        "ID": 512,
+        "deckGroup": 1034,
+        "npcUnitId": 401340201
+    },
+    {
+        "ID": 513,
+        "deckGroup": 1034,
+        "npcUnitId": 401340301
+    },
+    {
+        "ID": 514,
+        "deckGroup": 1034,
+        "npcUnitId": 401340401
+    },
+    {
+        "ID": 515,
+        "deckGroup": 1034,
+        "npcUnitId": 401340501
+    },
+    {
+        "ID": 516,
+        "deckGroup": 1034,
+        "npcUnitId": 401340601
+    },
+    {
+        "ID": 517,
+        "deckGroup": 1034,
+        "npcUnitId": 401340701
+    },
+    {
+        "ID": 518,
+        "deckGroup": 1034,
+        "npcUnitId": 401340801
+    },
+    {
+        "ID": 519,
+        "deckGroup": 1034,
+        "npcUnitId": 401340901
+    },
+    {
+        "ID": 520,
+        "deckGroup": 1034,
+        "npcUnitId": 401341001
+    },
+    {
+        "ID": 521,
+        "deckGroup": 1034,
+        "npcUnitId": 401341101
+    },
+    {
+        "ID": 522,
+        "deckGroup": 1034,
+        "npcUnitId": 401341201
+    },
+    {
+        "ID": 523,
+        "deckGroup": 1034,
+        "npcUnitId": 401341301
+    },
+    {
+        "ID": 524,
+        "deckGroup": 1034,
+        "npcUnitId": 401341401
+    },
+    {
+        "ID": 525,
+        "deckGroup": 1034,
+        "npcUnitId": 401341501
+    },
+    {
+        "ID": 526,
+        "deckGroup": 1034,
+        "npcUnitId": 401341601
+    },
+    {
+        "ID": 527,
+        "deckGroup": 1034,
+        "npcUnitId": 401341701
+    },
+    {
+        "ID": 528,
+        "deckGroup": 1034,
+        "npcUnitId": 401341801
+    },
+    {
+        "ID": 529,
+        "deckGroup": 1034,
+        "npcUnitId": 401341901
+    },
+    {
+        "ID": 530,
+        "deckGroup": 1034,
+        "npcUnitId": 401342001
+    },
+    {
+        "ID": 531,
+        "deckGroup": 1034,
+        "npcUnitId": 401342101
+    },
+    {
+        "ID": 532,
+        "deckGroup": 1034,
+        "npcUnitId": 401342201
+    },
+    {
+        "ID": 533,
+        "deckGroup": 1034,
+        "npcUnitId": 401342301
+    },
+    {
+        "ID": 534,
+        "deckGroup": 1034,
+        "npcUnitId": 401342401
+    },
+    {
+        "ID": 535,
+        "deckGroup": 1034,
+        "npcUnitId": 401342501
+    },
+    {
+        "ID": 536,
+        "deckGroup": 1034,
+        "npcUnitId": 401342601
+    },
+    {
+        "ID": 537,
+        "deckGroup": 1034,
+        "npcUnitId": 401342701
+    },
+    {
+        "ID": 538,
+        "deckGroup": 1034,
+        "npcUnitId": 401342801
+    },
+    {
+        "ID": 539,
+        "deckGroup": 1034,
+        "npcUnitId": 401342901
+    },
+    {
+        "ID": 540,
+        "deckGroup": 1034,
+        "npcUnitId": 401343001
+    },
+    {
+        "ID": 541,
+        "deckGroup": 1036,
+        "npcUnitId": 401360101
+    },
+    {
+        "ID": 542,
+        "deckGroup": 1036,
+        "npcUnitId": 401360201
+    },
+    {
+        "ID": 543,
+        "deckGroup": 1036,
+        "npcUnitId": 401360301
+    },
+    {
+        "ID": 544,
+        "deckGroup": 1036,
+        "npcUnitId": 401360401
+    },
+    {
+        "ID": 545,
+        "deckGroup": 1036,
+        "npcUnitId": 401360501
+    },
+    {
+        "ID": 546,
+        "deckGroup": 1036,
+        "npcUnitId": 401360601
+    },
+    {
+        "ID": 547,
+        "deckGroup": 1036,
+        "npcUnitId": 401360701
+    },
+    {
+        "ID": 548,
+        "deckGroup": 1036,
+        "npcUnitId": 401360801
+    },
+    {
+        "ID": 549,
+        "deckGroup": 1036,
+        "npcUnitId": 401360901
+    },
+    {
+        "ID": 550,
+        "deckGroup": 1036,
+        "npcUnitId": 401361001
+    },
+    {
+        "ID": 551,
+        "deckGroup": 1036,
+        "npcUnitId": 401361101
+    },
+    {
+        "ID": 552,
+        "deckGroup": 1036,
+        "npcUnitId": 401361201
+    },
+    {
+        "ID": 553,
+        "deckGroup": 1036,
+        "npcUnitId": 401361301
+    },
+    {
+        "ID": 554,
+        "deckGroup": 1036,
+        "npcUnitId": 401361401
+    },
+    {
+        "ID": 555,
+        "deckGroup": 1036,
+        "npcUnitId": 401361501
+    },
+    {
+        "ID": 556,
+        "deckGroup": 1036,
+        "npcUnitId": 401361601
+    },
+    {
+        "ID": 557,
+        "deckGroup": 1036,
+        "npcUnitId": 401361701
+    },
+    {
+        "ID": 558,
+        "deckGroup": 1036,
+        "npcUnitId": 401361801
+    },
+    {
+        "ID": 559,
+        "deckGroup": 1036,
+        "npcUnitId": 401361901
+    },
+    {
+        "ID": 560,
+        "deckGroup": 1036,
+        "npcUnitId": 401362001
+    },
+    {
+        "ID": 561,
+        "deckGroup": 1036,
+        "npcUnitId": 401362101
+    },
+    {
+        "ID": 562,
+        "deckGroup": 1036,
+        "npcUnitId": 401362201
+    },
+    {
+        "ID": 563,
+        "deckGroup": 1036,
+        "npcUnitId": 401362301
+    },
+    {
+        "ID": 564,
+        "deckGroup": 1036,
+        "npcUnitId": 401362401
+    },
+    {
+        "ID": 565,
+        "deckGroup": 1036,
+        "npcUnitId": 401362501
+    },
+    {
+        "ID": 566,
+        "deckGroup": 1036,
+        "npcUnitId": 401362601
+    },
+    {
+        "ID": 567,
+        "deckGroup": 1036,
+        "npcUnitId": 401362701
+    },
+    {
+        "ID": 568,
+        "deckGroup": 1036,
+        "npcUnitId": 401362801
+    },
+    {
+        "ID": 569,
+        "deckGroup": 1036,
+        "npcUnitId": 401362901
+    },
+    {
+        "ID": 570,
+        "deckGroup": 1036,
+        "npcUnitId": 401363001
+    },
+    {
+        "ID": 571,
+        "deckGroup": 1038,
+        "npcUnitId": 401380101
+    },
+    {
+        "ID": 572,
+        "deckGroup": 1038,
+        "npcUnitId": 401380201
+    },
+    {
+        "ID": 573,
+        "deckGroup": 1038,
+        "npcUnitId": 401380301
+    },
+    {
+        "ID": 574,
+        "deckGroup": 1038,
+        "npcUnitId": 401380401
+    },
+    {
+        "ID": 575,
+        "deckGroup": 1038,
+        "npcUnitId": 401380501
+    },
+    {
+        "ID": 576,
+        "deckGroup": 1038,
+        "npcUnitId": 401380601
+    },
+    {
+        "ID": 577,
+        "deckGroup": 1038,
+        "npcUnitId": 401380701
+    },
+    {
+        "ID": 578,
+        "deckGroup": 1038,
+        "npcUnitId": 401380801
+    },
+    {
+        "ID": 579,
+        "deckGroup": 1038,
+        "npcUnitId": 401380901
+    },
+    {
+        "ID": 580,
+        "deckGroup": 1038,
+        "npcUnitId": 401381001
+    },
+    {
+        "ID": 581,
+        "deckGroup": 1038,
+        "npcUnitId": 401381101
+    },
+    {
+        "ID": 582,
+        "deckGroup": 1038,
+        "npcUnitId": 401381201
+    },
+    {
+        "ID": 583,
+        "deckGroup": 1038,
+        "npcUnitId": 401381301
+    },
+    {
+        "ID": 584,
+        "deckGroup": 1038,
+        "npcUnitId": 401381401
+    },
+    {
+        "ID": 585,
+        "deckGroup": 1038,
+        "npcUnitId": 401381501
+    },
+    {
+        "ID": 586,
+        "deckGroup": 1038,
+        "npcUnitId": 401381601
+    },
+    {
+        "ID": 587,
+        "deckGroup": 1038,
+        "npcUnitId": 401381701
+    },
+    {
+        "ID": 588,
+        "deckGroup": 1038,
+        "npcUnitId": 401381801
+    },
+    {
+        "ID": 589,
+        "deckGroup": 1038,
+        "npcUnitId": 401381901
+    },
+    {
+        "ID": 590,
+        "deckGroup": 1038,
+        "npcUnitId": 401382001
+    },
+    {
+        "ID": 591,
+        "deckGroup": 1038,
+        "npcUnitId": 401382101
+    },
+    {
+        "ID": 592,
+        "deckGroup": 1038,
+        "npcUnitId": 401382201
+    },
+    {
+        "ID": 593,
+        "deckGroup": 1038,
+        "npcUnitId": 401382301
+    },
+    {
+        "ID": 594,
+        "deckGroup": 1038,
+        "npcUnitId": 401382401
+    },
+    {
+        "ID": 595,
+        "deckGroup": 1038,
+        "npcUnitId": 401382501
+    },
+    {
+        "ID": 596,
+        "deckGroup": 1038,
+        "npcUnitId": 401382601
+    },
+    {
+        "ID": 597,
+        "deckGroup": 1038,
+        "npcUnitId": 401382701
+    },
+    {
+        "ID": 598,
+        "deckGroup": 1038,
+        "npcUnitId": 401382801
+    },
+    {
+        "ID": 599,
+        "deckGroup": 1038,
+        "npcUnitId": 401382901
+    },
+    {
+        "ID": 600,
+        "deckGroup": 1038,
+        "npcUnitId": 401383001
+    },
+    {
+        "ID": 601,
+        "deckGroup": 1040,
+        "npcUnitId": 401400101
+    },
+    {
+        "ID": 602,
+        "deckGroup": 1040,
+        "npcUnitId": 401400201
+    },
+    {
+        "ID": 603,
+        "deckGroup": 1040,
+        "npcUnitId": 401400301
+    },
+    {
+        "ID": 604,
+        "deckGroup": 1040,
+        "npcUnitId": 401400401
+    },
+    {
+        "ID": 605,
+        "deckGroup": 1040,
+        "npcUnitId": 401400501
+    },
+    {
+        "ID": 606,
+        "deckGroup": 1040,
+        "npcUnitId": 401400601
+    },
+    {
+        "ID": 607,
+        "deckGroup": 1040,
+        "npcUnitId": 401400701
+    },
+    {
+        "ID": 608,
+        "deckGroup": 1040,
+        "npcUnitId": 401400801
+    },
+    {
+        "ID": 609,
+        "deckGroup": 1040,
+        "npcUnitId": 401400901
+    },
+    {
+        "ID": 610,
+        "deckGroup": 1040,
+        "npcUnitId": 401401001
+    },
+    {
+        "ID": 611,
+        "deckGroup": 1040,
+        "npcUnitId": 401401101
+    },
+    {
+        "ID": 612,
+        "deckGroup": 1040,
+        "npcUnitId": 401401201
+    },
+    {
+        "ID": 613,
+        "deckGroup": 1040,
+        "npcUnitId": 401401301
+    },
+    {
+        "ID": 614,
+        "deckGroup": 1040,
+        "npcUnitId": 401401401
+    },
+    {
+        "ID": 615,
+        "deckGroup": 1040,
+        "npcUnitId": 401401501
+    },
+    {
+        "ID": 616,
+        "deckGroup": 1040,
+        "npcUnitId": 401401601
+    },
+    {
+        "ID": 617,
+        "deckGroup": 1040,
+        "npcUnitId": 401401701
+    },
+    {
+        "ID": 618,
+        "deckGroup": 1040,
+        "npcUnitId": 401401801
+    },
+    {
+        "ID": 619,
+        "deckGroup": 1040,
+        "npcUnitId": 401401901
+    },
+    {
+        "ID": 620,
+        "deckGroup": 1040,
+        "npcUnitId": 401402001
+    },
+    {
+        "ID": 621,
+        "deckGroup": 1040,
+        "npcUnitId": 401402101
+    },
+    {
+        "ID": 622,
+        "deckGroup": 1040,
+        "npcUnitId": 401402201
+    },
+    {
+        "ID": 623,
+        "deckGroup": 1040,
+        "npcUnitId": 401402301
+    },
+    {
+        "ID": 624,
+        "deckGroup": 1040,
+        "npcUnitId": 401402401
+    },
+    {
+        "ID": 625,
+        "deckGroup": 1040,
+        "npcUnitId": 401402501
+    },
+    {
+        "ID": 626,
+        "deckGroup": 1040,
+        "npcUnitId": 401402601
+    },
+    {
+        "ID": 627,
+        "deckGroup": 1040,
+        "npcUnitId": 401402701
+    },
+    {
+        "ID": 628,
+        "deckGroup": 1040,
+        "npcUnitId": 401402801
+    },
+    {
+        "ID": 629,
+        "deckGroup": 1040,
+        "npcUnitId": 401402901
+    },
+    {
+        "ID": 630,
+        "deckGroup": 1040,
+        "npcUnitId": 401403001
+    },
+    {
+        "ID": 631,
+        "deckGroup": 1042,
+        "npcUnitId": 401420101
+    },
+    {
+        "ID": 632,
+        "deckGroup": 1042,
+        "npcUnitId": 401420201
+    },
+    {
+        "ID": 633,
+        "deckGroup": 1042,
+        "npcUnitId": 401420301
+    },
+    {
+        "ID": 634,
+        "deckGroup": 1042,
+        "npcUnitId": 401420401
+    },
+    {
+        "ID": 635,
+        "deckGroup": 1042,
+        "npcUnitId": 401420501
+    },
+    {
+        "ID": 636,
+        "deckGroup": 1042,
+        "npcUnitId": 401420601
+    },
+    {
+        "ID": 637,
+        "deckGroup": 1042,
+        "npcUnitId": 401420701
+    },
+    {
+        "ID": 638,
+        "deckGroup": 1042,
+        "npcUnitId": 401420801
+    },
+    {
+        "ID": 639,
+        "deckGroup": 1042,
+        "npcUnitId": 401420901
+    },
+    {
+        "ID": 640,
+        "deckGroup": 1042,
+        "npcUnitId": 401421001
+    },
+    {
+        "ID": 641,
+        "deckGroup": 1042,
+        "npcUnitId": 401421101
+    },
+    {
+        "ID": 642,
+        "deckGroup": 1042,
+        "npcUnitId": 401421201
+    },
+    {
+        "ID": 643,
+        "deckGroup": 1042,
+        "npcUnitId": 401421301
+    },
+    {
+        "ID": 644,
+        "deckGroup": 1042,
+        "npcUnitId": 401421401
+    },
+    {
+        "ID": 645,
+        "deckGroup": 1042,
+        "npcUnitId": 401421501
+    },
+    {
+        "ID": 646,
+        "deckGroup": 1042,
+        "npcUnitId": 401421601
+    },
+    {
+        "ID": 647,
+        "deckGroup": 1042,
+        "npcUnitId": 401421701
+    },
+    {
+        "ID": 648,
+        "deckGroup": 1042,
+        "npcUnitId": 401421801
+    },
+    {
+        "ID": 649,
+        "deckGroup": 1042,
+        "npcUnitId": 401421901
+    },
+    {
+        "ID": 650,
+        "deckGroup": 1042,
+        "npcUnitId": 401422001
+    },
+    {
+        "ID": 651,
+        "deckGroup": 1042,
+        "npcUnitId": 401422101
+    },
+    {
+        "ID": 652,
+        "deckGroup": 1042,
+        "npcUnitId": 401422201
+    },
+    {
+        "ID": 653,
+        "deckGroup": 1042,
+        "npcUnitId": 401422301
+    },
+    {
+        "ID": 654,
+        "deckGroup": 1042,
+        "npcUnitId": 401422401
+    },
+    {
+        "ID": 655,
+        "deckGroup": 1042,
+        "npcUnitId": 401422501
+    },
+    {
+        "ID": 656,
+        "deckGroup": 1042,
+        "npcUnitId": 401422601
+    },
+    {
+        "ID": 657,
+        "deckGroup": 1042,
+        "npcUnitId": 401422701
+    },
+    {
+        "ID": 658,
+        "deckGroup": 1042,
+        "npcUnitId": 401422801
+    },
+    {
+        "ID": 659,
+        "deckGroup": 1042,
+        "npcUnitId": 401422901
+    },
+    {
+        "ID": 660,
+        "deckGroup": 1042,
+        "npcUnitId": 401423001
+    },
+    {
+        "ID": 661,
+        "deckGroup": 1044,
+        "npcUnitId": 401440101
+    },
+    {
+        "ID": 662,
+        "deckGroup": 1044,
+        "npcUnitId": 401440201
+    },
+    {
+        "ID": 663,
+        "deckGroup": 1044,
+        "npcUnitId": 401440301
+    },
+    {
+        "ID": 664,
+        "deckGroup": 1044,
+        "npcUnitId": 401440401
+    },
+    {
+        "ID": 665,
+        "deckGroup": 1044,
+        "npcUnitId": 401440501
+    },
+    {
+        "ID": 666,
+        "deckGroup": 1044,
+        "npcUnitId": 401440601
+    },
+    {
+        "ID": 667,
+        "deckGroup": 1044,
+        "npcUnitId": 401440701
+    },
+    {
+        "ID": 668,
+        "deckGroup": 1044,
+        "npcUnitId": 401440801
+    },
+    {
+        "ID": 669,
+        "deckGroup": 1044,
+        "npcUnitId": 401440901
+    },
+    {
+        "ID": 670,
+        "deckGroup": 1044,
+        "npcUnitId": 401441001
+    },
+    {
+        "ID": 671,
+        "deckGroup": 1044,
+        "npcUnitId": 401441101
+    },
+    {
+        "ID": 672,
+        "deckGroup": 1044,
+        "npcUnitId": 401441201
+    },
+    {
+        "ID": 673,
+        "deckGroup": 1044,
+        "npcUnitId": 401441301
+    },
+    {
+        "ID": 674,
+        "deckGroup": 1044,
+        "npcUnitId": 401441401
+    },
+    {
+        "ID": 675,
+        "deckGroup": 1044,
+        "npcUnitId": 401441501
+    },
+    {
+        "ID": 676,
+        "deckGroup": 1044,
+        "npcUnitId": 401441601
+    },
+    {
+        "ID": 677,
+        "deckGroup": 1044,
+        "npcUnitId": 401441701
+    },
+    {
+        "ID": 678,
+        "deckGroup": 1044,
+        "npcUnitId": 401441801
+    },
+    {
+        "ID": 679,
+        "deckGroup": 1044,
+        "npcUnitId": 401441901
+    },
+    {
+        "ID": 680,
+        "deckGroup": 1044,
+        "npcUnitId": 401442001
+    },
+    {
+        "ID": 681,
+        "deckGroup": 1044,
+        "npcUnitId": 401442101
+    },
+    {
+        "ID": 682,
+        "deckGroup": 1044,
+        "npcUnitId": 401442201
+    },
+    {
+        "ID": 683,
+        "deckGroup": 1044,
+        "npcUnitId": 401442301
+    },
+    {
+        "ID": 684,
+        "deckGroup": 1044,
+        "npcUnitId": 401442401
+    },
+    {
+        "ID": 685,
+        "deckGroup": 1044,
+        "npcUnitId": 401442501
+    },
+    {
+        "ID": 686,
+        "deckGroup": 1044,
+        "npcUnitId": 401442601
+    },
+    {
+        "ID": 687,
+        "deckGroup": 1044,
+        "npcUnitId": 401442701
+    },
+    {
+        "ID": 688,
+        "deckGroup": 1044,
+        "npcUnitId": 401442801
+    },
+    {
+        "ID": 689,
+        "deckGroup": 1044,
+        "npcUnitId": 401442901
+    },
+    {
+        "ID": 690,
+        "deckGroup": 1044,
+        "npcUnitId": 401443001
+    },
+    {
+        "ID": 691,
+        "deckGroup": 1046,
+        "npcUnitId": 401460101
+    },
+    {
+        "ID": 692,
+        "deckGroup": 1046,
+        "npcUnitId": 401460201
+    },
+    {
+        "ID": 693,
+        "deckGroup": 1046,
+        "npcUnitId": 401460301
+    },
+    {
+        "ID": 694,
+        "deckGroup": 1046,
+        "npcUnitId": 401460401
+    },
+    {
+        "ID": 695,
+        "deckGroup": 1046,
+        "npcUnitId": 401460501
+    },
+    {
+        "ID": 696,
+        "deckGroup": 1046,
+        "npcUnitId": 401460601
+    },
+    {
+        "ID": 697,
+        "deckGroup": 1046,
+        "npcUnitId": 401460701
+    },
+    {
+        "ID": 698,
+        "deckGroup": 1046,
+        "npcUnitId": 401460801
+    },
+    {
+        "ID": 699,
+        "deckGroup": 1046,
+        "npcUnitId": 401460901
+    },
+    {
+        "ID": 700,
+        "deckGroup": 1046,
+        "npcUnitId": 401461001
+    },
+    {
+        "ID": 701,
+        "deckGroup": 1046,
+        "npcUnitId": 401461101
+    },
+    {
+        "ID": 702,
+        "deckGroup": 1046,
+        "npcUnitId": 401461201
+    },
+    {
+        "ID": 703,
+        "deckGroup": 1046,
+        "npcUnitId": 401461301
+    },
+    {
+        "ID": 704,
+        "deckGroup": 1046,
+        "npcUnitId": 401461401
+    },
+    {
+        "ID": 705,
+        "deckGroup": 1046,
+        "npcUnitId": 401461501
+    },
+    {
+        "ID": 706,
+        "deckGroup": 1046,
+        "npcUnitId": 401461601
+    },
+    {
+        "ID": 707,
+        "deckGroup": 1046,
+        "npcUnitId": 401461701
+    },
+    {
+        "ID": 708,
+        "deckGroup": 1046,
+        "npcUnitId": 401461801
+    },
+    {
+        "ID": 709,
+        "deckGroup": 1046,
+        "npcUnitId": 401461901
+    },
+    {
+        "ID": 710,
+        "deckGroup": 1046,
+        "npcUnitId": 401462001
+    },
+    {
+        "ID": 711,
+        "deckGroup": 1046,
+        "npcUnitId": 401462101
+    },
+    {
+        "ID": 712,
+        "deckGroup": 1046,
+        "npcUnitId": 401462201
+    },
+    {
+        "ID": 713,
+        "deckGroup": 1046,
+        "npcUnitId": 401462301
+    },
+    {
+        "ID": 714,
+        "deckGroup": 1046,
+        "npcUnitId": 401462401
+    },
+    {
+        "ID": 715,
+        "deckGroup": 1046,
+        "npcUnitId": 401462501
+    },
+    {
+        "ID": 716,
+        "deckGroup": 1046,
+        "npcUnitId": 401462601
+    },
+    {
+        "ID": 717,
+        "deckGroup": 1046,
+        "npcUnitId": 401462701
+    },
+    {
+        "ID": 718,
+        "deckGroup": 1046,
+        "npcUnitId": 401462801
+    },
+    {
+        "ID": 719,
+        "deckGroup": 1046,
+        "npcUnitId": 401462901
+    },
+    {
+        "ID": 720,
+        "deckGroup": 1046,
+        "npcUnitId": 401463001
+    },
+    {
+        "ID": 721,
+        "deckGroup": 1048,
+        "npcUnitId": 401480101
+    },
+    {
+        "ID": 722,
+        "deckGroup": 1048,
+        "npcUnitId": 401480201
+    },
+    {
+        "ID": 723,
+        "deckGroup": 1048,
+        "npcUnitId": 401480301
+    },
+    {
+        "ID": 724,
+        "deckGroup": 1048,
+        "npcUnitId": 401480401
+    },
+    {
+        "ID": 725,
+        "deckGroup": 1048,
+        "npcUnitId": 401480501
+    },
+    {
+        "ID": 726,
+        "deckGroup": 1048,
+        "npcUnitId": 401480601
+    },
+    {
+        "ID": 727,
+        "deckGroup": 1048,
+        "npcUnitId": 401480701
+    },
+    {
+        "ID": 728,
+        "deckGroup": 1048,
+        "npcUnitId": 401480801
+    },
+    {
+        "ID": 729,
+        "deckGroup": 1048,
+        "npcUnitId": 401480901
+    },
+    {
+        "ID": 730,
+        "deckGroup": 1048,
+        "npcUnitId": 401481001
+    },
+    {
+        "ID": 731,
+        "deckGroup": 1048,
+        "npcUnitId": 401481101
+    },
+    {
+        "ID": 732,
+        "deckGroup": 1048,
+        "npcUnitId": 401481201
+    },
+    {
+        "ID": 733,
+        "deckGroup": 1048,
+        "npcUnitId": 401481301
+    },
+    {
+        "ID": 734,
+        "deckGroup": 1048,
+        "npcUnitId": 401481401
+    },
+    {
+        "ID": 735,
+        "deckGroup": 1048,
+        "npcUnitId": 401481501
+    },
+    {
+        "ID": 736,
+        "deckGroup": 1048,
+        "npcUnitId": 401481601
+    },
+    {
+        "ID": 737,
+        "deckGroup": 1048,
+        "npcUnitId": 401481701
+    },
+    {
+        "ID": 738,
+        "deckGroup": 1048,
+        "npcUnitId": 401481801
+    },
+    {
+        "ID": 739,
+        "deckGroup": 1048,
+        "npcUnitId": 401481901
+    },
+    {
+        "ID": 740,
+        "deckGroup": 1048,
+        "npcUnitId": 401482001
+    },
+    {
+        "ID": 741,
+        "deckGroup": 1048,
+        "npcUnitId": 401482101
+    },
+    {
+        "ID": 742,
+        "deckGroup": 1048,
+        "npcUnitId": 401482201
+    },
+    {
+        "ID": 743,
+        "deckGroup": 1048,
+        "npcUnitId": 401482301
+    },
+    {
+        "ID": 744,
+        "deckGroup": 1048,
+        "npcUnitId": 401482401
+    },
+    {
+        "ID": 745,
+        "deckGroup": 1048,
+        "npcUnitId": 401482501
+    },
+    {
+        "ID": 746,
+        "deckGroup": 1048,
+        "npcUnitId": 401482601
+    },
+    {
+        "ID": 747,
+        "deckGroup": 1048,
+        "npcUnitId": 401482701
+    },
+    {
+        "ID": 748,
+        "deckGroup": 1048,
+        "npcUnitId": 401482801
+    },
+    {
+        "ID": 749,
+        "deckGroup": 1048,
+        "npcUnitId": 401482901
+    },
+    {
+        "ID": 750,
+        "deckGroup": 1048,
+        "npcUnitId": 401483001
+    },
+    {
+        "ID": 751,
+        "deckGroup": 1050,
+        "npcUnitId": 401500101
+    },
+    {
+        "ID": 752,
+        "deckGroup": 1050,
+        "npcUnitId": 401500201
+    },
+    {
+        "ID": 753,
+        "deckGroup": 1050,
+        "npcUnitId": 401500301
+    },
+    {
+        "ID": 754,
+        "deckGroup": 1050,
+        "npcUnitId": 401500401
+    },
+    {
+        "ID": 755,
+        "deckGroup": 1050,
+        "npcUnitId": 401500501
+    },
+    {
+        "ID": 756,
+        "deckGroup": 1050,
+        "npcUnitId": 401500601
+    },
+    {
+        "ID": 757,
+        "deckGroup": 1050,
+        "npcUnitId": 401500701
+    },
+    {
+        "ID": 758,
+        "deckGroup": 1050,
+        "npcUnitId": 401500801
+    },
+    {
+        "ID": 759,
+        "deckGroup": 1050,
+        "npcUnitId": 401500901
+    },
+    {
+        "ID": 760,
+        "deckGroup": 1050,
+        "npcUnitId": 401501001
+    },
+    {
+        "ID": 761,
+        "deckGroup": 1050,
+        "npcUnitId": 401501101
+    },
+    {
+        "ID": 762,
+        "deckGroup": 1050,
+        "npcUnitId": 401501201
+    },
+    {
+        "ID": 763,
+        "deckGroup": 1050,
+        "npcUnitId": 401501301
+    },
+    {
+        "ID": 764,
+        "deckGroup": 1050,
+        "npcUnitId": 401501401
+    },
+    {
+        "ID": 765,
+        "deckGroup": 1050,
+        "npcUnitId": 401501501
+    },
+    {
+        "ID": 766,
+        "deckGroup": 1050,
+        "npcUnitId": 401501601
+    },
+    {
+        "ID": 767,
+        "deckGroup": 1050,
+        "npcUnitId": 401501701
+    },
+    {
+        "ID": 768,
+        "deckGroup": 1050,
+        "npcUnitId": 401501801
+    },
+    {
+        "ID": 769,
+        "deckGroup": 1050,
+        "npcUnitId": 401501901
+    },
+    {
+        "ID": 770,
+        "deckGroup": 1050,
+        "npcUnitId": 401502001
+    },
+    {
+        "ID": 771,
+        "deckGroup": 1050,
+        "npcUnitId": 401502101
+    },
+    {
+        "ID": 772,
+        "deckGroup": 1050,
+        "npcUnitId": 401502201
+    },
+    {
+        "ID": 773,
+        "deckGroup": 1050,
+        "npcUnitId": 401502301
+    },
+    {
+        "ID": 774,
+        "deckGroup": 1050,
+        "npcUnitId": 401502401
+    },
+    {
+        "ID": 775,
+        "deckGroup": 1050,
+        "npcUnitId": 401502501
+    },
+    {
+        "ID": 776,
+        "deckGroup": 1050,
+        "npcUnitId": 401502601
+    },
+    {
+        "ID": 777,
+        "deckGroup": 1050,
+        "npcUnitId": 401502701
+    },
+    {
+        "ID": 778,
+        "deckGroup": 1050,
+        "npcUnitId": 401502801
+    },
+    {
+        "ID": 779,
+        "deckGroup": 1050,
+        "npcUnitId": 401502901
+    },
+    {
+        "ID": 780,
+        "deckGroup": 1050,
+        "npcUnitId": 401503001
+    }
+]

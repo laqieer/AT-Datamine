@@ -1,0 +1,200 @@
+[
+    {
+        "ID": 1,
+        "itemID": 103060211,
+        "itemType": 22,
+        "usageNameID1": 2,
+        "usageNameID2": 0,
+        "usageNameID3": 0,
+        "usageNameID4": 0,
+        "usageNameID5": 0,
+        "usageNameID6": 0
+    },
+    {
+        "ID": 2,
+        "itemID": 103060222,
+        "itemType": 22,
+        "usageNameID1": 2,
+        "usageNameID2": 0,
+        "usageNameID3": 0,
+        "usageNameID4": 0,
+        "usageNameID5": 0,
+        "usageNameID6": 0
+    },
+    {
+        "ID": 3,
+        "itemID": 103060223,
+        "itemType": 22,
+        "usageNameID1": 2,
+        "usageNameID2": 0,
+        "usageNameID3": 0,
+        "usageNameID4": 0,
+        "usageNameID5": 0,
+        "usageNameID6": 0
+    },
+    {
+        "ID": 4,
+        "itemID": 103060224,
+        "itemType": 22,
+        "usageNameID1": 2,
+        "usageNameID2": 0,
+        "usageNameID3": 0,
+        "usageNameID4": 0,
+        "usageNameID5": 0,
+        "usageNameID6": 0
+    },
+    {
+        "ID": 5,
+        "itemID": 103060042,
+        "itemType": 22,
+        "usageNameID1": 2,
+        "usageNameID2": 0,
+        "usageNameID3": 0,
+        "usageNameID4": 0,
+        "usageNameID5": 0,
+        "usageNameID6": 0
+    },
+    {
+        "ID": 6,
+        "itemID": 103060043,
+        "itemType": 22,
+        "usageNameID1": 2,
+        "usageNameID2": 0,
+        "usageNameID3": 0,
+        "usageNameID4": 0,
+        "usageNameID5": 0,
+        "usageNameID6": 0
+    },
+    {
+        "ID": 7,
+        "itemID": 103030041,
+        "itemType": 22,
+        "usageNameID1": 2,
+        "usageNameID2": 0,
+        "usageNameID3": 0,
+        "usageNameID4": 0,
+        "usageNameID5": 0,
+        "usageNameID6": 0
+    },
+    {
+        "ID": 8,
+        "itemID": 103030042,
+        "itemType": 22,
+        "usageNameID1": 2,
+        "usageNameID2": 0,
+        "usageNameID3": 0,
+        "usageNameID4": 0,
+        "usageNameID5": 0,
+        "usageNameID6": 0
+    },
+    {
+        "ID": 9,
+        "itemID": 103030043,
+        "itemType": 22,
+        "usageNameID1": 2,
+        "usageNameID2": 0,
+        "usageNameID3": 0,
+        "usageNameID4": 0,
+        "usageNameID5": 0,
+        "usageNameID6": 0
+    },
+    {
+        "ID": 10,
+        "itemID": 103030044,
+        "itemType": 22,
+        "usageNameID1": 2,
+        "usageNameID2": 0,
+        "usageNameID3": 0,
+        "usageNameID4": 0,
+        "usageNameID5": 0,
+        "usageNameID6": 0
+    },
+    {
+        "ID": 11,
+        "itemID": 103030045,
+        "itemType": 22,
+        "usageNameID1": 2,
+        "usageNameID2": 0,
+        "usageNameID3": 0,
+        "usageNameID4": 0,
+        "usageNameID5": 0,
+        "usageNameID6": 0
+    },
+    {
+        "ID": 12,
+        "itemID": 103040021,
+        "itemType": 22,
+        "usageNameID1": 2,
+        "usageNameID2": 0,
+        "usageNameID3": 0,
+        "usageNameID4": 0,
+        "usageNameID5": 0,
+        "usageNameID6": 0
+    },
+    {
+        "ID": 13,
+        "itemID": 103040022,
+        "itemType": 22,
+        "usageNameID1": 2,
+        "usageNameID2": 0,
+        "usageNameID3": 0,
+        "usageNameID4": 0,
+        "usageNameID5": 0,
+        "usageNameID6": 0
+    },
+    {
+        "ID": 14,
+        "itemID": 201130001,
+        "itemType": 1,
+        "usageNameID1": 1,
+        "usageNameID2": 5,
+        "usageNameID3": 0,
+        "usageNameID4": 0,
+        "usageNameID5": 0,
+        "usageNameID6": 0
+    },
+    {
+        "ID": 15,
+        "itemID": 201120001,
+        "itemType": 1,
+        "usageNameID1": 1,
+        "usageNameID2": 0,
+        "usageNameID3": 0,
+        "usageNameID4": 0,
+        "usageNameID5": 0,
+        "usageNameID6": 0
+    },
+    {
+        "ID": 16,
+        "itemID": 101009001,
+        "itemType": 5,
+        "usageNameID1": 6,
+        "usageNameID2": 7,
+        "usageNameID3": 0,
+        "usageNameID4": 0,
+        "usageNameID5": 0,
+        "usageNameID6": 0
+    },
+    {
+        "ID": 17,
+        "itemID": 101010001,
+        "itemType": 5,
+        "usageNameID1": 6,
+        "usageNameID2": 7,
+        "usageNameID3": 0,
+        "usageNameID4": 0,
+        "usageNameID5": 0,
+        "usageNameID6": 0
+    },
+    {
+        "ID": 18,
+        "itemID": 101010001,
+        "itemType": 18,
+        "usageNameID1": 6,
+        "usageNameID2": 3,
+        "usageNameID3": 0,
+        "usageNameID4": 0,
+        "usageNameID5": 0,
+        "usageNameID6": 0
+    }
+]

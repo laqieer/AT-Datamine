@@ -1,0 +1,5252 @@
+[
+    {
+        "ID": 1,
+        "bossDescriptionID": 1,
+        "bossRewardID": 1
+    },
+    {
+        "ID": 2,
+        "bossDescriptionID": 1,
+        "bossRewardID": 2
+    },
+    {
+        "ID": 3,
+        "bossDescriptionID": 1,
+        "bossRewardID": 3
+    },
+    {
+        "ID": 4,
+        "bossDescriptionID": 2,
+        "bossRewardID": 4
+    },
+    {
+        "ID": 5,
+        "bossDescriptionID": 2,
+        "bossRewardID": 5
+    },
+    {
+        "ID": 6,
+        "bossDescriptionID": 2,
+        "bossRewardID": 6
+    },
+    {
+        "ID": 7,
+        "bossDescriptionID": 3,
+        "bossRewardID": 7
+    },
+    {
+        "ID": 8,
+        "bossDescriptionID": 3,
+        "bossRewardID": 8
+    },
+    {
+        "ID": 9,
+        "bossDescriptionID": 3,
+        "bossRewardID": 9
+    },
+    {
+        "ID": 10,
+        "bossDescriptionID": 4,
+        "bossRewardID": 10
+    },
+    {
+        "ID": 11,
+        "bossDescriptionID": 4,
+        "bossRewardID": 11
+    },
+    {
+        "ID": 12,
+        "bossDescriptionID": 4,
+        "bossRewardID": 12
+    },
+    {
+        "ID": 13,
+        "bossDescriptionID": 5,
+        "bossRewardID": 13
+    },
+    {
+        "ID": 14,
+        "bossDescriptionID": 5,
+        "bossRewardID": 14
+    },
+    {
+        "ID": 15,
+        "bossDescriptionID": 5,
+        "bossRewardID": 15
+    },
+    {
+        "ID": 16,
+        "bossDescriptionID": 6,
+        "bossRewardID": 16
+    },
+    {
+        "ID": 17,
+        "bossDescriptionID": 6,
+        "bossRewardID": 17
+    },
+    {
+        "ID": 18,
+        "bossDescriptionID": 6,
+        "bossRewardID": 18
+    },
+    {
+        "ID": 20,
+        "bossDescriptionID": 6,
+        "bossRewardID": 20
+    },
+    {
+        "ID": 21,
+        "bossDescriptionID": 7,
+        "bossRewardID": 21
+    },
+    {
+        "ID": 22,
+        "bossDescriptionID": 7,
+        "bossRewardID": 22
+    },
+    {
+        "ID": 23,
+        "bossDescriptionID": 7,
+        "bossRewardID": 23
+    },
+    {
+        "ID": 25,
+        "bossDescriptionID": 7,
+        "bossRewardID": 25
+    },
+    {
+        "ID": 26,
+        "bossDescriptionID": 8,
+        "bossRewardID": 26
+    },
+    {
+        "ID": 27,
+        "bossDescriptionID": 8,
+        "bossRewardID": 27
+    },
+    {
+        "ID": 28,
+        "bossDescriptionID": 8,
+        "bossRewardID": 28
+    },
+    {
+        "ID": 30,
+        "bossDescriptionID": 8,
+        "bossRewardID": 30
+    },
+    {
+        "ID": 31,
+        "bossDescriptionID": 9,
+        "bossRewardID": 31
+    },
+    {
+        "ID": 32,
+        "bossDescriptionID": 9,
+        "bossRewardID": 32
+    },
+    {
+        "ID": 33,
+        "bossDescriptionID": 9,
+        "bossRewardID": 33
+    },
+    {
+        "ID": 35,
+        "bossDescriptionID": 9,
+        "bossRewardID": 35
+    },
+    {
+        "ID": 36,
+        "bossDescriptionID": 10,
+        "bossRewardID": 36
+    },
+    {
+        "ID": 37,
+        "bossDescriptionID": 10,
+        "bossRewardID": 37
+    },
+    {
+        "ID": 38,
+        "bossDescriptionID": 10,
+        "bossRewardID": 38
+    },
+    {
+        "ID": 40,
+        "bossDescriptionID": 10,
+        "bossRewardID": 40
+    },
+    {
+        "ID": 41,
+        "bossDescriptionID": 11,
+        "bossRewardID": 41
+    },
+    {
+        "ID": 42,
+        "bossDescriptionID": 11,
+        "bossRewardID": 42
+    },
+    {
+        "ID": 43,
+        "bossDescriptionID": 11,
+        "bossRewardID": 43
+    },
+    {
+        "ID": 45,
+        "bossDescriptionID": 11,
+        "bossRewardID": 45
+    },
+    {
+        "ID": 46,
+        "bossDescriptionID": 12,
+        "bossRewardID": 46
+    },
+    {
+        "ID": 47,
+        "bossDescriptionID": 12,
+        "bossRewardID": 47
+    },
+    {
+        "ID": 48,
+        "bossDescriptionID": 12,
+        "bossRewardID": 48
+    },
+    {
+        "ID": 50,
+        "bossDescriptionID": 12,
+        "bossRewardID": 50
+    },
+    {
+        "ID": 51,
+        "bossDescriptionID": 13,
+        "bossRewardID": 51
+    },
+    {
+        "ID": 52,
+        "bossDescriptionID": 13,
+        "bossRewardID": 52
+    },
+    {
+        "ID": 53,
+        "bossDescriptionID": 13,
+        "bossRewardID": 53
+    },
+    {
+        "ID": 55,
+        "bossDescriptionID": 13,
+        "bossRewardID": 55
+    },
+    {
+        "ID": 56,
+        "bossDescriptionID": 14,
+        "bossRewardID": 56
+    },
+    {
+        "ID": 57,
+        "bossDescriptionID": 14,
+        "bossRewardID": 57
+    },
+    {
+        "ID": 58,
+        "bossDescriptionID": 14,
+        "bossRewardID": 58
+    },
+    {
+        "ID": 60,
+        "bossDescriptionID": 14,
+        "bossRewardID": 60
+    },
+    {
+        "ID": 61,
+        "bossDescriptionID": 15,
+        "bossRewardID": 61
+    },
+    {
+        "ID": 62,
+        "bossDescriptionID": 15,
+        "bossRewardID": 62
+    },
+    {
+        "ID": 63,
+        "bossDescriptionID": 15,
+        "bossRewardID": 63
+    },
+    {
+        "ID": 65,
+        "bossDescriptionID": 15,
+        "bossRewardID": 65
+    },
+    {
+        "ID": 66,
+        "bossDescriptionID": 16,
+        "bossRewardID": 66
+    },
+    {
+        "ID": 67,
+        "bossDescriptionID": 16,
+        "bossRewardID": 67
+    },
+    {
+        "ID": 68,
+        "bossDescriptionID": 16,
+        "bossRewardID": 68
+    },
+    {
+        "ID": 70,
+        "bossDescriptionID": 16,
+        "bossRewardID": 70
+    },
+    {
+        "ID": 71,
+        "bossDescriptionID": 17,
+        "bossRewardID": 71
+    },
+    {
+        "ID": 72,
+        "bossDescriptionID": 17,
+        "bossRewardID": 72
+    },
+    {
+        "ID": 73,
+        "bossDescriptionID": 17,
+        "bossRewardID": 73
+    },
+    {
+        "ID": 75,
+        "bossDescriptionID": 17,
+        "bossRewardID": 75
+    },
+    {
+        "ID": 76,
+        "bossDescriptionID": 18,
+        "bossRewardID": 76
+    },
+    {
+        "ID": 77,
+        "bossDescriptionID": 18,
+        "bossRewardID": 77
+    },
+    {
+        "ID": 78,
+        "bossDescriptionID": 18,
+        "bossRewardID": 78
+    },
+    {
+        "ID": 80,
+        "bossDescriptionID": 18,
+        "bossRewardID": 80
+    },
+    {
+        "ID": 81,
+        "bossDescriptionID": 19,
+        "bossRewardID": 81
+    },
+    {
+        "ID": 82,
+        "bossDescriptionID": 19,
+        "bossRewardID": 82
+    },
+    {
+        "ID": 83,
+        "bossDescriptionID": 19,
+        "bossRewardID": 83
+    },
+    {
+        "ID": 85,
+        "bossDescriptionID": 19,
+        "bossRewardID": 85
+    },
+    {
+        "ID": 86,
+        "bossDescriptionID": 20,
+        "bossRewardID": 86
+    },
+    {
+        "ID": 87,
+        "bossDescriptionID": 20,
+        "bossRewardID": 87
+    },
+    {
+        "ID": 88,
+        "bossDescriptionID": 20,
+        "bossRewardID": 88
+    },
+    {
+        "ID": 90,
+        "bossDescriptionID": 20,
+        "bossRewardID": 90
+    },
+    {
+        "ID": 91,
+        "bossDescriptionID": 21,
+        "bossRewardID": 91
+    },
+    {
+        "ID": 92,
+        "bossDescriptionID": 21,
+        "bossRewardID": 92
+    },
+    {
+        "ID": 93,
+        "bossDescriptionID": 21,
+        "bossRewardID": 93
+    },
+    {
+        "ID": 95,
+        "bossDescriptionID": 21,
+        "bossRewardID": 95
+    },
+    {
+        "ID": 96,
+        "bossDescriptionID": 22,
+        "bossRewardID": 96
+    },
+    {
+        "ID": 97,
+        "bossDescriptionID": 22,
+        "bossRewardID": 97
+    },
+    {
+        "ID": 98,
+        "bossDescriptionID": 22,
+        "bossRewardID": 98
+    },
+    {
+        "ID": 100,
+        "bossDescriptionID": 22,
+        "bossRewardID": 100
+    },
+    {
+        "ID": 101,
+        "bossDescriptionID": 23,
+        "bossRewardID": 101
+    },
+    {
+        "ID": 102,
+        "bossDescriptionID": 23,
+        "bossRewardID": 102
+    },
+    {
+        "ID": 103,
+        "bossDescriptionID": 23,
+        "bossRewardID": 103
+    },
+    {
+        "ID": 105,
+        "bossDescriptionID": 23,
+        "bossRewardID": 105
+    },
+    {
+        "ID": 106,
+        "bossDescriptionID": 24,
+        "bossRewardID": 106
+    },
+    {
+        "ID": 107,
+        "bossDescriptionID": 24,
+        "bossRewardID": 107
+    },
+    {
+        "ID": 108,
+        "bossDescriptionID": 24,
+        "bossRewardID": 108
+    },
+    {
+        "ID": 110,
+        "bossDescriptionID": 24,
+        "bossRewardID": 110
+    },
+    {
+        "ID": 111,
+        "bossDescriptionID": 25,
+        "bossRewardID": 111
+    },
+    {
+        "ID": 112,
+        "bossDescriptionID": 25,
+        "bossRewardID": 112
+    },
+    {
+        "ID": 113,
+        "bossDescriptionID": 25,
+        "bossRewardID": 113
+    },
+    {
+        "ID": 115,
+        "bossDescriptionID": 25,
+        "bossRewardID": 115
+    },
+    {
+        "ID": 116,
+        "bossDescriptionID": 26,
+        "bossRewardID": 116
+    },
+    {
+        "ID": 117,
+        "bossDescriptionID": 26,
+        "bossRewardID": 117
+    },
+    {
+        "ID": 118,
+        "bossDescriptionID": 26,
+        "bossRewardID": 118
+    },
+    {
+        "ID": 119,
+        "bossDescriptionID": 27,
+        "bossRewardID": 119
+    },
+    {
+        "ID": 120,
+        "bossDescriptionID": 27,
+        "bossRewardID": 120
+    },
+    {
+        "ID": 121,
+        "bossDescriptionID": 27,
+        "bossRewardID": 121
+    },
+    {
+        "ID": 122,
+        "bossDescriptionID": 28,
+        "bossRewardID": 122
+    },
+    {
+        "ID": 123,
+        "bossDescriptionID": 28,
+        "bossRewardID": 123
+    },
+    {
+        "ID": 124,
+        "bossDescriptionID": 28,
+        "bossRewardID": 124
+    },
+    {
+        "ID": 125,
+        "bossDescriptionID": 29,
+        "bossRewardID": 125
+    },
+    {
+        "ID": 126,
+        "bossDescriptionID": 29,
+        "bossRewardID": 126
+    },
+    {
+        "ID": 127,
+        "bossDescriptionID": 29,
+        "bossRewardID": 127
+    },
+    {
+        "ID": 128,
+        "bossDescriptionID": 30,
+        "bossRewardID": 128
+    },
+    {
+        "ID": 129,
+        "bossDescriptionID": 30,
+        "bossRewardID": 129
+    },
+    {
+        "ID": 130,
+        "bossDescriptionID": 30,
+        "bossRewardID": 130
+    },
+    {
+        "ID": 131,
+        "bossDescriptionID": 31,
+        "bossRewardID": 131
+    },
+    {
+        "ID": 132,
+        "bossDescriptionID": 31,
+        "bossRewardID": 132
+    },
+    {
+        "ID": 133,
+        "bossDescriptionID": 31,
+        "bossRewardID": 133
+    },
+    {
+        "ID": 135,
+        "bossDescriptionID": 31,
+        "bossRewardID": 135
+    },
+    {
+        "ID": 136,
+        "bossDescriptionID": 32,
+        "bossRewardID": 136
+    },
+    {
+        "ID": 137,
+        "bossDescriptionID": 32,
+        "bossRewardID": 137
+    },
+    {
+        "ID": 138,
+        "bossDescriptionID": 32,
+        "bossRewardID": 138
+    },
+    {
+        "ID": 140,
+        "bossDescriptionID": 32,
+        "bossRewardID": 140
+    },
+    {
+        "ID": 141,
+        "bossDescriptionID": 33,
+        "bossRewardID": 141
+    },
+    {
+        "ID": 142,
+        "bossDescriptionID": 33,
+        "bossRewardID": 142
+    },
+    {
+        "ID": 143,
+        "bossDescriptionID": 33,
+        "bossRewardID": 143
+    },
+    {
+        "ID": 145,
+        "bossDescriptionID": 33,
+        "bossRewardID": 145
+    },
+    {
+        "ID": 146,
+        "bossDescriptionID": 34,
+        "bossRewardID": 146
+    },
+    {
+        "ID": 147,
+        "bossDescriptionID": 34,
+        "bossRewardID": 147
+    },
+    {
+        "ID": 148,
+        "bossDescriptionID": 34,
+        "bossRewardID": 148
+    },
+    {
+        "ID": 150,
+        "bossDescriptionID": 34,
+        "bossRewardID": 150
+    },
+    {
+        "ID": 151,
+        "bossDescriptionID": 35,
+        "bossRewardID": 151
+    },
+    {
+        "ID": 152,
+        "bossDescriptionID": 35,
+        "bossRewardID": 152
+    },
+    {
+        "ID": 153,
+        "bossDescriptionID": 35,
+        "bossRewardID": 153
+    },
+    {
+        "ID": 155,
+        "bossDescriptionID": 35,
+        "bossRewardID": 155
+    },
+    {
+        "ID": 156,
+        "bossDescriptionID": 36,
+        "bossRewardID": 156
+    },
+    {
+        "ID": 157,
+        "bossDescriptionID": 36,
+        "bossRewardID": 157
+    },
+    {
+        "ID": 158,
+        "bossDescriptionID": 36,
+        "bossRewardID": 158
+    },
+    {
+        "ID": 160,
+        "bossDescriptionID": 36,
+        "bossRewardID": 160
+    },
+    {
+        "ID": 161,
+        "bossDescriptionID": 37,
+        "bossRewardID": 161
+    },
+    {
+        "ID": 162,
+        "bossDescriptionID": 37,
+        "bossRewardID": 162
+    },
+    {
+        "ID": 163,
+        "bossDescriptionID": 37,
+        "bossRewardID": 163
+    },
+    {
+        "ID": 165,
+        "bossDescriptionID": 37,
+        "bossRewardID": 165
+    },
+    {
+        "ID": 166,
+        "bossDescriptionID": 38,
+        "bossRewardID": 166
+    },
+    {
+        "ID": 167,
+        "bossDescriptionID": 38,
+        "bossRewardID": 167
+    },
+    {
+        "ID": 168,
+        "bossDescriptionID": 38,
+        "bossRewardID": 168
+    },
+    {
+        "ID": 170,
+        "bossDescriptionID": 38,
+        "bossRewardID": 170
+    },
+    {
+        "ID": 171,
+        "bossDescriptionID": 39,
+        "bossRewardID": 171
+    },
+    {
+        "ID": 172,
+        "bossDescriptionID": 39,
+        "bossRewardID": 172
+    },
+    {
+        "ID": 173,
+        "bossDescriptionID": 39,
+        "bossRewardID": 173
+    },
+    {
+        "ID": 175,
+        "bossDescriptionID": 39,
+        "bossRewardID": 175
+    },
+    {
+        "ID": 176,
+        "bossDescriptionID": 40,
+        "bossRewardID": 176
+    },
+    {
+        "ID": 177,
+        "bossDescriptionID": 40,
+        "bossRewardID": 177
+    },
+    {
+        "ID": 178,
+        "bossDescriptionID": 40,
+        "bossRewardID": 178
+    },
+    {
+        "ID": 180,
+        "bossDescriptionID": 40,
+        "bossRewardID": 180
+    },
+    {
+        "ID": 181,
+        "bossDescriptionID": 41,
+        "bossRewardID": 181
+    },
+    {
+        "ID": 182,
+        "bossDescriptionID": 41,
+        "bossRewardID": 182
+    },
+    {
+        "ID": 183,
+        "bossDescriptionID": 41,
+        "bossRewardID": 183
+    },
+    {
+        "ID": 185,
+        "bossDescriptionID": 41,
+        "bossRewardID": 185
+    },
+    {
+        "ID": 186,
+        "bossDescriptionID": 42,
+        "bossRewardID": 186
+    },
+    {
+        "ID": 187,
+        "bossDescriptionID": 42,
+        "bossRewardID": 187
+    },
+    {
+        "ID": 188,
+        "bossDescriptionID": 42,
+        "bossRewardID": 188
+    },
+    {
+        "ID": 190,
+        "bossDescriptionID": 42,
+        "bossRewardID": 190
+    },
+    {
+        "ID": 191,
+        "bossDescriptionID": 43,
+        "bossRewardID": 191
+    },
+    {
+        "ID": 192,
+        "bossDescriptionID": 43,
+        "bossRewardID": 192
+    },
+    {
+        "ID": 193,
+        "bossDescriptionID": 43,
+        "bossRewardID": 193
+    },
+    {
+        "ID": 195,
+        "bossDescriptionID": 43,
+        "bossRewardID": 195
+    },
+    {
+        "ID": 196,
+        "bossDescriptionID": 44,
+        "bossRewardID": 196
+    },
+    {
+        "ID": 197,
+        "bossDescriptionID": 44,
+        "bossRewardID": 197
+    },
+    {
+        "ID": 198,
+        "bossDescriptionID": 44,
+        "bossRewardID": 198
+    },
+    {
+        "ID": 200,
+        "bossDescriptionID": 44,
+        "bossRewardID": 200
+    },
+    {
+        "ID": 201,
+        "bossDescriptionID": 45,
+        "bossRewardID": 201
+    },
+    {
+        "ID": 202,
+        "bossDescriptionID": 45,
+        "bossRewardID": 202
+    },
+    {
+        "ID": 203,
+        "bossDescriptionID": 45,
+        "bossRewardID": 203
+    },
+    {
+        "ID": 205,
+        "bossDescriptionID": 45,
+        "bossRewardID": 205
+    },
+    {
+        "ID": 206,
+        "bossDescriptionID": 46,
+        "bossRewardID": 206
+    },
+    {
+        "ID": 207,
+        "bossDescriptionID": 46,
+        "bossRewardID": 207
+    },
+    {
+        "ID": 208,
+        "bossDescriptionID": 46,
+        "bossRewardID": 208
+    },
+    {
+        "ID": 210,
+        "bossDescriptionID": 46,
+        "bossRewardID": 210
+    },
+    {
+        "ID": 211,
+        "bossDescriptionID": 47,
+        "bossRewardID": 211
+    },
+    {
+        "ID": 212,
+        "bossDescriptionID": 47,
+        "bossRewardID": 212
+    },
+    {
+        "ID": 213,
+        "bossDescriptionID": 47,
+        "bossRewardID": 213
+    },
+    {
+        "ID": 215,
+        "bossDescriptionID": 47,
+        "bossRewardID": 215
+    },
+    {
+        "ID": 216,
+        "bossDescriptionID": 48,
+        "bossRewardID": 216
+    },
+    {
+        "ID": 217,
+        "bossDescriptionID": 48,
+        "bossRewardID": 217
+    },
+    {
+        "ID": 218,
+        "bossDescriptionID": 48,
+        "bossRewardID": 218
+    },
+    {
+        "ID": 220,
+        "bossDescriptionID": 48,
+        "bossRewardID": 220
+    },
+    {
+        "ID": 221,
+        "bossDescriptionID": 49,
+        "bossRewardID": 221
+    },
+    {
+        "ID": 222,
+        "bossDescriptionID": 49,
+        "bossRewardID": 222
+    },
+    {
+        "ID": 223,
+        "bossDescriptionID": 49,
+        "bossRewardID": 223
+    },
+    {
+        "ID": 225,
+        "bossDescriptionID": 49,
+        "bossRewardID": 225
+    },
+    {
+        "ID": 226,
+        "bossDescriptionID": 50,
+        "bossRewardID": 226
+    },
+    {
+        "ID": 227,
+        "bossDescriptionID": 50,
+        "bossRewardID": 227
+    },
+    {
+        "ID": 228,
+        "bossDescriptionID": 50,
+        "bossRewardID": 228
+    },
+    {
+        "ID": 230,
+        "bossDescriptionID": 50,
+        "bossRewardID": 230
+    },
+    {
+        "ID": 231,
+        "bossDescriptionID": 51,
+        "bossRewardID": 231
+    },
+    {
+        "ID": 232,
+        "bossDescriptionID": 51,
+        "bossRewardID": 232
+    },
+    {
+        "ID": 233,
+        "bossDescriptionID": 51,
+        "bossRewardID": 233
+    },
+    {
+        "ID": 234,
+        "bossDescriptionID": 52,
+        "bossRewardID": 234
+    },
+    {
+        "ID": 235,
+        "bossDescriptionID": 52,
+        "bossRewardID": 235
+    },
+    {
+        "ID": 236,
+        "bossDescriptionID": 52,
+        "bossRewardID": 236
+    },
+    {
+        "ID": 237,
+        "bossDescriptionID": 53,
+        "bossRewardID": 237
+    },
+    {
+        "ID": 238,
+        "bossDescriptionID": 53,
+        "bossRewardID": 238
+    },
+    {
+        "ID": 239,
+        "bossDescriptionID": 53,
+        "bossRewardID": 239
+    },
+    {
+        "ID": 240,
+        "bossDescriptionID": 54,
+        "bossRewardID": 240
+    },
+    {
+        "ID": 241,
+        "bossDescriptionID": 54,
+        "bossRewardID": 241
+    },
+    {
+        "ID": 242,
+        "bossDescriptionID": 54,
+        "bossRewardID": 242
+    },
+    {
+        "ID": 243,
+        "bossDescriptionID": 55,
+        "bossRewardID": 243
+    },
+    {
+        "ID": 244,
+        "bossDescriptionID": 55,
+        "bossRewardID": 244
+    },
+    {
+        "ID": 245,
+        "bossDescriptionID": 55,
+        "bossRewardID": 245
+    },
+    {
+        "ID": 246,
+        "bossDescriptionID": 56,
+        "bossRewardID": 246
+    },
+    {
+        "ID": 247,
+        "bossDescriptionID": 56,
+        "bossRewardID": 247
+    },
+    {
+        "ID": 248,
+        "bossDescriptionID": 56,
+        "bossRewardID": 248
+    },
+    {
+        "ID": 250,
+        "bossDescriptionID": 56,
+        "bossRewardID": 250
+    },
+    {
+        "ID": 251,
+        "bossDescriptionID": 57,
+        "bossRewardID": 251
+    },
+    {
+        "ID": 252,
+        "bossDescriptionID": 57,
+        "bossRewardID": 252
+    },
+    {
+        "ID": 253,
+        "bossDescriptionID": 57,
+        "bossRewardID": 253
+    },
+    {
+        "ID": 255,
+        "bossDescriptionID": 57,
+        "bossRewardID": 255
+    },
+    {
+        "ID": 256,
+        "bossDescriptionID": 58,
+        "bossRewardID": 256
+    },
+    {
+        "ID": 257,
+        "bossDescriptionID": 58,
+        "bossRewardID": 257
+    },
+    {
+        "ID": 258,
+        "bossDescriptionID": 58,
+        "bossRewardID": 258
+    },
+    {
+        "ID": 260,
+        "bossDescriptionID": 58,
+        "bossRewardID": 260
+    },
+    {
+        "ID": 261,
+        "bossDescriptionID": 59,
+        "bossRewardID": 261
+    },
+    {
+        "ID": 262,
+        "bossDescriptionID": 59,
+        "bossRewardID": 262
+    },
+    {
+        "ID": 263,
+        "bossDescriptionID": 59,
+        "bossRewardID": 263
+    },
+    {
+        "ID": 265,
+        "bossDescriptionID": 59,
+        "bossRewardID": 265
+    },
+    {
+        "ID": 266,
+        "bossDescriptionID": 60,
+        "bossRewardID": 266
+    },
+    {
+        "ID": 267,
+        "bossDescriptionID": 60,
+        "bossRewardID": 267
+    },
+    {
+        "ID": 268,
+        "bossDescriptionID": 60,
+        "bossRewardID": 268
+    },
+    {
+        "ID": 270,
+        "bossDescriptionID": 60,
+        "bossRewardID": 270
+    },
+    {
+        "ID": 271,
+        "bossDescriptionID": 61,
+        "bossRewardID": 271
+    },
+    {
+        "ID": 272,
+        "bossDescriptionID": 61,
+        "bossRewardID": 272
+    },
+    {
+        "ID": 273,
+        "bossDescriptionID": 61,
+        "bossRewardID": 273
+    },
+    {
+        "ID": 275,
+        "bossDescriptionID": 61,
+        "bossRewardID": 275
+    },
+    {
+        "ID": 276,
+        "bossDescriptionID": 62,
+        "bossRewardID": 276
+    },
+    {
+        "ID": 277,
+        "bossDescriptionID": 62,
+        "bossRewardID": 277
+    },
+    {
+        "ID": 278,
+        "bossDescriptionID": 62,
+        "bossRewardID": 278
+    },
+    {
+        "ID": 280,
+        "bossDescriptionID": 62,
+        "bossRewardID": 280
+    },
+    {
+        "ID": 281,
+        "bossDescriptionID": 63,
+        "bossRewardID": 281
+    },
+    {
+        "ID": 282,
+        "bossDescriptionID": 63,
+        "bossRewardID": 282
+    },
+    {
+        "ID": 283,
+        "bossDescriptionID": 63,
+        "bossRewardID": 283
+    },
+    {
+        "ID": 285,
+        "bossDescriptionID": 63,
+        "bossRewardID": 285
+    },
+    {
+        "ID": 286,
+        "bossDescriptionID": 64,
+        "bossRewardID": 286
+    },
+    {
+        "ID": 287,
+        "bossDescriptionID": 64,
+        "bossRewardID": 287
+    },
+    {
+        "ID": 288,
+        "bossDescriptionID": 64,
+        "bossRewardID": 288
+    },
+    {
+        "ID": 290,
+        "bossDescriptionID": 64,
+        "bossRewardID": 290
+    },
+    {
+        "ID": 291,
+        "bossDescriptionID": 65,
+        "bossRewardID": 291
+    },
+    {
+        "ID": 292,
+        "bossDescriptionID": 65,
+        "bossRewardID": 292
+    },
+    {
+        "ID": 293,
+        "bossDescriptionID": 65,
+        "bossRewardID": 293
+    },
+    {
+        "ID": 295,
+        "bossDescriptionID": 65,
+        "bossRewardID": 295
+    },
+    {
+        "ID": 296,
+        "bossDescriptionID": 66,
+        "bossRewardID": 296
+    },
+    {
+        "ID": 297,
+        "bossDescriptionID": 66,
+        "bossRewardID": 297
+    },
+    {
+        "ID": 298,
+        "bossDescriptionID": 66,
+        "bossRewardID": 298
+    },
+    {
+        "ID": 300,
+        "bossDescriptionID": 66,
+        "bossRewardID": 300
+    },
+    {
+        "ID": 301,
+        "bossDescriptionID": 67,
+        "bossRewardID": 301
+    },
+    {
+        "ID": 302,
+        "bossDescriptionID": 67,
+        "bossRewardID": 302
+    },
+    {
+        "ID": 303,
+        "bossDescriptionID": 67,
+        "bossRewardID": 303
+    },
+    {
+        "ID": 305,
+        "bossDescriptionID": 67,
+        "bossRewardID": 305
+    },
+    {
+        "ID": 306,
+        "bossDescriptionID": 68,
+        "bossRewardID": 306
+    },
+    {
+        "ID": 307,
+        "bossDescriptionID": 68,
+        "bossRewardID": 307
+    },
+    {
+        "ID": 308,
+        "bossDescriptionID": 68,
+        "bossRewardID": 308
+    },
+    {
+        "ID": 310,
+        "bossDescriptionID": 68,
+        "bossRewardID": 310
+    },
+    {
+        "ID": 311,
+        "bossDescriptionID": 69,
+        "bossRewardID": 311
+    },
+    {
+        "ID": 312,
+        "bossDescriptionID": 69,
+        "bossRewardID": 312
+    },
+    {
+        "ID": 313,
+        "bossDescriptionID": 69,
+        "bossRewardID": 313
+    },
+    {
+        "ID": 315,
+        "bossDescriptionID": 69,
+        "bossRewardID": 315
+    },
+    {
+        "ID": 316,
+        "bossDescriptionID": 70,
+        "bossRewardID": 316
+    },
+    {
+        "ID": 317,
+        "bossDescriptionID": 70,
+        "bossRewardID": 317
+    },
+    {
+        "ID": 318,
+        "bossDescriptionID": 70,
+        "bossRewardID": 318
+    },
+    {
+        "ID": 320,
+        "bossDescriptionID": 70,
+        "bossRewardID": 320
+    },
+    {
+        "ID": 321,
+        "bossDescriptionID": 71,
+        "bossRewardID": 321
+    },
+    {
+        "ID": 322,
+        "bossDescriptionID": 71,
+        "bossRewardID": 322
+    },
+    {
+        "ID": 323,
+        "bossDescriptionID": 71,
+        "bossRewardID": 323
+    },
+    {
+        "ID": 325,
+        "bossDescriptionID": 71,
+        "bossRewardID": 325
+    },
+    {
+        "ID": 326,
+        "bossDescriptionID": 72,
+        "bossRewardID": 326
+    },
+    {
+        "ID": 327,
+        "bossDescriptionID": 72,
+        "bossRewardID": 327
+    },
+    {
+        "ID": 328,
+        "bossDescriptionID": 72,
+        "bossRewardID": 328
+    },
+    {
+        "ID": 330,
+        "bossDescriptionID": 72,
+        "bossRewardID": 330
+    },
+    {
+        "ID": 331,
+        "bossDescriptionID": 73,
+        "bossRewardID": 331
+    },
+    {
+        "ID": 332,
+        "bossDescriptionID": 73,
+        "bossRewardID": 332
+    },
+    {
+        "ID": 333,
+        "bossDescriptionID": 73,
+        "bossRewardID": 333
+    },
+    {
+        "ID": 335,
+        "bossDescriptionID": 73,
+        "bossRewardID": 335
+    },
+    {
+        "ID": 336,
+        "bossDescriptionID": 74,
+        "bossRewardID": 336
+    },
+    {
+        "ID": 337,
+        "bossDescriptionID": 74,
+        "bossRewardID": 337
+    },
+    {
+        "ID": 338,
+        "bossDescriptionID": 74,
+        "bossRewardID": 338
+    },
+    {
+        "ID": 340,
+        "bossDescriptionID": 74,
+        "bossRewardID": 340
+    },
+    {
+        "ID": 341,
+        "bossDescriptionID": 75,
+        "bossRewardID": 341
+    },
+    {
+        "ID": 342,
+        "bossDescriptionID": 75,
+        "bossRewardID": 342
+    },
+    {
+        "ID": 343,
+        "bossDescriptionID": 75,
+        "bossRewardID": 343
+    },
+    {
+        "ID": 345,
+        "bossDescriptionID": 75,
+        "bossRewardID": 345
+    },
+    {
+        "ID": 346,
+        "bossDescriptionID": 76,
+        "bossRewardID": 346
+    },
+    {
+        "ID": 347,
+        "bossDescriptionID": 76,
+        "bossRewardID": 347
+    },
+    {
+        "ID": 348,
+        "bossDescriptionID": 76,
+        "bossRewardID": 348
+    },
+    {
+        "ID": 349,
+        "bossDescriptionID": 77,
+        "bossRewardID": 349
+    },
+    {
+        "ID": 350,
+        "bossDescriptionID": 77,
+        "bossRewardID": 350
+    },
+    {
+        "ID": 351,
+        "bossDescriptionID": 77,
+        "bossRewardID": 351
+    },
+    {
+        "ID": 352,
+        "bossDescriptionID": 78,
+        "bossRewardID": 352
+    },
+    {
+        "ID": 353,
+        "bossDescriptionID": 78,
+        "bossRewardID": 353
+    },
+    {
+        "ID": 354,
+        "bossDescriptionID": 78,
+        "bossRewardID": 354
+    },
+    {
+        "ID": 355,
+        "bossDescriptionID": 79,
+        "bossRewardID": 355
+    },
+    {
+        "ID": 356,
+        "bossDescriptionID": 79,
+        "bossRewardID": 356
+    },
+    {
+        "ID": 357,
+        "bossDescriptionID": 79,
+        "bossRewardID": 357
+    },
+    {
+        "ID": 358,
+        "bossDescriptionID": 80,
+        "bossRewardID": 358
+    },
+    {
+        "ID": 359,
+        "bossDescriptionID": 80,
+        "bossRewardID": 359
+    },
+    {
+        "ID": 360,
+        "bossDescriptionID": 80,
+        "bossRewardID": 360
+    },
+    {
+        "ID": 361,
+        "bossDescriptionID": 81,
+        "bossRewardID": 361
+    },
+    {
+        "ID": 362,
+        "bossDescriptionID": 81,
+        "bossRewardID": 362
+    },
+    {
+        "ID": 363,
+        "bossDescriptionID": 81,
+        "bossRewardID": 363
+    },
+    {
+        "ID": 365,
+        "bossDescriptionID": 81,
+        "bossRewardID": 365
+    },
+    {
+        "ID": 366,
+        "bossDescriptionID": 82,
+        "bossRewardID": 366
+    },
+    {
+        "ID": 367,
+        "bossDescriptionID": 82,
+        "bossRewardID": 367
+    },
+    {
+        "ID": 368,
+        "bossDescriptionID": 82,
+        "bossRewardID": 368
+    },
+    {
+        "ID": 370,
+        "bossDescriptionID": 82,
+        "bossRewardID": 370
+    },
+    {
+        "ID": 371,
+        "bossDescriptionID": 83,
+        "bossRewardID": 371
+    },
+    {
+        "ID": 372,
+        "bossDescriptionID": 83,
+        "bossRewardID": 372
+    },
+    {
+        "ID": 373,
+        "bossDescriptionID": 83,
+        "bossRewardID": 373
+    },
+    {
+        "ID": 375,
+        "bossDescriptionID": 83,
+        "bossRewardID": 375
+    },
+    {
+        "ID": 376,
+        "bossDescriptionID": 84,
+        "bossRewardID": 376
+    },
+    {
+        "ID": 377,
+        "bossDescriptionID": 84,
+        "bossRewardID": 377
+    },
+    {
+        "ID": 378,
+        "bossDescriptionID": 84,
+        "bossRewardID": 378
+    },
+    {
+        "ID": 380,
+        "bossDescriptionID": 84,
+        "bossRewardID": 380
+    },
+    {
+        "ID": 381,
+        "bossDescriptionID": 85,
+        "bossRewardID": 381
+    },
+    {
+        "ID": 382,
+        "bossDescriptionID": 85,
+        "bossRewardID": 382
+    },
+    {
+        "ID": 383,
+        "bossDescriptionID": 85,
+        "bossRewardID": 383
+    },
+    {
+        "ID": 385,
+        "bossDescriptionID": 85,
+        "bossRewardID": 385
+    },
+    {
+        "ID": 386,
+        "bossDescriptionID": 86,
+        "bossRewardID": 386
+    },
+    {
+        "ID": 387,
+        "bossDescriptionID": 86,
+        "bossRewardID": 387
+    },
+    {
+        "ID": 388,
+        "bossDescriptionID": 86,
+        "bossRewardID": 388
+    },
+    {
+        "ID": 390,
+        "bossDescriptionID": 86,
+        "bossRewardID": 390
+    },
+    {
+        "ID": 391,
+        "bossDescriptionID": 87,
+        "bossRewardID": 391
+    },
+    {
+        "ID": 392,
+        "bossDescriptionID": 87,
+        "bossRewardID": 392
+    },
+    {
+        "ID": 393,
+        "bossDescriptionID": 87,
+        "bossRewardID": 393
+    },
+    {
+        "ID": 395,
+        "bossDescriptionID": 87,
+        "bossRewardID": 395
+    },
+    {
+        "ID": 396,
+        "bossDescriptionID": 88,
+        "bossRewardID": 396
+    },
+    {
+        "ID": 397,
+        "bossDescriptionID": 88,
+        "bossRewardID": 397
+    },
+    {
+        "ID": 398,
+        "bossDescriptionID": 88,
+        "bossRewardID": 398
+    },
+    {
+        "ID": 400,
+        "bossDescriptionID": 88,
+        "bossRewardID": 400
+    },
+    {
+        "ID": 401,
+        "bossDescriptionID": 89,
+        "bossRewardID": 401
+    },
+    {
+        "ID": 402,
+        "bossDescriptionID": 89,
+        "bossRewardID": 402
+    },
+    {
+        "ID": 403,
+        "bossDescriptionID": 89,
+        "bossRewardID": 403
+    },
+    {
+        "ID": 405,
+        "bossDescriptionID": 89,
+        "bossRewardID": 405
+    },
+    {
+        "ID": 406,
+        "bossDescriptionID": 90,
+        "bossRewardID": 406
+    },
+    {
+        "ID": 407,
+        "bossDescriptionID": 90,
+        "bossRewardID": 407
+    },
+    {
+        "ID": 408,
+        "bossDescriptionID": 90,
+        "bossRewardID": 408
+    },
+    {
+        "ID": 410,
+        "bossDescriptionID": 90,
+        "bossRewardID": 410
+    },
+    {
+        "ID": 411,
+        "bossDescriptionID": 91,
+        "bossRewardID": 411
+    },
+    {
+        "ID": 412,
+        "bossDescriptionID": 91,
+        "bossRewardID": 412
+    },
+    {
+        "ID": 413,
+        "bossDescriptionID": 91,
+        "bossRewardID": 413
+    },
+    {
+        "ID": 415,
+        "bossDescriptionID": 91,
+        "bossRewardID": 415
+    },
+    {
+        "ID": 416,
+        "bossDescriptionID": 92,
+        "bossRewardID": 416
+    },
+    {
+        "ID": 417,
+        "bossDescriptionID": 92,
+        "bossRewardID": 417
+    },
+    {
+        "ID": 418,
+        "bossDescriptionID": 92,
+        "bossRewardID": 418
+    },
+    {
+        "ID": 420,
+        "bossDescriptionID": 92,
+        "bossRewardID": 420
+    },
+    {
+        "ID": 421,
+        "bossDescriptionID": 93,
+        "bossRewardID": 421
+    },
+    {
+        "ID": 422,
+        "bossDescriptionID": 93,
+        "bossRewardID": 422
+    },
+    {
+        "ID": 423,
+        "bossDescriptionID": 93,
+        "bossRewardID": 423
+    },
+    {
+        "ID": 425,
+        "bossDescriptionID": 93,
+        "bossRewardID": 425
+    },
+    {
+        "ID": 426,
+        "bossDescriptionID": 94,
+        "bossRewardID": 426
+    },
+    {
+        "ID": 427,
+        "bossDescriptionID": 94,
+        "bossRewardID": 427
+    },
+    {
+        "ID": 428,
+        "bossDescriptionID": 94,
+        "bossRewardID": 428
+    },
+    {
+        "ID": 430,
+        "bossDescriptionID": 94,
+        "bossRewardID": 430
+    },
+    {
+        "ID": 431,
+        "bossDescriptionID": 95,
+        "bossRewardID": 431
+    },
+    {
+        "ID": 432,
+        "bossDescriptionID": 95,
+        "bossRewardID": 432
+    },
+    {
+        "ID": 433,
+        "bossDescriptionID": 95,
+        "bossRewardID": 433
+    },
+    {
+        "ID": 435,
+        "bossDescriptionID": 95,
+        "bossRewardID": 435
+    },
+    {
+        "ID": 436,
+        "bossDescriptionID": 96,
+        "bossRewardID": 436
+    },
+    {
+        "ID": 437,
+        "bossDescriptionID": 96,
+        "bossRewardID": 437
+    },
+    {
+        "ID": 438,
+        "bossDescriptionID": 96,
+        "bossRewardID": 438
+    },
+    {
+        "ID": 440,
+        "bossDescriptionID": 96,
+        "bossRewardID": 440
+    },
+    {
+        "ID": 441,
+        "bossDescriptionID": 97,
+        "bossRewardID": 441
+    },
+    {
+        "ID": 442,
+        "bossDescriptionID": 97,
+        "bossRewardID": 442
+    },
+    {
+        "ID": 443,
+        "bossDescriptionID": 97,
+        "bossRewardID": 443
+    },
+    {
+        "ID": 445,
+        "bossDescriptionID": 97,
+        "bossRewardID": 445
+    },
+    {
+        "ID": 446,
+        "bossDescriptionID": 98,
+        "bossRewardID": 446
+    },
+    {
+        "ID": 447,
+        "bossDescriptionID": 98,
+        "bossRewardID": 447
+    },
+    {
+        "ID": 448,
+        "bossDescriptionID": 98,
+        "bossRewardID": 448
+    },
+    {
+        "ID": 450,
+        "bossDescriptionID": 98,
+        "bossRewardID": 450
+    },
+    {
+        "ID": 451,
+        "bossDescriptionID": 99,
+        "bossRewardID": 451
+    },
+    {
+        "ID": 452,
+        "bossDescriptionID": 99,
+        "bossRewardID": 452
+    },
+    {
+        "ID": 453,
+        "bossDescriptionID": 99,
+        "bossRewardID": 453
+    },
+    {
+        "ID": 455,
+        "bossDescriptionID": 99,
+        "bossRewardID": 455
+    },
+    {
+        "ID": 456,
+        "bossDescriptionID": 100,
+        "bossRewardID": 456
+    },
+    {
+        "ID": 457,
+        "bossDescriptionID": 100,
+        "bossRewardID": 457
+    },
+    {
+        "ID": 458,
+        "bossDescriptionID": 100,
+        "bossRewardID": 458
+    },
+    {
+        "ID": 460,
+        "bossDescriptionID": 100,
+        "bossRewardID": 460
+    },
+    {
+        "ID": 461,
+        "bossDescriptionID": 101,
+        "bossRewardID": 461
+    },
+    {
+        "ID": 462,
+        "bossDescriptionID": 101,
+        "bossRewardID": 462
+    },
+    {
+        "ID": 463,
+        "bossDescriptionID": 101,
+        "bossRewardID": 463
+    },
+    {
+        "ID": 464,
+        "bossDescriptionID": 102,
+        "bossRewardID": 464
+    },
+    {
+        "ID": 465,
+        "bossDescriptionID": 102,
+        "bossRewardID": 465
+    },
+    {
+        "ID": 466,
+        "bossDescriptionID": 102,
+        "bossRewardID": 466
+    },
+    {
+        "ID": 467,
+        "bossDescriptionID": 103,
+        "bossRewardID": 467
+    },
+    {
+        "ID": 468,
+        "bossDescriptionID": 103,
+        "bossRewardID": 468
+    },
+    {
+        "ID": 469,
+        "bossDescriptionID": 103,
+        "bossRewardID": 469
+    },
+    {
+        "ID": 470,
+        "bossDescriptionID": 104,
+        "bossRewardID": 470
+    },
+    {
+        "ID": 471,
+        "bossDescriptionID": 104,
+        "bossRewardID": 471
+    },
+    {
+        "ID": 472,
+        "bossDescriptionID": 104,
+        "bossRewardID": 472
+    },
+    {
+        "ID": 473,
+        "bossDescriptionID": 105,
+        "bossRewardID": 473
+    },
+    {
+        "ID": 474,
+        "bossDescriptionID": 105,
+        "bossRewardID": 474
+    },
+    {
+        "ID": 475,
+        "bossDescriptionID": 105,
+        "bossRewardID": 475
+    },
+    {
+        "ID": 476,
+        "bossDescriptionID": 106,
+        "bossRewardID": 476
+    },
+    {
+        "ID": 477,
+        "bossDescriptionID": 106,
+        "bossRewardID": 477
+    },
+    {
+        "ID": 478,
+        "bossDescriptionID": 106,
+        "bossRewardID": 478
+    },
+    {
+        "ID": 480,
+        "bossDescriptionID": 106,
+        "bossRewardID": 480
+    },
+    {
+        "ID": 481,
+        "bossDescriptionID": 107,
+        "bossRewardID": 481
+    },
+    {
+        "ID": 482,
+        "bossDescriptionID": 107,
+        "bossRewardID": 482
+    },
+    {
+        "ID": 483,
+        "bossDescriptionID": 107,
+        "bossRewardID": 483
+    },
+    {
+        "ID": 485,
+        "bossDescriptionID": 107,
+        "bossRewardID": 485
+    },
+    {
+        "ID": 486,
+        "bossDescriptionID": 108,
+        "bossRewardID": 486
+    },
+    {
+        "ID": 487,
+        "bossDescriptionID": 108,
+        "bossRewardID": 487
+    },
+    {
+        "ID": 488,
+        "bossDescriptionID": 108,
+        "bossRewardID": 488
+    },
+    {
+        "ID": 490,
+        "bossDescriptionID": 108,
+        "bossRewardID": 490
+    },
+    {
+        "ID": 491,
+        "bossDescriptionID": 109,
+        "bossRewardID": 491
+    },
+    {
+        "ID": 492,
+        "bossDescriptionID": 109,
+        "bossRewardID": 492
+    },
+    {
+        "ID": 493,
+        "bossDescriptionID": 109,
+        "bossRewardID": 493
+    },
+    {
+        "ID": 495,
+        "bossDescriptionID": 109,
+        "bossRewardID": 495
+    },
+    {
+        "ID": 496,
+        "bossDescriptionID": 110,
+        "bossRewardID": 496
+    },
+    {
+        "ID": 497,
+        "bossDescriptionID": 110,
+        "bossRewardID": 497
+    },
+    {
+        "ID": 498,
+        "bossDescriptionID": 110,
+        "bossRewardID": 498
+    },
+    {
+        "ID": 500,
+        "bossDescriptionID": 110,
+        "bossRewardID": 500
+    },
+    {
+        "ID": 501,
+        "bossDescriptionID": 111,
+        "bossRewardID": 501
+    },
+    {
+        "ID": 502,
+        "bossDescriptionID": 111,
+        "bossRewardID": 502
+    },
+    {
+        "ID": 503,
+        "bossDescriptionID": 111,
+        "bossRewardID": 503
+    },
+    {
+        "ID": 505,
+        "bossDescriptionID": 111,
+        "bossRewardID": 505
+    },
+    {
+        "ID": 506,
+        "bossDescriptionID": 112,
+        "bossRewardID": 506
+    },
+    {
+        "ID": 507,
+        "bossDescriptionID": 112,
+        "bossRewardID": 507
+    },
+    {
+        "ID": 508,
+        "bossDescriptionID": 112,
+        "bossRewardID": 508
+    },
+    {
+        "ID": 510,
+        "bossDescriptionID": 112,
+        "bossRewardID": 510
+    },
+    {
+        "ID": 511,
+        "bossDescriptionID": 113,
+        "bossRewardID": 511
+    },
+    {
+        "ID": 512,
+        "bossDescriptionID": 113,
+        "bossRewardID": 512
+    },
+    {
+        "ID": 513,
+        "bossDescriptionID": 113,
+        "bossRewardID": 513
+    },
+    {
+        "ID": 515,
+        "bossDescriptionID": 113,
+        "bossRewardID": 515
+    },
+    {
+        "ID": 516,
+        "bossDescriptionID": 114,
+        "bossRewardID": 516
+    },
+    {
+        "ID": 517,
+        "bossDescriptionID": 114,
+        "bossRewardID": 517
+    },
+    {
+        "ID": 518,
+        "bossDescriptionID": 114,
+        "bossRewardID": 518
+    },
+    {
+        "ID": 520,
+        "bossDescriptionID": 114,
+        "bossRewardID": 520
+    },
+    {
+        "ID": 521,
+        "bossDescriptionID": 115,
+        "bossRewardID": 521
+    },
+    {
+        "ID": 522,
+        "bossDescriptionID": 115,
+        "bossRewardID": 522
+    },
+    {
+        "ID": 523,
+        "bossDescriptionID": 115,
+        "bossRewardID": 523
+    },
+    {
+        "ID": 525,
+        "bossDescriptionID": 115,
+        "bossRewardID": 525
+    },
+    {
+        "ID": 526,
+        "bossDescriptionID": 116,
+        "bossRewardID": 526
+    },
+    {
+        "ID": 527,
+        "bossDescriptionID": 116,
+        "bossRewardID": 527
+    },
+    {
+        "ID": 528,
+        "bossDescriptionID": 116,
+        "bossRewardID": 528
+    },
+    {
+        "ID": 530,
+        "bossDescriptionID": 116,
+        "bossRewardID": 530
+    },
+    {
+        "ID": 531,
+        "bossDescriptionID": 117,
+        "bossRewardID": 531
+    },
+    {
+        "ID": 532,
+        "bossDescriptionID": 117,
+        "bossRewardID": 532
+    },
+    {
+        "ID": 533,
+        "bossDescriptionID": 117,
+        "bossRewardID": 533
+    },
+    {
+        "ID": 535,
+        "bossDescriptionID": 117,
+        "bossRewardID": 535
+    },
+    {
+        "ID": 536,
+        "bossDescriptionID": 118,
+        "bossRewardID": 536
+    },
+    {
+        "ID": 537,
+        "bossDescriptionID": 118,
+        "bossRewardID": 537
+    },
+    {
+        "ID": 538,
+        "bossDescriptionID": 118,
+        "bossRewardID": 538
+    },
+    {
+        "ID": 540,
+        "bossDescriptionID": 118,
+        "bossRewardID": 540
+    },
+    {
+        "ID": 541,
+        "bossDescriptionID": 119,
+        "bossRewardID": 541
+    },
+    {
+        "ID": 542,
+        "bossDescriptionID": 119,
+        "bossRewardID": 542
+    },
+    {
+        "ID": 543,
+        "bossDescriptionID": 119,
+        "bossRewardID": 543
+    },
+    {
+        "ID": 545,
+        "bossDescriptionID": 119,
+        "bossRewardID": 545
+    },
+    {
+        "ID": 546,
+        "bossDescriptionID": 120,
+        "bossRewardID": 546
+    },
+    {
+        "ID": 547,
+        "bossDescriptionID": 120,
+        "bossRewardID": 547
+    },
+    {
+        "ID": 548,
+        "bossDescriptionID": 120,
+        "bossRewardID": 548
+    },
+    {
+        "ID": 550,
+        "bossDescriptionID": 120,
+        "bossRewardID": 550
+    },
+    {
+        "ID": 551,
+        "bossDescriptionID": 121,
+        "bossRewardID": 551
+    },
+    {
+        "ID": 552,
+        "bossDescriptionID": 121,
+        "bossRewardID": 552
+    },
+    {
+        "ID": 553,
+        "bossDescriptionID": 121,
+        "bossRewardID": 553
+    },
+    {
+        "ID": 555,
+        "bossDescriptionID": 121,
+        "bossRewardID": 555
+    },
+    {
+        "ID": 556,
+        "bossDescriptionID": 122,
+        "bossRewardID": 556
+    },
+    {
+        "ID": 557,
+        "bossDescriptionID": 122,
+        "bossRewardID": 557
+    },
+    {
+        "ID": 558,
+        "bossDescriptionID": 122,
+        "bossRewardID": 558
+    },
+    {
+        "ID": 560,
+        "bossDescriptionID": 122,
+        "bossRewardID": 560
+    },
+    {
+        "ID": 561,
+        "bossDescriptionID": 123,
+        "bossRewardID": 561
+    },
+    {
+        "ID": 562,
+        "bossDescriptionID": 123,
+        "bossRewardID": 562
+    },
+    {
+        "ID": 563,
+        "bossDescriptionID": 123,
+        "bossRewardID": 563
+    },
+    {
+        "ID": 565,
+        "bossDescriptionID": 123,
+        "bossRewardID": 565
+    },
+    {
+        "ID": 566,
+        "bossDescriptionID": 124,
+        "bossRewardID": 566
+    },
+    {
+        "ID": 567,
+        "bossDescriptionID": 124,
+        "bossRewardID": 567
+    },
+    {
+        "ID": 568,
+        "bossDescriptionID": 124,
+        "bossRewardID": 568
+    },
+    {
+        "ID": 570,
+        "bossDescriptionID": 124,
+        "bossRewardID": 570
+    },
+    {
+        "ID": 571,
+        "bossDescriptionID": 125,
+        "bossRewardID": 571
+    },
+    {
+        "ID": 572,
+        "bossDescriptionID": 125,
+        "bossRewardID": 572
+    },
+    {
+        "ID": 573,
+        "bossDescriptionID": 125,
+        "bossRewardID": 573
+    },
+    {
+        "ID": 575,
+        "bossDescriptionID": 125,
+        "bossRewardID": 575
+    },
+    {
+        "ID": 576,
+        "bossDescriptionID": 126,
+        "bossRewardID": 576
+    },
+    {
+        "ID": 577,
+        "bossDescriptionID": 126,
+        "bossRewardID": 577
+    },
+    {
+        "ID": 578,
+        "bossDescriptionID": 126,
+        "bossRewardID": 578
+    },
+    {
+        "ID": 579,
+        "bossDescriptionID": 127,
+        "bossRewardID": 579
+    },
+    {
+        "ID": 580,
+        "bossDescriptionID": 127,
+        "bossRewardID": 580
+    },
+    {
+        "ID": 581,
+        "bossDescriptionID": 127,
+        "bossRewardID": 581
+    },
+    {
+        "ID": 582,
+        "bossDescriptionID": 128,
+        "bossRewardID": 582
+    },
+    {
+        "ID": 583,
+        "bossDescriptionID": 128,
+        "bossRewardID": 583
+    },
+    {
+        "ID": 584,
+        "bossDescriptionID": 128,
+        "bossRewardID": 584
+    },
+    {
+        "ID": 585,
+        "bossDescriptionID": 129,
+        "bossRewardID": 585
+    },
+    {
+        "ID": 586,
+        "bossDescriptionID": 129,
+        "bossRewardID": 586
+    },
+    {
+        "ID": 587,
+        "bossDescriptionID": 129,
+        "bossRewardID": 587
+    },
+    {
+        "ID": 588,
+        "bossDescriptionID": 130,
+        "bossRewardID": 588
+    },
+    {
+        "ID": 589,
+        "bossDescriptionID": 130,
+        "bossRewardID": 589
+    },
+    {
+        "ID": 590,
+        "bossDescriptionID": 130,
+        "bossRewardID": 590
+    },
+    {
+        "ID": 591,
+        "bossDescriptionID": 131,
+        "bossRewardID": 591
+    },
+    {
+        "ID": 592,
+        "bossDescriptionID": 131,
+        "bossRewardID": 592
+    },
+    {
+        "ID": 593,
+        "bossDescriptionID": 131,
+        "bossRewardID": 593
+    },
+    {
+        "ID": 595,
+        "bossDescriptionID": 131,
+        "bossRewardID": 595
+    },
+    {
+        "ID": 596,
+        "bossDescriptionID": 132,
+        "bossRewardID": 596
+    },
+    {
+        "ID": 597,
+        "bossDescriptionID": 132,
+        "bossRewardID": 597
+    },
+    {
+        "ID": 598,
+        "bossDescriptionID": 132,
+        "bossRewardID": 598
+    },
+    {
+        "ID": 600,
+        "bossDescriptionID": 132,
+        "bossRewardID": 600
+    },
+    {
+        "ID": 601,
+        "bossDescriptionID": 133,
+        "bossRewardID": 601
+    },
+    {
+        "ID": 602,
+        "bossDescriptionID": 133,
+        "bossRewardID": 602
+    },
+    {
+        "ID": 603,
+        "bossDescriptionID": 133,
+        "bossRewardID": 603
+    },
+    {
+        "ID": 605,
+        "bossDescriptionID": 133,
+        "bossRewardID": 605
+    },
+    {
+        "ID": 606,
+        "bossDescriptionID": 134,
+        "bossRewardID": 606
+    },
+    {
+        "ID": 607,
+        "bossDescriptionID": 134,
+        "bossRewardID": 607
+    },
+    {
+        "ID": 608,
+        "bossDescriptionID": 134,
+        "bossRewardID": 608
+    },
+    {
+        "ID": 610,
+        "bossDescriptionID": 134,
+        "bossRewardID": 610
+    },
+    {
+        "ID": 611,
+        "bossDescriptionID": 135,
+        "bossRewardID": 611
+    },
+    {
+        "ID": 612,
+        "bossDescriptionID": 135,
+        "bossRewardID": 612
+    },
+    {
+        "ID": 613,
+        "bossDescriptionID": 135,
+        "bossRewardID": 613
+    },
+    {
+        "ID": 615,
+        "bossDescriptionID": 135,
+        "bossRewardID": 615
+    },
+    {
+        "ID": 616,
+        "bossDescriptionID": 136,
+        "bossRewardID": 616
+    },
+    {
+        "ID": 617,
+        "bossDescriptionID": 136,
+        "bossRewardID": 617
+    },
+    {
+        "ID": 618,
+        "bossDescriptionID": 136,
+        "bossRewardID": 618
+    },
+    {
+        "ID": 620,
+        "bossDescriptionID": 136,
+        "bossRewardID": 620
+    },
+    {
+        "ID": 621,
+        "bossDescriptionID": 137,
+        "bossRewardID": 621
+    },
+    {
+        "ID": 622,
+        "bossDescriptionID": 137,
+        "bossRewardID": 622
+    },
+    {
+        "ID": 623,
+        "bossDescriptionID": 137,
+        "bossRewardID": 623
+    },
+    {
+        "ID": 625,
+        "bossDescriptionID": 137,
+        "bossRewardID": 625
+    },
+    {
+        "ID": 626,
+        "bossDescriptionID": 138,
+        "bossRewardID": 626
+    },
+    {
+        "ID": 627,
+        "bossDescriptionID": 138,
+        "bossRewardID": 627
+    },
+    {
+        "ID": 628,
+        "bossDescriptionID": 138,
+        "bossRewardID": 628
+    },
+    {
+        "ID": 630,
+        "bossDescriptionID": 138,
+        "bossRewardID": 630
+    },
+    {
+        "ID": 631,
+        "bossDescriptionID": 139,
+        "bossRewardID": 631
+    },
+    {
+        "ID": 632,
+        "bossDescriptionID": 139,
+        "bossRewardID": 632
+    },
+    {
+        "ID": 633,
+        "bossDescriptionID": 139,
+        "bossRewardID": 633
+    },
+    {
+        "ID": 635,
+        "bossDescriptionID": 139,
+        "bossRewardID": 635
+    },
+    {
+        "ID": 636,
+        "bossDescriptionID": 140,
+        "bossRewardID": 636
+    },
+    {
+        "ID": 637,
+        "bossDescriptionID": 140,
+        "bossRewardID": 637
+    },
+    {
+        "ID": 638,
+        "bossDescriptionID": 140,
+        "bossRewardID": 638
+    },
+    {
+        "ID": 640,
+        "bossDescriptionID": 140,
+        "bossRewardID": 640
+    },
+    {
+        "ID": 641,
+        "bossDescriptionID": 141,
+        "bossRewardID": 641
+    },
+    {
+        "ID": 642,
+        "bossDescriptionID": 141,
+        "bossRewardID": 642
+    },
+    {
+        "ID": 643,
+        "bossDescriptionID": 141,
+        "bossRewardID": 643
+    },
+    {
+        "ID": 645,
+        "bossDescriptionID": 141,
+        "bossRewardID": 645
+    },
+    {
+        "ID": 646,
+        "bossDescriptionID": 142,
+        "bossRewardID": 646
+    },
+    {
+        "ID": 647,
+        "bossDescriptionID": 142,
+        "bossRewardID": 647
+    },
+    {
+        "ID": 648,
+        "bossDescriptionID": 142,
+        "bossRewardID": 648
+    },
+    {
+        "ID": 650,
+        "bossDescriptionID": 142,
+        "bossRewardID": 650
+    },
+    {
+        "ID": 651,
+        "bossDescriptionID": 143,
+        "bossRewardID": 651
+    },
+    {
+        "ID": 652,
+        "bossDescriptionID": 143,
+        "bossRewardID": 652
+    },
+    {
+        "ID": 653,
+        "bossDescriptionID": 143,
+        "bossRewardID": 653
+    },
+    {
+        "ID": 655,
+        "bossDescriptionID": 143,
+        "bossRewardID": 655
+    },
+    {
+        "ID": 656,
+        "bossDescriptionID": 144,
+        "bossRewardID": 656
+    },
+    {
+        "ID": 657,
+        "bossDescriptionID": 144,
+        "bossRewardID": 657
+    },
+    {
+        "ID": 658,
+        "bossDescriptionID": 144,
+        "bossRewardID": 658
+    },
+    {
+        "ID": 660,
+        "bossDescriptionID": 144,
+        "bossRewardID": 660
+    },
+    {
+        "ID": 661,
+        "bossDescriptionID": 145,
+        "bossRewardID": 661
+    },
+    {
+        "ID": 662,
+        "bossDescriptionID": 145,
+        "bossRewardID": 662
+    },
+    {
+        "ID": 663,
+        "bossDescriptionID": 145,
+        "bossRewardID": 663
+    },
+    {
+        "ID": 665,
+        "bossDescriptionID": 145,
+        "bossRewardID": 665
+    },
+    {
+        "ID": 666,
+        "bossDescriptionID": 146,
+        "bossRewardID": 666
+    },
+    {
+        "ID": 667,
+        "bossDescriptionID": 146,
+        "bossRewardID": 667
+    },
+    {
+        "ID": 668,
+        "bossDescriptionID": 146,
+        "bossRewardID": 668
+    },
+    {
+        "ID": 670,
+        "bossDescriptionID": 146,
+        "bossRewardID": 670
+    },
+    {
+        "ID": 671,
+        "bossDescriptionID": 147,
+        "bossRewardID": 671
+    },
+    {
+        "ID": 672,
+        "bossDescriptionID": 147,
+        "bossRewardID": 672
+    },
+    {
+        "ID": 673,
+        "bossDescriptionID": 147,
+        "bossRewardID": 673
+    },
+    {
+        "ID": 675,
+        "bossDescriptionID": 147,
+        "bossRewardID": 675
+    },
+    {
+        "ID": 676,
+        "bossDescriptionID": 148,
+        "bossRewardID": 676
+    },
+    {
+        "ID": 677,
+        "bossDescriptionID": 148,
+        "bossRewardID": 677
+    },
+    {
+        "ID": 678,
+        "bossDescriptionID": 148,
+        "bossRewardID": 678
+    },
+    {
+        "ID": 680,
+        "bossDescriptionID": 148,
+        "bossRewardID": 680
+    },
+    {
+        "ID": 681,
+        "bossDescriptionID": 149,
+        "bossRewardID": 681
+    },
+    {
+        "ID": 682,
+        "bossDescriptionID": 149,
+        "bossRewardID": 682
+    },
+    {
+        "ID": 683,
+        "bossDescriptionID": 149,
+        "bossRewardID": 683
+    },
+    {
+        "ID": 685,
+        "bossDescriptionID": 149,
+        "bossRewardID": 685
+    },
+    {
+        "ID": 686,
+        "bossDescriptionID": 150,
+        "bossRewardID": 686
+    },
+    {
+        "ID": 687,
+        "bossDescriptionID": 150,
+        "bossRewardID": 687
+    },
+    {
+        "ID": 688,
+        "bossDescriptionID": 150,
+        "bossRewardID": 688
+    },
+    {
+        "ID": 690,
+        "bossDescriptionID": 150,
+        "bossRewardID": 690
+    },
+    {
+        "ID": 691,
+        "bossDescriptionID": 151,
+        "bossRewardID": 691
+    },
+    {
+        "ID": 692,
+        "bossDescriptionID": 151,
+        "bossRewardID": 692
+    },
+    {
+        "ID": 693,
+        "bossDescriptionID": 151,
+        "bossRewardID": 693
+    },
+    {
+        "ID": 694,
+        "bossDescriptionID": 151,
+        "bossRewardID": 694
+    },
+    {
+        "ID": 695,
+        "bossDescriptionID": 152,
+        "bossRewardID": 695
+    },
+    {
+        "ID": 696,
+        "bossDescriptionID": 152,
+        "bossRewardID": 696
+    },
+    {
+        "ID": 697,
+        "bossDescriptionID": 152,
+        "bossRewardID": 697
+    },
+    {
+        "ID": 698,
+        "bossDescriptionID": 152,
+        "bossRewardID": 698
+    },
+    {
+        "ID": 699,
+        "bossDescriptionID": 153,
+        "bossRewardID": 699
+    },
+    {
+        "ID": 700,
+        "bossDescriptionID": 153,
+        "bossRewardID": 700
+    },
+    {
+        "ID": 701,
+        "bossDescriptionID": 153,
+        "bossRewardID": 701
+    },
+    {
+        "ID": 702,
+        "bossDescriptionID": 153,
+        "bossRewardID": 702
+    },
+    {
+        "ID": 703,
+        "bossDescriptionID": 154,
+        "bossRewardID": 703
+    },
+    {
+        "ID": 704,
+        "bossDescriptionID": 154,
+        "bossRewardID": 704
+    },
+    {
+        "ID": 705,
+        "bossDescriptionID": 154,
+        "bossRewardID": 705
+    },
+    {
+        "ID": 706,
+        "bossDescriptionID": 154,
+        "bossRewardID": 706
+    },
+    {
+        "ID": 707,
+        "bossDescriptionID": 155,
+        "bossRewardID": 707
+    },
+    {
+        "ID": 708,
+        "bossDescriptionID": 155,
+        "bossRewardID": 708
+    },
+    {
+        "ID": 709,
+        "bossDescriptionID": 155,
+        "bossRewardID": 709
+    },
+    {
+        "ID": 710,
+        "bossDescriptionID": 155,
+        "bossRewardID": 710
+    },
+    {
+        "ID": 711,
+        "bossDescriptionID": 156,
+        "bossRewardID": 711
+    },
+    {
+        "ID": 712,
+        "bossDescriptionID": 156,
+        "bossRewardID": 712
+    },
+    {
+        "ID": 713,
+        "bossDescriptionID": 156,
+        "bossRewardID": 713
+    },
+    {
+        "ID": 714,
+        "bossDescriptionID": 156,
+        "bossRewardID": 714
+    },
+    {
+        "ID": 715,
+        "bossDescriptionID": 157,
+        "bossRewardID": 715
+    },
+    {
+        "ID": 716,
+        "bossDescriptionID": 157,
+        "bossRewardID": 716
+    },
+    {
+        "ID": 717,
+        "bossDescriptionID": 157,
+        "bossRewardID": 717
+    },
+    {
+        "ID": 718,
+        "bossDescriptionID": 157,
+        "bossRewardID": 718
+    },
+    {
+        "ID": 719,
+        "bossDescriptionID": 158,
+        "bossRewardID": 719
+    },
+    {
+        "ID": 720,
+        "bossDescriptionID": 158,
+        "bossRewardID": 720
+    },
+    {
+        "ID": 721,
+        "bossDescriptionID": 158,
+        "bossRewardID": 721
+    },
+    {
+        "ID": 722,
+        "bossDescriptionID": 158,
+        "bossRewardID": 722
+    },
+    {
+        "ID": 723,
+        "bossDescriptionID": 159,
+        "bossRewardID": 723
+    },
+    {
+        "ID": 724,
+        "bossDescriptionID": 159,
+        "bossRewardID": 724
+    },
+    {
+        "ID": 725,
+        "bossDescriptionID": 159,
+        "bossRewardID": 725
+    },
+    {
+        "ID": 726,
+        "bossDescriptionID": 159,
+        "bossRewardID": 726
+    },
+    {
+        "ID": 727,
+        "bossDescriptionID": 160,
+        "bossRewardID": 727
+    },
+    {
+        "ID": 728,
+        "bossDescriptionID": 160,
+        "bossRewardID": 728
+    },
+    {
+        "ID": 729,
+        "bossDescriptionID": 160,
+        "bossRewardID": 729
+    },
+    {
+        "ID": 730,
+        "bossDescriptionID": 160,
+        "bossRewardID": 730
+    },
+    {
+        "ID": 731,
+        "bossDescriptionID": 161,
+        "bossRewardID": 731
+    },
+    {
+        "ID": 732,
+        "bossDescriptionID": 161,
+        "bossRewardID": 732
+    },
+    {
+        "ID": 733,
+        "bossDescriptionID": 161,
+        "bossRewardID": 733
+    },
+    {
+        "ID": 734,
+        "bossDescriptionID": 161,
+        "bossRewardID": 734
+    },
+    {
+        "ID": 735,
+        "bossDescriptionID": 162,
+        "bossRewardID": 735
+    },
+    {
+        "ID": 736,
+        "bossDescriptionID": 162,
+        "bossRewardID": 736
+    },
+    {
+        "ID": 737,
+        "bossDescriptionID": 162,
+        "bossRewardID": 737
+    },
+    {
+        "ID": 738,
+        "bossDescriptionID": 162,
+        "bossRewardID": 738
+    },
+    {
+        "ID": 739,
+        "bossDescriptionID": 163,
+        "bossRewardID": 739
+    },
+    {
+        "ID": 740,
+        "bossDescriptionID": 163,
+        "bossRewardID": 740
+    },
+    {
+        "ID": 741,
+        "bossDescriptionID": 163,
+        "bossRewardID": 741
+    },
+    {
+        "ID": 742,
+        "bossDescriptionID": 163,
+        "bossRewardID": 742
+    },
+    {
+        "ID": 743,
+        "bossDescriptionID": 164,
+        "bossRewardID": 743
+    },
+    {
+        "ID": 744,
+        "bossDescriptionID": 164,
+        "bossRewardID": 744
+    },
+    {
+        "ID": 745,
+        "bossDescriptionID": 164,
+        "bossRewardID": 745
+    },
+    {
+        "ID": 746,
+        "bossDescriptionID": 164,
+        "bossRewardID": 746
+    },
+    {
+        "ID": 747,
+        "bossDescriptionID": 165,
+        "bossRewardID": 747
+    },
+    {
+        "ID": 748,
+        "bossDescriptionID": 165,
+        "bossRewardID": 748
+    },
+    {
+        "ID": 749,
+        "bossDescriptionID": 165,
+        "bossRewardID": 749
+    },
+    {
+        "ID": 750,
+        "bossDescriptionID": 165,
+        "bossRewardID": 750
+    },
+    {
+        "ID": 751,
+        "bossDescriptionID": 166,
+        "bossRewardID": 751
+    },
+    {
+        "ID": 752,
+        "bossDescriptionID": 166,
+        "bossRewardID": 752
+    },
+    {
+        "ID": 753,
+        "bossDescriptionID": 166,
+        "bossRewardID": 753
+    },
+    {
+        "ID": 754,
+        "bossDescriptionID": 166,
+        "bossRewardID": 754
+    },
+    {
+        "ID": 755,
+        "bossDescriptionID": 167,
+        "bossRewardID": 755
+    },
+    {
+        "ID": 756,
+        "bossDescriptionID": 167,
+        "bossRewardID": 756
+    },
+    {
+        "ID": 757,
+        "bossDescriptionID": 167,
+        "bossRewardID": 757
+    },
+    {
+        "ID": 758,
+        "bossDescriptionID": 167,
+        "bossRewardID": 758
+    },
+    {
+        "ID": 759,
+        "bossDescriptionID": 168,
+        "bossRewardID": 759
+    },
+    {
+        "ID": 760,
+        "bossDescriptionID": 168,
+        "bossRewardID": 760
+    },
+    {
+        "ID": 761,
+        "bossDescriptionID": 168,
+        "bossRewardID": 761
+    },
+    {
+        "ID": 762,
+        "bossDescriptionID": 168,
+        "bossRewardID": 762
+    },
+    {
+        "ID": 763,
+        "bossDescriptionID": 169,
+        "bossRewardID": 763
+    },
+    {
+        "ID": 764,
+        "bossDescriptionID": 169,
+        "bossRewardID": 764
+    },
+    {
+        "ID": 765,
+        "bossDescriptionID": 169,
+        "bossRewardID": 765
+    },
+    {
+        "ID": 766,
+        "bossDescriptionID": 169,
+        "bossRewardID": 766
+    },
+    {
+        "ID": 767,
+        "bossDescriptionID": 170,
+        "bossRewardID": 767
+    },
+    {
+        "ID": 768,
+        "bossDescriptionID": 170,
+        "bossRewardID": 768
+    },
+    {
+        "ID": 769,
+        "bossDescriptionID": 170,
+        "bossRewardID": 769
+    },
+    {
+        "ID": 770,
+        "bossDescriptionID": 170,
+        "bossRewardID": 770
+    },
+    {
+        "ID": 771,
+        "bossDescriptionID": 171,
+        "bossRewardID": 771
+    },
+    {
+        "ID": 772,
+        "bossDescriptionID": 171,
+        "bossRewardID": 772
+    },
+    {
+        "ID": 773,
+        "bossDescriptionID": 171,
+        "bossRewardID": 773
+    },
+    {
+        "ID": 774,
+        "bossDescriptionID": 171,
+        "bossRewardID": 774
+    },
+    {
+        "ID": 775,
+        "bossDescriptionID": 172,
+        "bossRewardID": 775
+    },
+    {
+        "ID": 776,
+        "bossDescriptionID": 172,
+        "bossRewardID": 776
+    },
+    {
+        "ID": 777,
+        "bossDescriptionID": 172,
+        "bossRewardID": 777
+    },
+    {
+        "ID": 778,
+        "bossDescriptionID": 172,
+        "bossRewardID": 778
+    },
+    {
+        "ID": 779,
+        "bossDescriptionID": 173,
+        "bossRewardID": 779
+    },
+    {
+        "ID": 780,
+        "bossDescriptionID": 173,
+        "bossRewardID": 780
+    },
+    {
+        "ID": 781,
+        "bossDescriptionID": 173,
+        "bossRewardID": 781
+    },
+    {
+        "ID": 782,
+        "bossDescriptionID": 173,
+        "bossRewardID": 782
+    },
+    {
+        "ID": 783,
+        "bossDescriptionID": 174,
+        "bossRewardID": 783
+    },
+    {
+        "ID": 784,
+        "bossDescriptionID": 174,
+        "bossRewardID": 784
+    },
+    {
+        "ID": 785,
+        "bossDescriptionID": 174,
+        "bossRewardID": 785
+    },
+    {
+        "ID": 786,
+        "bossDescriptionID": 174,
+        "bossRewardID": 786
+    },
+    {
+        "ID": 787,
+        "bossDescriptionID": 175,
+        "bossRewardID": 787
+    },
+    {
+        "ID": 788,
+        "bossDescriptionID": 175,
+        "bossRewardID": 788
+    },
+    {
+        "ID": 789,
+        "bossDescriptionID": 175,
+        "bossRewardID": 789
+    },
+    {
+        "ID": 790,
+        "bossDescriptionID": 175,
+        "bossRewardID": 790
+    },
+    {
+        "ID": 791,
+        "bossDescriptionID": 176,
+        "bossRewardID": 791
+    },
+    {
+        "ID": 792,
+        "bossDescriptionID": 176,
+        "bossRewardID": 792
+    },
+    {
+        "ID": 793,
+        "bossDescriptionID": 176,
+        "bossRewardID": 793
+    },
+    {
+        "ID": 794,
+        "bossDescriptionID": 176,
+        "bossRewardID": 794
+    },
+    {
+        "ID": 795,
+        "bossDescriptionID": 177,
+        "bossRewardID": 795
+    },
+    {
+        "ID": 796,
+        "bossDescriptionID": 177,
+        "bossRewardID": 796
+    },
+    {
+        "ID": 797,
+        "bossDescriptionID": 177,
+        "bossRewardID": 797
+    },
+    {
+        "ID": 798,
+        "bossDescriptionID": 177,
+        "bossRewardID": 798
+    },
+    {
+        "ID": 799,
+        "bossDescriptionID": 178,
+        "bossRewardID": 799
+    },
+    {
+        "ID": 800,
+        "bossDescriptionID": 178,
+        "bossRewardID": 800
+    },
+    {
+        "ID": 801,
+        "bossDescriptionID": 178,
+        "bossRewardID": 801
+    },
+    {
+        "ID": 802,
+        "bossDescriptionID": 178,
+        "bossRewardID": 802
+    },
+    {
+        "ID": 803,
+        "bossDescriptionID": 179,
+        "bossRewardID": 803
+    },
+    {
+        "ID": 804,
+        "bossDescriptionID": 179,
+        "bossRewardID": 804
+    },
+    {
+        "ID": 805,
+        "bossDescriptionID": 179,
+        "bossRewardID": 805
+    },
+    {
+        "ID": 806,
+        "bossDescriptionID": 179,
+        "bossRewardID": 806
+    },
+    {
+        "ID": 807,
+        "bossDescriptionID": 180,
+        "bossRewardID": 807
+    },
+    {
+        "ID": 808,
+        "bossDescriptionID": 180,
+        "bossRewardID": 808
+    },
+    {
+        "ID": 809,
+        "bossDescriptionID": 180,
+        "bossRewardID": 809
+    },
+    {
+        "ID": 810,
+        "bossDescriptionID": 180,
+        "bossRewardID": 810
+    },
+    {
+        "ID": 811,
+        "bossDescriptionID": 181,
+        "bossRewardID": 811
+    },
+    {
+        "ID": 812,
+        "bossDescriptionID": 181,
+        "bossRewardID": 812
+    },
+    {
+        "ID": 813,
+        "bossDescriptionID": 181,
+        "bossRewardID": 813
+    },
+    {
+        "ID": 814,
+        "bossDescriptionID": 181,
+        "bossRewardID": 814
+    },
+    {
+        "ID": 815,
+        "bossDescriptionID": 182,
+        "bossRewardID": 815
+    },
+    {
+        "ID": 816,
+        "bossDescriptionID": 182,
+        "bossRewardID": 816
+    },
+    {
+        "ID": 817,
+        "bossDescriptionID": 182,
+        "bossRewardID": 817
+    },
+    {
+        "ID": 818,
+        "bossDescriptionID": 182,
+        "bossRewardID": 818
+    },
+    {
+        "ID": 819,
+        "bossDescriptionID": 183,
+        "bossRewardID": 819
+    },
+    {
+        "ID": 820,
+        "bossDescriptionID": 183,
+        "bossRewardID": 820
+    },
+    {
+        "ID": 821,
+        "bossDescriptionID": 183,
+        "bossRewardID": 821
+    },
+    {
+        "ID": 822,
+        "bossDescriptionID": 183,
+        "bossRewardID": 822
+    },
+    {
+        "ID": 823,
+        "bossDescriptionID": 184,
+        "bossRewardID": 823
+    },
+    {
+        "ID": 824,
+        "bossDescriptionID": 184,
+        "bossRewardID": 824
+    },
+    {
+        "ID": 825,
+        "bossDescriptionID": 184,
+        "bossRewardID": 825
+    },
+    {
+        "ID": 826,
+        "bossDescriptionID": 184,
+        "bossRewardID": 826
+    },
+    {
+        "ID": 827,
+        "bossDescriptionID": 185,
+        "bossRewardID": 827
+    },
+    {
+        "ID": 828,
+        "bossDescriptionID": 185,
+        "bossRewardID": 828
+    },
+    {
+        "ID": 829,
+        "bossDescriptionID": 185,
+        "bossRewardID": 829
+    },
+    {
+        "ID": 830,
+        "bossDescriptionID": 185,
+        "bossRewardID": 830
+    },
+    {
+        "ID": 831,
+        "bossDescriptionID": 186,
+        "bossRewardID": 831
+    },
+    {
+        "ID": 832,
+        "bossDescriptionID": 186,
+        "bossRewardID": 832
+    },
+    {
+        "ID": 833,
+        "bossDescriptionID": 186,
+        "bossRewardID": 833
+    },
+    {
+        "ID": 834,
+        "bossDescriptionID": 186,
+        "bossRewardID": 834
+    },
+    {
+        "ID": 835,
+        "bossDescriptionID": 187,
+        "bossRewardID": 835
+    },
+    {
+        "ID": 836,
+        "bossDescriptionID": 187,
+        "bossRewardID": 836
+    },
+    {
+        "ID": 837,
+        "bossDescriptionID": 187,
+        "bossRewardID": 837
+    },
+    {
+        "ID": 838,
+        "bossDescriptionID": 187,
+        "bossRewardID": 838
+    },
+    {
+        "ID": 839,
+        "bossDescriptionID": 188,
+        "bossRewardID": 839
+    },
+    {
+        "ID": 840,
+        "bossDescriptionID": 188,
+        "bossRewardID": 840
+    },
+    {
+        "ID": 841,
+        "bossDescriptionID": 188,
+        "bossRewardID": 841
+    },
+    {
+        "ID": 842,
+        "bossDescriptionID": 188,
+        "bossRewardID": 842
+    },
+    {
+        "ID": 843,
+        "bossDescriptionID": 189,
+        "bossRewardID": 843
+    },
+    {
+        "ID": 844,
+        "bossDescriptionID": 189,
+        "bossRewardID": 844
+    },
+    {
+        "ID": 845,
+        "bossDescriptionID": 189,
+        "bossRewardID": 845
+    },
+    {
+        "ID": 846,
+        "bossDescriptionID": 189,
+        "bossRewardID": 846
+    },
+    {
+        "ID": 847,
+        "bossDescriptionID": 190,
+        "bossRewardID": 847
+    },
+    {
+        "ID": 848,
+        "bossDescriptionID": 190,
+        "bossRewardID": 848
+    },
+    {
+        "ID": 849,
+        "bossDescriptionID": 190,
+        "bossRewardID": 849
+    },
+    {
+        "ID": 850,
+        "bossDescriptionID": 190,
+        "bossRewardID": 850
+    },
+    {
+        "ID": 851,
+        "bossDescriptionID": 191,
+        "bossRewardID": 851
+    },
+    {
+        "ID": 852,
+        "bossDescriptionID": 191,
+        "bossRewardID": 852
+    },
+    {
+        "ID": 853,
+        "bossDescriptionID": 191,
+        "bossRewardID": 853
+    },
+    {
+        "ID": 854,
+        "bossDescriptionID": 191,
+        "bossRewardID": 854
+    },
+    {
+        "ID": 855,
+        "bossDescriptionID": 192,
+        "bossRewardID": 855
+    },
+    {
+        "ID": 856,
+        "bossDescriptionID": 192,
+        "bossRewardID": 856
+    },
+    {
+        "ID": 857,
+        "bossDescriptionID": 192,
+        "bossRewardID": 857
+    },
+    {
+        "ID": 858,
+        "bossDescriptionID": 192,
+        "bossRewardID": 858
+    },
+    {
+        "ID": 859,
+        "bossDescriptionID": 193,
+        "bossRewardID": 859
+    },
+    {
+        "ID": 860,
+        "bossDescriptionID": 193,
+        "bossRewardID": 860
+    },
+    {
+        "ID": 861,
+        "bossDescriptionID": 193,
+        "bossRewardID": 861
+    },
+    {
+        "ID": 862,
+        "bossDescriptionID": 193,
+        "bossRewardID": 862
+    },
+    {
+        "ID": 863,
+        "bossDescriptionID": 194,
+        "bossRewardID": 863
+    },
+    {
+        "ID": 864,
+        "bossDescriptionID": 194,
+        "bossRewardID": 864
+    },
+    {
+        "ID": 865,
+        "bossDescriptionID": 194,
+        "bossRewardID": 865
+    },
+    {
+        "ID": 866,
+        "bossDescriptionID": 194,
+        "bossRewardID": 866
+    },
+    {
+        "ID": 867,
+        "bossDescriptionID": 195,
+        "bossRewardID": 867
+    },
+    {
+        "ID": 868,
+        "bossDescriptionID": 195,
+        "bossRewardID": 868
+    },
+    {
+        "ID": 869,
+        "bossDescriptionID": 195,
+        "bossRewardID": 869
+    },
+    {
+        "ID": 870,
+        "bossDescriptionID": 195,
+        "bossRewardID": 870
+    },
+    {
+        "ID": 871,
+        "bossDescriptionID": 196,
+        "bossRewardID": 871
+    },
+    {
+        "ID": 872,
+        "bossDescriptionID": 196,
+        "bossRewardID": 872
+    },
+    {
+        "ID": 873,
+        "bossDescriptionID": 196,
+        "bossRewardID": 873
+    },
+    {
+        "ID": 874,
+        "bossDescriptionID": 196,
+        "bossRewardID": 874
+    },
+    {
+        "ID": 875,
+        "bossDescriptionID": 197,
+        "bossRewardID": 875
+    },
+    {
+        "ID": 876,
+        "bossDescriptionID": 197,
+        "bossRewardID": 876
+    },
+    {
+        "ID": 877,
+        "bossDescriptionID": 197,
+        "bossRewardID": 877
+    },
+    {
+        "ID": 878,
+        "bossDescriptionID": 197,
+        "bossRewardID": 878
+    },
+    {
+        "ID": 879,
+        "bossDescriptionID": 198,
+        "bossRewardID": 879
+    },
+    {
+        "ID": 880,
+        "bossDescriptionID": 198,
+        "bossRewardID": 880
+    },
+    {
+        "ID": 881,
+        "bossDescriptionID": 198,
+        "bossRewardID": 881
+    },
+    {
+        "ID": 882,
+        "bossDescriptionID": 198,
+        "bossRewardID": 882
+    },
+    {
+        "ID": 883,
+        "bossDescriptionID": 199,
+        "bossRewardID": 883
+    },
+    {
+        "ID": 884,
+        "bossDescriptionID": 199,
+        "bossRewardID": 884
+    },
+    {
+        "ID": 885,
+        "bossDescriptionID": 199,
+        "bossRewardID": 885
+    },
+    {
+        "ID": 886,
+        "bossDescriptionID": 199,
+        "bossRewardID": 886
+    },
+    {
+        "ID": 887,
+        "bossDescriptionID": 200,
+        "bossRewardID": 887
+    },
+    {
+        "ID": 888,
+        "bossDescriptionID": 200,
+        "bossRewardID": 888
+    },
+    {
+        "ID": 889,
+        "bossDescriptionID": 200,
+        "bossRewardID": 889
+    },
+    {
+        "ID": 890,
+        "bossDescriptionID": 200,
+        "bossRewardID": 890
+    },
+    {
+        "ID": 891,
+        "bossDescriptionID": 201,
+        "bossRewardID": 891
+    },
+    {
+        "ID": 892,
+        "bossDescriptionID": 201,
+        "bossRewardID": 892
+    },
+    {
+        "ID": 893,
+        "bossDescriptionID": 201,
+        "bossRewardID": 893
+    },
+    {
+        "ID": 894,
+        "bossDescriptionID": 201,
+        "bossRewardID": 894
+    },
+    {
+        "ID": 895,
+        "bossDescriptionID": 202,
+        "bossRewardID": 895
+    },
+    {
+        "ID": 896,
+        "bossDescriptionID": 202,
+        "bossRewardID": 896
+    },
+    {
+        "ID": 897,
+        "bossDescriptionID": 202,
+        "bossRewardID": 897
+    },
+    {
+        "ID": 898,
+        "bossDescriptionID": 202,
+        "bossRewardID": 898
+    },
+    {
+        "ID": 899,
+        "bossDescriptionID": 203,
+        "bossRewardID": 899
+    },
+    {
+        "ID": 900,
+        "bossDescriptionID": 203,
+        "bossRewardID": 900
+    },
+    {
+        "ID": 901,
+        "bossDescriptionID": 203,
+        "bossRewardID": 901
+    },
+    {
+        "ID": 902,
+        "bossDescriptionID": 203,
+        "bossRewardID": 902
+    },
+    {
+        "ID": 903,
+        "bossDescriptionID": 204,
+        "bossRewardID": 903
+    },
+    {
+        "ID": 904,
+        "bossDescriptionID": 204,
+        "bossRewardID": 904
+    },
+    {
+        "ID": 905,
+        "bossDescriptionID": 204,
+        "bossRewardID": 905
+    },
+    {
+        "ID": 906,
+        "bossDescriptionID": 204,
+        "bossRewardID": 906
+    },
+    {
+        "ID": 907,
+        "bossDescriptionID": 205,
+        "bossRewardID": 907
+    },
+    {
+        "ID": 908,
+        "bossDescriptionID": 205,
+        "bossRewardID": 908
+    },
+    {
+        "ID": 909,
+        "bossDescriptionID": 205,
+        "bossRewardID": 909
+    },
+    {
+        "ID": 910,
+        "bossDescriptionID": 205,
+        "bossRewardID": 910
+    },
+    {
+        "ID": 911,
+        "bossDescriptionID": 206,
+        "bossRewardID": 911
+    },
+    {
+        "ID": 912,
+        "bossDescriptionID": 206,
+        "bossRewardID": 912
+    },
+    {
+        "ID": 913,
+        "bossDescriptionID": 206,
+        "bossRewardID": 913
+    },
+    {
+        "ID": 914,
+        "bossDescriptionID": 206,
+        "bossRewardID": 914
+    },
+    {
+        "ID": 915,
+        "bossDescriptionID": 207,
+        "bossRewardID": 915
+    },
+    {
+        "ID": 916,
+        "bossDescriptionID": 207,
+        "bossRewardID": 916
+    },
+    {
+        "ID": 917,
+        "bossDescriptionID": 207,
+        "bossRewardID": 917
+    },
+    {
+        "ID": 918,
+        "bossDescriptionID": 207,
+        "bossRewardID": 918
+    },
+    {
+        "ID": 919,
+        "bossDescriptionID": 208,
+        "bossRewardID": 919
+    },
+    {
+        "ID": 920,
+        "bossDescriptionID": 208,
+        "bossRewardID": 920
+    },
+    {
+        "ID": 921,
+        "bossDescriptionID": 208,
+        "bossRewardID": 921
+    },
+    {
+        "ID": 922,
+        "bossDescriptionID": 208,
+        "bossRewardID": 922
+    },
+    {
+        "ID": 923,
+        "bossDescriptionID": 209,
+        "bossRewardID": 923
+    },
+    {
+        "ID": 924,
+        "bossDescriptionID": 209,
+        "bossRewardID": 924
+    },
+    {
+        "ID": 925,
+        "bossDescriptionID": 209,
+        "bossRewardID": 925
+    },
+    {
+        "ID": 926,
+        "bossDescriptionID": 209,
+        "bossRewardID": 926
+    },
+    {
+        "ID": 927,
+        "bossDescriptionID": 210,
+        "bossRewardID": 927
+    },
+    {
+        "ID": 928,
+        "bossDescriptionID": 210,
+        "bossRewardID": 928
+    },
+    {
+        "ID": 929,
+        "bossDescriptionID": 210,
+        "bossRewardID": 929
+    },
+    {
+        "ID": 930,
+        "bossDescriptionID": 210,
+        "bossRewardID": 930
+    },
+    {
+        "ID": 931,
+        "bossDescriptionID": 211,
+        "bossRewardID": 931
+    },
+    {
+        "ID": 932,
+        "bossDescriptionID": 211,
+        "bossRewardID": 932
+    },
+    {
+        "ID": 933,
+        "bossDescriptionID": 211,
+        "bossRewardID": 933
+    },
+    {
+        "ID": 934,
+        "bossDescriptionID": 211,
+        "bossRewardID": 934
+    },
+    {
+        "ID": 935,
+        "bossDescriptionID": 212,
+        "bossRewardID": 935
+    },
+    {
+        "ID": 936,
+        "bossDescriptionID": 212,
+        "bossRewardID": 936
+    },
+    {
+        "ID": 937,
+        "bossDescriptionID": 212,
+        "bossRewardID": 937
+    },
+    {
+        "ID": 938,
+        "bossDescriptionID": 212,
+        "bossRewardID": 938
+    },
+    {
+        "ID": 939,
+        "bossDescriptionID": 213,
+        "bossRewardID": 939
+    },
+    {
+        "ID": 940,
+        "bossDescriptionID": 213,
+        "bossRewardID": 940
+    },
+    {
+        "ID": 941,
+        "bossDescriptionID": 213,
+        "bossRewardID": 941
+    },
+    {
+        "ID": 942,
+        "bossDescriptionID": 213,
+        "bossRewardID": 942
+    },
+    {
+        "ID": 943,
+        "bossDescriptionID": 214,
+        "bossRewardID": 943
+    },
+    {
+        "ID": 944,
+        "bossDescriptionID": 214,
+        "bossRewardID": 944
+    },
+    {
+        "ID": 945,
+        "bossDescriptionID": 214,
+        "bossRewardID": 945
+    },
+    {
+        "ID": 946,
+        "bossDescriptionID": 214,
+        "bossRewardID": 946
+    },
+    {
+        "ID": 947,
+        "bossDescriptionID": 215,
+        "bossRewardID": 947
+    },
+    {
+        "ID": 948,
+        "bossDescriptionID": 215,
+        "bossRewardID": 948
+    },
+    {
+        "ID": 949,
+        "bossDescriptionID": 215,
+        "bossRewardID": 949
+    },
+    {
+        "ID": 950,
+        "bossDescriptionID": 215,
+        "bossRewardID": 950
+    },
+    {
+        "ID": 951,
+        "bossDescriptionID": 216,
+        "bossRewardID": 951
+    },
+    {
+        "ID": 952,
+        "bossDescriptionID": 216,
+        "bossRewardID": 952
+    },
+    {
+        "ID": 953,
+        "bossDescriptionID": 216,
+        "bossRewardID": 953
+    },
+    {
+        "ID": 954,
+        "bossDescriptionID": 216,
+        "bossRewardID": 954
+    },
+    {
+        "ID": 955,
+        "bossDescriptionID": 217,
+        "bossRewardID": 955
+    },
+    {
+        "ID": 956,
+        "bossDescriptionID": 217,
+        "bossRewardID": 956
+    },
+    {
+        "ID": 957,
+        "bossDescriptionID": 217,
+        "bossRewardID": 957
+    },
+    {
+        "ID": 958,
+        "bossDescriptionID": 217,
+        "bossRewardID": 958
+    },
+    {
+        "ID": 959,
+        "bossDescriptionID": 218,
+        "bossRewardID": 959
+    },
+    {
+        "ID": 960,
+        "bossDescriptionID": 218,
+        "bossRewardID": 960
+    },
+    {
+        "ID": 961,
+        "bossDescriptionID": 218,
+        "bossRewardID": 961
+    },
+    {
+        "ID": 962,
+        "bossDescriptionID": 218,
+        "bossRewardID": 962
+    },
+    {
+        "ID": 963,
+        "bossDescriptionID": 219,
+        "bossRewardID": 963
+    },
+    {
+        "ID": 964,
+        "bossDescriptionID": 219,
+        "bossRewardID": 964
+    },
+    {
+        "ID": 965,
+        "bossDescriptionID": 219,
+        "bossRewardID": 965
+    },
+    {
+        "ID": 966,
+        "bossDescriptionID": 219,
+        "bossRewardID": 966
+    },
+    {
+        "ID": 967,
+        "bossDescriptionID": 220,
+        "bossRewardID": 967
+    },
+    {
+        "ID": 968,
+        "bossDescriptionID": 220,
+        "bossRewardID": 968
+    },
+    {
+        "ID": 969,
+        "bossDescriptionID": 220,
+        "bossRewardID": 969
+    },
+    {
+        "ID": 970,
+        "bossDescriptionID": 220,
+        "bossRewardID": 970
+    },
+    {
+        "ID": 971,
+        "bossDescriptionID": 221,
+        "bossRewardID": 971
+    },
+    {
+        "ID": 972,
+        "bossDescriptionID": 221,
+        "bossRewardID": 972
+    },
+    {
+        "ID": 973,
+        "bossDescriptionID": 221,
+        "bossRewardID": 973
+    },
+    {
+        "ID": 974,
+        "bossDescriptionID": 221,
+        "bossRewardID": 974
+    },
+    {
+        "ID": 975,
+        "bossDescriptionID": 222,
+        "bossRewardID": 975
+    },
+    {
+        "ID": 976,
+        "bossDescriptionID": 222,
+        "bossRewardID": 976
+    },
+    {
+        "ID": 977,
+        "bossDescriptionID": 222,
+        "bossRewardID": 977
+    },
+    {
+        "ID": 978,
+        "bossDescriptionID": 222,
+        "bossRewardID": 978
+    },
+    {
+        "ID": 979,
+        "bossDescriptionID": 223,
+        "bossRewardID": 979
+    },
+    {
+        "ID": 980,
+        "bossDescriptionID": 223,
+        "bossRewardID": 980
+    },
+    {
+        "ID": 981,
+        "bossDescriptionID": 223,
+        "bossRewardID": 981
+    },
+    {
+        "ID": 982,
+        "bossDescriptionID": 223,
+        "bossRewardID": 982
+    },
+    {
+        "ID": 983,
+        "bossDescriptionID": 224,
+        "bossRewardID": 983
+    },
+    {
+        "ID": 984,
+        "bossDescriptionID": 224,
+        "bossRewardID": 984
+    },
+    {
+        "ID": 985,
+        "bossDescriptionID": 224,
+        "bossRewardID": 985
+    },
+    {
+        "ID": 986,
+        "bossDescriptionID": 224,
+        "bossRewardID": 986
+    },
+    {
+        "ID": 987,
+        "bossDescriptionID": 225,
+        "bossRewardID": 987
+    },
+    {
+        "ID": 988,
+        "bossDescriptionID": 225,
+        "bossRewardID": 988
+    },
+    {
+        "ID": 989,
+        "bossDescriptionID": 225,
+        "bossRewardID": 989
+    },
+    {
+        "ID": 990,
+        "bossDescriptionID": 225,
+        "bossRewardID": 990
+    },
+    {
+        "ID": 991,
+        "bossDescriptionID": 226,
+        "bossRewardID": 991
+    },
+    {
+        "ID": 992,
+        "bossDescriptionID": 226,
+        "bossRewardID": 992
+    },
+    {
+        "ID": 993,
+        "bossDescriptionID": 226,
+        "bossRewardID": 993
+    },
+    {
+        "ID": 994,
+        "bossDescriptionID": 226,
+        "bossRewardID": 994
+    },
+    {
+        "ID": 995,
+        "bossDescriptionID": 227,
+        "bossRewardID": 995
+    },
+    {
+        "ID": 996,
+        "bossDescriptionID": 227,
+        "bossRewardID": 996
+    },
+    {
+        "ID": 997,
+        "bossDescriptionID": 227,
+        "bossRewardID": 997
+    },
+    {
+        "ID": 998,
+        "bossDescriptionID": 227,
+        "bossRewardID": 998
+    },
+    {
+        "ID": 999,
+        "bossDescriptionID": 228,
+        "bossRewardID": 999
+    },
+    {
+        "ID": 1000,
+        "bossDescriptionID": 228,
+        "bossRewardID": 1000
+    },
+    {
+        "ID": 1001,
+        "bossDescriptionID": 228,
+        "bossRewardID": 1001
+    },
+    {
+        "ID": 1002,
+        "bossDescriptionID": 228,
+        "bossRewardID": 1002
+    },
+    {
+        "ID": 1003,
+        "bossDescriptionID": 229,
+        "bossRewardID": 1003
+    },
+    {
+        "ID": 1004,
+        "bossDescriptionID": 229,
+        "bossRewardID": 1004
+    },
+    {
+        "ID": 1005,
+        "bossDescriptionID": 229,
+        "bossRewardID": 1005
+    },
+    {
+        "ID": 1006,
+        "bossDescriptionID": 229,
+        "bossRewardID": 1006
+    },
+    {
+        "ID": 1007,
+        "bossDescriptionID": 230,
+        "bossRewardID": 1007
+    },
+    {
+        "ID": 1008,
+        "bossDescriptionID": 230,
+        "bossRewardID": 1008
+    },
+    {
+        "ID": 1009,
+        "bossDescriptionID": 230,
+        "bossRewardID": 1009
+    },
+    {
+        "ID": 1010,
+        "bossDescriptionID": 230,
+        "bossRewardID": 1010
+    },
+    {
+        "ID": 1011,
+        "bossDescriptionID": 231,
+        "bossRewardID": 1011
+    },
+    {
+        "ID": 1012,
+        "bossDescriptionID": 231,
+        "bossRewardID": 1012
+    },
+    {
+        "ID": 1013,
+        "bossDescriptionID": 231,
+        "bossRewardID": 1013
+    },
+    {
+        "ID": 1014,
+        "bossDescriptionID": 231,
+        "bossRewardID": 1014
+    },
+    {
+        "ID": 1015,
+        "bossDescriptionID": 232,
+        "bossRewardID": 1015
+    },
+    {
+        "ID": 1016,
+        "bossDescriptionID": 232,
+        "bossRewardID": 1016
+    },
+    {
+        "ID": 1017,
+        "bossDescriptionID": 232,
+        "bossRewardID": 1017
+    },
+    {
+        "ID": 1018,
+        "bossDescriptionID": 232,
+        "bossRewardID": 1018
+    },
+    {
+        "ID": 1019,
+        "bossDescriptionID": 233,
+        "bossRewardID": 1019
+    },
+    {
+        "ID": 1020,
+        "bossDescriptionID": 233,
+        "bossRewardID": 1020
+    },
+    {
+        "ID": 1021,
+        "bossDescriptionID": 233,
+        "bossRewardID": 1021
+    },
+    {
+        "ID": 1022,
+        "bossDescriptionID": 233,
+        "bossRewardID": 1022
+    },
+    {
+        "ID": 1023,
+        "bossDescriptionID": 234,
+        "bossRewardID": 1023
+    },
+    {
+        "ID": 1024,
+        "bossDescriptionID": 234,
+        "bossRewardID": 1024
+    },
+    {
+        "ID": 1025,
+        "bossDescriptionID": 234,
+        "bossRewardID": 1025
+    },
+    {
+        "ID": 1026,
+        "bossDescriptionID": 234,
+        "bossRewardID": 1026
+    },
+    {
+        "ID": 1027,
+        "bossDescriptionID": 235,
+        "bossRewardID": 1027
+    },
+    {
+        "ID": 1028,
+        "bossDescriptionID": 235,
+        "bossRewardID": 1028
+    },
+    {
+        "ID": 1029,
+        "bossDescriptionID": 235,
+        "bossRewardID": 1029
+    },
+    {
+        "ID": 1030,
+        "bossDescriptionID": 235,
+        "bossRewardID": 1030
+    },
+    {
+        "ID": 1031,
+        "bossDescriptionID": 236,
+        "bossRewardID": 1031
+    },
+    {
+        "ID": 1032,
+        "bossDescriptionID": 236,
+        "bossRewardID": 1032
+    },
+    {
+        "ID": 1033,
+        "bossDescriptionID": 236,
+        "bossRewardID": 1033
+    },
+    {
+        "ID": 1034,
+        "bossDescriptionID": 236,
+        "bossRewardID": 1034
+    },
+    {
+        "ID": 1035,
+        "bossDescriptionID": 237,
+        "bossRewardID": 1035
+    },
+    {
+        "ID": 1036,
+        "bossDescriptionID": 237,
+        "bossRewardID": 1036
+    },
+    {
+        "ID": 1037,
+        "bossDescriptionID": 237,
+        "bossRewardID": 1037
+    },
+    {
+        "ID": 1038,
+        "bossDescriptionID": 237,
+        "bossRewardID": 1038
+    },
+    {
+        "ID": 1039,
+        "bossDescriptionID": 238,
+        "bossRewardID": 1039
+    },
+    {
+        "ID": 1040,
+        "bossDescriptionID": 238,
+        "bossRewardID": 1040
+    },
+    {
+        "ID": 1041,
+        "bossDescriptionID": 238,
+        "bossRewardID": 1041
+    },
+    {
+        "ID": 1042,
+        "bossDescriptionID": 238,
+        "bossRewardID": 1042
+    },
+    {
+        "ID": 1043,
+        "bossDescriptionID": 239,
+        "bossRewardID": 1043
+    },
+    {
+        "ID": 1044,
+        "bossDescriptionID": 239,
+        "bossRewardID": 1044
+    },
+    {
+        "ID": 1045,
+        "bossDescriptionID": 239,
+        "bossRewardID": 1045
+    },
+    {
+        "ID": 1046,
+        "bossDescriptionID": 239,
+        "bossRewardID": 1046
+    },
+    {
+        "ID": 1047,
+        "bossDescriptionID": 240,
+        "bossRewardID": 1047
+    },
+    {
+        "ID": 1048,
+        "bossDescriptionID": 240,
+        "bossRewardID": 1048
+    },
+    {
+        "ID": 1049,
+        "bossDescriptionID": 240,
+        "bossRewardID": 1049
+    },
+    {
+        "ID": 1050,
+        "bossDescriptionID": 240,
+        "bossRewardID": 1050
+    },
+    {
+        "ID": 1051,
+        "bossDescriptionID": 241,
+        "bossRewardID": 1051
+    },
+    {
+        "ID": 1052,
+        "bossDescriptionID": 241,
+        "bossRewardID": 1052
+    },
+    {
+        "ID": 1053,
+        "bossDescriptionID": 241,
+        "bossRewardID": 1053
+    },
+    {
+        "ID": 1054,
+        "bossDescriptionID": 241,
+        "bossRewardID": 1054
+    },
+    {
+        "ID": 1055,
+        "bossDescriptionID": 242,
+        "bossRewardID": 1055
+    },
+    {
+        "ID": 1056,
+        "bossDescriptionID": 242,
+        "bossRewardID": 1056
+    },
+    {
+        "ID": 1057,
+        "bossDescriptionID": 242,
+        "bossRewardID": 1057
+    },
+    {
+        "ID": 1058,
+        "bossDescriptionID": 242,
+        "bossRewardID": 1058
+    },
+    {
+        "ID": 1059,
+        "bossDescriptionID": 243,
+        "bossRewardID": 1059
+    },
+    {
+        "ID": 1060,
+        "bossDescriptionID": 243,
+        "bossRewardID": 1060
+    },
+    {
+        "ID": 1061,
+        "bossDescriptionID": 243,
+        "bossRewardID": 1061
+    },
+    {
+        "ID": 1062,
+        "bossDescriptionID": 243,
+        "bossRewardID": 1062
+    },
+    {
+        "ID": 1063,
+        "bossDescriptionID": 244,
+        "bossRewardID": 1063
+    },
+    {
+        "ID": 1064,
+        "bossDescriptionID": 244,
+        "bossRewardID": 1064
+    },
+    {
+        "ID": 1065,
+        "bossDescriptionID": 244,
+        "bossRewardID": 1065
+    },
+    {
+        "ID": 1066,
+        "bossDescriptionID": 244,
+        "bossRewardID": 1066
+    },
+    {
+        "ID": 1067,
+        "bossDescriptionID": 245,
+        "bossRewardID": 1067
+    },
+    {
+        "ID": 1068,
+        "bossDescriptionID": 245,
+        "bossRewardID": 1068
+    },
+    {
+        "ID": 1069,
+        "bossDescriptionID": 245,
+        "bossRewardID": 1069
+    },
+    {
+        "ID": 1070,
+        "bossDescriptionID": 245,
+        "bossRewardID": 1070
+    },
+    {
+        "ID": 1071,
+        "bossDescriptionID": 246,
+        "bossRewardID": 1071
+    },
+    {
+        "ID": 1072,
+        "bossDescriptionID": 246,
+        "bossRewardID": 1072
+    },
+    {
+        "ID": 1073,
+        "bossDescriptionID": 246,
+        "bossRewardID": 1073
+    },
+    {
+        "ID": 1074,
+        "bossDescriptionID": 246,
+        "bossRewardID": 1074
+    },
+    {
+        "ID": 1075,
+        "bossDescriptionID": 247,
+        "bossRewardID": 1075
+    },
+    {
+        "ID": 1076,
+        "bossDescriptionID": 247,
+        "bossRewardID": 1076
+    },
+    {
+        "ID": 1077,
+        "bossDescriptionID": 247,
+        "bossRewardID": 1077
+    },
+    {
+        "ID": 1078,
+        "bossDescriptionID": 247,
+        "bossRewardID": 1078
+    },
+    {
+        "ID": 1079,
+        "bossDescriptionID": 248,
+        "bossRewardID": 1079
+    },
+    {
+        "ID": 1080,
+        "bossDescriptionID": 248,
+        "bossRewardID": 1080
+    },
+    {
+        "ID": 1081,
+        "bossDescriptionID": 248,
+        "bossRewardID": 1081
+    },
+    {
+        "ID": 1082,
+        "bossDescriptionID": 248,
+        "bossRewardID": 1082
+    },
+    {
+        "ID": 1083,
+        "bossDescriptionID": 249,
+        "bossRewardID": 1083
+    },
+    {
+        "ID": 1084,
+        "bossDescriptionID": 249,
+        "bossRewardID": 1084
+    },
+    {
+        "ID": 1085,
+        "bossDescriptionID": 249,
+        "bossRewardID": 1085
+    },
+    {
+        "ID": 1086,
+        "bossDescriptionID": 249,
+        "bossRewardID": 1086
+    },
+    {
+        "ID": 1087,
+        "bossDescriptionID": 250,
+        "bossRewardID": 1087
+    },
+    {
+        "ID": 1088,
+        "bossDescriptionID": 250,
+        "bossRewardID": 1088
+    },
+    {
+        "ID": 1089,
+        "bossDescriptionID": 250,
+        "bossRewardID": 1089
+    },
+    {
+        "ID": 1090,
+        "bossDescriptionID": 250,
+        "bossRewardID": 1090
+    },
+    {
+        "ID": 1091,
+        "bossDescriptionID": 251,
+        "bossRewardID": 1091
+    },
+    {
+        "ID": 1092,
+        "bossDescriptionID": 251,
+        "bossRewardID": 1092
+    },
+    {
+        "ID": 1093,
+        "bossDescriptionID": 251,
+        "bossRewardID": 1093
+    },
+    {
+        "ID": 1094,
+        "bossDescriptionID": 251,
+        "bossRewardID": 1094
+    },
+    {
+        "ID": 1095,
+        "bossDescriptionID": 252,
+        "bossRewardID": 1095
+    },
+    {
+        "ID": 1096,
+        "bossDescriptionID": 252,
+        "bossRewardID": 1096
+    },
+    {
+        "ID": 1097,
+        "bossDescriptionID": 252,
+        "bossRewardID": 1097
+    },
+    {
+        "ID": 1098,
+        "bossDescriptionID": 252,
+        "bossRewardID": 1098
+    },
+    {
+        "ID": 1099,
+        "bossDescriptionID": 253,
+        "bossRewardID": 1099
+    },
+    {
+        "ID": 1100,
+        "bossDescriptionID": 253,
+        "bossRewardID": 1100
+    },
+    {
+        "ID": 1101,
+        "bossDescriptionID": 253,
+        "bossRewardID": 1101
+    },
+    {
+        "ID": 1102,
+        "bossDescriptionID": 253,
+        "bossRewardID": 1102
+    },
+    {
+        "ID": 1103,
+        "bossDescriptionID": 254,
+        "bossRewardID": 1103
+    },
+    {
+        "ID": 1104,
+        "bossDescriptionID": 254,
+        "bossRewardID": 1104
+    },
+    {
+        "ID": 1105,
+        "bossDescriptionID": 254,
+        "bossRewardID": 1105
+    },
+    {
+        "ID": 1106,
+        "bossDescriptionID": 254,
+        "bossRewardID": 1106
+    },
+    {
+        "ID": 1107,
+        "bossDescriptionID": 255,
+        "bossRewardID": 1107
+    },
+    {
+        "ID": 1108,
+        "bossDescriptionID": 255,
+        "bossRewardID": 1108
+    },
+    {
+        "ID": 1109,
+        "bossDescriptionID": 255,
+        "bossRewardID": 1109
+    },
+    {
+        "ID": 1110,
+        "bossDescriptionID": 255,
+        "bossRewardID": 1110
+    },
+    {
+        "ID": 1111,
+        "bossDescriptionID": 256,
+        "bossRewardID": 1111
+    },
+    {
+        "ID": 1112,
+        "bossDescriptionID": 256,
+        "bossRewardID": 1112
+    },
+    {
+        "ID": 1113,
+        "bossDescriptionID": 256,
+        "bossRewardID": 1113
+    },
+    {
+        "ID": 1114,
+        "bossDescriptionID": 256,
+        "bossRewardID": 1114
+    },
+    {
+        "ID": 1115,
+        "bossDescriptionID": 257,
+        "bossRewardID": 1115
+    },
+    {
+        "ID": 1116,
+        "bossDescriptionID": 257,
+        "bossRewardID": 1116
+    },
+    {
+        "ID": 1117,
+        "bossDescriptionID": 257,
+        "bossRewardID": 1117
+    },
+    {
+        "ID": 1118,
+        "bossDescriptionID": 257,
+        "bossRewardID": 1118
+    },
+    {
+        "ID": 1119,
+        "bossDescriptionID": 258,
+        "bossRewardID": 1119
+    },
+    {
+        "ID": 1120,
+        "bossDescriptionID": 258,
+        "bossRewardID": 1120
+    },
+    {
+        "ID": 1121,
+        "bossDescriptionID": 258,
+        "bossRewardID": 1121
+    },
+    {
+        "ID": 1122,
+        "bossDescriptionID": 258,
+        "bossRewardID": 1122
+    },
+    {
+        "ID": 1123,
+        "bossDescriptionID": 259,
+        "bossRewardID": 1123
+    },
+    {
+        "ID": 1124,
+        "bossDescriptionID": 259,
+        "bossRewardID": 1124
+    },
+    {
+        "ID": 1125,
+        "bossDescriptionID": 259,
+        "bossRewardID": 1125
+    },
+    {
+        "ID": 1126,
+        "bossDescriptionID": 259,
+        "bossRewardID": 1126
+    },
+    {
+        "ID": 1127,
+        "bossDescriptionID": 260,
+        "bossRewardID": 1127
+    },
+    {
+        "ID": 1128,
+        "bossDescriptionID": 260,
+        "bossRewardID": 1128
+    },
+    {
+        "ID": 1129,
+        "bossDescriptionID": 260,
+        "bossRewardID": 1129
+    },
+    {
+        "ID": 1130,
+        "bossDescriptionID": 260,
+        "bossRewardID": 1130
+    },
+    {
+        "ID": 1131,
+        "bossDescriptionID": 261,
+        "bossRewardID": 1131
+    },
+    {
+        "ID": 1132,
+        "bossDescriptionID": 261,
+        "bossRewardID": 1132
+    },
+    {
+        "ID": 1133,
+        "bossDescriptionID": 261,
+        "bossRewardID": 1133
+    },
+    {
+        "ID": 1134,
+        "bossDescriptionID": 261,
+        "bossRewardID": 1134
+    },
+    {
+        "ID": 1135,
+        "bossDescriptionID": 262,
+        "bossRewardID": 1135
+    },
+    {
+        "ID": 1136,
+        "bossDescriptionID": 262,
+        "bossRewardID": 1136
+    },
+    {
+        "ID": 1137,
+        "bossDescriptionID": 262,
+        "bossRewardID": 1137
+    },
+    {
+        "ID": 1138,
+        "bossDescriptionID": 262,
+        "bossRewardID": 1138
+    },
+    {
+        "ID": 1139,
+        "bossDescriptionID": 263,
+        "bossRewardID": 1139
+    },
+    {
+        "ID": 1140,
+        "bossDescriptionID": 263,
+        "bossRewardID": 1140
+    },
+    {
+        "ID": 1141,
+        "bossDescriptionID": 263,
+        "bossRewardID": 1141
+    },
+    {
+        "ID": 1142,
+        "bossDescriptionID": 263,
+        "bossRewardID": 1142
+    },
+    {
+        "ID": 1143,
+        "bossDescriptionID": 264,
+        "bossRewardID": 1143
+    },
+    {
+        "ID": 1144,
+        "bossDescriptionID": 264,
+        "bossRewardID": 1144
+    },
+    {
+        "ID": 1145,
+        "bossDescriptionID": 264,
+        "bossRewardID": 1145
+    },
+    {
+        "ID": 1146,
+        "bossDescriptionID": 264,
+        "bossRewardID": 1146
+    },
+    {
+        "ID": 1147,
+        "bossDescriptionID": 265,
+        "bossRewardID": 1147
+    },
+    {
+        "ID": 1148,
+        "bossDescriptionID": 265,
+        "bossRewardID": 1148
+    },
+    {
+        "ID": 1149,
+        "bossDescriptionID": 265,
+        "bossRewardID": 1149
+    },
+    {
+        "ID": 1150,
+        "bossDescriptionID": 265,
+        "bossRewardID": 1150
+    },
+    {
+        "ID": 1151,
+        "bossDescriptionID": 266,
+        "bossRewardID": 1151
+    },
+    {
+        "ID": 1152,
+        "bossDescriptionID": 266,
+        "bossRewardID": 1152
+    },
+    {
+        "ID": 1153,
+        "bossDescriptionID": 266,
+        "bossRewardID": 1153
+    },
+    {
+        "ID": 1154,
+        "bossDescriptionID": 266,
+        "bossRewardID": 1154
+    },
+    {
+        "ID": 1155,
+        "bossDescriptionID": 267,
+        "bossRewardID": 1155
+    },
+    {
+        "ID": 1156,
+        "bossDescriptionID": 267,
+        "bossRewardID": 1156
+    },
+    {
+        "ID": 1157,
+        "bossDescriptionID": 267,
+        "bossRewardID": 1157
+    },
+    {
+        "ID": 1158,
+        "bossDescriptionID": 267,
+        "bossRewardID": 1158
+    },
+    {
+        "ID": 1159,
+        "bossDescriptionID": 268,
+        "bossRewardID": 1159
+    },
+    {
+        "ID": 1160,
+        "bossDescriptionID": 268,
+        "bossRewardID": 1160
+    },
+    {
+        "ID": 1161,
+        "bossDescriptionID": 268,
+        "bossRewardID": 1161
+    },
+    {
+        "ID": 1162,
+        "bossDescriptionID": 268,
+        "bossRewardID": 1162
+    },
+    {
+        "ID": 1163,
+        "bossDescriptionID": 269,
+        "bossRewardID": 1163
+    },
+    {
+        "ID": 1164,
+        "bossDescriptionID": 269,
+        "bossRewardID": 1164
+    },
+    {
+        "ID": 1165,
+        "bossDescriptionID": 269,
+        "bossRewardID": 1165
+    },
+    {
+        "ID": 1166,
+        "bossDescriptionID": 269,
+        "bossRewardID": 1166
+    },
+    {
+        "ID": 1167,
+        "bossDescriptionID": 270,
+        "bossRewardID": 1167
+    },
+    {
+        "ID": 1168,
+        "bossDescriptionID": 270,
+        "bossRewardID": 1168
+    },
+    {
+        "ID": 1169,
+        "bossDescriptionID": 270,
+        "bossRewardID": 1169
+    },
+    {
+        "ID": 1170,
+        "bossDescriptionID": 270,
+        "bossRewardID": 1170
+    }
+]

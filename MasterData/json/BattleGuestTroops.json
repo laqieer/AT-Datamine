@@ -1,0 +1,702 @@
+[
+    {
+        "ID": 10203111,
+        "placement": 1020311,
+        "number": 1,
+        "initial": false,
+        "quick": true
+    },
+    {
+        "ID": 10221111,
+        "placement": 1022111,
+        "number": 1,
+        "initial": true,
+        "quick": true
+    },
+    {
+        "ID": 10301111,
+        "placement": 1030111,
+        "number": 1,
+        "initial": true,
+        "quick": true
+    },
+    {
+        "ID": 10404111,
+        "placement": 1040411,
+        "number": 1,
+        "initial": true,
+        "quick": true
+    },
+    {
+        "ID": 10405111,
+        "placement": 1040511,
+        "number": 1,
+        "initial": true,
+        "quick": true
+    },
+    {
+        "ID": 10414111,
+        "placement": 1041411,
+        "number": 1,
+        "initial": true,
+        "quick": true
+    },
+    {
+        "ID": 10422111,
+        "placement": 1042211,
+        "number": 1,
+        "initial": false,
+        "quick": true
+    },
+    {
+        "ID": 10502111,
+        "placement": 1050211,
+        "number": 1,
+        "initial": true,
+        "quick": true
+    },
+    {
+        "ID": 10503111,
+        "placement": 1050311,
+        "number": 1,
+        "initial": true,
+        "quick": false
+    },
+    {
+        "ID": 10501111,
+        "placement": 1050111,
+        "number": 1,
+        "initial": true,
+        "quick": true
+    },
+    {
+        "ID": 10505111,
+        "placement": 1050511,
+        "number": 1,
+        "initial": true,
+        "quick": true
+    },
+    {
+        "ID": 10506111,
+        "placement": 1050611,
+        "number": 1,
+        "initial": true,
+        "quick": true
+    },
+    {
+        "ID": 10509111,
+        "placement": 1050911,
+        "number": 1,
+        "initial": true,
+        "quick": true
+    },
+    {
+        "ID": 10513111,
+        "placement": 1051311,
+        "number": 1,
+        "initial": true,
+        "quick": false
+    },
+    {
+        "ID": 10514111,
+        "placement": 1051411,
+        "number": 1,
+        "initial": true,
+        "quick": true
+    },
+    {
+        "ID": 10515111,
+        "placement": 1051511,
+        "number": 1,
+        "initial": true,
+        "quick": true
+    },
+    {
+        "ID": 10527111,
+        "placement": 1052711,
+        "number": 1,
+        "initial": true,
+        "quick": true
+    },
+    {
+        "ID": 10528111,
+        "placement": 1052811,
+        "number": 1,
+        "initial": true,
+        "quick": true
+    },
+    {
+        "ID": 10529111,
+        "placement": 1052911,
+        "number": 1,
+        "initial": true,
+        "quick": true
+    },
+    {
+        "ID": 10530111,
+        "placement": 1053011,
+        "number": 1,
+        "initial": true,
+        "quick": true
+    },
+    {
+        "ID": 10422121,
+        "placement": 1042212,
+        "number": 1,
+        "initial": false,
+        "quick": true
+    },
+    {
+        "ID": 10515121,
+        "placement": 1051512,
+        "number": 1,
+        "initial": true,
+        "quick": true
+    },
+    {
+        "ID": 3020111,
+        "placement": 302011,
+        "number": 1,
+        "initial": false,
+        "quick": true
+    },
+    {
+        "ID": 3020112,
+        "placement": 302011,
+        "number": 2,
+        "initial": false,
+        "quick": true
+    },
+    {
+        "ID": 10610111,
+        "placement": 1061011,
+        "number": 1,
+        "initial": true,
+        "quick": true
+    },
+    {
+        "ID": 10621111,
+        "placement": 1062111,
+        "number": 1,
+        "initial": true,
+        "quick": true
+    },
+    {
+        "ID": 10628111,
+        "placement": 1062811,
+        "number": 1,
+        "initial": true,
+        "quick": true
+    },
+    {
+        "ID": 10636111,
+        "placement": 1063611,
+        "number": 1,
+        "initial": true,
+        "quick": true
+    },
+    {
+        "ID": 10639111,
+        "placement": 1063911,
+        "number": 1,
+        "initial": true,
+        "quick": true
+    },
+    {
+        "ID": 10643111,
+        "placement": 1064311,
+        "number": 1,
+        "initial": true,
+        "quick": true
+    },
+    {
+        "ID": 10203211,
+        "placement": 1020321,
+        "number": 1,
+        "initial": false,
+        "quick": true
+    },
+    {
+        "ID": 10221211,
+        "placement": 1022121,
+        "number": 1,
+        "initial": true,
+        "quick": true
+    },
+    {
+        "ID": 10301211,
+        "placement": 1030121,
+        "number": 1,
+        "initial": true,
+        "quick": true
+    },
+    {
+        "ID": 10404211,
+        "placement": 1040421,
+        "number": 1,
+        "initial": true,
+        "quick": true
+    },
+    {
+        "ID": 10405211,
+        "placement": 1040521,
+        "number": 1,
+        "initial": true,
+        "quick": true
+    },
+    {
+        "ID": 10414211,
+        "placement": 1041421,
+        "number": 1,
+        "initial": true,
+        "quick": true
+    },
+    {
+        "ID": 10422211,
+        "placement": 1042221,
+        "number": 1,
+        "initial": false,
+        "quick": true
+    },
+    {
+        "ID": 10502211,
+        "placement": 1050221,
+        "number": 1,
+        "initial": true,
+        "quick": true
+    },
+    {
+        "ID": 10503211,
+        "placement": 1050321,
+        "number": 1,
+        "initial": true,
+        "quick": false
+    },
+    {
+        "ID": 10501211,
+        "placement": 1050121,
+        "number": 1,
+        "initial": true,
+        "quick": true
+    },
+    {
+        "ID": 10505211,
+        "placement": 1050521,
+        "number": 1,
+        "initial": true,
+        "quick": true
+    },
+    {
+        "ID": 10506211,
+        "placement": 1050621,
+        "number": 1,
+        "initial": true,
+        "quick": true
+    },
+    {
+        "ID": 10509211,
+        "placement": 1050921,
+        "number": 1,
+        "initial": true,
+        "quick": true
+    },
+    {
+        "ID": 10513211,
+        "placement": 1051321,
+        "number": 1,
+        "initial": true,
+        "quick": false
+    },
+    {
+        "ID": 10514211,
+        "placement": 1051421,
+        "number": 1,
+        "initial": true,
+        "quick": true
+    },
+    {
+        "ID": 10515211,
+        "placement": 1051521,
+        "number": 1,
+        "initial": true,
+        "quick": true
+    },
+    {
+        "ID": 10527211,
+        "placement": 1052721,
+        "number": 1,
+        "initial": true,
+        "quick": true
+    },
+    {
+        "ID": 10528211,
+        "placement": 1052821,
+        "number": 1,
+        "initial": true,
+        "quick": true
+    },
+    {
+        "ID": 10529211,
+        "placement": 1052921,
+        "number": 1,
+        "initial": true,
+        "quick": true
+    },
+    {
+        "ID": 10530211,
+        "placement": 1053021,
+        "number": 1,
+        "initial": true,
+        "quick": true
+    },
+    {
+        "ID": 10610211,
+        "placement": 1061021,
+        "number": 1,
+        "initial": true,
+        "quick": true
+    },
+    {
+        "ID": 10621211,
+        "placement": 1062121,
+        "number": 1,
+        "initial": true,
+        "quick": true
+    },
+    {
+        "ID": 10628211,
+        "placement": 1062821,
+        "number": 1,
+        "initial": true,
+        "quick": true
+    },
+    {
+        "ID": 10636211,
+        "placement": 1063621,
+        "number": 1,
+        "initial": true,
+        "quick": true
+    },
+    {
+        "ID": 10639211,
+        "placement": 1063921,
+        "number": 1,
+        "initial": true,
+        "quick": true
+    },
+    {
+        "ID": 10643211,
+        "placement": 1064321,
+        "number": 1,
+        "initial": true,
+        "quick": true
+    },
+    {
+        "ID": 3040111,
+        "placement": 304011,
+        "number": 1,
+        "initial": true,
+        "quick": true
+    },
+    {
+        "ID": 3040211,
+        "placement": 304021,
+        "number": 1,
+        "initial": true,
+        "quick": true
+    },
+    {
+        "ID": 3040311,
+        "placement": 304031,
+        "number": 1,
+        "initial": true,
+        "quick": true
+    },
+    {
+        "ID": 3040411,
+        "placement": 304041,
+        "number": 1,
+        "initial": true,
+        "quick": true
+    },
+    {
+        "ID": 3040511,
+        "placement": 304051,
+        "number": 1,
+        "initial": true,
+        "quick": true
+    },
+    {
+        "ID": 3040611,
+        "placement": 304061,
+        "number": 1,
+        "initial": true,
+        "quick": true
+    },
+    {
+        "ID": 3070211,
+        "placement": 307021,
+        "number": 1,
+        "initial": false,
+        "quick": true
+    },
+    {
+        "ID": 3070711,
+        "placement": 307071,
+        "number": 1,
+        "initial": false,
+        "quick": true
+    },
+    {
+        "ID": 3070712,
+        "placement": 307071,
+        "number": 2,
+        "initial": false,
+        "quick": true
+    },
+    {
+        "ID": 10202121,
+        "placement": 1020212,
+        "number": 1,
+        "initial": false,
+        "quick": true
+    },
+    {
+        "ID": 9990001,
+        "placement": 9990001,
+        "number": 1,
+        "initial": true,
+        "quick": true
+    },
+    {
+        "ID": 9990002,
+        "placement": 9990002,
+        "number": 1,
+        "initial": true,
+        "quick": true
+    },
+    {
+        "ID": 9990003,
+        "placement": 9990003,
+        "number": 1,
+        "initial": true,
+        "quick": true
+    },
+    {
+        "ID": 3090111,
+        "placement": 309011,
+        "number": 1,
+        "initial": true,
+        "quick": true
+    },
+    {
+        "ID": 3090211,
+        "placement": 309021,
+        "number": 1,
+        "initial": true,
+        "quick": true
+    },
+    {
+        "ID": 3090311,
+        "placement": 309031,
+        "number": 1,
+        "initial": true,
+        "quick": true
+    },
+    {
+        "ID": 3050211,
+        "placement": 305021,
+        "number": 1,
+        "initial": true,
+        "quick": true
+    },
+    {
+        "ID": 3050311,
+        "placement": 305031,
+        "number": 1,
+        "initial": true,
+        "quick": true
+    },
+    {
+        "ID": 10221121,
+        "placement": 1022112,
+        "number": 1,
+        "initial": true,
+        "quick": true
+    },
+    {
+        "ID": 10621121,
+        "placement": 1062112,
+        "number": 1,
+        "initial": true,
+        "quick": true
+    },
+    {
+        "ID": 10636121,
+        "placement": 1063612,
+        "number": 1,
+        "initial": true,
+        "quick": true
+    },
+    {
+        "ID": 1105111,
+        "placement": 110511,
+        "number": 1,
+        "initial": true,
+        "quick": true
+    },
+    {
+        "ID": 1108111,
+        "placement": 110811,
+        "number": 1,
+        "initial": true,
+        "quick": true
+    },
+    {
+        "ID": 3480411,
+        "placement": 348041,
+        "number": 1,
+        "initial": true,
+        "quick": true
+    },
+    {
+        "ID": 3481511,
+        "placement": 348151,
+        "number": 1,
+        "initial": true,
+        "quick": true
+    },
+    {
+        "ID": 3483011,
+        "placement": 348301,
+        "number": 1,
+        "initial": true,
+        "quick": true
+    },
+    {
+        "ID": 3484011,
+        "placement": 348401,
+        "number": 1,
+        "initial": true,
+        "quick": true
+    },
+    {
+        "ID": 3060111,
+        "placement": 306011,
+        "number": 1,
+        "initial": true,
+        "quick": true
+    },
+    {
+        "ID": 3060211,
+        "placement": 306021,
+        "number": 1,
+        "initial": true,
+        "quick": true
+    },
+    {
+        "ID": 3060311,
+        "placement": 306031,
+        "number": 1,
+        "initial": true,
+        "quick": true
+    },
+    {
+        "ID": 1111111,
+        "placement": 111111,
+        "number": 1,
+        "initial": true,
+        "quick": true
+    },
+    {
+        "ID": 1111211,
+        "placement": 111121,
+        "number": 1,
+        "initial": true,
+        "quick": true
+    },
+    {
+        "ID": 1111711,
+        "placement": 111171,
+        "number": 1,
+        "initial": true,
+        "quick": true
+    },
+    {
+        "ID": 1112011,
+        "placement": 111201,
+        "number": 1,
+        "initial": true,
+        "quick": true
+    },
+    {
+        "ID": 3530111,
+        "placement": 353011,
+        "number": 1,
+        "initial": true,
+        "quick": true
+    },
+    {
+        "ID": 3530211,
+        "placement": 353021,
+        "number": 1,
+        "initial": true,
+        "quick": true
+    },
+    {
+        "ID": 3530311,
+        "placement": 353031,
+        "number": 1,
+        "initial": true,
+        "quick": true
+    },
+    {
+        "ID": 3530411,
+        "placement": 353041,
+        "number": 1,
+        "initial": true,
+        "quick": true
+    },
+    {
+        "ID": 3530511,
+        "placement": 353051,
+        "number": 1,
+        "initial": true,
+        "quick": true
+    },
+    {
+        "ID": 3530611,
+        "placement": 353061,
+        "number": 1,
+        "initial": true,
+        "quick": true
+    },
+    {
+        "ID": 3660111,
+        "placement": 366011,
+        "number": 1,
+        "initial": true,
+        "quick": true
+    },
+    {
+        "ID": 3660211,
+        "placement": 366021,
+        "number": 1,
+        "initial": true,
+        "quick": true
+    },
+    {
+        "ID": 3690411,
+        "placement": 369041,
+        "number": 1,
+        "initial": true,
+        "quick": true
+    },
+    {
+        "ID": 3720311,
+        "placement": 372031,
+        "number": 2,
+        "initial": false,
+        "quick": true
+    }
+]

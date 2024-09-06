@@ -1,0 +1,200 @@
+[
+    {
+        "ID": 1,
+        "name": "小分岐用_ギネヴィアに話しかけた_5月4日",
+        "styleID": 101011001,
+        "splitDlNum": 0
+    },
+    {
+        "ID": 2,
+        "name": "小分岐用_ランスロットに話しかけた_5月4日",
+        "styleID": 101010001,
+        "splitDlNum": 0
+    },
+    {
+        "ID": 3,
+        "name": "小分岐用_ディナタンに話しかけた_5月4日",
+        "styleID": 101012001,
+        "splitDlNum": 0
+    },
+    {
+        "ID": 4,
+        "name": "小分岐用_ギネヴィアと合流する",
+        "styleID": 101011001,
+        "splitDlNum": 0
+    },
+    {
+        "ID": 5,
+        "name": "小分岐用_周囲を偵察する",
+        "styleID": 101010001,
+        "splitDlNum": 0
+    },
+    {
+        "ID": 6,
+        "name": "小分岐用_ディナタンと合流する",
+        "styleID": 101012001,
+        "splitDlNum": 0
+    },
+    {
+        "ID": 7,
+        "name": "小分岐用_ローマとともにカレドニア城を攻める",
+        "styleID": 101011001,
+        "splitDlNum": 0
+    },
+    {
+        "ID": 8,
+        "name": "小分岐用_ガラハッドとともに薬草採取へ",
+        "styleID": 101010001,
+        "splitDlNum": 0
+    },
+    {
+        "ID": 9,
+        "name": "小分岐用_ブライアンの行方を追う",
+        "styleID": 101012001,
+        "splitDlNum": 0
+    },
+    {
+        "ID": 10,
+        "name": "大分岐用_ギネヴィア",
+        "styleID": 101011001,
+        "splitDlNum": 0
+    },
+    {
+        "ID": 11,
+        "name": "大分岐用_ランスロット",
+        "styleID": 101010001,
+        "splitDlNum": 0
+    },
+    {
+        "ID": 12,
+        "name": "大分岐用_ディナタン",
+        "styleID": 101012001,
+        "splitDlNum": 0
+    },
+    {
+        "ID": 16,
+        "name": "小分岐用_ギネヴィア・<ruby=ファクタライズ>因枢分解</ruby>・アロンダイト",
+        "styleID": 101011001,
+        "splitDlNum": 100
+    },
+    {
+        "ID": 17,
+        "name": "小分岐用_ランスロット・<ruby=ファクタライズ>因枢分解</ruby>・アロンダイト",
+        "styleID": 101010001,
+        "splitDlNum": 110
+    },
+    {
+        "ID": 18,
+        "name": "小分岐用_ディナタン・<ruby=ファクタライズ>因枢分解</ruby>・アロンダイト",
+        "styleID": 101012001,
+        "splitDlNum": 120
+    },
+    {
+        "ID": 19,
+        "name": "小分岐用_ギネヴィアを探す（9月）",
+        "styleID": 101011001,
+        "splitDlNum": 0
+    },
+    {
+        "ID": 20,
+        "name": "小分岐用_少しこの場で待つ",
+        "styleID": 101011001,
+        "splitDlNum": 0
+    },
+    {
+        "ID": 21,
+        "name": "小分岐用_ギネヴィアかな",
+        "styleID": 101011001,
+        "splitDlNum": 0
+    },
+    {
+        "ID": 24,
+        "name": "小分岐用_エレインに頼みたい",
+        "styleID": 101030001,
+        "splitDlNum": 0
+    },
+    {
+        "ID": 25,
+        "name": "小分岐用_ギネヴィアを探す（10月）",
+        "styleID": 101011001,
+        "splitDlNum": 0
+    },
+    {
+        "ID": 26,
+        "name": "小分岐用_エレインを探す",
+        "styleID": 101030001,
+        "splitDlNum": 0
+    },
+    {
+        "ID": 27,
+        "name": "小分岐用_ギネヴィアをさがして降誕祭の街をまわる",
+        "styleID": 101011001,
+        "splitDlNum": 0
+    },
+    {
+        "ID": 28,
+        "name": "小分岐用_エレインをさがして降誕祭の街をまわる",
+        "styleID": 101030001,
+        "splitDlNum": 0
+    },
+    {
+        "ID": 29,
+        "name": "ED分岐用_ギネヴィア",
+        "styleID": 101011001,
+        "splitDlNum": 0
+    },
+    {
+        "ID": 30,
+        "name": "ED分岐用_エレイン",
+        "styleID": 101030001,
+        "splitDlNum": 0
+    },
+    {
+        "ID": 31,
+        "name": "小分岐用_ヴォールスたちと『滅びた都前』へ",
+        "styleID": 101024001,
+        "splitDlNum": 0
+    },
+    {
+        "ID": 32,
+        "name": "小分岐用_パーシヴァルたちと『果てなき森』へ",
+        "styleID": 101026001,
+        "splitDlNum": 0
+    },
+    {
+        "ID": 33,
+        "name": "小分岐用_ランスロットに話しかけた_L12月25日",
+        "styleID": 101010001,
+        "splitDlNum": 0
+    },
+    {
+        "ID": 34,
+        "name": "小分岐用_ガラハッドに話しかけた_L12月25日",
+        "styleID": 101028001,
+        "splitDlNum": 0
+    },
+    {
+        "ID": 35,
+        "name": "ED分岐用_ランスロット",
+        "styleID": 101010001,
+        "splitDlNum": 0
+    },
+    {
+        "ID": 36,
+        "name": "ED分岐用_ガラハッド",
+        "styleID": 101028001,
+        "splitDlNum": 0
+    },
+    {
+        "ID": 37,
+        "name": "ED分岐用_ディナタン",
+        "styleID": 101012001,
+        "splitDlNum": 0
+    },
+    {
+        "ID": 38,
+        "name": "小分岐用_正答",
+        "styleID": 101011001,
+        "splitDlNum": 0
+    }
+]

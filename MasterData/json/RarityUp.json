@@ -1,0 +1,597 @@
+[
+    {
+        "ID": 1,
+        "rarityStar": 1,
+        "initialRarityStar": 1,
+        "styleId": 0,
+        "paymentAmount": 5
+    },
+    {
+        "ID": 2,
+        "rarityStar": 2,
+        "initialRarityStar": 1,
+        "styleId": 0,
+        "paymentAmount": 5
+    },
+    {
+        "ID": 3,
+        "rarityStar": 3,
+        "initialRarityStar": 1,
+        "styleId": 0,
+        "paymentAmount": 10
+    },
+    {
+        "ID": 4,
+        "rarityStar": 4,
+        "initialRarityStar": 1,
+        "styleId": 0,
+        "paymentAmount": 10
+    },
+    {
+        "ID": 5,
+        "rarityStar": 5,
+        "initialRarityStar": 1,
+        "styleId": 0,
+        "paymentAmount": 20
+    },
+    {
+        "ID": 6,
+        "rarityStar": 6,
+        "initialRarityStar": 1,
+        "styleId": 0,
+        "paymentAmount": 0
+    },
+    {
+        "ID": 7,
+        "rarityStar": 7,
+        "initialRarityStar": 1,
+        "styleId": 0,
+        "paymentAmount": 5
+    },
+    {
+        "ID": 8,
+        "rarityStar": 8,
+        "initialRarityStar": 1,
+        "styleId": 0,
+        "paymentAmount": 5
+    },
+    {
+        "ID": 9,
+        "rarityStar": 9,
+        "initialRarityStar": 1,
+        "styleId": 0,
+        "paymentAmount": 10
+    },
+    {
+        "ID": 10,
+        "rarityStar": 10,
+        "initialRarityStar": 1,
+        "styleId": 0,
+        "paymentAmount": 10
+    },
+    {
+        "ID": 11,
+        "rarityStar": 11,
+        "initialRarityStar": 1,
+        "styleId": 0,
+        "paymentAmount": 20
+    },
+    {
+        "ID": 12,
+        "rarityStar": 12,
+        "initialRarityStar": 1,
+        "styleId": 0,
+        "paymentAmount": 0
+    },
+    {
+        "ID": 13,
+        "rarityStar": 13,
+        "initialRarityStar": 1,
+        "styleId": 0,
+        "paymentAmount": 10
+    },
+    {
+        "ID": 14,
+        "rarityStar": 14,
+        "initialRarityStar": 1,
+        "styleId": 0,
+        "paymentAmount": 10
+    },
+    {
+        "ID": 15,
+        "rarityStar": 15,
+        "initialRarityStar": 1,
+        "styleId": 0,
+        "paymentAmount": 20
+    },
+    {
+        "ID": 16,
+        "rarityStar": 16,
+        "initialRarityStar": 1,
+        "styleId": 0,
+        "paymentAmount": 20
+    },
+    {
+        "ID": 17,
+        "rarityStar": 17,
+        "initialRarityStar": 1,
+        "styleId": 0,
+        "paymentAmount": 40
+    },
+    {
+        "ID": 18,
+        "rarityStar": 18,
+        "initialRarityStar": 1,
+        "styleId": 0,
+        "paymentAmount": 0
+    },
+    {
+        "ID": 19,
+        "rarityStar": 19,
+        "initialRarityStar": 1,
+        "styleId": 0,
+        "paymentAmount": 20
+    },
+    {
+        "ID": 20,
+        "rarityStar": 20,
+        "initialRarityStar": 1,
+        "styleId": 0,
+        "paymentAmount": 20
+    },
+    {
+        "ID": 21,
+        "rarityStar": 21,
+        "initialRarityStar": 1,
+        "styleId": 0,
+        "paymentAmount": 40
+    },
+    {
+        "ID": 22,
+        "rarityStar": 22,
+        "initialRarityStar": 1,
+        "styleId": 0,
+        "paymentAmount": 40
+    },
+    {
+        "ID": 23,
+        "rarityStar": 23,
+        "initialRarityStar": 1,
+        "styleId": 0,
+        "paymentAmount": 80
+    },
+    {
+        "ID": 24,
+        "rarityStar": 24,
+        "initialRarityStar": 1,
+        "styleId": 0,
+        "paymentAmount": 0
+    },
+    {
+        "ID": 25,
+        "rarityStar": 25,
+        "initialRarityStar": 1,
+        "styleId": 0,
+        "paymentAmount": 60
+    },
+    {
+        "ID": 26,
+        "rarityStar": 26,
+        "initialRarityStar": 1,
+        "styleId": 0,
+        "paymentAmount": 60
+    },
+    {
+        "ID": 27,
+        "rarityStar": 27,
+        "initialRarityStar": 1,
+        "styleId": 0,
+        "paymentAmount": 90
+    },
+    {
+        "ID": 28,
+        "rarityStar": 28,
+        "initialRarityStar": 1,
+        "styleId": 0,
+        "paymentAmount": 90
+    },
+    {
+        "ID": 29,
+        "rarityStar": 29,
+        "initialRarityStar": 1,
+        "styleId": 0,
+        "paymentAmount": 120
+    },
+    {
+        "ID": 30,
+        "rarityStar": 7,
+        "initialRarityStar": 7,
+        "styleId": 0,
+        "paymentAmount": 5
+    },
+    {
+        "ID": 31,
+        "rarityStar": 8,
+        "initialRarityStar": 7,
+        "styleId": 0,
+        "paymentAmount": 5
+    },
+    {
+        "ID": 32,
+        "rarityStar": 9,
+        "initialRarityStar": 7,
+        "styleId": 0,
+        "paymentAmount": 10
+    },
+    {
+        "ID": 33,
+        "rarityStar": 10,
+        "initialRarityStar": 7,
+        "styleId": 0,
+        "paymentAmount": 10
+    },
+    {
+        "ID": 34,
+        "rarityStar": 11,
+        "initialRarityStar": 7,
+        "styleId": 0,
+        "paymentAmount": 20
+    },
+    {
+        "ID": 35,
+        "rarityStar": 12,
+        "initialRarityStar": 7,
+        "styleId": 0,
+        "paymentAmount": 0
+    },
+    {
+        "ID": 36,
+        "rarityStar": 13,
+        "initialRarityStar": 7,
+        "styleId": 0,
+        "paymentAmount": 10
+    },
+    {
+        "ID": 37,
+        "rarityStar": 14,
+        "initialRarityStar": 7,
+        "styleId": 0,
+        "paymentAmount": 10
+    },
+    {
+        "ID": 38,
+        "rarityStar": 15,
+        "initialRarityStar": 7,
+        "styleId": 0,
+        "paymentAmount": 20
+    },
+    {
+        "ID": 39,
+        "rarityStar": 16,
+        "initialRarityStar": 7,
+        "styleId": 0,
+        "paymentAmount": 20
+    },
+    {
+        "ID": 40,
+        "rarityStar": 17,
+        "initialRarityStar": 7,
+        "styleId": 0,
+        "paymentAmount": 40
+    },
+    {
+        "ID": 41,
+        "rarityStar": 18,
+        "initialRarityStar": 7,
+        "styleId": 0,
+        "paymentAmount": 0
+    },
+    {
+        "ID": 42,
+        "rarityStar": 19,
+        "initialRarityStar": 7,
+        "styleId": 0,
+        "paymentAmount": 20
+    },
+    {
+        "ID": 43,
+        "rarityStar": 20,
+        "initialRarityStar": 7,
+        "styleId": 0,
+        "paymentAmount": 20
+    },
+    {
+        "ID": 44,
+        "rarityStar": 21,
+        "initialRarityStar": 7,
+        "styleId": 0,
+        "paymentAmount": 40
+    },
+    {
+        "ID": 45,
+        "rarityStar": 22,
+        "initialRarityStar": 7,
+        "styleId": 0,
+        "paymentAmount": 40
+    },
+    {
+        "ID": 46,
+        "rarityStar": 23,
+        "initialRarityStar": 7,
+        "styleId": 0,
+        "paymentAmount": 80
+    },
+    {
+        "ID": 47,
+        "rarityStar": 24,
+        "initialRarityStar": 7,
+        "styleId": 0,
+        "paymentAmount": 0
+    },
+    {
+        "ID": 48,
+        "rarityStar": 25,
+        "initialRarityStar": 7,
+        "styleId": 0,
+        "paymentAmount": 60
+    },
+    {
+        "ID": 49,
+        "rarityStar": 26,
+        "initialRarityStar": 7,
+        "styleId": 0,
+        "paymentAmount": 60
+    },
+    {
+        "ID": 50,
+        "rarityStar": 27,
+        "initialRarityStar": 7,
+        "styleId": 0,
+        "paymentAmount": 90
+    },
+    {
+        "ID": 51,
+        "rarityStar": 28,
+        "initialRarityStar": 7,
+        "styleId": 0,
+        "paymentAmount": 90
+    },
+    {
+        "ID": 52,
+        "rarityStar": 29,
+        "initialRarityStar": 7,
+        "styleId": 0,
+        "paymentAmount": 120
+    },
+    {
+        "ID": 53,
+        "rarityStar": 13,
+        "initialRarityStar": 13,
+        "styleId": 0,
+        "paymentAmount": 10
+    },
+    {
+        "ID": 54,
+        "rarityStar": 14,
+        "initialRarityStar": 13,
+        "styleId": 0,
+        "paymentAmount": 10
+    },
+    {
+        "ID": 55,
+        "rarityStar": 15,
+        "initialRarityStar": 13,
+        "styleId": 0,
+        "paymentAmount": 20
+    },
+    {
+        "ID": 56,
+        "rarityStar": 16,
+        "initialRarityStar": 13,
+        "styleId": 0,
+        "paymentAmount": 20
+    },
+    {
+        "ID": 57,
+        "rarityStar": 17,
+        "initialRarityStar": 13,
+        "styleId": 0,
+        "paymentAmount": 40
+    },
+    {
+        "ID": 58,
+        "rarityStar": 18,
+        "initialRarityStar": 13,
+        "styleId": 0,
+        "paymentAmount": 0
+    },
+    {
+        "ID": 59,
+        "rarityStar": 19,
+        "initialRarityStar": 13,
+        "styleId": 0,
+        "paymentAmount": 20
+    },
+    {
+        "ID": 60,
+        "rarityStar": 20,
+        "initialRarityStar": 13,
+        "styleId": 0,
+        "paymentAmount": 20
+    },
+    {
+        "ID": 61,
+        "rarityStar": 21,
+        "initialRarityStar": 13,
+        "styleId": 0,
+        "paymentAmount": 40
+    },
+    {
+        "ID": 62,
+        "rarityStar": 22,
+        "initialRarityStar": 13,
+        "styleId": 0,
+        "paymentAmount": 40
+    },
+    {
+        "ID": 63,
+        "rarityStar": 23,
+        "initialRarityStar": 13,
+        "styleId": 0,
+        "paymentAmount": 80
+    },
+    {
+        "ID": 64,
+        "rarityStar": 24,
+        "initialRarityStar": 13,
+        "styleId": 0,
+        "paymentAmount": 0
+    },
+    {
+        "ID": 65,
+        "rarityStar": 25,
+        "initialRarityStar": 13,
+        "styleId": 0,
+        "paymentAmount": 60
+    },
+    {
+        "ID": 66,
+        "rarityStar": 26,
+        "initialRarityStar": 13,
+        "styleId": 0,
+        "paymentAmount": 60
+    },
+    {
+        "ID": 67,
+        "rarityStar": 27,
+        "initialRarityStar": 13,
+        "styleId": 0,
+        "paymentAmount": 90
+    },
+    {
+        "ID": 68,
+        "rarityStar": 28,
+        "initialRarityStar": 13,
+        "styleId": 0,
+        "paymentAmount": 90
+    },
+    {
+        "ID": 69,
+        "rarityStar": 29,
+        "initialRarityStar": 13,
+        "styleId": 0,
+        "paymentAmount": 120
+    },
+    {
+        "ID": 70,
+        "rarityStar": 19,
+        "initialRarityStar": 19,
+        "styleId": 0,
+        "paymentAmount": 20
+    },
+    {
+        "ID": 71,
+        "rarityStar": 20,
+        "initialRarityStar": 19,
+        "styleId": 0,
+        "paymentAmount": 20
+    },
+    {
+        "ID": 72,
+        "rarityStar": 21,
+        "initialRarityStar": 19,
+        "styleId": 0,
+        "paymentAmount": 40
+    },
+    {
+        "ID": 73,
+        "rarityStar": 22,
+        "initialRarityStar": 19,
+        "styleId": 0,
+        "paymentAmount": 40
+    },
+    {
+        "ID": 74,
+        "rarityStar": 23,
+        "initialRarityStar": 19,
+        "styleId": 0,
+        "paymentAmount": 80
+    },
+    {
+        "ID": 75,
+        "rarityStar": 24,
+        "initialRarityStar": 19,
+        "styleId": 0,
+        "paymentAmount": 0
+    },
+    {
+        "ID": 76,
+        "rarityStar": 25,
+        "initialRarityStar": 19,
+        "styleId": 0,
+        "paymentAmount": 60
+    },
+    {
+        "ID": 77,
+        "rarityStar": 26,
+        "initialRarityStar": 19,
+        "styleId": 0,
+        "paymentAmount": 60
+    },
+    {
+        "ID": 78,
+        "rarityStar": 27,
+        "initialRarityStar": 19,
+        "styleId": 0,
+        "paymentAmount": 90
+    },
+    {
+        "ID": 79,
+        "rarityStar": 28,
+        "initialRarityStar": 19,
+        "styleId": 0,
+        "paymentAmount": 90
+    },
+    {
+        "ID": 80,
+        "rarityStar": 29,
+        "initialRarityStar": 19,
+        "styleId": 0,
+        "paymentAmount": 120
+    },
+    {
+        "ID": 81,
+        "rarityStar": 25,
+        "initialRarityStar": 25,
+        "styleId": 0,
+        "paymentAmount": 60
+    },
+    {
+        "ID": 82,
+        "rarityStar": 26,
+        "initialRarityStar": 25,
+        "styleId": 0,
+        "paymentAmount": 60
+    },
+    {
+        "ID": 83,
+        "rarityStar": 27,
+        "initialRarityStar": 25,
+        "styleId": 0,
+        "paymentAmount": 90
+    },
+    {
+        "ID": 84,
+        "rarityStar": 28,
+        "initialRarityStar": 25,
+        "styleId": 0,
+        "paymentAmount": 90
+    },
+    {
+        "ID": 85,
+        "rarityStar": 29,
+        "initialRarityStar": 25,
+        "styleId": 0,
+        "paymentAmount": 120
+    }
+]

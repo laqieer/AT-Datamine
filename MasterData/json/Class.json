@@ -1,0 +1,852 @@
+[
+    {
+        "ID": 1101,
+        "name": "剣士",
+        "army": 1,
+        "footsteps": 1,
+        "mainEquipmentClassification": 2,
+        "subEquipmentClassificationGroup": 1,
+        "accessoryClassificationGroup": 1,
+        "maxProficiency": 2
+    },
+    {
+        "ID": 1102,
+        "name": "聖騎士",
+        "army": 4,
+        "footsteps": 1,
+        "mainEquipmentClassification": 2,
+        "subEquipmentClassificationGroup": 3,
+        "accessoryClassificationGroup": 2,
+        "maxProficiency": 15
+    },
+    {
+        "ID": 1103,
+        "name": "ソードマスター",
+        "army": 4,
+        "footsteps": 1,
+        "mainEquipmentClassification": 2,
+        "subEquipmentClassificationGroup": 4,
+        "accessoryClassificationGroup": 3,
+        "maxProficiency": 1
+    },
+    {
+        "ID": 1104,
+        "name": "ヴァンガード",
+        "army": 4,
+        "footsteps": 1,
+        "mainEquipmentClassification": 2,
+        "subEquipmentClassificationGroup": 5,
+        "accessoryClassificationGroup": 1,
+        "maxProficiency": 9
+    },
+    {
+        "ID": 1105,
+        "name": "ファントムセイバー",
+        "army": 4,
+        "footsteps": 1,
+        "mainEquipmentClassification": 2,
+        "subEquipmentClassificationGroup": 11,
+        "accessoryClassificationGroup": 2,
+        "maxProficiency": 13
+    },
+    {
+        "ID": 1106,
+        "name": "トリックスター",
+        "army": 5,
+        "footsteps": 1,
+        "mainEquipmentClassification": 1,
+        "subEquipmentClassificationGroup": 7,
+        "accessoryClassificationGroup": 3,
+        "maxProficiency": 2
+    },
+    {
+        "ID": 1107,
+        "name": "ソードアーマー",
+        "army": 6,
+        "footsteps": 3,
+        "mainEquipmentClassification": 3,
+        "subEquipmentClassificationGroup": 8,
+        "accessoryClassificationGroup": 1,
+        "maxProficiency": 6
+    },
+    {
+        "ID": 1108,
+        "name": "ソードナイト",
+        "army": 16,
+        "footsteps": 2,
+        "mainEquipmentClassification": 2,
+        "subEquipmentClassificationGroup": 9,
+        "accessoryClassificationGroup": 1,
+        "maxProficiency": 11
+    },
+    {
+        "ID": 1109,
+        "name": "グラディエーター",
+        "army": 4,
+        "footsteps": 1,
+        "mainEquipmentClassification": 3,
+        "subEquipmentClassificationGroup": 8,
+        "accessoryClassificationGroup": 1,
+        "maxProficiency": 5
+    },
+    {
+        "ID": 1110,
+        "name": "ウィルムファイター",
+        "army": 20,
+        "footsteps": 4,
+        "mainEquipmentClassification": 3,
+        "subEquipmentClassificationGroup": 1,
+        "accessoryClassificationGroup": 1,
+        "maxProficiency": 2
+    },
+    {
+        "ID": 1111,
+        "name": "ファイター",
+        "army": 1,
+        "footsteps": 1,
+        "mainEquipmentClassification": 2,
+        "subEquipmentClassificationGroup": 1,
+        "accessoryClassificationGroup": 1,
+        "maxProficiency": 2
+    },
+    {
+        "ID": 1201,
+        "name": "戦士",
+        "army": 1,
+        "footsteps": 1,
+        "mainEquipmentClassification": 4,
+        "subEquipmentClassificationGroup": 1,
+        "accessoryClassificationGroup": 1,
+        "maxProficiency": 17
+    },
+    {
+        "ID": 1202,
+        "name": "アクスアーマー",
+        "army": 6,
+        "footsteps": 3,
+        "mainEquipmentClassification": 5,
+        "subEquipmentClassificationGroup": 5,
+        "accessoryClassificationGroup": 1,
+        "maxProficiency": 21
+    },
+    {
+        "ID": 1203,
+        "name": "ベルセルク",
+        "army": 4,
+        "footsteps": 1,
+        "mainEquipmentClassification": 5,
+        "subEquipmentClassificationGroup": 4,
+        "accessoryClassificationGroup": 1,
+        "maxProficiency": 19
+    },
+    {
+        "ID": 1204,
+        "name": "ドラゴンナイト",
+        "army": 10,
+        "footsteps": 4,
+        "mainEquipmentClassification": 4,
+        "subEquipmentClassificationGroup": 7,
+        "accessoryClassificationGroup": 3,
+        "maxProficiency": 19
+    },
+    {
+        "ID": 1205,
+        "name": "ヘヴィウォリアー",
+        "army": 3,
+        "footsteps": 3,
+        "mainEquipmentClassification": 5,
+        "subEquipmentClassificationGroup": 1,
+        "accessoryClassificationGroup": 1,
+        "maxProficiency": 17
+    },
+    {
+        "ID": 1206,
+        "name": "ウィルムウォリアー",
+        "army": 20,
+        "footsteps": 4,
+        "mainEquipmentClassification": 5,
+        "subEquipmentClassificationGroup": 1,
+        "accessoryClassificationGroup": 1,
+        "maxProficiency": 17
+    },
+    {
+        "ID": 1207,
+        "name": "コロッサス",
+        "army": 25,
+        "footsteps": 6,
+        "mainEquipmentClassification": 5,
+        "subEquipmentClassificationGroup": 1,
+        "accessoryClassificationGroup": 1,
+        "maxProficiency": 17
+    },
+    {
+        "ID": 1208,
+        "name": "ウォリアー",
+        "army": 1,
+        "footsteps": 1,
+        "mainEquipmentClassification": 4,
+        "subEquipmentClassificationGroup": 1,
+        "accessoryClassificationGroup": 1,
+        "maxProficiency": 17
+    },
+    {
+        "ID": 1301,
+        "name": "闘士",
+        "army": 1,
+        "footsteps": 1,
+        "mainEquipmentClassification": 6,
+        "subEquipmentClassificationGroup": 1,
+        "accessoryClassificationGroup": 1,
+        "maxProficiency": 24
+    },
+    {
+        "ID": 1302,
+        "name": "ストライカー",
+        "army": 4,
+        "footsteps": 1,
+        "mainEquipmentClassification": 6,
+        "subEquipmentClassificationGroup": 1,
+        "accessoryClassificationGroup": 1,
+        "maxProficiency": 23
+    },
+    {
+        "ID": 1303,
+        "name": "ヘヴィパニッシャー",
+        "army": 3,
+        "footsteps": 3,
+        "mainEquipmentClassification": 6,
+        "subEquipmentClassificationGroup": 1,
+        "accessoryClassificationGroup": 1,
+        "maxProficiency": 24
+    },
+    {
+        "ID": 1304,
+        "name": "パニッシャー",
+        "army": 1,
+        "footsteps": 1,
+        "mainEquipmentClassification": 6,
+        "subEquipmentClassificationGroup": 1,
+        "accessoryClassificationGroup": 1,
+        "maxProficiency": 24
+    },
+    {
+        "ID": 1401,
+        "name": "ソルジャー",
+        "army": 1,
+        "footsteps": 1,
+        "mainEquipmentClassification": 7,
+        "subEquipmentClassificationGroup": 1,
+        "accessoryClassificationGroup": 1,
+        "maxProficiency": 30
+    },
+    {
+        "ID": 1402,
+        "name": "ランスアーマー",
+        "army": 6,
+        "footsteps": 3,
+        "mainEquipmentClassification": 8,
+        "subEquipmentClassificationGroup": 7,
+        "accessoryClassificationGroup": 1,
+        "maxProficiency": 33
+    },
+    {
+        "ID": 1403,
+        "name": "ガーディアン",
+        "army": 4,
+        "footsteps": 1,
+        "mainEquipmentClassification": 7,
+        "subEquipmentClassificationGroup": 1,
+        "accessoryClassificationGroup": 1,
+        "maxProficiency": 29
+    },
+    {
+        "ID": 1404,
+        "name": "ヴァルキリー",
+        "army": 5,
+        "footsteps": 1,
+        "mainEquipmentClassification": 7,
+        "subEquipmentClassificationGroup": 9,
+        "accessoryClassificationGroup": 3,
+        "maxProficiency": 35
+    },
+    {
+        "ID": 1405,
+        "name": "ランスナイト",
+        "army": 16,
+        "footsteps": 2,
+        "mainEquipmentClassification": 8,
+        "subEquipmentClassificationGroup": 5,
+        "accessoryClassificationGroup": 1,
+        "maxProficiency": 30
+    },
+    {
+        "ID": 1406,
+        "name": "ウイングナイト",
+        "army": 10,
+        "footsteps": 4,
+        "mainEquipmentClassification": 7,
+        "subEquipmentClassificationGroup": 10,
+        "accessoryClassificationGroup": 3,
+        "maxProficiency": 30
+    },
+    {
+        "ID": 1407,
+        "name": "魔女",
+        "army": 19,
+        "footsteps": 5,
+        "mainEquipmentClassification": 7,
+        "subEquipmentClassificationGroup": 11,
+        "accessoryClassificationGroup": 5,
+        "maxProficiency": 37
+    },
+    {
+        "ID": 1408,
+        "name": "ウイングソルジャー",
+        "army": 20,
+        "footsteps": 4,
+        "mainEquipmentClassification": 7,
+        "subEquipmentClassificationGroup": 1,
+        "accessoryClassificationGroup": 3,
+        "maxProficiency": 30
+    },
+    {
+        "ID": 1409,
+        "name": "ギャロップソルジャー",
+        "army": 21,
+        "footsteps": 2,
+        "mainEquipmentClassification": 7,
+        "subEquipmentClassificationGroup": 1,
+        "accessoryClassificationGroup": 1,
+        "maxProficiency": 30
+    },
+    {
+        "ID": 1410,
+        "name": "バルソルジャー",
+        "army": 1,
+        "footsteps": 1,
+        "mainEquipmentClassification": 7,
+        "subEquipmentClassificationGroup": 1,
+        "accessoryClassificationGroup": 1,
+        "maxProficiency": 30
+    },
+    {
+        "ID": 1411,
+        "name": "プリンセス",
+        "army": 1,
+        "footsteps": 1,
+        "mainEquipmentClassification": 7,
+        "subEquipmentClassificationGroup": 1,
+        "accessoryClassificationGroup": 1,
+        "maxProficiency": 30
+    },
+    {
+        "ID": 1501,
+        "name": "アーチャー",
+        "army": 2,
+        "footsteps": 1,
+        "mainEquipmentClassification": 9,
+        "subEquipmentClassificationGroup": 1,
+        "accessoryClassificationGroup": 3,
+        "maxProficiency": 39
+    },
+    {
+        "ID": 1502,
+        "name": "イェーガー",
+        "army": 5,
+        "footsteps": 1,
+        "mainEquipmentClassification": 9,
+        "subEquipmentClassificationGroup": 12,
+        "accessoryClassificationGroup": 3,
+        "maxProficiency": 39
+    },
+    {
+        "ID": 1503,
+        "name": "ボウナイト",
+        "army": 16,
+        "footsteps": 2,
+        "mainEquipmentClassification": 9,
+        "subEquipmentClassificationGroup": 12,
+        "accessoryClassificationGroup": 1,
+        "maxProficiency": 39
+    },
+    {
+        "ID": 1504,
+        "name": "ウイングアーチャー",
+        "army": 20,
+        "footsteps": 4,
+        "mainEquipmentClassification": 9,
+        "subEquipmentClassificationGroup": 1,
+        "accessoryClassificationGroup": 3,
+        "maxProficiency": 39
+    },
+    {
+        "ID": 1505,
+        "name": "ギャロップアーチャー",
+        "army": 21,
+        "footsteps": 2,
+        "mainEquipmentClassification": 9,
+        "subEquipmentClassificationGroup": 1,
+        "accessoryClassificationGroup": 1,
+        "maxProficiency": 39
+    },
+    {
+        "ID": 1506,
+        "name": "アーチャーB",
+        "army": 1,
+        "footsteps": 1,
+        "mainEquipmentClassification": 9,
+        "subEquipmentClassificationGroup": 1,
+        "accessoryClassificationGroup": 3,
+        "maxProficiency": 39
+    },
+    {
+        "ID": 1601,
+        "name": "ガンナー",
+        "army": 1,
+        "footsteps": 1,
+        "mainEquipmentClassification": 11,
+        "subEquipmentClassificationGroup": 1,
+        "accessoryClassificationGroup": 6,
+        "maxProficiency": 42
+    },
+    {
+        "ID": 1602,
+        "name": "スナイパー",
+        "army": 4,
+        "footsteps": 1,
+        "mainEquipmentClassification": 12,
+        "subEquipmentClassificationGroup": 1,
+        "accessoryClassificationGroup": 1,
+        "maxProficiency": 41
+    },
+    {
+        "ID": 1603,
+        "name": "ガンナーB",
+        "army": 1,
+        "footsteps": 1,
+        "mainEquipmentClassification": 11,
+        "subEquipmentClassificationGroup": 1,
+        "accessoryClassificationGroup": 6,
+        "maxProficiency": 41
+    },
+    {
+        "ID": 1701,
+        "name": "魔導士",
+        "army": 1,
+        "footsteps": 1,
+        "mainEquipmentClassification": 13,
+        "subEquipmentClassificationGroup": 1,
+        "accessoryClassificationGroup": 4,
+        "maxProficiency": 46
+    },
+    {
+        "ID": 1702,
+        "name": "賢者",
+        "army": 4,
+        "footsteps": 1,
+        "mainEquipmentClassification": 13,
+        "subEquipmentClassificationGroup": 3,
+        "accessoryClassificationGroup": 4,
+        "maxProficiency": 49
+    },
+    {
+        "ID": 1703,
+        "name": "アーマーメイジ",
+        "army": 6,
+        "footsteps": 3,
+        "mainEquipmentClassification": 13,
+        "subEquipmentClassificationGroup": 1,
+        "accessoryClassificationGroup": 2,
+        "maxProficiency": 46
+    },
+    {
+        "ID": 1704,
+        "name": "ルーンナイト",
+        "army": 16,
+        "footsteps": 2,
+        "mainEquipmentClassification": 13,
+        "subEquipmentClassificationGroup": 1,
+        "accessoryClassificationGroup": 4,
+        "maxProficiency": 45
+    },
+    {
+        "ID": 1705,
+        "name": "メイジ",
+        "army": 19,
+        "footsteps": 5,
+        "mainEquipmentClassification": 13,
+        "subEquipmentClassificationGroup": 1,
+        "accessoryClassificationGroup": 4,
+        "maxProficiency": 46
+    },
+    {
+        "ID": 1801,
+        "name": "プリースト",
+        "army": 1,
+        "footsteps": 1,
+        "mainEquipmentClassification": 14,
+        "subEquipmentClassificationGroup": 1,
+        "accessoryClassificationGroup": 4,
+        "maxProficiency": 52
+    },
+    {
+        "ID": 1802,
+        "name": "ビショップ",
+        "army": 4,
+        "footsteps": 1,
+        "mainEquipmentClassification": 14,
+        "subEquipmentClassificationGroup": 2,
+        "accessoryClassificationGroup": 2,
+        "maxProficiency": 55
+    },
+    {
+        "ID": 1803,
+        "name": "ワンドナイト",
+        "army": 16,
+        "footsteps": 2,
+        "mainEquipmentClassification": 14,
+        "subEquipmentClassificationGroup": 1,
+        "accessoryClassificationGroup": 4,
+        "maxProficiency": 51
+    },
+    {
+        "ID": 1804,
+        "name": "ヒーラー",
+        "army": 19,
+        "footsteps": 5,
+        "mainEquipmentClassification": 14,
+        "subEquipmentClassificationGroup": 1,
+        "accessoryClassificationGroup": 4,
+        "maxProficiency": 52
+    },
+    {
+        "ID": 9901,
+        "name": "牙獣",
+        "army": 22,
+        "footsteps": 2,
+        "mainEquipmentClassification": 15,
+        "subEquipmentClassificationGroup": 1,
+        "accessoryClassificationGroup": 7,
+        "maxProficiency": 101
+    },
+    {
+        "ID": 9902,
+        "name": "有翼獣",
+        "army": 23,
+        "footsteps": 4,
+        "mainEquipmentClassification": 16,
+        "subEquipmentClassificationGroup": 1,
+        "accessoryClassificationGroup": 7,
+        "maxProficiency": 101
+    },
+    {
+        "ID": 9903,
+        "name": "バルホロウ",
+        "army": 24,
+        "footsteps": 1,
+        "mainEquipmentClassification": 15,
+        "subEquipmentClassificationGroup": 1,
+        "accessoryClassificationGroup": 7,
+        "maxProficiency": 101
+    },
+    {
+        "ID": 9904,
+        "name": "アルビオン",
+        "army": 26,
+        "footsteps": 4,
+        "mainEquipmentClassification": 17,
+        "subEquipmentClassificationGroup": 1,
+        "accessoryClassificationGroup": 7,
+        "maxProficiency": 101
+    },
+    {
+        "ID": 9905,
+        "name": "ドラゴン",
+        "army": 27,
+        "footsteps": 6,
+        "mainEquipmentClassification": 17,
+        "subEquipmentClassificationGroup": 1,
+        "accessoryClassificationGroup": 7,
+        "maxProficiency": 101
+    },
+    {
+        "ID": 9906,
+        "name": "マッハ",
+        "army": 28,
+        "footsteps": 4,
+        "mainEquipmentClassification": 21,
+        "subEquipmentClassificationGroup": 1,
+        "accessoryClassificationGroup": 7,
+        "maxProficiency": 101
+    },
+    {
+        "ID": 9907,
+        "name": "ゴグマゴグ",
+        "army": 25,
+        "footsteps": 6,
+        "mainEquipmentClassification": 15,
+        "subEquipmentClassificationGroup": 1,
+        "accessoryClassificationGroup": 7,
+        "maxProficiency": 101
+    },
+    {
+        "ID": 9908,
+        "name": "バロール",
+        "army": 25,
+        "footsteps": 6,
+        "mainEquipmentClassification": 18,
+        "subEquipmentClassificationGroup": 1,
+        "accessoryClassificationGroup": 7,
+        "maxProficiency": 101
+    },
+    {
+        "ID": 2,
+        "name": "仮アーチャー",
+        "army": 2,
+        "footsteps": 1,
+        "mainEquipmentClassification": 9,
+        "subEquipmentClassificationGroup": 1,
+        "accessoryClassificationGroup": 1,
+        "maxProficiency": 39
+    },
+    {
+        "ID": 3,
+        "name": "仮パラディン",
+        "army": 4,
+        "footsteps": 1,
+        "mainEquipmentClassification": 2,
+        "subEquipmentClassificationGroup": 1,
+        "accessoryClassificationGroup": 1,
+        "maxProficiency": 2
+    },
+    {
+        "ID": 4,
+        "name": "仮プリースト",
+        "army": 1,
+        "footsteps": 1,
+        "mainEquipmentClassification": 14,
+        "subEquipmentClassificationGroup": 1,
+        "accessoryClassificationGroup": 1,
+        "maxProficiency": 52
+    },
+    {
+        "ID": 5,
+        "name": "仮ランサー",
+        "army": 1,
+        "footsteps": 1,
+        "mainEquipmentClassification": 7,
+        "subEquipmentClassificationGroup": 1,
+        "accessoryClassificationGroup": 1,
+        "maxProficiency": 30
+    },
+    {
+        "ID": 6,
+        "name": "仮バルバロイ：剣",
+        "army": 1,
+        "footsteps": 1,
+        "mainEquipmentClassification": 2,
+        "subEquipmentClassificationGroup": 1,
+        "accessoryClassificationGroup": 1,
+        "maxProficiency": 2
+    },
+    {
+        "ID": 7,
+        "name": "仮バルバロイ：弓",
+        "army": 2,
+        "footsteps": 1,
+        "mainEquipmentClassification": 9,
+        "subEquipmentClassificationGroup": 1,
+        "accessoryClassificationGroup": 1,
+        "maxProficiency": 39
+    },
+    {
+        "ID": 1604,
+        "name": "ガンスリンガー",
+        "army": 5,
+        "footsteps": 1,
+        "mainEquipmentClassification": 11,
+        "subEquipmentClassificationGroup": 13,
+        "accessoryClassificationGroup": 3,
+        "maxProficiency": 57
+    },
+    {
+        "ID": 1507,
+        "name": "フォレストナイト",
+        "army": 4,
+        "footsteps": 1,
+        "mainEquipmentClassification": 9,
+        "subEquipmentClassificationGroup": 7,
+        "accessoryClassificationGroup": 3,
+        "maxProficiency": 58
+    },
+    {
+        "ID": 1706,
+        "name": "アークメイジ",
+        "army": 18,
+        "footsteps": 2,
+        "mainEquipmentClassification": 13,
+        "subEquipmentClassificationGroup": 1,
+        "accessoryClassificationGroup": 2,
+        "maxProficiency": 45
+    },
+    {
+        "ID": 1112,
+        "name": "マスターブレード",
+        "army": 4,
+        "footsteps": 1,
+        "mainEquipmentClassification": 3,
+        "subEquipmentClassificationGroup": 14,
+        "accessoryClassificationGroup": 1,
+        "maxProficiency": 1
+    },
+    {
+        "ID": 1113,
+        "name": "不屈の鬼殺隊士",
+        "army": 1,
+        "footsteps": 1,
+        "mainEquipmentClassification": 22,
+        "subEquipmentClassificationGroup": 1,
+        "accessoryClassificationGroup": 1,
+        "maxProficiency": 2
+    },
+    {
+        "ID": 1114,
+        "name": "鬼殺隊・炎柱",
+        "army": 1,
+        "footsteps": 1,
+        "mainEquipmentClassification": 22,
+        "subEquipmentClassificationGroup": 1,
+        "accessoryClassificationGroup": 1,
+        "maxProficiency": 1
+    },
+    {
+        "ID": 1115,
+        "name": "鬼殺隊・水柱",
+        "army": 4,
+        "footsteps": 1,
+        "mainEquipmentClassification": 22,
+        "subEquipmentClassificationGroup": 1,
+        "accessoryClassificationGroup": 1,
+        "maxProficiency": 1
+    },
+    {
+        "ID": 1305,
+        "name": "鬼の少女",
+        "army": 4,
+        "footsteps": 1,
+        "mainEquipmentClassification": 23,
+        "subEquipmentClassificationGroup": 1,
+        "accessoryClassificationGroup": 1,
+        "maxProficiency": 24
+    },
+    {
+        "ID": 1116,
+        "name": "鬼殺隊・蟲柱",
+        "army": 4,
+        "footsteps": 1,
+        "mainEquipmentClassification": 22,
+        "subEquipmentClassificationGroup": 1,
+        "accessoryClassificationGroup": 1,
+        "maxProficiency": 1
+    },
+    {
+        "ID": 1117,
+        "name": "鬼殺隊・恋柱",
+        "army": 4,
+        "footsteps": 1,
+        "mainEquipmentClassification": 22,
+        "subEquipmentClassificationGroup": 1,
+        "accessoryClassificationGroup": 1,
+        "maxProficiency": 1
+    },
+    {
+        "ID": 1118,
+        "name": "エンペラー",
+        "army": 4,
+        "footsteps": 1,
+        "mainEquipmentClassification": 2,
+        "subEquipmentClassificationGroup": 5,
+        "accessoryClassificationGroup": 1,
+        "maxProficiency": 9
+    },
+    {
+        "ID": 1508,
+        "name": "ボウスナイパー",
+        "army": 4,
+        "footsteps": 1,
+        "mainEquipmentClassification": 10,
+        "subEquipmentClassificationGroup": 13,
+        "accessoryClassificationGroup": 3,
+        "maxProficiency": 58
+    },
+    {
+        "ID": 1605,
+        "name": "デュアルガンナー",
+        "army": 4,
+        "footsteps": 1,
+        "mainEquipmentClassification": 24,
+        "subEquipmentClassificationGroup": 16,
+        "accessoryClassificationGroup": 3,
+        "maxProficiency": 41
+    },
+    {
+        "ID": 1306,
+        "name": "ドラグーン",
+        "army": 10,
+        "footsteps": 4,
+        "mainEquipmentClassification": 6,
+        "subEquipmentClassificationGroup": 8,
+        "accessoryClassificationGroup": 3,
+        "maxProficiency": 59
+    },
+    {
+        "ID": 1119,
+        "name": "エターナルグロー",
+        "army": 4,
+        "footsteps": 1,
+        "mainEquipmentClassification": 2,
+        "subEquipmentClassificationGroup": 4,
+        "accessoryClassificationGroup": 1,
+        "maxProficiency": 1
+    },
+    {
+        "ID": 1805,
+        "name": "ハイプリースト",
+        "army": 4,
+        "footsteps": 1,
+        "mainEquipmentClassification": 14,
+        "subEquipmentClassificationGroup": 1,
+        "accessoryClassificationGroup": 4,
+        "maxProficiency": 51
+    },
+    {
+        "ID": 1307,
+        "name": "拳聖",
+        "army": 4,
+        "footsteps": 1,
+        "mainEquipmentClassification": 23,
+        "subEquipmentClassificationGroup": 8,
+        "accessoryClassificationGroup": 1,
+        "maxProficiency": 59
+    },
+    {
+        "ID": 1122,
+        "name": "継承者",
+        "army": 4,
+        "footsteps": 1,
+        "mainEquipmentClassification": 2,
+        "subEquipmentClassificationGroup": 1,
+        "accessoryClassificationGroup": 1,
+        "maxProficiency": 1
+    },
+    {
+        "ID": 1412,
+        "name": "ワルキューレ",
+        "army": 4,
+        "footsteps": 1,
+        "mainEquipmentClassification": 7,
+        "subEquipmentClassificationGroup": 7,
+        "accessoryClassificationGroup": 1,
+        "maxProficiency": 33
+    }
+]

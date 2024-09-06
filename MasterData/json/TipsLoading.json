@@ -1,0 +1,1217 @@
+[
+    {
+        "ID": 1,
+        "tipsCategory": 1,
+        "startAt": "1990-01-01 00:00:00+09:00",
+        "endAt": "2100-12-31 23:59:59+09:00",
+        "playerRank": 1,
+        "sequenceId": 0,
+        "tipsId": "TIPS_1001"
+    },
+    {
+        "ID": 2,
+        "tipsCategory": 1,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_1002"
+    },
+    {
+        "ID": 3,
+        "tipsCategory": 1,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_1003"
+    },
+    {
+        "ID": 4,
+        "tipsCategory": 1,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_1004"
+    },
+    {
+        "ID": 5,
+        "tipsCategory": 1,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_1006"
+    },
+    {
+        "ID": 6,
+        "tipsCategory": 1,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_1008"
+    },
+    {
+        "ID": 7,
+        "tipsCategory": 1,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_1009"
+    },
+    {
+        "ID": 8,
+        "tipsCategory": 1,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_1010"
+    },
+    {
+        "ID": 9,
+        "tipsCategory": 1,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_1011"
+    },
+    {
+        "ID": 10,
+        "tipsCategory": 1,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_1012"
+    },
+    {
+        "ID": 11,
+        "tipsCategory": 1,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_1013"
+    },
+    {
+        "ID": 12,
+        "tipsCategory": 1,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_1014"
+    },
+    {
+        "ID": 13,
+        "tipsCategory": 1,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_1015"
+    },
+    {
+        "ID": 14,
+        "tipsCategory": 1,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_1017"
+    },
+    {
+        "ID": 15,
+        "tipsCategory": 1,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_1019"
+    },
+    {
+        "ID": 16,
+        "tipsCategory": 1,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_1020"
+    },
+    {
+        "ID": 17,
+        "tipsCategory": 1,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_1021"
+    },
+    {
+        "ID": 18,
+        "tipsCategory": 1,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_1022"
+    },
+    {
+        "ID": 19,
+        "tipsCategory": 1,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_1023"
+    },
+    {
+        "ID": 20,
+        "tipsCategory": 1,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_1024"
+    },
+    {
+        "ID": 21,
+        "tipsCategory": 1,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_1025"
+    },
+    {
+        "ID": 22,
+        "tipsCategory": 1,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_1026"
+    },
+    {
+        "ID": 23,
+        "tipsCategory": 1,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_1029"
+    },
+    {
+        "ID": 24,
+        "tipsCategory": 1,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_4001"
+    },
+    {
+        "ID": 25,
+        "tipsCategory": 1,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_4002"
+    },
+    {
+        "ID": 26,
+        "tipsCategory": 1,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_4003"
+    },
+    {
+        "ID": 27,
+        "tipsCategory": 1,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_4004"
+    },
+    {
+        "ID": 28,
+        "tipsCategory": 1,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_4005"
+    },
+    {
+        "ID": 29,
+        "tipsCategory": 1,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_4006"
+    },
+    {
+        "ID": 30,
+        "tipsCategory": 1,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_4007"
+    },
+    {
+        "ID": 31,
+        "tipsCategory": 1,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_4008"
+    },
+    {
+        "ID": 32,
+        "tipsCategory": 1,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_4009"
+    },
+    {
+        "ID": 33,
+        "tipsCategory": 1,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_4010"
+    },
+    {
+        "ID": 34,
+        "tipsCategory": 1,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_4011"
+    },
+    {
+        "ID": 35,
+        "tipsCategory": 1,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_4012"
+    },
+    {
+        "ID": 36,
+        "tipsCategory": 1,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_4013"
+    },
+    {
+        "ID": 37,
+        "tipsCategory": 1,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_4014"
+    },
+    {
+        "ID": 38,
+        "tipsCategory": 1,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_4015"
+    },
+    {
+        "ID": 39,
+        "tipsCategory": 1,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_4016"
+    },
+    {
+        "ID": 40,
+        "tipsCategory": 1,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_4017"
+    },
+    {
+        "ID": 41,
+        "tipsCategory": 1,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_4018"
+    },
+    {
+        "ID": 42,
+        "tipsCategory": 1,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_4019"
+    },
+    {
+        "ID": 43,
+        "tipsCategory": 1,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_4020"
+    },
+    {
+        "ID": 44,
+        "tipsCategory": 1,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_4021"
+    },
+    {
+        "ID": 45,
+        "tipsCategory": 2,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_2001"
+    },
+    {
+        "ID": 46,
+        "tipsCategory": 2,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_2002"
+    },
+    {
+        "ID": 47,
+        "tipsCategory": 2,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_2003"
+    },
+    {
+        "ID": 48,
+        "tipsCategory": 2,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_2004"
+    },
+    {
+        "ID": 49,
+        "tipsCategory": 2,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_2005"
+    },
+    {
+        "ID": 50,
+        "tipsCategory": 2,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_2006"
+    },
+    {
+        "ID": 51,
+        "tipsCategory": 2,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_2007"
+    },
+    {
+        "ID": 52,
+        "tipsCategory": 2,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_2008"
+    },
+    {
+        "ID": 53,
+        "tipsCategory": 2,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_2009"
+    },
+    {
+        "ID": 54,
+        "tipsCategory": 2,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_2010"
+    },
+    {
+        "ID": 55,
+        "tipsCategory": 2,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_2011"
+    },
+    {
+        "ID": 56,
+        "tipsCategory": 2,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_2012"
+    },
+    {
+        "ID": 57,
+        "tipsCategory": 2,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_2014"
+    },
+    {
+        "ID": 58,
+        "tipsCategory": 2,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_2015"
+    },
+    {
+        "ID": 59,
+        "tipsCategory": 2,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_2017"
+    },
+    {
+        "ID": 60,
+        "tipsCategory": 2,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_2018"
+    },
+    {
+        "ID": 61,
+        "tipsCategory": 2,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_2019"
+    },
+    {
+        "ID": 62,
+        "tipsCategory": 2,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_2020"
+    },
+    {
+        "ID": 63,
+        "tipsCategory": 2,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_2021"
+    },
+    {
+        "ID": 64,
+        "tipsCategory": 2,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_4001"
+    },
+    {
+        "ID": 65,
+        "tipsCategory": 2,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_4002"
+    },
+    {
+        "ID": 66,
+        "tipsCategory": 2,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_4003"
+    },
+    {
+        "ID": 67,
+        "tipsCategory": 2,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_4004"
+    },
+    {
+        "ID": 68,
+        "tipsCategory": 2,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_4005"
+    },
+    {
+        "ID": 69,
+        "tipsCategory": 2,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_4006"
+    },
+    {
+        "ID": 70,
+        "tipsCategory": 2,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_4007"
+    },
+    {
+        "ID": 71,
+        "tipsCategory": 2,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_4008"
+    },
+    {
+        "ID": 72,
+        "tipsCategory": 2,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_4009"
+    },
+    {
+        "ID": 73,
+        "tipsCategory": 2,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_4010"
+    },
+    {
+        "ID": 74,
+        "tipsCategory": 2,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_4011"
+    },
+    {
+        "ID": 75,
+        "tipsCategory": 2,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_4012"
+    },
+    {
+        "ID": 76,
+        "tipsCategory": 2,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_4013"
+    },
+    {
+        "ID": 77,
+        "tipsCategory": 2,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_4014"
+    },
+    {
+        "ID": 78,
+        "tipsCategory": 2,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_4015"
+    },
+    {
+        "ID": 79,
+        "tipsCategory": 2,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_4016"
+    },
+    {
+        "ID": 80,
+        "tipsCategory": 2,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_4017"
+    },
+    {
+        "ID": 81,
+        "tipsCategory": 2,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_4018"
+    },
+    {
+        "ID": 82,
+        "tipsCategory": 2,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_4019"
+    },
+    {
+        "ID": 83,
+        "tipsCategory": 2,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_4020"
+    },
+    {
+        "ID": 84,
+        "tipsCategory": 2,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_4021"
+    },
+    {
+        "ID": 85,
+        "tipsCategory": 3,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_3001"
+    },
+    {
+        "ID": 86,
+        "tipsCategory": 3,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_3002"
+    },
+    {
+        "ID": 87,
+        "tipsCategory": 3,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_3003"
+    },
+    {
+        "ID": 88,
+        "tipsCategory": 3,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_3005"
+    },
+    {
+        "ID": 89,
+        "tipsCategory": 3,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_3006"
+    },
+    {
+        "ID": 90,
+        "tipsCategory": 3,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_3007"
+    },
+    {
+        "ID": 91,
+        "tipsCategory": 3,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_3008"
+    },
+    {
+        "ID": 92,
+        "tipsCategory": 3,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_3009"
+    },
+    {
+        "ID": 93,
+        "tipsCategory": 3,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_3011"
+    },
+    {
+        "ID": 94,
+        "tipsCategory": 3,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_3012"
+    },
+    {
+        "ID": 95,
+        "tipsCategory": 3,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_3013"
+    },
+    {
+        "ID": 96,
+        "tipsCategory": 3,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_3014"
+    },
+    {
+        "ID": 97,
+        "tipsCategory": 3,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_3015"
+    },
+    {
+        "ID": 98,
+        "tipsCategory": 3,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_3016"
+    },
+    {
+        "ID": 99,
+        "tipsCategory": 3,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_3017"
+    },
+    {
+        "ID": 100,
+        "tipsCategory": 3,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_3018"
+    },
+    {
+        "ID": 101,
+        "tipsCategory": 3,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_3019"
+    },
+    {
+        "ID": 102,
+        "tipsCategory": 3,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_3020"
+    },
+    {
+        "ID": 103,
+        "tipsCategory": 3,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_3021"
+    },
+    {
+        "ID": 104,
+        "tipsCategory": 3,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_3022"
+    },
+    {
+        "ID": 105,
+        "tipsCategory": 3,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_3024"
+    },
+    {
+        "ID": 106,
+        "tipsCategory": 3,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_3025"
+    },
+    {
+        "ID": 107,
+        "tipsCategory": 3,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_3026"
+    },
+    {
+        "ID": 108,
+        "tipsCategory": 3,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_3027"
+    },
+    {
+        "ID": 109,
+        "tipsCategory": 3,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_3028"
+    },
+    {
+        "ID": 110,
+        "tipsCategory": 3,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_3030"
+    },
+    {
+        "ID": 111,
+        "tipsCategory": 3,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_3031"
+    },
+    {
+        "ID": 112,
+        "tipsCategory": 3,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_3032"
+    },
+    {
+        "ID": 113,
+        "tipsCategory": 3,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_3033"
+    },
+    {
+        "ID": 114,
+        "tipsCategory": 3,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_3034"
+    },
+    {
+        "ID": 115,
+        "tipsCategory": 3,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_4001"
+    },
+    {
+        "ID": 116,
+        "tipsCategory": 3,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_4002"
+    },
+    {
+        "ID": 117,
+        "tipsCategory": 3,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_4003"
+    },
+    {
+        "ID": 118,
+        "tipsCategory": 3,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_4004"
+    },
+    {
+        "ID": 119,
+        "tipsCategory": 3,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_4005"
+    },
+    {
+        "ID": 120,
+        "tipsCategory": 3,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_4006"
+    },
+    {
+        "ID": 121,
+        "tipsCategory": 3,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_4007"
+    },
+    {
+        "ID": 122,
+        "tipsCategory": 3,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_4008"
+    },
+    {
+        "ID": 123,
+        "tipsCategory": 3,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_4009"
+    },
+    {
+        "ID": 124,
+        "tipsCategory": 3,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_4010"
+    },
+    {
+        "ID": 125,
+        "tipsCategory": 3,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_4011"
+    },
+    {
+        "ID": 126,
+        "tipsCategory": 3,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_4012"
+    },
+    {
+        "ID": 127,
+        "tipsCategory": 3,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_4013"
+    },
+    {
+        "ID": 128,
+        "tipsCategory": 3,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_4014"
+    },
+    {
+        "ID": 129,
+        "tipsCategory": 3,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_4015"
+    },
+    {
+        "ID": 130,
+        "tipsCategory": 3,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_4016"
+    },
+    {
+        "ID": 131,
+        "tipsCategory": 3,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_4017"
+    },
+    {
+        "ID": 132,
+        "tipsCategory": 3,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_4018"
+    },
+    {
+        "ID": 133,
+        "tipsCategory": 3,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_4019"
+    },
+    {
+        "ID": 134,
+        "tipsCategory": 3,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_4020"
+    },
+    {
+        "ID": 135,
+        "tipsCategory": 3,
+        "startAt": "1970-01-01 00:00:00+09:00",
+        "endAt": "2200-12-31 23:59:59+09:00",
+        "playerRank": 0,
+        "sequenceId": 0,
+        "tipsId": "TIPS_4021"
+    }
+]

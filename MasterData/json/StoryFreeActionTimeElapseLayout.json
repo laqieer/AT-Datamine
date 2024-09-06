@@ -1,0 +1,263 @@
+[
+    {
+        "ID": 1,
+        "layoutLabelID": 100,
+        "objectID": 6306,
+        "positionOffsetX": 0.0,
+        "positionOffsetY": 1.0,
+        "positionOffsetZ": 0.0,
+        "advID": 201304
+    },
+    {
+        "ID": 2,
+        "layoutLabelID": 101,
+        "objectID": 6306,
+        "positionOffsetX": 0.0,
+        "positionOffsetY": 1.0,
+        "positionOffsetZ": 0.0,
+        "advID": 201304
+    },
+    {
+        "ID": 3,
+        "layoutLabelID": 1075,
+        "objectID": 6306,
+        "positionOffsetX": 0.0,
+        "positionOffsetY": 1.0,
+        "positionOffsetZ": 0.0,
+        "advID": 201304
+    },
+    {
+        "ID": 4,
+        "layoutLabelID": 1000,
+        "objectID": 6306,
+        "positionOffsetX": 0.0,
+        "positionOffsetY": 1.0,
+        "positionOffsetZ": 0.0,
+        "advID": 0
+    },
+    {
+        "ID": 5,
+        "layoutLabelID": 1001,
+        "objectID": 6306,
+        "positionOffsetX": 0.0,
+        "positionOffsetY": 1.0,
+        "positionOffsetZ": 0.0,
+        "advID": 0
+    },
+    {
+        "ID": 6,
+        "layoutLabelID": 1002,
+        "objectID": 6306,
+        "positionOffsetX": 0.0,
+        "positionOffsetY": 1.0,
+        "positionOffsetZ": 0.0,
+        "advID": 0
+    },
+    {
+        "ID": 7,
+        "layoutLabelID": 1003,
+        "objectID": 6306,
+        "positionOffsetX": 0.0,
+        "positionOffsetY": 1.0,
+        "positionOffsetZ": 0.0,
+        "advID": 0
+    },
+    {
+        "ID": 8,
+        "layoutLabelID": 1004,
+        "objectID": 6306,
+        "positionOffsetX": 0.0,
+        "positionOffsetY": 1.0,
+        "positionOffsetZ": 0.0,
+        "advID": 0
+    },
+    {
+        "ID": 9,
+        "layoutLabelID": 1005,
+        "objectID": 6306,
+        "positionOffsetX": 0.0,
+        "positionOffsetY": 1.0,
+        "positionOffsetZ": 0.0,
+        "advID": 0
+    },
+    {
+        "ID": 10,
+        "layoutLabelID": 1006,
+        "objectID": 6306,
+        "positionOffsetX": 0.0,
+        "positionOffsetY": 1.0,
+        "positionOffsetZ": 0.0,
+        "advID": 0
+    },
+    {
+        "ID": 11,
+        "layoutLabelID": 1007,
+        "objectID": 6306,
+        "positionOffsetX": 0.0,
+        "positionOffsetY": 1.0,
+        "positionOffsetZ": 0.0,
+        "advID": 0
+    },
+    {
+        "ID": 12,
+        "layoutLabelID": 1008,
+        "objectID": 6306,
+        "positionOffsetX": 0.0,
+        "positionOffsetY": 1.0,
+        "positionOffsetZ": 0.0,
+        "advID": 0
+    },
+    {
+        "ID": 13,
+        "layoutLabelID": 1009,
+        "objectID": 6306,
+        "positionOffsetX": 0.0,
+        "positionOffsetY": 1.0,
+        "positionOffsetZ": 0.0,
+        "advID": 0
+    },
+    {
+        "ID": 14,
+        "layoutLabelID": 1010,
+        "objectID": 6306,
+        "positionOffsetX": 0.0,
+        "positionOffsetY": 1.0,
+        "positionOffsetZ": 0.0,
+        "advID": 0
+    },
+    {
+        "ID": 15,
+        "layoutLabelID": 1011,
+        "objectID": 6306,
+        "positionOffsetX": 0.0,
+        "positionOffsetY": 1.0,
+        "positionOffsetZ": 0.0,
+        "advID": 0
+    },
+    {
+        "ID": 16,
+        "layoutLabelID": 1012,
+        "objectID": 6306,
+        "positionOffsetX": 0.0,
+        "positionOffsetY": 1.0,
+        "positionOffsetZ": 0.0,
+        "advID": 0
+    },
+    {
+        "ID": 17,
+        "layoutLabelID": 1013,
+        "objectID": 6306,
+        "positionOffsetX": 0.0,
+        "positionOffsetY": 1.0,
+        "positionOffsetZ": 0.0,
+        "advID": 0
+    },
+    {
+        "ID": 18,
+        "layoutLabelID": 1014,
+        "objectID": 6306,
+        "positionOffsetX": 0.0,
+        "positionOffsetY": 1.0,
+        "positionOffsetZ": 0.0,
+        "advID": 0
+    },
+    {
+        "ID": 19,
+        "layoutLabelID": 1015,
+        "objectID": 6306,
+        "positionOffsetX": 0.0,
+        "positionOffsetY": 1.0,
+        "positionOffsetZ": 0.0,
+        "advID": 0
+    },
+    {
+        "ID": 20,
+        "layoutLabelID": 1016,
+        "objectID": 6306,
+        "positionOffsetX": 0.0,
+        "positionOffsetY": 1.0,
+        "positionOffsetZ": 0.0,
+        "advID": 0
+    },
+    {
+        "ID": 21,
+        "layoutLabelID": 1017,
+        "objectID": 6306,
+        "positionOffsetX": 0.0,
+        "positionOffsetY": 1.0,
+        "positionOffsetZ": 0.0,
+        "advID": 0
+    },
+    {
+        "ID": 22,
+        "layoutLabelID": 1018,
+        "objectID": 6306,
+        "positionOffsetX": 0.0,
+        "positionOffsetY": 1.0,
+        "positionOffsetZ": 0.0,
+        "advID": 0
+    },
+    {
+        "ID": 23,
+        "layoutLabelID": 1019,
+        "objectID": 6306,
+        "positionOffsetX": 0.0,
+        "positionOffsetY": 1.0,
+        "positionOffsetZ": 0.0,
+        "advID": 0
+    },
+    {
+        "ID": 24,
+        "layoutLabelID": 1020,
+        "objectID": 6306,
+        "positionOffsetX": 0.0,
+        "positionOffsetY": 1.0,
+        "positionOffsetZ": 0.0,
+        "advID": 0
+    },
+    {
+        "ID": 25,
+        "layoutLabelID": 1021,
+        "objectID": 6306,
+        "positionOffsetX": 0.0,
+        "positionOffsetY": 1.0,
+        "positionOffsetZ": 0.0,
+        "advID": 0
+    },
+    {
+        "ID": 26,
+        "layoutLabelID": 1022,
+        "objectID": 6306,
+        "positionOffsetX": 0.0,
+        "positionOffsetY": 1.0,
+        "positionOffsetZ": 0.0,
+        "advID": 0
+    },
+    {
+        "ID": 27,
+        "layoutLabelID": 1023,
+        "objectID": 6306,
+        "positionOffsetX": 0.0,
+        "positionOffsetY": 1.0,
+        "positionOffsetZ": 0.0,
+        "advID": 0
+    },
+    {
+        "ID": 28,
+        "layoutLabelID": 1024,
+        "objectID": 6306,
+        "positionOffsetX": 0.0,
+        "positionOffsetY": 1.0,
+        "positionOffsetZ": 0.0,
+        "advID": 0
+    },
+    {
+        "ID": 29,
+        "layoutLabelID": 1025,
+        "objectID": 6306,
+        "positionOffsetX": 0.0,
+        "positionOffsetY": 1.0,
+        "positionOffsetZ": 0.0,
+        "advID": 0
+    }
+]

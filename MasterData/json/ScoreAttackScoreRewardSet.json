@@ -1,0 +1,1997 @@
+[
+    {
+        "ID": 1,
+        "scoreAttackRewardGroup": 1,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット1キャンドルマイファイア",
+        "score": 35000
+    },
+    {
+        "ID": 2,
+        "scoreAttackRewardGroup": 1,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット2キャンドルマイファイア",
+        "score": 32500
+    },
+    {
+        "ID": 3,
+        "scoreAttackRewardGroup": 1,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット3キャンドルマイファイア",
+        "score": 30000
+    },
+    {
+        "ID": 4,
+        "scoreAttackRewardGroup": 1,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット4キャンドルマイファイア",
+        "score": 28000
+    },
+    {
+        "ID": 5,
+        "scoreAttackRewardGroup": 1,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット5キャンドルマイファイア",
+        "score": 26000
+    },
+    {
+        "ID": 6,
+        "scoreAttackRewardGroup": 1,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット6キャンドルマイファイア",
+        "score": 24000
+    },
+    {
+        "ID": 7,
+        "scoreAttackRewardGroup": 1,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット7キャンドルマイファイア",
+        "score": 22000
+    },
+    {
+        "ID": 8,
+        "scoreAttackRewardGroup": 1,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット8キャンドルマイファイア",
+        "score": 20000
+    },
+    {
+        "ID": 12,
+        "scoreAttackRewardGroup": 1,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット9キャンドルマイファイア",
+        "score": 19000
+    },
+    {
+        "ID": 13,
+        "scoreAttackRewardGroup": 1,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット10キャンドルマイファイア",
+        "score": 18000
+    },
+    {
+        "ID": 14,
+        "scoreAttackRewardGroup": 1,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット11キャンドルマイファイア",
+        "score": 17000
+    },
+    {
+        "ID": 15,
+        "scoreAttackRewardGroup": 1,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット12キャンドルマイファイア",
+        "score": 16000
+    },
+    {
+        "ID": 16,
+        "scoreAttackRewardGroup": 1,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット13キャンドルマイファイア",
+        "score": 15000
+    },
+    {
+        "ID": 17,
+        "scoreAttackRewardGroup": 1,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット14キャンドルマイファイア",
+        "score": 14000
+    },
+    {
+        "ID": 18,
+        "scoreAttackRewardGroup": 1,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット15キャンドルマイファイア",
+        "score": 13000
+    },
+    {
+        "ID": 19,
+        "scoreAttackRewardGroup": 1,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット16キャンドルマイファイア",
+        "score": 12000
+    },
+    {
+        "ID": 20,
+        "scoreAttackRewardGroup": 1,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット17キャンドルマイファイア",
+        "score": 11000
+    },
+    {
+        "ID": 21,
+        "scoreAttackRewardGroup": 1,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット18キャンドルマイファイア",
+        "score": 10000
+    },
+    {
+        "ID": 22,
+        "scoreAttackRewardGroup": 1,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット19キャンドルマイファイア",
+        "score": 9000
+    },
+    {
+        "ID": 23,
+        "scoreAttackRewardGroup": 1,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット20キャンドルマイファイア",
+        "score": 8400
+    },
+    {
+        "ID": 24,
+        "scoreAttackRewardGroup": 1,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット21キャンドルマイファイア",
+        "score": 7800
+    },
+    {
+        "ID": 25,
+        "scoreAttackRewardGroup": 1,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット22キャンドルマイファイア",
+        "score": 7200
+    },
+    {
+        "ID": 26,
+        "scoreAttackRewardGroup": 1,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット23キャンドルマイファイア",
+        "score": 6600
+    },
+    {
+        "ID": 27,
+        "scoreAttackRewardGroup": 1,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット24キャンドルマイファイア",
+        "score": 6000
+    },
+    {
+        "ID": 28,
+        "scoreAttackRewardGroup": 1,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット25キャンドルマイファイア",
+        "score": 5600
+    },
+    {
+        "ID": 29,
+        "scoreAttackRewardGroup": 1,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット26キャンドルマイファイア",
+        "score": 5200
+    },
+    {
+        "ID": 30,
+        "scoreAttackRewardGroup": 1,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット27キャンドルマイファイア",
+        "score": 4800
+    },
+    {
+        "ID": 31,
+        "scoreAttackRewardGroup": 1,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット28キャンドルマイファイア",
+        "score": 4400
+    },
+    {
+        "ID": 32,
+        "scoreAttackRewardGroup": 1,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット29キャンドルマイファイア",
+        "score": 4000
+    },
+    {
+        "ID": 33,
+        "scoreAttackRewardGroup": 1,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット30キャンドルマイファイア",
+        "score": 3800
+    },
+    {
+        "ID": 34,
+        "scoreAttackRewardGroup": 1,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット31キャンドルマイファイア",
+        "score": 3600
+    },
+    {
+        "ID": 35,
+        "scoreAttackRewardGroup": 1,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット32キャンドルマイファイア",
+        "score": 3400
+    },
+    {
+        "ID": 36,
+        "scoreAttackRewardGroup": 1,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット33キャンドルマイファイア",
+        "score": 3200
+    },
+    {
+        "ID": 37,
+        "scoreAttackRewardGroup": 1,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット34キャンドルマイファイア",
+        "score": 3000
+    },
+    {
+        "ID": 38,
+        "scoreAttackRewardGroup": 1,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット1キャンドルマイファイア",
+        "score": 100000
+    },
+    {
+        "ID": 39,
+        "scoreAttackRewardGroup": 1,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット2キャンドルマイファイア",
+        "score": 90000
+    },
+    {
+        "ID": 40,
+        "scoreAttackRewardGroup": 1,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット3キャンドルマイファイア",
+        "score": 80000
+    },
+    {
+        "ID": 41,
+        "scoreAttackRewardGroup": 1,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット4キャンドルマイファイア",
+        "score": 70000
+    },
+    {
+        "ID": 42,
+        "scoreAttackRewardGroup": 1,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット5キャンドルマイファイア",
+        "score": 60000
+    },
+    {
+        "ID": 43,
+        "scoreAttackRewardGroup": 1,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット6キャンドルマイファイア",
+        "score": 50000
+    },
+    {
+        "ID": 44,
+        "scoreAttackRewardGroup": 1,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット7キャンドルマイファイア",
+        "score": 45000
+    },
+    {
+        "ID": 45,
+        "scoreAttackRewardGroup": 1,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット8キャンドルマイファイア",
+        "score": 40000
+    },
+    {
+        "ID": 46,
+        "scoreAttackRewardGroup": 1,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット9キャンドルマイファイア",
+        "score": 35000
+    },
+    {
+        "ID": 47,
+        "scoreAttackRewardGroup": 1,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット10キャンドルマイファイア",
+        "score": 30000
+    },
+    {
+        "ID": 48,
+        "scoreAttackRewardGroup": 1,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット11キャンドルマイファイア",
+        "score": 26000
+    },
+    {
+        "ID": 49,
+        "scoreAttackRewardGroup": 1,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット12キャンドルマイファイア",
+        "score": 23000
+    },
+    {
+        "ID": 50,
+        "scoreAttackRewardGroup": 1,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット13キャンドルマイファイア",
+        "score": 20000
+    },
+    {
+        "ID": 51,
+        "scoreAttackRewardGroup": 1,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット14キャンドルマイファイア",
+        "score": 18000
+    },
+    {
+        "ID": 52,
+        "scoreAttackRewardGroup": 1,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット15キャンドルマイファイア",
+        "score": 16000
+    },
+    {
+        "ID": 53,
+        "scoreAttackRewardGroup": 1,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット16キャンドルマイファイア",
+        "score": 14000
+    },
+    {
+        "ID": 54,
+        "scoreAttackRewardGroup": 1,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット17キャンドルマイファイア",
+        "score": 12000
+    },
+    {
+        "ID": 55,
+        "scoreAttackRewardGroup": 1,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット18キャンドルマイファイア",
+        "score": 10000
+    },
+    {
+        "ID": 56,
+        "scoreAttackRewardGroup": 1,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット19キャンドルマイファイア",
+        "score": 8000
+    },
+    {
+        "ID": 57,
+        "scoreAttackRewardGroup": 1,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット20キャンドルマイファイア",
+        "score": 6500
+    },
+    {
+        "ID": 58,
+        "scoreAttackRewardGroup": 1,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット21キャンドルマイファイア",
+        "score": 5000
+    },
+    {
+        "ID": 59,
+        "scoreAttackRewardGroup": 1,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット22キャンドルマイファイア",
+        "score": 3500
+    },
+    {
+        "ID": 60,
+        "scoreAttackRewardGroup": 1,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット23キャンドルマイファイア",
+        "score": 3000
+    },
+    {
+        "ID": 61,
+        "scoreAttackRewardGroup": 2,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット1初星ハルモニア",
+        "score": 50000
+    },
+    {
+        "ID": 62,
+        "scoreAttackRewardGroup": 2,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット2初星ハルモニア",
+        "score": 48000
+    },
+    {
+        "ID": 63,
+        "scoreAttackRewardGroup": 2,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット3初星ハルモニア",
+        "score": 46000
+    },
+    {
+        "ID": 64,
+        "scoreAttackRewardGroup": 2,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット4初星ハルモニア",
+        "score": 44000
+    },
+    {
+        "ID": 65,
+        "scoreAttackRewardGroup": 2,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット5初星ハルモニア",
+        "score": 42000
+    },
+    {
+        "ID": 66,
+        "scoreAttackRewardGroup": 2,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット6初星ハルモニア",
+        "score": 40000
+    },
+    {
+        "ID": 67,
+        "scoreAttackRewardGroup": 2,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット7初星ハルモニア",
+        "score": 38000
+    },
+    {
+        "ID": 68,
+        "scoreAttackRewardGroup": 2,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット8初星ハルモニア",
+        "score": 35000
+    },
+    {
+        "ID": 69,
+        "scoreAttackRewardGroup": 2,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット9初星ハルモニア",
+        "score": 34000
+    },
+    {
+        "ID": 70,
+        "scoreAttackRewardGroup": 2,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット10初星ハルモニア",
+        "score": 32000
+    },
+    {
+        "ID": 71,
+        "scoreAttackRewardGroup": 2,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット11初星ハルモニア",
+        "score": 30000
+    },
+    {
+        "ID": 72,
+        "scoreAttackRewardGroup": 2,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット12初星ハルモニア",
+        "score": 28000
+    },
+    {
+        "ID": 73,
+        "scoreAttackRewardGroup": 2,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット13初星ハルモニア",
+        "score": 26000
+    },
+    {
+        "ID": 74,
+        "scoreAttackRewardGroup": 2,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット14初星ハルモニア",
+        "score": 24000
+    },
+    {
+        "ID": 75,
+        "scoreAttackRewardGroup": 2,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット15初星ハルモニア",
+        "score": 22000
+    },
+    {
+        "ID": 76,
+        "scoreAttackRewardGroup": 2,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット16初星ハルモニア",
+        "score": 20000
+    },
+    {
+        "ID": 77,
+        "scoreAttackRewardGroup": 2,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット17初星ハルモニア",
+        "score": 18000
+    },
+    {
+        "ID": 78,
+        "scoreAttackRewardGroup": 2,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット18初星ハルモニア",
+        "score": 16000
+    },
+    {
+        "ID": 79,
+        "scoreAttackRewardGroup": 2,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット19初星ハルモニア",
+        "score": 14000
+    },
+    {
+        "ID": 80,
+        "scoreAttackRewardGroup": 2,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット20初星ハルモニア",
+        "score": 12000
+    },
+    {
+        "ID": 81,
+        "scoreAttackRewardGroup": 2,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット21初星ハルモニア",
+        "score": 10000
+    },
+    {
+        "ID": 82,
+        "scoreAttackRewardGroup": 2,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット22初星ハルモニア",
+        "score": 9000
+    },
+    {
+        "ID": 83,
+        "scoreAttackRewardGroup": 2,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット23初星ハルモニア",
+        "score": 8500
+    },
+    {
+        "ID": 84,
+        "scoreAttackRewardGroup": 2,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット24初星ハルモニア",
+        "score": 8000
+    },
+    {
+        "ID": 85,
+        "scoreAttackRewardGroup": 2,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット25初星ハルモニア",
+        "score": 7500
+    },
+    {
+        "ID": 86,
+        "scoreAttackRewardGroup": 2,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット26初星ハルモニア",
+        "score": 7000
+    },
+    {
+        "ID": 87,
+        "scoreAttackRewardGroup": 2,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット27初星ハルモニア",
+        "score": 6500
+    },
+    {
+        "ID": 88,
+        "scoreAttackRewardGroup": 2,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット28初星ハルモニア",
+        "score": 6000
+    },
+    {
+        "ID": 89,
+        "scoreAttackRewardGroup": 2,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット29初星ハルモニア",
+        "score": 5500
+    },
+    {
+        "ID": 90,
+        "scoreAttackRewardGroup": 2,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット30初星ハルモニア",
+        "score": 5000
+    },
+    {
+        "ID": 91,
+        "scoreAttackRewardGroup": 2,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット31初星ハルモニア",
+        "score": 4500
+    },
+    {
+        "ID": 92,
+        "scoreAttackRewardGroup": 2,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット32初星ハルモニア",
+        "score": 4000
+    },
+    {
+        "ID": 93,
+        "scoreAttackRewardGroup": 2,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット33初星ハルモニア",
+        "score": 3500
+    },
+    {
+        "ID": 94,
+        "scoreAttackRewardGroup": 2,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット34初星ハルモニア",
+        "score": 3000
+    },
+    {
+        "ID": 95,
+        "scoreAttackRewardGroup": 2,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット35初星ハルモニア",
+        "score": 2500
+    },
+    {
+        "ID": 96,
+        "scoreAttackRewardGroup": 2,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット36初星ハルモニア",
+        "score": 2000
+    },
+    {
+        "ID": 97,
+        "scoreAttackRewardGroup": 2,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット37初星ハルモニア",
+        "score": 1750
+    },
+    {
+        "ID": 98,
+        "scoreAttackRewardGroup": 2,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット38初星ハルモニア",
+        "score": 1500
+    },
+    {
+        "ID": 99,
+        "scoreAttackRewardGroup": 2,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット39初星ハルモニア",
+        "score": 1000
+    },
+    {
+        "ID": 100,
+        "scoreAttackRewardGroup": 2,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット1初星ハルモニア",
+        "score": 100000
+    },
+    {
+        "ID": 101,
+        "scoreAttackRewardGroup": 2,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット2初星ハルモニア",
+        "score": 90000
+    },
+    {
+        "ID": 102,
+        "scoreAttackRewardGroup": 2,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット3初星ハルモニア",
+        "score": 80000
+    },
+    {
+        "ID": 103,
+        "scoreAttackRewardGroup": 2,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット4初星ハルモニア",
+        "score": 70000
+    },
+    {
+        "ID": 104,
+        "scoreAttackRewardGroup": 2,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット5初星ハルモニア",
+        "score": 60000
+    },
+    {
+        "ID": 105,
+        "scoreAttackRewardGroup": 2,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット6初星ハルモニア",
+        "score": 50000
+    },
+    {
+        "ID": 106,
+        "scoreAttackRewardGroup": 2,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット7初星ハルモニア",
+        "score": 45000
+    },
+    {
+        "ID": 107,
+        "scoreAttackRewardGroup": 2,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット8初星ハルモニア",
+        "score": 40000
+    },
+    {
+        "ID": 108,
+        "scoreAttackRewardGroup": 2,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット9初星ハルモニア",
+        "score": 35000
+    },
+    {
+        "ID": 109,
+        "scoreAttackRewardGroup": 2,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット10初星ハルモニア",
+        "score": 30000
+    },
+    {
+        "ID": 110,
+        "scoreAttackRewardGroup": 2,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット11初星ハルモニア",
+        "score": 26000
+    },
+    {
+        "ID": 111,
+        "scoreAttackRewardGroup": 2,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット12初星ハルモニア",
+        "score": 23000
+    },
+    {
+        "ID": 112,
+        "scoreAttackRewardGroup": 2,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット13初星ハルモニア",
+        "score": 20000
+    },
+    {
+        "ID": 113,
+        "scoreAttackRewardGroup": 2,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット14初星ハルモニア",
+        "score": 18000
+    },
+    {
+        "ID": 114,
+        "scoreAttackRewardGroup": 2,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット15初星ハルモニア",
+        "score": 16000
+    },
+    {
+        "ID": 115,
+        "scoreAttackRewardGroup": 2,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット16初星ハルモニア",
+        "score": 14000
+    },
+    {
+        "ID": 116,
+        "scoreAttackRewardGroup": 2,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット17初星ハルモニア",
+        "score": 12000
+    },
+    {
+        "ID": 117,
+        "scoreAttackRewardGroup": 2,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット18初星ハルモニア",
+        "score": 10000
+    },
+    {
+        "ID": 118,
+        "scoreAttackRewardGroup": 2,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット19初星ハルモニア",
+        "score": 8000
+    },
+    {
+        "ID": 119,
+        "scoreAttackRewardGroup": 2,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット20初星ハルモニア",
+        "score": 6500
+    },
+    {
+        "ID": 120,
+        "scoreAttackRewardGroup": 2,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット21初星ハルモニア",
+        "score": 5000
+    },
+    {
+        "ID": 121,
+        "scoreAttackRewardGroup": 2,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット22初星ハルモニア",
+        "score": 3500
+    },
+    {
+        "ID": 122,
+        "scoreAttackRewardGroup": 2,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット23初星ハルモニア",
+        "score": 3000
+    },
+    {
+        "ID": 123,
+        "scoreAttackRewardGroup": 3,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット1机上の空論、あるいはアオハル",
+        "score": 1000
+    },
+    {
+        "ID": 124,
+        "scoreAttackRewardGroup": 3,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット2机上の空論、あるいはアオハル",
+        "score": 1500
+    },
+    {
+        "ID": 125,
+        "scoreAttackRewardGroup": 3,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット3机上の空論、あるいはアオハル",
+        "score": 1750
+    },
+    {
+        "ID": 126,
+        "scoreAttackRewardGroup": 3,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット4机上の空論、あるいはアオハル",
+        "score": 2000
+    },
+    {
+        "ID": 127,
+        "scoreAttackRewardGroup": 3,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット5机上の空論、あるいはアオハル",
+        "score": 2500
+    },
+    {
+        "ID": 128,
+        "scoreAttackRewardGroup": 3,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット6机上の空論、あるいはアオハル",
+        "score": 3000
+    },
+    {
+        "ID": 129,
+        "scoreAttackRewardGroup": 3,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット7机上の空論、あるいはアオハル",
+        "score": 3500
+    },
+    {
+        "ID": 130,
+        "scoreAttackRewardGroup": 3,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット8机上の空論、あるいはアオハル",
+        "score": 4000
+    },
+    {
+        "ID": 131,
+        "scoreAttackRewardGroup": 3,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット9机上の空論、あるいはアオハル",
+        "score": 4500
+    },
+    {
+        "ID": 132,
+        "scoreAttackRewardGroup": 3,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット10机上の空論、あるいはアオハル",
+        "score": 5000
+    },
+    {
+        "ID": 133,
+        "scoreAttackRewardGroup": 3,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット11机上の空論、あるいはアオハル",
+        "score": 5500
+    },
+    {
+        "ID": 134,
+        "scoreAttackRewardGroup": 3,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット12机上の空論、あるいはアオハル",
+        "score": 6000
+    },
+    {
+        "ID": 135,
+        "scoreAttackRewardGroup": 3,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット13机上の空論、あるいはアオハル",
+        "score": 6500
+    },
+    {
+        "ID": 136,
+        "scoreAttackRewardGroup": 3,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット14机上の空論、あるいはアオハル",
+        "score": 7000
+    },
+    {
+        "ID": 137,
+        "scoreAttackRewardGroup": 3,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット15机上の空論、あるいはアオハル",
+        "score": 7500
+    },
+    {
+        "ID": 138,
+        "scoreAttackRewardGroup": 3,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット16机上の空論、あるいはアオハル",
+        "score": 8000
+    },
+    {
+        "ID": 139,
+        "scoreAttackRewardGroup": 3,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット17机上の空論、あるいはアオハル",
+        "score": 8500
+    },
+    {
+        "ID": 140,
+        "scoreAttackRewardGroup": 3,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット18机上の空論、あるいはアオハル",
+        "score": 9000
+    },
+    {
+        "ID": 141,
+        "scoreAttackRewardGroup": 3,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット19机上の空論、あるいはアオハル",
+        "score": 10000
+    },
+    {
+        "ID": 142,
+        "scoreAttackRewardGroup": 3,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット20机上の空論、あるいはアオハル",
+        "score": 12000
+    },
+    {
+        "ID": 143,
+        "scoreAttackRewardGroup": 3,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット21机上の空論、あるいはアオハル",
+        "score": 14000
+    },
+    {
+        "ID": 144,
+        "scoreAttackRewardGroup": 3,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット22机上の空論、あるいはアオハル",
+        "score": 16000
+    },
+    {
+        "ID": 145,
+        "scoreAttackRewardGroup": 3,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット23机上の空論、あるいはアオハル",
+        "score": 18000
+    },
+    {
+        "ID": 146,
+        "scoreAttackRewardGroup": 3,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット24机上の空論、あるいはアオハル",
+        "score": 20000
+    },
+    {
+        "ID": 147,
+        "scoreAttackRewardGroup": 3,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット25机上の空論、あるいはアオハル",
+        "score": 22000
+    },
+    {
+        "ID": 148,
+        "scoreAttackRewardGroup": 3,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット26机上の空論、あるいはアオハル",
+        "score": 24000
+    },
+    {
+        "ID": 149,
+        "scoreAttackRewardGroup": 3,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット27机上の空論、あるいはアオハル",
+        "score": 26000
+    },
+    {
+        "ID": 150,
+        "scoreAttackRewardGroup": 3,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット28机上の空論、あるいはアオハル",
+        "score": 28000
+    },
+    {
+        "ID": 151,
+        "scoreAttackRewardGroup": 3,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット29机上の空論、あるいはアオハル",
+        "score": 30000
+    },
+    {
+        "ID": 152,
+        "scoreAttackRewardGroup": 3,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット30机上の空論、あるいはアオハル",
+        "score": 32000
+    },
+    {
+        "ID": 153,
+        "scoreAttackRewardGroup": 3,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット31机上の空論、あるいはアオハル",
+        "score": 34000
+    },
+    {
+        "ID": 154,
+        "scoreAttackRewardGroup": 3,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット32机上の空論、あるいはアオハル",
+        "score": 35000
+    },
+    {
+        "ID": 155,
+        "scoreAttackRewardGroup": 3,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット33机上の空論、あるいはアオハル",
+        "score": 38000
+    },
+    {
+        "ID": 156,
+        "scoreAttackRewardGroup": 3,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット34机上の空論、あるいはアオハル",
+        "score": 40000
+    },
+    {
+        "ID": 157,
+        "scoreAttackRewardGroup": 3,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット35机上の空論、あるいはアオハル",
+        "score": 42000
+    },
+    {
+        "ID": 158,
+        "scoreAttackRewardGroup": 3,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット36机上の空論、あるいはアオハル",
+        "score": 44000
+    },
+    {
+        "ID": 159,
+        "scoreAttackRewardGroup": 3,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット37机上の空論、あるいはアオハル",
+        "score": 46000
+    },
+    {
+        "ID": 160,
+        "scoreAttackRewardGroup": 3,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット38机上の空論、あるいはアオハル",
+        "score": 48000
+    },
+    {
+        "ID": 161,
+        "scoreAttackRewardGroup": 3,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット39机上の空論、あるいはアオハル",
+        "score": 50000
+    },
+    {
+        "ID": 162,
+        "scoreAttackRewardGroup": 3,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット40机上の空論、あるいはアオハル",
+        "score": 55000
+    },
+    {
+        "ID": 163,
+        "scoreAttackRewardGroup": 3,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット1机上の空論、あるいはアオハル",
+        "score": 3000
+    },
+    {
+        "ID": 164,
+        "scoreAttackRewardGroup": 3,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット2机上の空論、あるいはアオハル",
+        "score": 3500
+    },
+    {
+        "ID": 165,
+        "scoreAttackRewardGroup": 3,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット3机上の空論、あるいはアオハル",
+        "score": 5000
+    },
+    {
+        "ID": 166,
+        "scoreAttackRewardGroup": 3,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット4机上の空論、あるいはアオハル",
+        "score": 6500
+    },
+    {
+        "ID": 167,
+        "scoreAttackRewardGroup": 3,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット5机上の空論、あるいはアオハル",
+        "score": 8000
+    },
+    {
+        "ID": 168,
+        "scoreAttackRewardGroup": 3,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット6机上の空論、あるいはアオハル",
+        "score": 10000
+    },
+    {
+        "ID": 169,
+        "scoreAttackRewardGroup": 3,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット7机上の空論、あるいはアオハル",
+        "score": 12000
+    },
+    {
+        "ID": 170,
+        "scoreAttackRewardGroup": 3,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット8机上の空論、あるいはアオハル",
+        "score": 14000
+    },
+    {
+        "ID": 171,
+        "scoreAttackRewardGroup": 3,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット9机上の空論、あるいはアオハル",
+        "score": 16000
+    },
+    {
+        "ID": 172,
+        "scoreAttackRewardGroup": 3,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット10机上の空論、あるいはアオハル",
+        "score": 18000
+    },
+    {
+        "ID": 173,
+        "scoreAttackRewardGroup": 3,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット11机上の空論、あるいはアオハル",
+        "score": 20000
+    },
+    {
+        "ID": 174,
+        "scoreAttackRewardGroup": 3,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット12机上の空論、あるいはアオハル",
+        "score": 23000
+    },
+    {
+        "ID": 175,
+        "scoreAttackRewardGroup": 3,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット13机上の空論、あるいはアオハル",
+        "score": 26000
+    },
+    {
+        "ID": 176,
+        "scoreAttackRewardGroup": 3,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット14机上の空論、あるいはアオハル",
+        "score": 30000
+    },
+    {
+        "ID": 177,
+        "scoreAttackRewardGroup": 3,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット15机上の空論、あるいはアオハル",
+        "score": 35000
+    },
+    {
+        "ID": 178,
+        "scoreAttackRewardGroup": 3,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット16机上の空論、あるいはアオハル",
+        "score": 40000
+    },
+    {
+        "ID": 179,
+        "scoreAttackRewardGroup": 3,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット17机上の空論、あるいはアオハル",
+        "score": 45000
+    },
+    {
+        "ID": 180,
+        "scoreAttackRewardGroup": 3,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット18机上の空論、あるいはアオハル",
+        "score": 50000
+    },
+    {
+        "ID": 181,
+        "scoreAttackRewardGroup": 3,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット19机上の空論、あるいはアオハル",
+        "score": 60000
+    },
+    {
+        "ID": 182,
+        "scoreAttackRewardGroup": 3,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット20机上の空論、あるいはアオハル",
+        "score": 70000
+    },
+    {
+        "ID": 183,
+        "scoreAttackRewardGroup": 3,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット21机上の空論、あるいはアオハル",
+        "score": 80000
+    },
+    {
+        "ID": 184,
+        "scoreAttackRewardGroup": 3,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット22机上の空論、あるいはアオハル",
+        "score": 90000
+    },
+    {
+        "ID": 185,
+        "scoreAttackRewardGroup": 3,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット23机上の空論、あるいはアオハル",
+        "score": 100000
+    },
+    {
+        "ID": 186,
+        "scoreAttackRewardGroup": 3,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット24机上の空論、あるいはアオハル",
+        "score": 120000
+    },
+    {
+        "ID": 187,
+        "scoreAttackRewardGroup": 3,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット25机上の空論、あるいはアオハル",
+        "score": 140000
+    },
+    {
+        "ID": 188,
+        "scoreAttackRewardGroup": 3,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット26机上の空論、あるいはアオハル",
+        "score": 160000
+    },
+    {
+        "ID": 189,
+        "scoreAttackRewardGroup": 3,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット27机上の空論、あるいはアオハル",
+        "score": 180000
+    },
+    {
+        "ID": 190,
+        "scoreAttackRewardGroup": 3,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット28机上の空論、あるいはアオハル",
+        "score": 200000
+    },
+    {
+        "ID": 191,
+        "scoreAttackRewardGroup": 3,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット29机上の空論、あるいはアオハル",
+        "score": 220000
+    },
+    {
+        "ID": 192,
+        "scoreAttackRewardGroup": 3,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット30机上の空論、あるいはアオハル",
+        "score": 240000
+    },
+    {
+        "ID": 193,
+        "scoreAttackRewardGroup": 3,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット31机上の空論、あるいはアオハル",
+        "score": 260000
+    },
+    {
+        "ID": 194,
+        "scoreAttackRewardGroup": 3,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット32机上の空論、あるいはアオハル",
+        "score": 280000
+    },
+    {
+        "ID": 195,
+        "scoreAttackRewardGroup": 3,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット33机上の空論、あるいはアオハル",
+        "score": 300000
+    },
+    {
+        "ID": 196,
+        "scoreAttackRewardGroup": 3,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット34机上の空論、あるいはアオハル",
+        "score": 320000
+    },
+    {
+        "ID": 197,
+        "scoreAttackRewardGroup": 3,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット35机上の空論、あるいはアオハル",
+        "score": 340000
+    },
+    {
+        "ID": 198,
+        "scoreAttackRewardGroup": 3,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット36机上の空論、あるいはアオハル",
+        "score": 360000
+    },
+    {
+        "ID": 199,
+        "scoreAttackRewardGroup": 3,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット37机上の空論、あるいはアオハル",
+        "score": 380000
+    },
+    {
+        "ID": 200,
+        "scoreAttackRewardGroup": 3,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット38机上の空論、あるいはアオハル",
+        "score": 400000
+    },
+    {
+        "ID": 201,
+        "scoreAttackRewardGroup": 3,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット39机上の空論、あるいはアオハル",
+        "score": 420000
+    },
+    {
+        "ID": 202,
+        "scoreAttackRewardGroup": 3,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット40机上の空論、あるいはアオハル",
+        "score": 440000
+    },
+    {
+        "ID": 203,
+        "scoreAttackRewardGroup": 3,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット41机上の空論、あるいはアオハル",
+        "score": 460000
+    },
+    {
+        "ID": 204,
+        "scoreAttackRewardGroup": 3,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット42机上の空論、あるいはアオハル",
+        "score": 480000
+    },
+    {
+        "ID": 205,
+        "scoreAttackRewardGroup": 3,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット43机上の空論、あるいはアオハル",
+        "score": 500000
+    },
+    {
+        "ID": 206,
+        "scoreAttackRewardGroup": 4,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット1花散る春に英雄譚を",
+        "score": 1000
+    },
+    {
+        "ID": 207,
+        "scoreAttackRewardGroup": 4,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット2花散る春に英雄譚を",
+        "score": 1500
+    },
+    {
+        "ID": 208,
+        "scoreAttackRewardGroup": 4,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット3花散る春に英雄譚を",
+        "score": 1750
+    },
+    {
+        "ID": 209,
+        "scoreAttackRewardGroup": 4,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット4花散る春に英雄譚を",
+        "score": 2000
+    },
+    {
+        "ID": 210,
+        "scoreAttackRewardGroup": 4,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット5花散る春に英雄譚を",
+        "score": 2500
+    },
+    {
+        "ID": 211,
+        "scoreAttackRewardGroup": 4,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット6花散る春に英雄譚を",
+        "score": 3000
+    },
+    {
+        "ID": 212,
+        "scoreAttackRewardGroup": 4,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット7花散る春に英雄譚を",
+        "score": 3500
+    },
+    {
+        "ID": 213,
+        "scoreAttackRewardGroup": 4,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット8花散る春に英雄譚を",
+        "score": 4000
+    },
+    {
+        "ID": 214,
+        "scoreAttackRewardGroup": 4,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット9花散る春に英雄譚を",
+        "score": 4500
+    },
+    {
+        "ID": 215,
+        "scoreAttackRewardGroup": 4,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット10花散る春に英雄譚を",
+        "score": 5000
+    },
+    {
+        "ID": 216,
+        "scoreAttackRewardGroup": 4,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット11花散る春に英雄譚を",
+        "score": 5500
+    },
+    {
+        "ID": 217,
+        "scoreAttackRewardGroup": 4,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット12花散る春に英雄譚を",
+        "score": 6000
+    },
+    {
+        "ID": 218,
+        "scoreAttackRewardGroup": 4,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット13花散る春に英雄譚を",
+        "score": 6500
+    },
+    {
+        "ID": 219,
+        "scoreAttackRewardGroup": 4,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット14花散る春に英雄譚を",
+        "score": 7000
+    },
+    {
+        "ID": 220,
+        "scoreAttackRewardGroup": 4,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット15花散る春に英雄譚を",
+        "score": 7500
+    },
+    {
+        "ID": 221,
+        "scoreAttackRewardGroup": 4,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット16花散る春に英雄譚を",
+        "score": 8000
+    },
+    {
+        "ID": 222,
+        "scoreAttackRewardGroup": 4,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット17花散る春に英雄譚を",
+        "score": 8500
+    },
+    {
+        "ID": 223,
+        "scoreAttackRewardGroup": 4,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット18花散る春に英雄譚を",
+        "score": 9000
+    },
+    {
+        "ID": 224,
+        "scoreAttackRewardGroup": 4,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット19花散る春に英雄譚を",
+        "score": 10000
+    },
+    {
+        "ID": 225,
+        "scoreAttackRewardGroup": 4,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット20花散る春に英雄譚を",
+        "score": 12000
+    },
+    {
+        "ID": 226,
+        "scoreAttackRewardGroup": 4,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット21花散る春に英雄譚を",
+        "score": 14000
+    },
+    {
+        "ID": 227,
+        "scoreAttackRewardGroup": 4,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット22花散る春に英雄譚を",
+        "score": 16000
+    },
+    {
+        "ID": 228,
+        "scoreAttackRewardGroup": 4,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット23花散る春に英雄譚を",
+        "score": 18000
+    },
+    {
+        "ID": 229,
+        "scoreAttackRewardGroup": 4,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット24花散る春に英雄譚を",
+        "score": 20000
+    },
+    {
+        "ID": 230,
+        "scoreAttackRewardGroup": 4,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット25花散る春に英雄譚を",
+        "score": 22000
+    },
+    {
+        "ID": 231,
+        "scoreAttackRewardGroup": 4,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット26花散る春に英雄譚を",
+        "score": 24000
+    },
+    {
+        "ID": 232,
+        "scoreAttackRewardGroup": 4,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット27花散る春に英雄譚を",
+        "score": 26000
+    },
+    {
+        "ID": 233,
+        "scoreAttackRewardGroup": 4,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット28花散る春に英雄譚を",
+        "score": 28000
+    },
+    {
+        "ID": 234,
+        "scoreAttackRewardGroup": 4,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット29花散る春に英雄譚を",
+        "score": 30000
+    },
+    {
+        "ID": 235,
+        "scoreAttackRewardGroup": 4,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット30花散る春に英雄譚を",
+        "score": 32000
+    },
+    {
+        "ID": 236,
+        "scoreAttackRewardGroup": 4,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット31花散る春に英雄譚を",
+        "score": 34000
+    },
+    {
+        "ID": 237,
+        "scoreAttackRewardGroup": 4,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット32花散る春に英雄譚を",
+        "score": 35000
+    },
+    {
+        "ID": 238,
+        "scoreAttackRewardGroup": 4,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット33花散る春に英雄譚を",
+        "score": 38000
+    },
+    {
+        "ID": 239,
+        "scoreAttackRewardGroup": 4,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット34花散る春に英雄譚を",
+        "score": 40000
+    },
+    {
+        "ID": 240,
+        "scoreAttackRewardGroup": 4,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット35花散る春に英雄譚を",
+        "score": 42000
+    },
+    {
+        "ID": 241,
+        "scoreAttackRewardGroup": 4,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット36花散る春に英雄譚を",
+        "score": 44000
+    },
+    {
+        "ID": 242,
+        "scoreAttackRewardGroup": 4,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット37花散る春に英雄譚を",
+        "score": 46000
+    },
+    {
+        "ID": 243,
+        "scoreAttackRewardGroup": 4,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット38花散る春に英雄譚を",
+        "score": 48000
+    },
+    {
+        "ID": 244,
+        "scoreAttackRewardGroup": 4,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット39花散る春に英雄譚を",
+        "score": 50000
+    },
+    {
+        "ID": 245,
+        "scoreAttackRewardGroup": 4,
+        "isCumulative": false,
+        "name": "ハイスコアアタック報酬セット40花散る春に英雄譚を",
+        "score": 55000
+    },
+    {
+        "ID": 246,
+        "scoreAttackRewardGroup": 4,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット1花散る春に英雄譚を",
+        "score": 3000
+    },
+    {
+        "ID": 247,
+        "scoreAttackRewardGroup": 4,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット2花散る春に英雄譚を",
+        "score": 3500
+    },
+    {
+        "ID": 248,
+        "scoreAttackRewardGroup": 4,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット3花散る春に英雄譚を",
+        "score": 5000
+    },
+    {
+        "ID": 249,
+        "scoreAttackRewardGroup": 4,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット4花散る春に英雄譚を",
+        "score": 6500
+    },
+    {
+        "ID": 250,
+        "scoreAttackRewardGroup": 4,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット5花散る春に英雄譚を",
+        "score": 8000
+    },
+    {
+        "ID": 251,
+        "scoreAttackRewardGroup": 4,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット6花散る春に英雄譚を",
+        "score": 10000
+    },
+    {
+        "ID": 252,
+        "scoreAttackRewardGroup": 4,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット7花散る春に英雄譚を",
+        "score": 12000
+    },
+    {
+        "ID": 253,
+        "scoreAttackRewardGroup": 4,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット8花散る春に英雄譚を",
+        "score": 14000
+    },
+    {
+        "ID": 254,
+        "scoreAttackRewardGroup": 4,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット9花散る春に英雄譚を",
+        "score": 16000
+    },
+    {
+        "ID": 255,
+        "scoreAttackRewardGroup": 4,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット10花散る春に英雄譚を",
+        "score": 18000
+    },
+    {
+        "ID": 256,
+        "scoreAttackRewardGroup": 4,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット11花散る春に英雄譚を",
+        "score": 20000
+    },
+    {
+        "ID": 257,
+        "scoreAttackRewardGroup": 4,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット12花散る春に英雄譚を",
+        "score": 23000
+    },
+    {
+        "ID": 258,
+        "scoreAttackRewardGroup": 4,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット13花散る春に英雄譚を",
+        "score": 26000
+    },
+    {
+        "ID": 259,
+        "scoreAttackRewardGroup": 4,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット14花散る春に英雄譚を",
+        "score": 30000
+    },
+    {
+        "ID": 260,
+        "scoreAttackRewardGroup": 4,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット15花散る春に英雄譚を",
+        "score": 35000
+    },
+    {
+        "ID": 261,
+        "scoreAttackRewardGroup": 4,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット16花散る春に英雄譚を",
+        "score": 40000
+    },
+    {
+        "ID": 262,
+        "scoreAttackRewardGroup": 4,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット17花散る春に英雄譚を",
+        "score": 45000
+    },
+    {
+        "ID": 263,
+        "scoreAttackRewardGroup": 4,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット18花散る春に英雄譚を",
+        "score": 50000
+    },
+    {
+        "ID": 264,
+        "scoreAttackRewardGroup": 4,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット19花散る春に英雄譚を",
+        "score": 60000
+    },
+    {
+        "ID": 265,
+        "scoreAttackRewardGroup": 4,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット20花散る春に英雄譚を",
+        "score": 70000
+    },
+    {
+        "ID": 266,
+        "scoreAttackRewardGroup": 4,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット21花散る春に英雄譚を",
+        "score": 80000
+    },
+    {
+        "ID": 267,
+        "scoreAttackRewardGroup": 4,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット22花散る春に英雄譚を",
+        "score": 90000
+    },
+    {
+        "ID": 268,
+        "scoreAttackRewardGroup": 4,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット23花散る春に英雄譚を",
+        "score": 100000
+    },
+    {
+        "ID": 269,
+        "scoreAttackRewardGroup": 4,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット24花散る春に英雄譚を",
+        "score": 120000
+    },
+    {
+        "ID": 270,
+        "scoreAttackRewardGroup": 4,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット25花散る春に英雄譚を",
+        "score": 140000
+    },
+    {
+        "ID": 271,
+        "scoreAttackRewardGroup": 4,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット26花散る春に英雄譚を",
+        "score": 160000
+    },
+    {
+        "ID": 272,
+        "scoreAttackRewardGroup": 4,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット27花散る春に英雄譚を",
+        "score": 180000
+    },
+    {
+        "ID": 273,
+        "scoreAttackRewardGroup": 4,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット28花散る春に英雄譚を",
+        "score": 200000
+    },
+    {
+        "ID": 274,
+        "scoreAttackRewardGroup": 4,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット29花散る春に英雄譚を",
+        "score": 220000
+    },
+    {
+        "ID": 275,
+        "scoreAttackRewardGroup": 4,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット30花散る春に英雄譚を",
+        "score": 240000
+    },
+    {
+        "ID": 276,
+        "scoreAttackRewardGroup": 4,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット31花散る春に英雄譚を",
+        "score": 260000
+    },
+    {
+        "ID": 277,
+        "scoreAttackRewardGroup": 4,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット32花散る春に英雄譚を",
+        "score": 280000
+    },
+    {
+        "ID": 278,
+        "scoreAttackRewardGroup": 4,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット33花散る春に英雄譚を",
+        "score": 300000
+    },
+    {
+        "ID": 279,
+        "scoreAttackRewardGroup": 4,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット34花散る春に英雄譚を",
+        "score": 320000
+    },
+    {
+        "ID": 280,
+        "scoreAttackRewardGroup": 4,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット35花散る春に英雄譚を",
+        "score": 340000
+    },
+    {
+        "ID": 281,
+        "scoreAttackRewardGroup": 4,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット36花散る春に英雄譚を",
+        "score": 360000
+    },
+    {
+        "ID": 282,
+        "scoreAttackRewardGroup": 4,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット37花散る春に英雄譚を",
+        "score": 380000
+    },
+    {
+        "ID": 283,
+        "scoreAttackRewardGroup": 4,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット38花散る春に英雄譚を",
+        "score": 400000
+    },
+    {
+        "ID": 284,
+        "scoreAttackRewardGroup": 4,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット39花散る春に英雄譚を",
+        "score": 420000
+    },
+    {
+        "ID": 285,
+        "scoreAttackRewardGroup": 4,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット40花散る春に英雄譚を",
+        "score": 440000
+    },
+    {
+        "ID": 286,
+        "scoreAttackRewardGroup": 4,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット41花散る春に英雄譚を",
+        "score": 460000
+    },
+    {
+        "ID": 287,
+        "scoreAttackRewardGroup": 4,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット42花散る春に英雄譚を",
+        "score": 480000
+    },
+    {
+        "ID": 288,
+        "scoreAttackRewardGroup": 4,
+        "isCumulative": true,
+        "name": "累計スコア報酬セット43花散る春に英雄譚を",
+        "score": 500000
+    }
+]

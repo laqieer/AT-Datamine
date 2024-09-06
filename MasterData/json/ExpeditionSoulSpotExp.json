@@ -1,0 +1,1102 @@
+[
+    {
+        "ID": 1,
+        "level": 1,
+        "from": 0,
+        "to": 5,
+        "soulType": 1,
+        "paymentTypeId": 27,
+        "paymentId": 101050003,
+        "paymentAmount": 200
+    },
+    {
+        "ID": 2,
+        "level": 2,
+        "from": 5,
+        "to": 6,
+        "soulType": 1,
+        "paymentTypeId": 27,
+        "paymentId": 101050003,
+        "paymentAmount": 220
+    },
+    {
+        "ID": 3,
+        "level": 3,
+        "from": 6,
+        "to": 7,
+        "soulType": 1,
+        "paymentTypeId": 27,
+        "paymentId": 101050003,
+        "paymentAmount": 240
+    },
+    {
+        "ID": 4,
+        "level": 4,
+        "from": 7,
+        "to": 8,
+        "soulType": 1,
+        "paymentTypeId": 27,
+        "paymentId": 101050003,
+        "paymentAmount": 260
+    },
+    {
+        "ID": 5,
+        "level": 5,
+        "from": 8,
+        "to": 10,
+        "soulType": 1,
+        "paymentTypeId": 27,
+        "paymentId": 101050003,
+        "paymentAmount": 280
+    },
+    {
+        "ID": 6,
+        "level": 6,
+        "from": 10,
+        "to": 11,
+        "soulType": 1,
+        "paymentTypeId": 27,
+        "paymentId": 101050003,
+        "paymentAmount": 300
+    },
+    {
+        "ID": 7,
+        "level": 7,
+        "from": 11,
+        "to": 12,
+        "soulType": 1,
+        "paymentTypeId": 27,
+        "paymentId": 101050003,
+        "paymentAmount": 320
+    },
+    {
+        "ID": 8,
+        "level": 8,
+        "from": 12,
+        "to": 13,
+        "soulType": 1,
+        "paymentTypeId": 27,
+        "paymentId": 101050003,
+        "paymentAmount": 340
+    },
+    {
+        "ID": 9,
+        "level": 9,
+        "from": 13,
+        "to": 14,
+        "soulType": 1,
+        "paymentTypeId": 27,
+        "paymentId": 101050003,
+        "paymentAmount": 360
+    },
+    {
+        "ID": 10,
+        "level": 10,
+        "from": 14,
+        "to": 17,
+        "soulType": 1,
+        "paymentTypeId": 27,
+        "paymentId": 101050003,
+        "paymentAmount": 380
+    },
+    {
+        "ID": 11,
+        "level": 11,
+        "from": 17,
+        "to": 18,
+        "soulType": 1,
+        "paymentTypeId": 27,
+        "paymentId": 101050003,
+        "paymentAmount": 400
+    },
+    {
+        "ID": 12,
+        "level": 12,
+        "from": 18,
+        "to": 19,
+        "soulType": 1,
+        "paymentTypeId": 27,
+        "paymentId": 101050003,
+        "paymentAmount": 420
+    },
+    {
+        "ID": 13,
+        "level": 13,
+        "from": 19,
+        "to": 20,
+        "soulType": 1,
+        "paymentTypeId": 27,
+        "paymentId": 101050003,
+        "paymentAmount": 440
+    },
+    {
+        "ID": 14,
+        "level": 14,
+        "from": 20,
+        "to": 21,
+        "soulType": 1,
+        "paymentTypeId": 27,
+        "paymentId": 101050003,
+        "paymentAmount": 460
+    },
+    {
+        "ID": 15,
+        "level": 15,
+        "from": 21,
+        "to": 23,
+        "soulType": 1,
+        "paymentTypeId": 27,
+        "paymentId": 101050003,
+        "paymentAmount": 480
+    },
+    {
+        "ID": 16,
+        "level": 16,
+        "from": 23,
+        "to": 24,
+        "soulType": 1,
+        "paymentTypeId": 27,
+        "paymentId": 101050003,
+        "paymentAmount": 500
+    },
+    {
+        "ID": 17,
+        "level": 17,
+        "from": 24,
+        "to": 25,
+        "soulType": 1,
+        "paymentTypeId": 27,
+        "paymentId": 101050003,
+        "paymentAmount": 520
+    },
+    {
+        "ID": 18,
+        "level": 18,
+        "from": 25,
+        "to": 26,
+        "soulType": 1,
+        "paymentTypeId": 27,
+        "paymentId": 101050003,
+        "paymentAmount": 540
+    },
+    {
+        "ID": 19,
+        "level": 19,
+        "from": 26,
+        "to": 27,
+        "soulType": 1,
+        "paymentTypeId": 27,
+        "paymentId": 101050003,
+        "paymentAmount": 560
+    },
+    {
+        "ID": 20,
+        "level": 20,
+        "from": 27,
+        "to": 30,
+        "soulType": 1,
+        "paymentTypeId": 27,
+        "paymentId": 101050003,
+        "paymentAmount": 580
+    },
+    {
+        "ID": 21,
+        "level": 21,
+        "from": 30,
+        "to": 31,
+        "soulType": 1,
+        "paymentTypeId": 27,
+        "paymentId": 101050003,
+        "paymentAmount": 600
+    },
+    {
+        "ID": 22,
+        "level": 22,
+        "from": 31,
+        "to": 32,
+        "soulType": 1,
+        "paymentTypeId": 27,
+        "paymentId": 101050003,
+        "paymentAmount": 620
+    },
+    {
+        "ID": 23,
+        "level": 23,
+        "from": 32,
+        "to": 33,
+        "soulType": 1,
+        "paymentTypeId": 27,
+        "paymentId": 101050003,
+        "paymentAmount": 640
+    },
+    {
+        "ID": 24,
+        "level": 24,
+        "from": 33,
+        "to": 34,
+        "soulType": 1,
+        "paymentTypeId": 27,
+        "paymentId": 101050003,
+        "paymentAmount": 660
+    },
+    {
+        "ID": 25,
+        "level": 25,
+        "from": 34,
+        "to": 36,
+        "soulType": 1,
+        "paymentTypeId": 27,
+        "paymentId": 101050003,
+        "paymentAmount": 680
+    },
+    {
+        "ID": 26,
+        "level": 26,
+        "from": 36,
+        "to": 37,
+        "soulType": 1,
+        "paymentTypeId": 27,
+        "paymentId": 101050003,
+        "paymentAmount": 700
+    },
+    {
+        "ID": 27,
+        "level": 27,
+        "from": 37,
+        "to": 38,
+        "soulType": 1,
+        "paymentTypeId": 27,
+        "paymentId": 101050003,
+        "paymentAmount": 720
+    },
+    {
+        "ID": 28,
+        "level": 28,
+        "from": 38,
+        "to": 39,
+        "soulType": 1,
+        "paymentTypeId": 27,
+        "paymentId": 101050003,
+        "paymentAmount": 740
+    },
+    {
+        "ID": 29,
+        "level": 29,
+        "from": 39,
+        "to": 40,
+        "soulType": 1,
+        "paymentTypeId": 27,
+        "paymentId": 101050003,
+        "paymentAmount": 760
+    },
+    {
+        "ID": 30,
+        "level": 30,
+        "from": 40,
+        "to": 44,
+        "soulType": 1,
+        "paymentTypeId": 27,
+        "paymentId": 101050003,
+        "paymentAmount": 780
+    },
+    {
+        "ID": 31,
+        "level": 31,
+        "from": 44,
+        "to": 46,
+        "soulType": 1,
+        "paymentTypeId": 27,
+        "paymentId": 101050003,
+        "paymentAmount": 800
+    },
+    {
+        "ID": 32,
+        "level": 32,
+        "from": 46,
+        "to": 48,
+        "soulType": 1,
+        "paymentTypeId": 27,
+        "paymentId": 101050003,
+        "paymentAmount": 820
+    },
+    {
+        "ID": 33,
+        "level": 33,
+        "from": 48,
+        "to": 50,
+        "soulType": 1,
+        "paymentTypeId": 27,
+        "paymentId": 101050003,
+        "paymentAmount": 840
+    },
+    {
+        "ID": 34,
+        "level": 34,
+        "from": 50,
+        "to": 52,
+        "soulType": 1,
+        "paymentTypeId": 27,
+        "paymentId": 101050003,
+        "paymentAmount": 860
+    },
+    {
+        "ID": 35,
+        "level": 35,
+        "from": 52,
+        "to": 55,
+        "soulType": 1,
+        "paymentTypeId": 27,
+        "paymentId": 101050003,
+        "paymentAmount": 880
+    },
+    {
+        "ID": 36,
+        "level": 36,
+        "from": 55,
+        "to": 57,
+        "soulType": 1,
+        "paymentTypeId": 27,
+        "paymentId": 101050003,
+        "paymentAmount": 900
+    },
+    {
+        "ID": 37,
+        "level": 37,
+        "from": 57,
+        "to": 59,
+        "soulType": 1,
+        "paymentTypeId": 27,
+        "paymentId": 101050003,
+        "paymentAmount": 920
+    },
+    {
+        "ID": 38,
+        "level": 38,
+        "from": 59,
+        "to": 61,
+        "soulType": 1,
+        "paymentTypeId": 27,
+        "paymentId": 101050003,
+        "paymentAmount": 940
+    },
+    {
+        "ID": 39,
+        "level": 39,
+        "from": 61,
+        "to": 63,
+        "soulType": 1,
+        "paymentTypeId": 27,
+        "paymentId": 101050003,
+        "paymentAmount": 960
+    },
+    {
+        "ID": 40,
+        "level": 40,
+        "from": 63,
+        "to": 68,
+        "soulType": 1,
+        "paymentTypeId": 27,
+        "paymentId": 101050003,
+        "paymentAmount": 980
+    },
+    {
+        "ID": 41,
+        "level": 41,
+        "from": 68,
+        "to": 71,
+        "soulType": 1,
+        "paymentTypeId": 27,
+        "paymentId": 101050003,
+        "paymentAmount": 1000
+    },
+    {
+        "ID": 42,
+        "level": 42,
+        "from": 71,
+        "to": 74,
+        "soulType": 1,
+        "paymentTypeId": 27,
+        "paymentId": 101050003,
+        "paymentAmount": 1020
+    },
+    {
+        "ID": 43,
+        "level": 43,
+        "from": 74,
+        "to": 77,
+        "soulType": 1,
+        "paymentTypeId": 27,
+        "paymentId": 101050003,
+        "paymentAmount": 1040
+    },
+    {
+        "ID": 44,
+        "level": 44,
+        "from": 77,
+        "to": 80,
+        "soulType": 1,
+        "paymentTypeId": 27,
+        "paymentId": 101050003,
+        "paymentAmount": 1060
+    },
+    {
+        "ID": 45,
+        "level": 45,
+        "from": 80,
+        "to": 84,
+        "soulType": 1,
+        "paymentTypeId": 27,
+        "paymentId": 101050003,
+        "paymentAmount": 1080
+    },
+    {
+        "ID": 46,
+        "level": 46,
+        "from": 84,
+        "to": 87,
+        "soulType": 1,
+        "paymentTypeId": 27,
+        "paymentId": 101050003,
+        "paymentAmount": 1100
+    },
+    {
+        "ID": 47,
+        "level": 47,
+        "from": 87,
+        "to": 90,
+        "soulType": 1,
+        "paymentTypeId": 27,
+        "paymentId": 101050003,
+        "paymentAmount": 1120
+    },
+    {
+        "ID": 48,
+        "level": 48,
+        "from": 90,
+        "to": 93,
+        "soulType": 1,
+        "paymentTypeId": 27,
+        "paymentId": 101050003,
+        "paymentAmount": 1140
+    },
+    {
+        "ID": 49,
+        "level": 49,
+        "from": 93,
+        "to": 96,
+        "soulType": 1,
+        "paymentTypeId": 27,
+        "paymentId": 101050003,
+        "paymentAmount": 1160
+    },
+    {
+        "ID": 50,
+        "level": 50,
+        "from": 96,
+        "to": 102,
+        "soulType": 1,
+        "paymentTypeId": 27,
+        "paymentId": 101050003,
+        "paymentAmount": 1180
+    },
+    {
+        "ID": 101,
+        "level": 51,
+        "from": 102,
+        "to": 107,
+        "soulType": 1,
+        "paymentTypeId": 27,
+        "paymentId": 101050003,
+        "paymentAmount": 1220
+    },
+    {
+        "ID": 102,
+        "level": 52,
+        "from": 107,
+        "to": 112,
+        "soulType": 1,
+        "paymentTypeId": 27,
+        "paymentId": 101050003,
+        "paymentAmount": 1260
+    },
+    {
+        "ID": 103,
+        "level": 53,
+        "from": 112,
+        "to": 117,
+        "soulType": 1,
+        "paymentTypeId": 27,
+        "paymentId": 101050003,
+        "paymentAmount": 1300
+    },
+    {
+        "ID": 104,
+        "level": 54,
+        "from": 117,
+        "to": 122,
+        "soulType": 1,
+        "paymentTypeId": 27,
+        "paymentId": 101050003,
+        "paymentAmount": 1340
+    },
+    {
+        "ID": 105,
+        "level": 55,
+        "from": 122,
+        "to": 128,
+        "soulType": 1,
+        "paymentTypeId": 27,
+        "paymentId": 101050003,
+        "paymentAmount": 1380
+    },
+    {
+        "ID": 106,
+        "level": 56,
+        "from": 128,
+        "to": 134,
+        "soulType": 1,
+        "paymentTypeId": 27,
+        "paymentId": 101050003,
+        "paymentAmount": 1440
+    },
+    {
+        "ID": 107,
+        "level": 57,
+        "from": 134,
+        "to": 140,
+        "soulType": 1,
+        "paymentTypeId": 27,
+        "paymentId": 101050003,
+        "paymentAmount": 1500
+    },
+    {
+        "ID": 108,
+        "level": 58,
+        "from": 140,
+        "to": 146,
+        "soulType": 1,
+        "paymentTypeId": 27,
+        "paymentId": 101050003,
+        "paymentAmount": 1560
+    },
+    {
+        "ID": 109,
+        "level": 59,
+        "from": 146,
+        "to": 152,
+        "soulType": 1,
+        "paymentTypeId": 27,
+        "paymentId": 101050003,
+        "paymentAmount": 1620
+    },
+    {
+        "ID": 110,
+        "level": 60,
+        "from": 152,
+        "to": 161,
+        "soulType": 1,
+        "paymentTypeId": 27,
+        "paymentId": 101050003,
+        "paymentAmount": 1680
+    },
+    {
+        "ID": 51,
+        "level": 1,
+        "from": 0,
+        "to": 3,
+        "soulType": 2,
+        "paymentTypeId": 27,
+        "paymentId": 101050004,
+        "paymentAmount": 500
+    },
+    {
+        "ID": 52,
+        "level": 2,
+        "from": 3,
+        "to": 4,
+        "soulType": 2,
+        "paymentTypeId": 27,
+        "paymentId": 101050004,
+        "paymentAmount": 820
+    },
+    {
+        "ID": 53,
+        "level": 3,
+        "from": 4,
+        "to": 5,
+        "soulType": 2,
+        "paymentTypeId": 27,
+        "paymentId": 101050004,
+        "paymentAmount": 1160
+    },
+    {
+        "ID": 54,
+        "level": 4,
+        "from": 5,
+        "to": 6,
+        "soulType": 2,
+        "paymentTypeId": 27,
+        "paymentId": 101050004,
+        "paymentAmount": 1520
+    },
+    {
+        "ID": 55,
+        "level": 5,
+        "from": 6,
+        "to": 7,
+        "soulType": 2,
+        "paymentTypeId": 27,
+        "paymentId": 101050004,
+        "paymentAmount": 1900
+    },
+    {
+        "ID": 56,
+        "level": 6,
+        "from": 7,
+        "to": 8,
+        "soulType": 2,
+        "paymentTypeId": 27,
+        "paymentId": 101050004,
+        "paymentAmount": 2300
+    },
+    {
+        "ID": 57,
+        "level": 7,
+        "from": 8,
+        "to": 9,
+        "soulType": 2,
+        "paymentTypeId": 27,
+        "paymentId": 101050004,
+        "paymentAmount": 2720
+    },
+    {
+        "ID": 58,
+        "level": 8,
+        "from": 9,
+        "to": 10,
+        "soulType": 2,
+        "paymentTypeId": 27,
+        "paymentId": 101050004,
+        "paymentAmount": 3160
+    },
+    {
+        "ID": 59,
+        "level": 9,
+        "from": 10,
+        "to": 11,
+        "soulType": 2,
+        "paymentTypeId": 27,
+        "paymentId": 101050004,
+        "paymentAmount": 3620
+    },
+    {
+        "ID": 60,
+        "level": 10,
+        "from": 11,
+        "to": 13,
+        "soulType": 2,
+        "paymentTypeId": 27,
+        "paymentId": 101050004,
+        "paymentAmount": 4100
+    },
+    {
+        "ID": 61,
+        "level": 11,
+        "from": 13,
+        "to": 14,
+        "soulType": 2,
+        "paymentTypeId": 27,
+        "paymentId": 101050004,
+        "paymentAmount": 4600
+    },
+    {
+        "ID": 62,
+        "level": 12,
+        "from": 14,
+        "to": 15,
+        "soulType": 2,
+        "paymentTypeId": 27,
+        "paymentId": 101050004,
+        "paymentAmount": 5120
+    },
+    {
+        "ID": 63,
+        "level": 13,
+        "from": 15,
+        "to": 16,
+        "soulType": 2,
+        "paymentTypeId": 27,
+        "paymentId": 101050004,
+        "paymentAmount": 5660
+    },
+    {
+        "ID": 64,
+        "level": 14,
+        "from": 16,
+        "to": 17,
+        "soulType": 2,
+        "paymentTypeId": 27,
+        "paymentId": 101050004,
+        "paymentAmount": 6220
+    },
+    {
+        "ID": 65,
+        "level": 15,
+        "from": 17,
+        "to": 18,
+        "soulType": 2,
+        "paymentTypeId": 27,
+        "paymentId": 101050004,
+        "paymentAmount": 6800
+    },
+    {
+        "ID": 66,
+        "level": 16,
+        "from": 18,
+        "to": 19,
+        "soulType": 2,
+        "paymentTypeId": 27,
+        "paymentId": 101050004,
+        "paymentAmount": 7400
+    },
+    {
+        "ID": 67,
+        "level": 17,
+        "from": 19,
+        "to": 20,
+        "soulType": 2,
+        "paymentTypeId": 27,
+        "paymentId": 101050004,
+        "paymentAmount": 8020
+    },
+    {
+        "ID": 68,
+        "level": 18,
+        "from": 20,
+        "to": 21,
+        "soulType": 2,
+        "paymentTypeId": 27,
+        "paymentId": 101050004,
+        "paymentAmount": 8660
+    },
+    {
+        "ID": 69,
+        "level": 19,
+        "from": 21,
+        "to": 22,
+        "soulType": 2,
+        "paymentTypeId": 27,
+        "paymentId": 101050004,
+        "paymentAmount": 9320
+    },
+    {
+        "ID": 70,
+        "level": 20,
+        "from": 22,
+        "to": 24,
+        "soulType": 2,
+        "paymentTypeId": 27,
+        "paymentId": 101050004,
+        "paymentAmount": 10000
+    },
+    {
+        "ID": 71,
+        "level": 21,
+        "from": 24,
+        "to": 25,
+        "soulType": 2,
+        "paymentTypeId": 27,
+        "paymentId": 101050004,
+        "paymentAmount": 10700
+    },
+    {
+        "ID": 72,
+        "level": 22,
+        "from": 25,
+        "to": 26,
+        "soulType": 2,
+        "paymentTypeId": 27,
+        "paymentId": 101050004,
+        "paymentAmount": 11420
+    },
+    {
+        "ID": 73,
+        "level": 23,
+        "from": 26,
+        "to": 27,
+        "soulType": 2,
+        "paymentTypeId": 27,
+        "paymentId": 101050004,
+        "paymentAmount": 12160
+    },
+    {
+        "ID": 74,
+        "level": 24,
+        "from": 27,
+        "to": 28,
+        "soulType": 2,
+        "paymentTypeId": 27,
+        "paymentId": 101050004,
+        "paymentAmount": 12920
+    },
+    {
+        "ID": 75,
+        "level": 25,
+        "from": 28,
+        "to": 29,
+        "soulType": 2,
+        "paymentTypeId": 27,
+        "paymentId": 101050004,
+        "paymentAmount": 13700
+    },
+    {
+        "ID": 76,
+        "level": 26,
+        "from": 29,
+        "to": 30,
+        "soulType": 2,
+        "paymentTypeId": 27,
+        "paymentId": 101050004,
+        "paymentAmount": 14500
+    },
+    {
+        "ID": 77,
+        "level": 27,
+        "from": 30,
+        "to": 31,
+        "soulType": 2,
+        "paymentTypeId": 27,
+        "paymentId": 101050004,
+        "paymentAmount": 15320
+    },
+    {
+        "ID": 78,
+        "level": 28,
+        "from": 31,
+        "to": 32,
+        "soulType": 2,
+        "paymentTypeId": 27,
+        "paymentId": 101050004,
+        "paymentAmount": 16160
+    },
+    {
+        "ID": 79,
+        "level": 29,
+        "from": 32,
+        "to": 33,
+        "soulType": 2,
+        "paymentTypeId": 27,
+        "paymentId": 101050004,
+        "paymentAmount": 17020
+    },
+    {
+        "ID": 80,
+        "level": 30,
+        "from": 33,
+        "to": 35,
+        "soulType": 2,
+        "paymentTypeId": 27,
+        "paymentId": 101050004,
+        "paymentAmount": 17900
+    },
+    {
+        "ID": 81,
+        "level": 31,
+        "from": 35,
+        "to": 36,
+        "soulType": 2,
+        "paymentTypeId": 27,
+        "paymentId": 101050004,
+        "paymentAmount": 18800
+    },
+    {
+        "ID": 82,
+        "level": 32,
+        "from": 36,
+        "to": 37,
+        "soulType": 2,
+        "paymentTypeId": 27,
+        "paymentId": 101050004,
+        "paymentAmount": 19720
+    },
+    {
+        "ID": 83,
+        "level": 33,
+        "from": 37,
+        "to": 38,
+        "soulType": 2,
+        "paymentTypeId": 27,
+        "paymentId": 101050004,
+        "paymentAmount": 20660
+    },
+    {
+        "ID": 84,
+        "level": 34,
+        "from": 38,
+        "to": 39,
+        "soulType": 2,
+        "paymentTypeId": 27,
+        "paymentId": 101050004,
+        "paymentAmount": 21620
+    },
+    {
+        "ID": 85,
+        "level": 35,
+        "from": 39,
+        "to": 40,
+        "soulType": 2,
+        "paymentTypeId": 27,
+        "paymentId": 101050004,
+        "paymentAmount": 22600
+    },
+    {
+        "ID": 86,
+        "level": 36,
+        "from": 40,
+        "to": 41,
+        "soulType": 2,
+        "paymentTypeId": 27,
+        "paymentId": 101050004,
+        "paymentAmount": 23600
+    },
+    {
+        "ID": 87,
+        "level": 37,
+        "from": 41,
+        "to": 42,
+        "soulType": 2,
+        "paymentTypeId": 27,
+        "paymentId": 101050004,
+        "paymentAmount": 24620
+    },
+    {
+        "ID": 88,
+        "level": 38,
+        "from": 42,
+        "to": 43,
+        "soulType": 2,
+        "paymentTypeId": 27,
+        "paymentId": 101050004,
+        "paymentAmount": 25660
+    },
+    {
+        "ID": 89,
+        "level": 39,
+        "from": 43,
+        "to": 44,
+        "soulType": 2,
+        "paymentTypeId": 27,
+        "paymentId": 101050004,
+        "paymentAmount": 26720
+    },
+    {
+        "ID": 90,
+        "level": 40,
+        "from": 44,
+        "to": 46,
+        "soulType": 2,
+        "paymentTypeId": 27,
+        "paymentId": 101050004,
+        "paymentAmount": 27800
+    },
+    {
+        "ID": 91,
+        "level": 41,
+        "from": 46,
+        "to": 47,
+        "soulType": 2,
+        "paymentTypeId": 27,
+        "paymentId": 101050004,
+        "paymentAmount": 28900
+    },
+    {
+        "ID": 92,
+        "level": 42,
+        "from": 47,
+        "to": 48,
+        "soulType": 2,
+        "paymentTypeId": 27,
+        "paymentId": 101050004,
+        "paymentAmount": 30020
+    },
+    {
+        "ID": 93,
+        "level": 43,
+        "from": 48,
+        "to": 49,
+        "soulType": 2,
+        "paymentTypeId": 27,
+        "paymentId": 101050004,
+        "paymentAmount": 31160
+    },
+    {
+        "ID": 94,
+        "level": 44,
+        "from": 49,
+        "to": 50,
+        "soulType": 2,
+        "paymentTypeId": 27,
+        "paymentId": 101050004,
+        "paymentAmount": 32320
+    },
+    {
+        "ID": 95,
+        "level": 45,
+        "from": 50,
+        "to": 51,
+        "soulType": 2,
+        "paymentTypeId": 27,
+        "paymentId": 101050004,
+        "paymentAmount": 33500
+    },
+    {
+        "ID": 96,
+        "level": 46,
+        "from": 51,
+        "to": 52,
+        "soulType": 2,
+        "paymentTypeId": 27,
+        "paymentId": 101050004,
+        "paymentAmount": 34700
+    },
+    {
+        "ID": 97,
+        "level": 47,
+        "from": 52,
+        "to": 53,
+        "soulType": 2,
+        "paymentTypeId": 27,
+        "paymentId": 101050004,
+        "paymentAmount": 35920
+    },
+    {
+        "ID": 98,
+        "level": 48,
+        "from": 53,
+        "to": 54,
+        "soulType": 2,
+        "paymentTypeId": 27,
+        "paymentId": 101050004,
+        "paymentAmount": 37160
+    },
+    {
+        "ID": 99,
+        "level": 49,
+        "from": 54,
+        "to": 55,
+        "soulType": 2,
+        "paymentTypeId": 27,
+        "paymentId": 101050004,
+        "paymentAmount": 38420
+    },
+    {
+        "ID": 100,
+        "level": 50,
+        "from": 55,
+        "to": 57,
+        "soulType": 2,
+        "paymentTypeId": 27,
+        "paymentId": 101050004,
+        "paymentAmount": 39700
+    }
+]

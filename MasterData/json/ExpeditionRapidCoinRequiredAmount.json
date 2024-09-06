@@ -1,0 +1,102 @@
+[
+    {
+        "ID": 1,
+        "count": 1,
+        "coinRequiredAmount": 15
+    },
+    {
+        "ID": 2,
+        "count": 2,
+        "coinRequiredAmount": 30
+    },
+    {
+        "ID": 3,
+        "count": 3,
+        "coinRequiredAmount": 60
+    },
+    {
+        "ID": 4,
+        "count": 4,
+        "coinRequiredAmount": 60
+    },
+    {
+        "ID": 5,
+        "count": 5,
+        "coinRequiredAmount": 90
+    },
+    {
+        "ID": 6,
+        "count": 6,
+        "coinRequiredAmount": 90
+    },
+    {
+        "ID": 7,
+        "count": 7,
+        "coinRequiredAmount": 90
+    },
+    {
+        "ID": 8,
+        "count": 8,
+        "coinRequiredAmount": 90
+    },
+    {
+        "ID": 9,
+        "count": 9,
+        "coinRequiredAmount": 120
+    },
+    {
+        "ID": 10,
+        "count": 10,
+        "coinRequiredAmount": 120
+    },
+    {
+        "ID": 11,
+        "count": 11,
+        "coinRequiredAmount": 120
+    },
+    {
+        "ID": 12,
+        "count": 12,
+        "coinRequiredAmount": 150
+    },
+    {
+        "ID": 13,
+        "count": 13,
+        "coinRequiredAmount": 150
+    },
+    {
+        "ID": 14,
+        "count": 14,
+        "coinRequiredAmount": 150
+    },
+    {
+        "ID": 15,
+        "count": 15,
+        "coinRequiredAmount": 150
+    },
+    {
+        "ID": 16,
+        "count": 16,
+        "coinRequiredAmount": 150
+    },
+    {
+        "ID": 17,
+        "count": 17,
+        "coinRequiredAmount": 150
+    },
+    {
+        "ID": 18,
+        "count": 18,
+        "coinRequiredAmount": 150
+    },
+    {
+        "ID": 19,
+        "count": 19,
+        "coinRequiredAmount": 150
+    },
+    {
+        "ID": 20,
+        "count": 20,
+        "coinRequiredAmount": 150
+    }
+]

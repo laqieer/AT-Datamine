@@ -1,0 +1,156 @@
+[
+    {
+        "ID": 1,
+        "titleType": 101,
+        "size": 0,
+        "colorCode": "",
+        "spriteId": 0
+    },
+    {
+        "ID": 2,
+        "titleType": 102,
+        "size": 0,
+        "colorCode": "",
+        "spriteId": 0
+    },
+    {
+        "ID": 3,
+        "titleType": 103,
+        "size": 0,
+        "colorCode": "",
+        "spriteId": 1
+    },
+    {
+        "ID": 4,
+        "titleType": 1,
+        "size": 0,
+        "colorCode": "",
+        "spriteId": 0
+    },
+    {
+        "ID": 5,
+        "titleType": 2,
+        "size": 0,
+        "colorCode": "",
+        "spriteId": 0
+    },
+    {
+        "ID": 6,
+        "titleType": 3,
+        "size": 0,
+        "colorCode": "",
+        "spriteId": 2
+    },
+    {
+        "ID": 7,
+        "titleType": 1,
+        "size": 16,
+        "colorCode": "",
+        "spriteId": 0
+    },
+    {
+        "ID": 8,
+        "titleType": 2,
+        "size": 16,
+        "colorCode": "",
+        "spriteId": 0
+    },
+    {
+        "ID": 9,
+        "titleType": 1,
+        "size": 0,
+        "colorCode": "0000FF",
+        "spriteId": 0
+    },
+    {
+        "ID": 10,
+        "titleType": 2,
+        "size": 0,
+        "colorCode": "0000FF",
+        "spriteId": 0
+    },
+    {
+        "ID": 11,
+        "titleType": 3,
+        "size": 0,
+        "colorCode": "",
+        "spriteId": 3
+    },
+    {
+        "ID": 12,
+        "titleType": 3,
+        "size": 0,
+        "colorCode": "",
+        "spriteId": 4
+    },
+    {
+        "ID": 13,
+        "titleType": 3,
+        "size": 0,
+        "colorCode": "",
+        "spriteId": 5
+    },
+    {
+        "ID": 14,
+        "titleType": 4,
+        "size": 0,
+        "colorCode": "",
+        "spriteId": 0
+    },
+    {
+        "ID": 15,
+        "titleType": 5,
+        "size": 0,
+        "colorCode": "",
+        "spriteId": 1
+    },
+    {
+        "ID": 16,
+        "titleType": 5,
+        "size": 0,
+        "colorCode": "",
+        "spriteId": 2
+    },
+    {
+        "ID": 17,
+        "titleType": 6,
+        "size": 0,
+        "colorCode": "",
+        "spriteId": 1
+    },
+    {
+        "ID": 18,
+        "titleType": 6,
+        "size": 0,
+        "colorCode": "",
+        "spriteId": 2
+    },
+    {
+        "ID": 19,
+        "titleType": 6,
+        "size": 0,
+        "colorCode": "",
+        "spriteId": 3
+    },
+    {
+        "ID": 20,
+        "titleType": 4,
+        "size": 0,
+        "colorCode": "",
+        "spriteId": 0
+    },
+    {
+        "ID": 21,
+        "titleType": 5,
+        "size": 0,
+        "colorCode": "",
+        "spriteId": 3
+    },
+    {
+        "ID": 22,
+        "titleType": 6,
+        "size": 0,
+        "colorCode": "",
+        "spriteId": 4
+    }
+]

@@ -1,0 +1,146 @@
+[
+    {
+        "ID": 1,
+        "specialLapRewardID": 1,
+        "lap": 5,
+        "rewardType": 17,
+        "rewardID": 104080002,
+        "amount": 10
+    },
+    {
+        "ID": 2,
+        "specialLapRewardID": 1,
+        "lap": 10,
+        "rewardType": 42,
+        "rewardID": 40,
+        "amount": 1
+    },
+    {
+        "ID": 3,
+        "specialLapRewardID": 1,
+        "lap": 15,
+        "rewardType": 17,
+        "rewardID": 104080002,
+        "amount": 20
+    },
+    {
+        "ID": 4,
+        "specialLapRewardID": 1,
+        "lap": 15,
+        "rewardType": 34,
+        "rewardID": 0,
+        "amount": 500
+    },
+    {
+        "ID": 5,
+        "specialLapRewardID": 1,
+        "lap": 20,
+        "rewardType": 17,
+        "rewardID": 104080003,
+        "amount": 30
+    },
+    {
+        "ID": 6,
+        "specialLapRewardID": 1,
+        "lap": 20,
+        "rewardType": 34,
+        "rewardID": 0,
+        "amount": 1000
+    },
+    {
+        "ID": 7,
+        "specialLapRewardID": 2,
+        "lap": 5,
+        "rewardType": 17,
+        "rewardID": 104080002,
+        "amount": 10
+    },
+    {
+        "ID": 8,
+        "specialLapRewardID": 2,
+        "lap": 10,
+        "rewardType": 42,
+        "rewardID": 46,
+        "amount": 1
+    },
+    {
+        "ID": 9,
+        "specialLapRewardID": 2,
+        "lap": 15,
+        "rewardType": 17,
+        "rewardID": 104080002,
+        "amount": 20
+    },
+    {
+        "ID": 10,
+        "specialLapRewardID": 2,
+        "lap": 15,
+        "rewardType": 34,
+        "rewardID": 0,
+        "amount": 500
+    },
+    {
+        "ID": 11,
+        "specialLapRewardID": 2,
+        "lap": 20,
+        "rewardType": 17,
+        "rewardID": 104080003,
+        "amount": 30
+    },
+    {
+        "ID": 12,
+        "specialLapRewardID": 2,
+        "lap": 20,
+        "rewardType": 34,
+        "rewardID": 0,
+        "amount": 1000
+    },
+    {
+        "ID": 13,
+        "specialLapRewardID": 3,
+        "lap": 5,
+        "rewardType": 17,
+        "rewardID": 104080002,
+        "amount": 10
+    },
+    {
+        "ID": 14,
+        "specialLapRewardID": 3,
+        "lap": 10,
+        "rewardType": 42,
+        "rewardID": 50,
+        "amount": 1
+    },
+    {
+        "ID": 15,
+        "specialLapRewardID": 3,
+        "lap": 15,
+        "rewardType": 17,
+        "rewardID": 104080002,
+        "amount": 20
+    },
+    {
+        "ID": 16,
+        "specialLapRewardID": 3,
+        "lap": 15,
+        "rewardType": 34,
+        "rewardID": 0,
+        "amount": 500
+    },
+    {
+        "ID": 17,
+        "specialLapRewardID": 3,
+        "lap": 20,
+        "rewardType": 17,
+        "rewardID": 104080003,
+        "amount": 30
+    },
+    {
+        "ID": 18,
+        "specialLapRewardID": 3,
+        "lap": 20,
+        "rewardType": 34,
+        "rewardID": 0,
+        "amount": 1000
+    }
+]

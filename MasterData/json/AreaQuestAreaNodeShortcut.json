@@ -1,0 +1,140 @@
+[
+    {
+        "ID": 1,
+        "refName": "S_1章:4月4日_BTL演習1_エリアノード",
+        "areaNodeShortcutGroupId": 2,
+        "jumpAreaNodeId": 1102011
+    },
+    {
+        "ID": 2,
+        "refName": "S_1章:5月2日_BTL週次バトル_エリアノード",
+        "areaNodeShortcutGroupId": 2,
+        "jumpAreaNodeId": 1106441
+    },
+    {
+        "ID": 3,
+        "refName": "S_1章:6月6日_BTL週次バトル_エリアノード",
+        "areaNodeShortcutGroupId": 2,
+        "jumpAreaNodeId": 1106811
+    },
+    {
+        "ID": 4,
+        "refName": "S_1章:7月2日_BTL週次バトル_エリアノード",
+        "areaNodeShortcutGroupId": 2,
+        "jumpAreaNodeId": 1106111
+    },
+    {
+        "ID": 5,
+        "refName": "S_1章:8月5日_BTL週次バトル_エリアノード",
+        "areaNodeShortcutGroupId": 2,
+        "jumpAreaNodeId": 1106381
+    },
+    {
+        "ID": 6,
+        "refName": "S_1章:8月30日_BTLジョワイユ_エリアノード",
+        "areaNodeShortcutGroupId": 2,
+        "jumpAreaNodeId": 1102281
+    },
+    {
+        "ID": 7,
+        "refName": "S_1章:G9月3日_BTL週次バトル_エリアノード",
+        "areaNodeShortcutGroupId": 3,
+        "jumpAreaNodeId": 1106581
+    },
+    {
+        "ID": 8,
+        "refName": "S_1章:G10月1日_BTL週次バトル_エリアノード",
+        "areaNodeShortcutGroupId": 3,
+        "jumpAreaNodeId": 1106931
+    },
+    {
+        "ID": 9,
+        "refName": "S_1章:G11月09日_BTL週次バトル_エリアノード",
+        "areaNodeShortcutGroupId": 3,
+        "jumpAreaNodeId": 1106881
+    },
+    {
+        "ID": 10,
+        "refName": "S_1章:G12月09日_BTLキャメリアード電撃戦_エリアノード",
+        "areaNodeShortcutGroupId": 3,
+        "jumpAreaNodeId": 1103111
+    },
+    {
+        "ID": 11,
+        "refName": "S_1章:G1月04日_BTL週次バトル_エリアノード",
+        "areaNodeShortcutGroupId": 3,
+        "jumpAreaNodeId": 1106591
+    },
+    {
+        "ID": 12,
+        "refName": "S_1章:L09月6日_BTL週次バトル_エリアノード",
+        "areaNodeShortcutGroupId": 4,
+        "jumpAreaNodeId": 1106951
+    },
+    {
+        "ID": 13,
+        "refName": "S_1章:L10月2日_BTL週次バトル_エリアノード",
+        "areaNodeShortcutGroupId": 4,
+        "jumpAreaNodeId": 1106131
+    },
+    {
+        "ID": 14,
+        "refName": "S_1章:L11月2日_BTL母の墓への帰郷_エリアノード",
+        "areaNodeShortcutGroupId": 4,
+        "jumpAreaNodeId": 1104101
+    },
+    {
+        "ID": 15,
+        "refName": "S_1章:L12月10日_BTL王の復帰_エリアノード",
+        "areaNodeShortcutGroupId": 4,
+        "jumpAreaNodeId": 1104141
+    },
+    {
+        "ID": 16,
+        "refName": "S_1章:L1月9日_BTL週次バトル_エリアノード",
+        "areaNodeShortcutGroupId": 4,
+        "jumpAreaNodeId": 1106541
+    },
+    {
+        "ID": 17,
+        "refName": "S_1章:D09月05日_BTLモルドレッドとクラリス_エリアノード",
+        "areaNodeShortcutGroupId": 5,
+        "jumpAreaNodeId": 1105011
+    },
+    {
+        "ID": 18,
+        "refName": "S_1章:D10月21日_BTLモルドレッドの帰還_エリアノード",
+        "areaNodeShortcutGroupId": 5,
+        "jumpAreaNodeId": 1105071
+    },
+    {
+        "ID": 19,
+        "refName": "S_1章:D11月03日_BTLハロウィン準備_エリアノード",
+        "areaNodeShortcutGroupId": 5,
+        "jumpAreaNodeId": 1105101
+    },
+    {
+        "ID": 20,
+        "refName": "S_1章:D12月06日_BTLログレス市街戦_エリアノード",
+        "areaNodeShortcutGroupId": 5,
+        "jumpAreaNodeId": 1105161
+    },
+    {
+        "ID": 21,
+        "refName": "S_1章:D01月15日_BTLキャメリアード城_エリアノード",
+        "areaNodeShortcutGroupId": 5,
+        "jumpAreaNodeId": 1105231
+    },
+    {
+        "ID": 22,
+        "refName": "S_現代編ノード1",
+        "areaNodeShortcutGroupId": 1,
+        "jumpAreaNodeId": 20101
+    },
+    {
+        "ID": 23,
+        "refName": "S_現代編ノード2",
+        "areaNodeShortcutGroupId": 6,
+        "jumpAreaNodeId": 20701
+    }
+]

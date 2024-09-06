@@ -1,0 +1,32 @@
+[
+    {
+        "ID": 901,
+        "name": "0章1年目",
+        "year": 499,
+        "useTexture": 0
+    },
+    {
+        "ID": 1001,
+        "name": "1章1年目",
+        "year": 500,
+        "useTexture": 0
+    },
+    {
+        "ID": 1002,
+        "name": "1章2年目",
+        "year": 501,
+        "useTexture": 1
+    },
+    {
+        "ID": 1,
+        "name": "とある年",
+        "year": 1,
+        "useTexture": 0
+    },
+    {
+        "ID": 1102,
+        "name": "ある年",
+        "year": 1,
+        "useTexture": 0
+    }
+]

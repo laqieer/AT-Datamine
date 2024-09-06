@@ -1,0 +1,884 @@
+[
+    {
+        "ID": 1,
+        "scoreAttackRankingRewardSet": 1,
+        "rewardType": 34,
+        "rewardID": 0,
+        "amount": 1500
+    },
+    {
+        "ID": 2,
+        "scoreAttackRankingRewardSet": 2,
+        "rewardType": 34,
+        "rewardID": 0,
+        "amount": 1400
+    },
+    {
+        "ID": 3,
+        "scoreAttackRankingRewardSet": 3,
+        "rewardType": 34,
+        "rewardID": 0,
+        "amount": 1300
+    },
+    {
+        "ID": 4,
+        "scoreAttackRankingRewardSet": 4,
+        "rewardType": 34,
+        "rewardID": 0,
+        "amount": 1250
+    },
+    {
+        "ID": 5,
+        "scoreAttackRankingRewardSet": 5,
+        "rewardType": 34,
+        "rewardID": 0,
+        "amount": 1200
+    },
+    {
+        "ID": 6,
+        "scoreAttackRankingRewardSet": 6,
+        "rewardType": 34,
+        "rewardID": 0,
+        "amount": 1150
+    },
+    {
+        "ID": 7,
+        "scoreAttackRankingRewardSet": 7,
+        "rewardType": 34,
+        "rewardID": 0,
+        "amount": 1100
+    },
+    {
+        "ID": 8,
+        "scoreAttackRankingRewardSet": 8,
+        "rewardType": 34,
+        "rewardID": 0,
+        "amount": 1000
+    },
+    {
+        "ID": 9,
+        "scoreAttackRankingRewardSet": 9,
+        "rewardType": 34,
+        "rewardID": 0,
+        "amount": 900
+    },
+    {
+        "ID": 10,
+        "scoreAttackRankingRewardSet": 10,
+        "rewardType": 34,
+        "rewardID": 0,
+        "amount": 800
+    },
+    {
+        "ID": 11,
+        "scoreAttackRankingRewardSet": 11,
+        "rewardType": 34,
+        "rewardID": 0,
+        "amount": 700
+    },
+    {
+        "ID": 12,
+        "scoreAttackRankingRewardSet": 12,
+        "rewardType": 34,
+        "rewardID": 0,
+        "amount": 600
+    },
+    {
+        "ID": 13,
+        "scoreAttackRankingRewardSet": 13,
+        "rewardType": 34,
+        "rewardID": 0,
+        "amount": 500
+    },
+    {
+        "ID": 14,
+        "scoreAttackRankingRewardSet": 14,
+        "rewardType": 34,
+        "rewardID": 0,
+        "amount": 400
+    },
+    {
+        "ID": 15,
+        "scoreAttackRankingRewardSet": 15,
+        "rewardType": 34,
+        "rewardID": 0,
+        "amount": 350
+    },
+    {
+        "ID": 16,
+        "scoreAttackRankingRewardSet": 16,
+        "rewardType": 34,
+        "rewardID": 0,
+        "amount": 300
+    },
+    {
+        "ID": 17,
+        "scoreAttackRankingRewardSet": 17,
+        "rewardType": 34,
+        "rewardID": 0,
+        "amount": 250
+    },
+    {
+        "ID": 18,
+        "scoreAttackRankingRewardSet": 18,
+        "rewardType": 34,
+        "rewardID": 0,
+        "amount": 150
+    },
+    {
+        "ID": 19,
+        "scoreAttackRankingRewardSet": 19,
+        "rewardType": 34,
+        "rewardID": 0,
+        "amount": 1500
+    },
+    {
+        "ID": 20,
+        "scoreAttackRankingRewardSet": 19,
+        "rewardType": 44,
+        "rewardID": 408000011,
+        "amount": 1
+    },
+    {
+        "ID": 21,
+        "scoreAttackRankingRewardSet": 20,
+        "rewardType": 34,
+        "rewardID": 0,
+        "amount": 1400
+    },
+    {
+        "ID": 22,
+        "scoreAttackRankingRewardSet": 20,
+        "rewardType": 44,
+        "rewardID": 408000012,
+        "amount": 1
+    },
+    {
+        "ID": 23,
+        "scoreAttackRankingRewardSet": 21,
+        "rewardType": 34,
+        "rewardID": 0,
+        "amount": 1300
+    },
+    {
+        "ID": 24,
+        "scoreAttackRankingRewardSet": 21,
+        "rewardType": 44,
+        "rewardID": 408000013,
+        "amount": 1
+    },
+    {
+        "ID": 25,
+        "scoreAttackRankingRewardSet": 22,
+        "rewardType": 34,
+        "rewardID": 0,
+        "amount": 1250
+    },
+    {
+        "ID": 26,
+        "scoreAttackRankingRewardSet": 22,
+        "rewardType": 44,
+        "rewardID": 408000014,
+        "amount": 1
+    },
+    {
+        "ID": 27,
+        "scoreAttackRankingRewardSet": 23,
+        "rewardType": 34,
+        "rewardID": 0,
+        "amount": 1200
+    },
+    {
+        "ID": 28,
+        "scoreAttackRankingRewardSet": 23,
+        "rewardType": 44,
+        "rewardID": 408000015,
+        "amount": 1
+    },
+    {
+        "ID": 29,
+        "scoreAttackRankingRewardSet": 24,
+        "rewardType": 34,
+        "rewardID": 0,
+        "amount": 1150
+    },
+    {
+        "ID": 30,
+        "scoreAttackRankingRewardSet": 24,
+        "rewardType": 44,
+        "rewardID": 408000015,
+        "amount": 1
+    },
+    {
+        "ID": 31,
+        "scoreAttackRankingRewardSet": 25,
+        "rewardType": 34,
+        "rewardID": 0,
+        "amount": 1100
+    },
+    {
+        "ID": 32,
+        "scoreAttackRankingRewardSet": 25,
+        "rewardType": 44,
+        "rewardID": 408000015,
+        "amount": 1
+    },
+    {
+        "ID": 33,
+        "scoreAttackRankingRewardSet": 26,
+        "rewardType": 34,
+        "rewardID": 0,
+        "amount": 1000
+    },
+    {
+        "ID": 34,
+        "scoreAttackRankingRewardSet": 26,
+        "rewardType": 44,
+        "rewardID": 408000015,
+        "amount": 1
+    },
+    {
+        "ID": 35,
+        "scoreAttackRankingRewardSet": 27,
+        "rewardType": 34,
+        "rewardID": 0,
+        "amount": 900
+    },
+    {
+        "ID": 36,
+        "scoreAttackRankingRewardSet": 27,
+        "rewardType": 44,
+        "rewardID": 408000015,
+        "amount": 1
+    },
+    {
+        "ID": 37,
+        "scoreAttackRankingRewardSet": 28,
+        "rewardType": 34,
+        "rewardID": 0,
+        "amount": 800
+    },
+    {
+        "ID": 38,
+        "scoreAttackRankingRewardSet": 28,
+        "rewardType": 44,
+        "rewardID": 408000016,
+        "amount": 1
+    },
+    {
+        "ID": 39,
+        "scoreAttackRankingRewardSet": 29,
+        "rewardType": 34,
+        "rewardID": 0,
+        "amount": 700
+    },
+    {
+        "ID": 40,
+        "scoreAttackRankingRewardSet": 29,
+        "rewardType": 44,
+        "rewardID": 408000016,
+        "amount": 1
+    },
+    {
+        "ID": 41,
+        "scoreAttackRankingRewardSet": 30,
+        "rewardType": 34,
+        "rewardID": 0,
+        "amount": 600
+    },
+    {
+        "ID": 42,
+        "scoreAttackRankingRewardSet": 30,
+        "rewardType": 44,
+        "rewardID": 408000016,
+        "amount": 1
+    },
+    {
+        "ID": 43,
+        "scoreAttackRankingRewardSet": 31,
+        "rewardType": 34,
+        "rewardID": 0,
+        "amount": 500
+    },
+    {
+        "ID": 44,
+        "scoreAttackRankingRewardSet": 31,
+        "rewardType": 44,
+        "rewardID": 408000016,
+        "amount": 1
+    },
+    {
+        "ID": 45,
+        "scoreAttackRankingRewardSet": 32,
+        "rewardType": 34,
+        "rewardID": 0,
+        "amount": 400
+    },
+    {
+        "ID": 46,
+        "scoreAttackRankingRewardSet": 32,
+        "rewardType": 44,
+        "rewardID": 408000017,
+        "amount": 1
+    },
+    {
+        "ID": 47,
+        "scoreAttackRankingRewardSet": 33,
+        "rewardType": 34,
+        "rewardID": 0,
+        "amount": 350
+    },
+    {
+        "ID": 48,
+        "scoreAttackRankingRewardSet": 33,
+        "rewardType": 44,
+        "rewardID": 408000017,
+        "amount": 1
+    },
+    {
+        "ID": 49,
+        "scoreAttackRankingRewardSet": 34,
+        "rewardType": 34,
+        "rewardID": 0,
+        "amount": 300
+    },
+    {
+        "ID": 50,
+        "scoreAttackRankingRewardSet": 34,
+        "rewardType": 44,
+        "rewardID": 408000018,
+        "amount": 1
+    },
+    {
+        "ID": 51,
+        "scoreAttackRankingRewardSet": 35,
+        "rewardType": 34,
+        "rewardID": 0,
+        "amount": 250
+    },
+    {
+        "ID": 52,
+        "scoreAttackRankingRewardSet": 35,
+        "rewardType": 44,
+        "rewardID": 408000019,
+        "amount": 1
+    },
+    {
+        "ID": 53,
+        "scoreAttackRankingRewardSet": 36,
+        "rewardType": 34,
+        "rewardID": 0,
+        "amount": 150
+    },
+    {
+        "ID": 54,
+        "scoreAttackRankingRewardSet": 36,
+        "rewardType": 44,
+        "rewardID": 408000020,
+        "amount": 1
+    },
+    {
+        "ID": 55,
+        "scoreAttackRankingRewardSet": 37,
+        "rewardType": 34,
+        "rewardID": 0,
+        "amount": 1500
+    },
+    {
+        "ID": 56,
+        "scoreAttackRankingRewardSet": 37,
+        "rewardType": 44,
+        "rewardID": 408000021,
+        "amount": 1
+    },
+    {
+        "ID": 57,
+        "scoreAttackRankingRewardSet": 38,
+        "rewardType": 34,
+        "rewardID": 0,
+        "amount": 1400
+    },
+    {
+        "ID": 58,
+        "scoreAttackRankingRewardSet": 38,
+        "rewardType": 44,
+        "rewardID": 408000022,
+        "amount": 1
+    },
+    {
+        "ID": 59,
+        "scoreAttackRankingRewardSet": 39,
+        "rewardType": 34,
+        "rewardID": 0,
+        "amount": 1300
+    },
+    {
+        "ID": 60,
+        "scoreAttackRankingRewardSet": 39,
+        "rewardType": 44,
+        "rewardID": 408000023,
+        "amount": 1
+    },
+    {
+        "ID": 61,
+        "scoreAttackRankingRewardSet": 40,
+        "rewardType": 34,
+        "rewardID": 0,
+        "amount": 1250
+    },
+    {
+        "ID": 62,
+        "scoreAttackRankingRewardSet": 40,
+        "rewardType": 44,
+        "rewardID": 408000024,
+        "amount": 1
+    },
+    {
+        "ID": 63,
+        "scoreAttackRankingRewardSet": 41,
+        "rewardType": 34,
+        "rewardID": 0,
+        "amount": 1200
+    },
+    {
+        "ID": 64,
+        "scoreAttackRankingRewardSet": 41,
+        "rewardType": 44,
+        "rewardID": 408000025,
+        "amount": 1
+    },
+    {
+        "ID": 65,
+        "scoreAttackRankingRewardSet": 42,
+        "rewardType": 34,
+        "rewardID": 0,
+        "amount": 1150
+    },
+    {
+        "ID": 66,
+        "scoreAttackRankingRewardSet": 42,
+        "rewardType": 44,
+        "rewardID": 408000025,
+        "amount": 1
+    },
+    {
+        "ID": 67,
+        "scoreAttackRankingRewardSet": 43,
+        "rewardType": 34,
+        "rewardID": 0,
+        "amount": 1100
+    },
+    {
+        "ID": 68,
+        "scoreAttackRankingRewardSet": 43,
+        "rewardType": 44,
+        "rewardID": 408000025,
+        "amount": 1
+    },
+    {
+        "ID": 69,
+        "scoreAttackRankingRewardSet": 44,
+        "rewardType": 34,
+        "rewardID": 0,
+        "amount": 1000
+    },
+    {
+        "ID": 70,
+        "scoreAttackRankingRewardSet": 44,
+        "rewardType": 44,
+        "rewardID": 408000025,
+        "amount": 1
+    },
+    {
+        "ID": 71,
+        "scoreAttackRankingRewardSet": 45,
+        "rewardType": 34,
+        "rewardID": 0,
+        "amount": 900
+    },
+    {
+        "ID": 72,
+        "scoreAttackRankingRewardSet": 45,
+        "rewardType": 44,
+        "rewardID": 408000025,
+        "amount": 1
+    },
+    {
+        "ID": 73,
+        "scoreAttackRankingRewardSet": 46,
+        "rewardType": 34,
+        "rewardID": 0,
+        "amount": 800
+    },
+    {
+        "ID": 74,
+        "scoreAttackRankingRewardSet": 46,
+        "rewardType": 44,
+        "rewardID": 408000026,
+        "amount": 1
+    },
+    {
+        "ID": 75,
+        "scoreAttackRankingRewardSet": 47,
+        "rewardType": 34,
+        "rewardID": 0,
+        "amount": 700
+    },
+    {
+        "ID": 76,
+        "scoreAttackRankingRewardSet": 47,
+        "rewardType": 44,
+        "rewardID": 408000026,
+        "amount": 1
+    },
+    {
+        "ID": 77,
+        "scoreAttackRankingRewardSet": 48,
+        "rewardType": 34,
+        "rewardID": 0,
+        "amount": 600
+    },
+    {
+        "ID": 78,
+        "scoreAttackRankingRewardSet": 48,
+        "rewardType": 44,
+        "rewardID": 408000026,
+        "amount": 1
+    },
+    {
+        "ID": 79,
+        "scoreAttackRankingRewardSet": 49,
+        "rewardType": 34,
+        "rewardID": 0,
+        "amount": 500
+    },
+    {
+        "ID": 80,
+        "scoreAttackRankingRewardSet": 49,
+        "rewardType": 44,
+        "rewardID": 408000026,
+        "amount": 1
+    },
+    {
+        "ID": 81,
+        "scoreAttackRankingRewardSet": 50,
+        "rewardType": 34,
+        "rewardID": 0,
+        "amount": 400
+    },
+    {
+        "ID": 82,
+        "scoreAttackRankingRewardSet": 50,
+        "rewardType": 44,
+        "rewardID": 408000027,
+        "amount": 1
+    },
+    {
+        "ID": 83,
+        "scoreAttackRankingRewardSet": 51,
+        "rewardType": 34,
+        "rewardID": 0,
+        "amount": 350
+    },
+    {
+        "ID": 84,
+        "scoreAttackRankingRewardSet": 51,
+        "rewardType": 44,
+        "rewardID": 408000027,
+        "amount": 1
+    },
+    {
+        "ID": 85,
+        "scoreAttackRankingRewardSet": 52,
+        "rewardType": 34,
+        "rewardID": 0,
+        "amount": 300
+    },
+    {
+        "ID": 86,
+        "scoreAttackRankingRewardSet": 52,
+        "rewardType": 44,
+        "rewardID": 408000028,
+        "amount": 1
+    },
+    {
+        "ID": 87,
+        "scoreAttackRankingRewardSet": 53,
+        "rewardType": 34,
+        "rewardID": 0,
+        "amount": 250
+    },
+    {
+        "ID": 88,
+        "scoreAttackRankingRewardSet": 53,
+        "rewardType": 44,
+        "rewardID": 408000029,
+        "amount": 1
+    },
+    {
+        "ID": 89,
+        "scoreAttackRankingRewardSet": 54,
+        "rewardType": 34,
+        "rewardID": 0,
+        "amount": 150
+    },
+    {
+        "ID": 90,
+        "scoreAttackRankingRewardSet": 54,
+        "rewardType": 44,
+        "rewardID": 408000030,
+        "amount": 1
+    },
+    {
+        "ID": 91,
+        "scoreAttackRankingRewardSet": 55,
+        "rewardType": 34,
+        "rewardID": 0,
+        "amount": 1500
+    },
+    {
+        "ID": 92,
+        "scoreAttackRankingRewardSet": 55,
+        "rewardType": 44,
+        "rewardID": 408000031,
+        "amount": 1
+    },
+    {
+        "ID": 93,
+        "scoreAttackRankingRewardSet": 56,
+        "rewardType": 34,
+        "rewardID": 0,
+        "amount": 1400
+    },
+    {
+        "ID": 94,
+        "scoreAttackRankingRewardSet": 56,
+        "rewardType": 44,
+        "rewardID": 408000032,
+        "amount": 1
+    },
+    {
+        "ID": 95,
+        "scoreAttackRankingRewardSet": 57,
+        "rewardType": 34,
+        "rewardID": 0,
+        "amount": 1300
+    },
+    {
+        "ID": 96,
+        "scoreAttackRankingRewardSet": 57,
+        "rewardType": 44,
+        "rewardID": 408000033,
+        "amount": 1
+    },
+    {
+        "ID": 97,
+        "scoreAttackRankingRewardSet": 58,
+        "rewardType": 34,
+        "rewardID": 0,
+        "amount": 1250
+    },
+    {
+        "ID": 98,
+        "scoreAttackRankingRewardSet": 58,
+        "rewardType": 44,
+        "rewardID": 408000034,
+        "amount": 1
+    },
+    {
+        "ID": 99,
+        "scoreAttackRankingRewardSet": 59,
+        "rewardType": 34,
+        "rewardID": 0,
+        "amount": 1200
+    },
+    {
+        "ID": 100,
+        "scoreAttackRankingRewardSet": 59,
+        "rewardType": 44,
+        "rewardID": 408000035,
+        "amount": 1
+    },
+    {
+        "ID": 101,
+        "scoreAttackRankingRewardSet": 60,
+        "rewardType": 34,
+        "rewardID": 0,
+        "amount": 1150
+    },
+    {
+        "ID": 102,
+        "scoreAttackRankingRewardSet": 60,
+        "rewardType": 44,
+        "rewardID": 408000035,
+        "amount": 1
+    },
+    {
+        "ID": 103,
+        "scoreAttackRankingRewardSet": 61,
+        "rewardType": 34,
+        "rewardID": 0,
+        "amount": 1100
+    },
+    {
+        "ID": 104,
+        "scoreAttackRankingRewardSet": 61,
+        "rewardType": 44,
+        "rewardID": 408000035,
+        "amount": 1
+    },
+    {
+        "ID": 105,
+        "scoreAttackRankingRewardSet": 62,
+        "rewardType": 34,
+        "rewardID": 0,
+        "amount": 1000
+    },
+    {
+        "ID": 106,
+        "scoreAttackRankingRewardSet": 62,
+        "rewardType": 44,
+        "rewardID": 408000035,
+        "amount": 1
+    },
+    {
+        "ID": 107,
+        "scoreAttackRankingRewardSet": 63,
+        "rewardType": 34,
+        "rewardID": 0,
+        "amount": 900
+    },
+    {
+        "ID": 108,
+        "scoreAttackRankingRewardSet": 63,
+        "rewardType": 44,
+        "rewardID": 408000035,
+        "amount": 1
+    },
+    {
+        "ID": 109,
+        "scoreAttackRankingRewardSet": 64,
+        "rewardType": 34,
+        "rewardID": 0,
+        "amount": 800
+    },
+    {
+        "ID": 110,
+        "scoreAttackRankingRewardSet": 64,
+        "rewardType": 44,
+        "rewardID": 408000036,
+        "amount": 1
+    },
+    {
+        "ID": 111,
+        "scoreAttackRankingRewardSet": 65,
+        "rewardType": 34,
+        "rewardID": 0,
+        "amount": 700
+    },
+    {
+        "ID": 112,
+        "scoreAttackRankingRewardSet": 65,
+        "rewardType": 44,
+        "rewardID": 408000036,
+        "amount": 1
+    },
+    {
+        "ID": 113,
+        "scoreAttackRankingRewardSet": 66,
+        "rewardType": 34,
+        "rewardID": 0,
+        "amount": 600
+    },
+    {
+        "ID": 114,
+        "scoreAttackRankingRewardSet": 66,
+        "rewardType": 44,
+        "rewardID": 408000036,
+        "amount": 1
+    },
+    {
+        "ID": 115,
+        "scoreAttackRankingRewardSet": 67,
+        "rewardType": 34,
+        "rewardID": 0,
+        "amount": 500
+    },
+    {
+        "ID": 116,
+        "scoreAttackRankingRewardSet": 67,
+        "rewardType": 44,
+        "rewardID": 408000036,
+        "amount": 1
+    },
+    {
+        "ID": 117,
+        "scoreAttackRankingRewardSet": 68,
+        "rewardType": 34,
+        "rewardID": 0,
+        "amount": 400
+    },
+    {
+        "ID": 118,
+        "scoreAttackRankingRewardSet": 68,
+        "rewardType": 44,
+        "rewardID": 408000037,
+        "amount": 1
+    },
+    {
+        "ID": 119,
+        "scoreAttackRankingRewardSet": 69,
+        "rewardType": 34,
+        "rewardID": 0,
+        "amount": 350
+    },
+    {
+        "ID": 120,
+        "scoreAttackRankingRewardSet": 69,
+        "rewardType": 44,
+        "rewardID": 408000037,
+        "amount": 1
+    },
+    {
+        "ID": 121,
+        "scoreAttackRankingRewardSet": 70,
+        "rewardType": 34,
+        "rewardID": 0,
+        "amount": 300
+    },
+    {
+        "ID": 122,
+        "scoreAttackRankingRewardSet": 70,
+        "rewardType": 44,
+        "rewardID": 408000038,
+        "amount": 1
+    },
+    {
+        "ID": 123,
+        "scoreAttackRankingRewardSet": 71,
+        "rewardType": 34,
+        "rewardID": 0,
+        "amount": 250
+    },
+    {
+        "ID": 124,
+        "scoreAttackRankingRewardSet": 71,
+        "rewardType": 44,
+        "rewardID": 408000039,
+        "amount": 1
+    },
+    {
+        "ID": 125,
+        "scoreAttackRankingRewardSet": 72,
+        "rewardType": 34,
+        "rewardID": 0,
+        "amount": 150
+    },
+    {
+        "ID": 126,
+        "scoreAttackRankingRewardSet": 72,
+        "rewardType": 44,
+        "rewardID": 408000040,
+        "amount": 1
+    }
+]

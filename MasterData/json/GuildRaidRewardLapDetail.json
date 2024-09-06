@@ -1,0 +1,16 @@
+[
+    {
+        "ID": 1,
+        "lapRewardID": 1,
+        "rewardType": 25,
+        "rewardID": 201040001,
+        "amount": 1200
+    },
+    {
+        "ID": 2,
+        "lapRewardID": 2,
+        "rewardType": 25,
+        "rewardID": 201040001,
+        "amount": 1000
+    }
+]

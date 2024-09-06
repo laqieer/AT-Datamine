@@ -1,0 +1,2722 @@
+[
+    {
+        "ID": 1,
+        "boardId": 1,
+        "number": 1,
+        "beforeNumber": 0,
+        "nodeId": 1,
+        "needRarity": 1
+    },
+    {
+        "ID": 2,
+        "boardId": 1,
+        "number": 2,
+        "beforeNumber": 1,
+        "nodeId": 2,
+        "needRarity": 1
+    },
+    {
+        "ID": 3,
+        "boardId": 1,
+        "number": 3,
+        "beforeNumber": 2,
+        "nodeId": 3,
+        "needRarity": 1
+    },
+    {
+        "ID": 4,
+        "boardId": 1,
+        "number": 4,
+        "beforeNumber": 3,
+        "nodeId": 4,
+        "needRarity": 1
+    },
+    {
+        "ID": 5,
+        "boardId": 1,
+        "number": 5,
+        "beforeNumber": 4,
+        "nodeId": 5,
+        "needRarity": 1
+    },
+    {
+        "ID": 6,
+        "boardId": 1,
+        "number": 6,
+        "beforeNumber": 4,
+        "nodeId": 6,
+        "needRarity": 1
+    },
+    {
+        "ID": 7,
+        "boardId": 1,
+        "number": 7,
+        "beforeNumber": 3,
+        "nodeId": 7,
+        "needRarity": 1
+    },
+    {
+        "ID": 8,
+        "boardId": 1,
+        "number": 8,
+        "beforeNumber": 7,
+        "nodeId": 8,
+        "needRarity": 1
+    },
+    {
+        "ID": 9,
+        "boardId": 1,
+        "number": 9,
+        "beforeNumber": 7,
+        "nodeId": 9,
+        "needRarity": 1
+    },
+    {
+        "ID": 10,
+        "boardId": 1,
+        "number": 10,
+        "beforeNumber": 3,
+        "nodeId": 10,
+        "needRarity": 1
+    },
+    {
+        "ID": 11,
+        "boardId": 1,
+        "number": 11,
+        "beforeNumber": 10,
+        "nodeId": 11,
+        "needRarity": 1
+    },
+    {
+        "ID": 12,
+        "boardId": 1,
+        "number": 12,
+        "beforeNumber": 10,
+        "nodeId": 12,
+        "needRarity": 1
+    },
+    {
+        "ID": 13,
+        "boardId": 1,
+        "number": 13,
+        "beforeNumber": 3,
+        "nodeId": 13,
+        "needRarity": 1
+    },
+    {
+        "ID": 14,
+        "boardId": 1,
+        "number": 14,
+        "beforeNumber": 13,
+        "nodeId": 14,
+        "needRarity": 1
+    },
+    {
+        "ID": 15,
+        "boardId": 1,
+        "number": 15,
+        "beforeNumber": 13,
+        "nodeId": 15,
+        "needRarity": 1
+    },
+    {
+        "ID": 16,
+        "boardId": 1,
+        "number": 16,
+        "beforeNumber": 3,
+        "nodeId": 16,
+        "needRarity": 1
+    },
+    {
+        "ID": 17,
+        "boardId": 1,
+        "number": 17,
+        "beforeNumber": 16,
+        "nodeId": 17,
+        "needRarity": 1
+    },
+    {
+        "ID": 18,
+        "boardId": 2,
+        "number": 1,
+        "beforeNumber": 0,
+        "nodeId": 18,
+        "needRarity": 1
+    },
+    {
+        "ID": 19,
+        "boardId": 2,
+        "number": 2,
+        "beforeNumber": 1,
+        "nodeId": 19,
+        "needRarity": 1
+    },
+    {
+        "ID": 20,
+        "boardId": 2,
+        "number": 3,
+        "beforeNumber": 2,
+        "nodeId": 20,
+        "needRarity": 1
+    },
+    {
+        "ID": 21,
+        "boardId": 2,
+        "number": 4,
+        "beforeNumber": 3,
+        "nodeId": 21,
+        "needRarity": 1
+    },
+    {
+        "ID": 22,
+        "boardId": 2,
+        "number": 5,
+        "beforeNumber": 4,
+        "nodeId": 22,
+        "needRarity": 1
+    },
+    {
+        "ID": 23,
+        "boardId": 2,
+        "number": 6,
+        "beforeNumber": 4,
+        "nodeId": 23,
+        "needRarity": 1
+    },
+    {
+        "ID": 24,
+        "boardId": 2,
+        "number": 7,
+        "beforeNumber": 3,
+        "nodeId": 24,
+        "needRarity": 1
+    },
+    {
+        "ID": 25,
+        "boardId": 2,
+        "number": 8,
+        "beforeNumber": 7,
+        "nodeId": 25,
+        "needRarity": 1
+    },
+    {
+        "ID": 26,
+        "boardId": 2,
+        "number": 9,
+        "beforeNumber": 7,
+        "nodeId": 26,
+        "needRarity": 1
+    },
+    {
+        "ID": 27,
+        "boardId": 2,
+        "number": 10,
+        "beforeNumber": 3,
+        "nodeId": 27,
+        "needRarity": 1
+    },
+    {
+        "ID": 28,
+        "boardId": 2,
+        "number": 11,
+        "beforeNumber": 10,
+        "nodeId": 28,
+        "needRarity": 1
+    },
+    {
+        "ID": 29,
+        "boardId": 2,
+        "number": 12,
+        "beforeNumber": 10,
+        "nodeId": 29,
+        "needRarity": 1
+    },
+    {
+        "ID": 30,
+        "boardId": 2,
+        "number": 13,
+        "beforeNumber": 3,
+        "nodeId": 30,
+        "needRarity": 1
+    },
+    {
+        "ID": 31,
+        "boardId": 2,
+        "number": 14,
+        "beforeNumber": 13,
+        "nodeId": 31,
+        "needRarity": 1
+    },
+    {
+        "ID": 32,
+        "boardId": 2,
+        "number": 15,
+        "beforeNumber": 13,
+        "nodeId": 32,
+        "needRarity": 1
+    },
+    {
+        "ID": 33,
+        "boardId": 2,
+        "number": 16,
+        "beforeNumber": 3,
+        "nodeId": 33,
+        "needRarity": 1
+    },
+    {
+        "ID": 34,
+        "boardId": 2,
+        "number": 17,
+        "beforeNumber": 16,
+        "nodeId": 34,
+        "needRarity": 1
+    },
+    {
+        "ID": 35,
+        "boardId": 3,
+        "number": 1,
+        "beforeNumber": 0,
+        "nodeId": 35,
+        "needRarity": 1
+    },
+    {
+        "ID": 36,
+        "boardId": 3,
+        "number": 2,
+        "beforeNumber": 1,
+        "nodeId": 36,
+        "needRarity": 1
+    },
+    {
+        "ID": 37,
+        "boardId": 3,
+        "number": 3,
+        "beforeNumber": 2,
+        "nodeId": 37,
+        "needRarity": 1
+    },
+    {
+        "ID": 38,
+        "boardId": 3,
+        "number": 4,
+        "beforeNumber": 3,
+        "nodeId": 38,
+        "needRarity": 1
+    },
+    {
+        "ID": 39,
+        "boardId": 3,
+        "number": 5,
+        "beforeNumber": 4,
+        "nodeId": 39,
+        "needRarity": 1
+    },
+    {
+        "ID": 40,
+        "boardId": 3,
+        "number": 6,
+        "beforeNumber": 4,
+        "nodeId": 40,
+        "needRarity": 1
+    },
+    {
+        "ID": 41,
+        "boardId": 3,
+        "number": 7,
+        "beforeNumber": 3,
+        "nodeId": 41,
+        "needRarity": 1
+    },
+    {
+        "ID": 42,
+        "boardId": 3,
+        "number": 8,
+        "beforeNumber": 7,
+        "nodeId": 42,
+        "needRarity": 1
+    },
+    {
+        "ID": 43,
+        "boardId": 3,
+        "number": 9,
+        "beforeNumber": 7,
+        "nodeId": 43,
+        "needRarity": 1
+    },
+    {
+        "ID": 44,
+        "boardId": 3,
+        "number": 10,
+        "beforeNumber": 3,
+        "nodeId": 44,
+        "needRarity": 1
+    },
+    {
+        "ID": 45,
+        "boardId": 3,
+        "number": 11,
+        "beforeNumber": 10,
+        "nodeId": 45,
+        "needRarity": 1
+    },
+    {
+        "ID": 46,
+        "boardId": 3,
+        "number": 12,
+        "beforeNumber": 10,
+        "nodeId": 46,
+        "needRarity": 1
+    },
+    {
+        "ID": 47,
+        "boardId": 3,
+        "number": 13,
+        "beforeNumber": 3,
+        "nodeId": 47,
+        "needRarity": 1
+    },
+    {
+        "ID": 48,
+        "boardId": 3,
+        "number": 14,
+        "beforeNumber": 13,
+        "nodeId": 48,
+        "needRarity": 1
+    },
+    {
+        "ID": 49,
+        "boardId": 3,
+        "number": 15,
+        "beforeNumber": 13,
+        "nodeId": 49,
+        "needRarity": 1
+    },
+    {
+        "ID": 50,
+        "boardId": 3,
+        "number": 16,
+        "beforeNumber": 3,
+        "nodeId": 50,
+        "needRarity": 1
+    },
+    {
+        "ID": 51,
+        "boardId": 3,
+        "number": 17,
+        "beforeNumber": 16,
+        "nodeId": 51,
+        "needRarity": 1
+    },
+    {
+        "ID": 52,
+        "boardId": 4,
+        "number": 1,
+        "beforeNumber": 0,
+        "nodeId": 52,
+        "needRarity": 1
+    },
+    {
+        "ID": 53,
+        "boardId": 4,
+        "number": 2,
+        "beforeNumber": 1,
+        "nodeId": 53,
+        "needRarity": 1
+    },
+    {
+        "ID": 54,
+        "boardId": 4,
+        "number": 3,
+        "beforeNumber": 2,
+        "nodeId": 54,
+        "needRarity": 1
+    },
+    {
+        "ID": 55,
+        "boardId": 4,
+        "number": 4,
+        "beforeNumber": 3,
+        "nodeId": 55,
+        "needRarity": 1
+    },
+    {
+        "ID": 56,
+        "boardId": 4,
+        "number": 5,
+        "beforeNumber": 4,
+        "nodeId": 56,
+        "needRarity": 1
+    },
+    {
+        "ID": 57,
+        "boardId": 4,
+        "number": 6,
+        "beforeNumber": 4,
+        "nodeId": 57,
+        "needRarity": 1
+    },
+    {
+        "ID": 58,
+        "boardId": 4,
+        "number": 7,
+        "beforeNumber": 3,
+        "nodeId": 58,
+        "needRarity": 1
+    },
+    {
+        "ID": 59,
+        "boardId": 4,
+        "number": 8,
+        "beforeNumber": 7,
+        "nodeId": 59,
+        "needRarity": 1
+    },
+    {
+        "ID": 60,
+        "boardId": 4,
+        "number": 9,
+        "beforeNumber": 7,
+        "nodeId": 60,
+        "needRarity": 1
+    },
+    {
+        "ID": 61,
+        "boardId": 4,
+        "number": 10,
+        "beforeNumber": 3,
+        "nodeId": 61,
+        "needRarity": 1
+    },
+    {
+        "ID": 62,
+        "boardId": 4,
+        "number": 11,
+        "beforeNumber": 10,
+        "nodeId": 62,
+        "needRarity": 1
+    },
+    {
+        "ID": 63,
+        "boardId": 4,
+        "number": 12,
+        "beforeNumber": 10,
+        "nodeId": 63,
+        "needRarity": 1
+    },
+    {
+        "ID": 64,
+        "boardId": 4,
+        "number": 13,
+        "beforeNumber": 3,
+        "nodeId": 64,
+        "needRarity": 1
+    },
+    {
+        "ID": 65,
+        "boardId": 4,
+        "number": 14,
+        "beforeNumber": 13,
+        "nodeId": 65,
+        "needRarity": 1
+    },
+    {
+        "ID": 66,
+        "boardId": 4,
+        "number": 15,
+        "beforeNumber": 13,
+        "nodeId": 66,
+        "needRarity": 1
+    },
+    {
+        "ID": 67,
+        "boardId": 4,
+        "number": 16,
+        "beforeNumber": 3,
+        "nodeId": 67,
+        "needRarity": 1
+    },
+    {
+        "ID": 68,
+        "boardId": 4,
+        "number": 17,
+        "beforeNumber": 16,
+        "nodeId": 68,
+        "needRarity": 1
+    },
+    {
+        "ID": 69,
+        "boardId": 5,
+        "number": 1,
+        "beforeNumber": 0,
+        "nodeId": 69,
+        "needRarity": 1
+    },
+    {
+        "ID": 70,
+        "boardId": 5,
+        "number": 2,
+        "beforeNumber": 1,
+        "nodeId": 70,
+        "needRarity": 1
+    },
+    {
+        "ID": 71,
+        "boardId": 5,
+        "number": 3,
+        "beforeNumber": 2,
+        "nodeId": 71,
+        "needRarity": 1
+    },
+    {
+        "ID": 72,
+        "boardId": 5,
+        "number": 4,
+        "beforeNumber": 3,
+        "nodeId": 72,
+        "needRarity": 1
+    },
+    {
+        "ID": 73,
+        "boardId": 5,
+        "number": 5,
+        "beforeNumber": 4,
+        "nodeId": 73,
+        "needRarity": 1
+    },
+    {
+        "ID": 74,
+        "boardId": 5,
+        "number": 6,
+        "beforeNumber": 4,
+        "nodeId": 74,
+        "needRarity": 1
+    },
+    {
+        "ID": 75,
+        "boardId": 5,
+        "number": 7,
+        "beforeNumber": 3,
+        "nodeId": 75,
+        "needRarity": 1
+    },
+    {
+        "ID": 76,
+        "boardId": 5,
+        "number": 8,
+        "beforeNumber": 7,
+        "nodeId": 76,
+        "needRarity": 1
+    },
+    {
+        "ID": 77,
+        "boardId": 5,
+        "number": 9,
+        "beforeNumber": 7,
+        "nodeId": 77,
+        "needRarity": 1
+    },
+    {
+        "ID": 78,
+        "boardId": 5,
+        "number": 10,
+        "beforeNumber": 3,
+        "nodeId": 78,
+        "needRarity": 1
+    },
+    {
+        "ID": 79,
+        "boardId": 5,
+        "number": 11,
+        "beforeNumber": 10,
+        "nodeId": 79,
+        "needRarity": 1
+    },
+    {
+        "ID": 80,
+        "boardId": 5,
+        "number": 12,
+        "beforeNumber": 10,
+        "nodeId": 80,
+        "needRarity": 1
+    },
+    {
+        "ID": 81,
+        "boardId": 5,
+        "number": 13,
+        "beforeNumber": 3,
+        "nodeId": 81,
+        "needRarity": 1
+    },
+    {
+        "ID": 82,
+        "boardId": 5,
+        "number": 14,
+        "beforeNumber": 13,
+        "nodeId": 82,
+        "needRarity": 1
+    },
+    {
+        "ID": 83,
+        "boardId": 5,
+        "number": 15,
+        "beforeNumber": 13,
+        "nodeId": 83,
+        "needRarity": 1
+    },
+    {
+        "ID": 84,
+        "boardId": 5,
+        "number": 16,
+        "beforeNumber": 3,
+        "nodeId": 84,
+        "needRarity": 1
+    },
+    {
+        "ID": 85,
+        "boardId": 5,
+        "number": 17,
+        "beforeNumber": 16,
+        "nodeId": 85,
+        "needRarity": 1
+    },
+    {
+        "ID": 86,
+        "boardId": 6,
+        "number": 1,
+        "beforeNumber": 0,
+        "nodeId": 86,
+        "needRarity": 1
+    },
+    {
+        "ID": 87,
+        "boardId": 6,
+        "number": 2,
+        "beforeNumber": 1,
+        "nodeId": 87,
+        "needRarity": 1
+    },
+    {
+        "ID": 88,
+        "boardId": 6,
+        "number": 3,
+        "beforeNumber": 2,
+        "nodeId": 88,
+        "needRarity": 1
+    },
+    {
+        "ID": 89,
+        "boardId": 6,
+        "number": 4,
+        "beforeNumber": 3,
+        "nodeId": 89,
+        "needRarity": 1
+    },
+    {
+        "ID": 90,
+        "boardId": 6,
+        "number": 5,
+        "beforeNumber": 4,
+        "nodeId": 90,
+        "needRarity": 1
+    },
+    {
+        "ID": 91,
+        "boardId": 6,
+        "number": 6,
+        "beforeNumber": 4,
+        "nodeId": 91,
+        "needRarity": 1
+    },
+    {
+        "ID": 92,
+        "boardId": 6,
+        "number": 7,
+        "beforeNumber": 3,
+        "nodeId": 92,
+        "needRarity": 1
+    },
+    {
+        "ID": 93,
+        "boardId": 6,
+        "number": 8,
+        "beforeNumber": 7,
+        "nodeId": 93,
+        "needRarity": 1
+    },
+    {
+        "ID": 94,
+        "boardId": 6,
+        "number": 9,
+        "beforeNumber": 7,
+        "nodeId": 94,
+        "needRarity": 1
+    },
+    {
+        "ID": 95,
+        "boardId": 6,
+        "number": 10,
+        "beforeNumber": 3,
+        "nodeId": 95,
+        "needRarity": 1
+    },
+    {
+        "ID": 96,
+        "boardId": 6,
+        "number": 11,
+        "beforeNumber": 10,
+        "nodeId": 96,
+        "needRarity": 1
+    },
+    {
+        "ID": 97,
+        "boardId": 6,
+        "number": 12,
+        "beforeNumber": 10,
+        "nodeId": 97,
+        "needRarity": 1
+    },
+    {
+        "ID": 98,
+        "boardId": 6,
+        "number": 13,
+        "beforeNumber": 3,
+        "nodeId": 98,
+        "needRarity": 1
+    },
+    {
+        "ID": 99,
+        "boardId": 6,
+        "number": 14,
+        "beforeNumber": 13,
+        "nodeId": 99,
+        "needRarity": 1
+    },
+    {
+        "ID": 100,
+        "boardId": 6,
+        "number": 15,
+        "beforeNumber": 13,
+        "nodeId": 100,
+        "needRarity": 1
+    },
+    {
+        "ID": 101,
+        "boardId": 6,
+        "number": 16,
+        "beforeNumber": 3,
+        "nodeId": 101,
+        "needRarity": 1
+    },
+    {
+        "ID": 102,
+        "boardId": 6,
+        "number": 17,
+        "beforeNumber": 16,
+        "nodeId": 102,
+        "needRarity": 1
+    },
+    {
+        "ID": 103,
+        "boardId": 7,
+        "number": 1,
+        "beforeNumber": 0,
+        "nodeId": 103,
+        "needRarity": 1
+    },
+    {
+        "ID": 104,
+        "boardId": 7,
+        "number": 2,
+        "beforeNumber": 1,
+        "nodeId": 104,
+        "needRarity": 1
+    },
+    {
+        "ID": 105,
+        "boardId": 7,
+        "number": 3,
+        "beforeNumber": 2,
+        "nodeId": 105,
+        "needRarity": 1
+    },
+    {
+        "ID": 106,
+        "boardId": 7,
+        "number": 4,
+        "beforeNumber": 3,
+        "nodeId": 106,
+        "needRarity": 1
+    },
+    {
+        "ID": 107,
+        "boardId": 7,
+        "number": 5,
+        "beforeNumber": 4,
+        "nodeId": 107,
+        "needRarity": 1
+    },
+    {
+        "ID": 108,
+        "boardId": 7,
+        "number": 6,
+        "beforeNumber": 4,
+        "nodeId": 108,
+        "needRarity": 1
+    },
+    {
+        "ID": 109,
+        "boardId": 7,
+        "number": 7,
+        "beforeNumber": 3,
+        "nodeId": 109,
+        "needRarity": 1
+    },
+    {
+        "ID": 110,
+        "boardId": 7,
+        "number": 8,
+        "beforeNumber": 7,
+        "nodeId": 110,
+        "needRarity": 1
+    },
+    {
+        "ID": 111,
+        "boardId": 7,
+        "number": 9,
+        "beforeNumber": 7,
+        "nodeId": 111,
+        "needRarity": 1
+    },
+    {
+        "ID": 112,
+        "boardId": 7,
+        "number": 10,
+        "beforeNumber": 3,
+        "nodeId": 112,
+        "needRarity": 1
+    },
+    {
+        "ID": 113,
+        "boardId": 7,
+        "number": 11,
+        "beforeNumber": 10,
+        "nodeId": 113,
+        "needRarity": 1
+    },
+    {
+        "ID": 114,
+        "boardId": 7,
+        "number": 12,
+        "beforeNumber": 10,
+        "nodeId": 114,
+        "needRarity": 1
+    },
+    {
+        "ID": 115,
+        "boardId": 7,
+        "number": 13,
+        "beforeNumber": 3,
+        "nodeId": 115,
+        "needRarity": 1
+    },
+    {
+        "ID": 116,
+        "boardId": 7,
+        "number": 14,
+        "beforeNumber": 13,
+        "nodeId": 116,
+        "needRarity": 1
+    },
+    {
+        "ID": 117,
+        "boardId": 7,
+        "number": 15,
+        "beforeNumber": 13,
+        "nodeId": 117,
+        "needRarity": 1
+    },
+    {
+        "ID": 118,
+        "boardId": 7,
+        "number": 16,
+        "beforeNumber": 3,
+        "nodeId": 118,
+        "needRarity": 1
+    },
+    {
+        "ID": 119,
+        "boardId": 7,
+        "number": 17,
+        "beforeNumber": 16,
+        "nodeId": 119,
+        "needRarity": 1
+    },
+    {
+        "ID": 120,
+        "boardId": 8,
+        "number": 1,
+        "beforeNumber": 0,
+        "nodeId": 120,
+        "needRarity": 1
+    },
+    {
+        "ID": 121,
+        "boardId": 8,
+        "number": 2,
+        "beforeNumber": 1,
+        "nodeId": 121,
+        "needRarity": 1
+    },
+    {
+        "ID": 122,
+        "boardId": 8,
+        "number": 3,
+        "beforeNumber": 2,
+        "nodeId": 122,
+        "needRarity": 1
+    },
+    {
+        "ID": 123,
+        "boardId": 8,
+        "number": 4,
+        "beforeNumber": 3,
+        "nodeId": 123,
+        "needRarity": 1
+    },
+    {
+        "ID": 124,
+        "boardId": 8,
+        "number": 5,
+        "beforeNumber": 4,
+        "nodeId": 124,
+        "needRarity": 1
+    },
+    {
+        "ID": 125,
+        "boardId": 8,
+        "number": 6,
+        "beforeNumber": 4,
+        "nodeId": 125,
+        "needRarity": 1
+    },
+    {
+        "ID": 126,
+        "boardId": 8,
+        "number": 7,
+        "beforeNumber": 3,
+        "nodeId": 126,
+        "needRarity": 1
+    },
+    {
+        "ID": 127,
+        "boardId": 8,
+        "number": 8,
+        "beforeNumber": 7,
+        "nodeId": 127,
+        "needRarity": 1
+    },
+    {
+        "ID": 128,
+        "boardId": 8,
+        "number": 9,
+        "beforeNumber": 7,
+        "nodeId": 128,
+        "needRarity": 1
+    },
+    {
+        "ID": 129,
+        "boardId": 8,
+        "number": 10,
+        "beforeNumber": 3,
+        "nodeId": 129,
+        "needRarity": 1
+    },
+    {
+        "ID": 130,
+        "boardId": 8,
+        "number": 11,
+        "beforeNumber": 10,
+        "nodeId": 130,
+        "needRarity": 1
+    },
+    {
+        "ID": 131,
+        "boardId": 8,
+        "number": 12,
+        "beforeNumber": 10,
+        "nodeId": 131,
+        "needRarity": 1
+    },
+    {
+        "ID": 132,
+        "boardId": 8,
+        "number": 13,
+        "beforeNumber": 3,
+        "nodeId": 132,
+        "needRarity": 1
+    },
+    {
+        "ID": 133,
+        "boardId": 8,
+        "number": 14,
+        "beforeNumber": 13,
+        "nodeId": 133,
+        "needRarity": 1
+    },
+    {
+        "ID": 134,
+        "boardId": 8,
+        "number": 15,
+        "beforeNumber": 13,
+        "nodeId": 134,
+        "needRarity": 1
+    },
+    {
+        "ID": 135,
+        "boardId": 8,
+        "number": 16,
+        "beforeNumber": 3,
+        "nodeId": 135,
+        "needRarity": 1
+    },
+    {
+        "ID": 136,
+        "boardId": 8,
+        "number": 17,
+        "beforeNumber": 16,
+        "nodeId": 136,
+        "needRarity": 1
+    },
+    {
+        "ID": 137,
+        "boardId": 9,
+        "number": 1,
+        "beforeNumber": 0,
+        "nodeId": 137,
+        "needRarity": 1
+    },
+    {
+        "ID": 138,
+        "boardId": 9,
+        "number": 2,
+        "beforeNumber": 1,
+        "nodeId": 138,
+        "needRarity": 1
+    },
+    {
+        "ID": 139,
+        "boardId": 9,
+        "number": 3,
+        "beforeNumber": 2,
+        "nodeId": 139,
+        "needRarity": 1
+    },
+    {
+        "ID": 140,
+        "boardId": 9,
+        "number": 4,
+        "beforeNumber": 3,
+        "nodeId": 140,
+        "needRarity": 1
+    },
+    {
+        "ID": 141,
+        "boardId": 9,
+        "number": 5,
+        "beforeNumber": 4,
+        "nodeId": 141,
+        "needRarity": 1
+    },
+    {
+        "ID": 142,
+        "boardId": 9,
+        "number": 6,
+        "beforeNumber": 4,
+        "nodeId": 142,
+        "needRarity": 1
+    },
+    {
+        "ID": 143,
+        "boardId": 9,
+        "number": 7,
+        "beforeNumber": 3,
+        "nodeId": 143,
+        "needRarity": 1
+    },
+    {
+        "ID": 144,
+        "boardId": 9,
+        "number": 8,
+        "beforeNumber": 7,
+        "nodeId": 144,
+        "needRarity": 1
+    },
+    {
+        "ID": 145,
+        "boardId": 9,
+        "number": 9,
+        "beforeNumber": 7,
+        "nodeId": 145,
+        "needRarity": 1
+    },
+    {
+        "ID": 146,
+        "boardId": 9,
+        "number": 10,
+        "beforeNumber": 3,
+        "nodeId": 146,
+        "needRarity": 1
+    },
+    {
+        "ID": 147,
+        "boardId": 9,
+        "number": 11,
+        "beforeNumber": 10,
+        "nodeId": 147,
+        "needRarity": 1
+    },
+    {
+        "ID": 148,
+        "boardId": 9,
+        "number": 12,
+        "beforeNumber": 10,
+        "nodeId": 148,
+        "needRarity": 1
+    },
+    {
+        "ID": 149,
+        "boardId": 9,
+        "number": 13,
+        "beforeNumber": 3,
+        "nodeId": 149,
+        "needRarity": 1
+    },
+    {
+        "ID": 150,
+        "boardId": 9,
+        "number": 14,
+        "beforeNumber": 13,
+        "nodeId": 150,
+        "needRarity": 1
+    },
+    {
+        "ID": 151,
+        "boardId": 9,
+        "number": 15,
+        "beforeNumber": 13,
+        "nodeId": 151,
+        "needRarity": 1
+    },
+    {
+        "ID": 152,
+        "boardId": 9,
+        "number": 16,
+        "beforeNumber": 3,
+        "nodeId": 152,
+        "needRarity": 1
+    },
+    {
+        "ID": 153,
+        "boardId": 9,
+        "number": 17,
+        "beforeNumber": 16,
+        "nodeId": 153,
+        "needRarity": 1
+    },
+    {
+        "ID": 154,
+        "boardId": 10,
+        "number": 1,
+        "beforeNumber": 0,
+        "nodeId": 154,
+        "needRarity": 1
+    },
+    {
+        "ID": 155,
+        "boardId": 10,
+        "number": 2,
+        "beforeNumber": 1,
+        "nodeId": 155,
+        "needRarity": 1
+    },
+    {
+        "ID": 156,
+        "boardId": 10,
+        "number": 3,
+        "beforeNumber": 2,
+        "nodeId": 156,
+        "needRarity": 1
+    },
+    {
+        "ID": 157,
+        "boardId": 10,
+        "number": 4,
+        "beforeNumber": 3,
+        "nodeId": 157,
+        "needRarity": 1
+    },
+    {
+        "ID": 158,
+        "boardId": 10,
+        "number": 5,
+        "beforeNumber": 4,
+        "nodeId": 158,
+        "needRarity": 1
+    },
+    {
+        "ID": 159,
+        "boardId": 10,
+        "number": 6,
+        "beforeNumber": 4,
+        "nodeId": 159,
+        "needRarity": 1
+    },
+    {
+        "ID": 160,
+        "boardId": 10,
+        "number": 7,
+        "beforeNumber": 3,
+        "nodeId": 160,
+        "needRarity": 1
+    },
+    {
+        "ID": 161,
+        "boardId": 10,
+        "number": 8,
+        "beforeNumber": 7,
+        "nodeId": 161,
+        "needRarity": 1
+    },
+    {
+        "ID": 162,
+        "boardId": 10,
+        "number": 9,
+        "beforeNumber": 7,
+        "nodeId": 162,
+        "needRarity": 1
+    },
+    {
+        "ID": 163,
+        "boardId": 10,
+        "number": 10,
+        "beforeNumber": 3,
+        "nodeId": 163,
+        "needRarity": 1
+    },
+    {
+        "ID": 164,
+        "boardId": 10,
+        "number": 11,
+        "beforeNumber": 10,
+        "nodeId": 164,
+        "needRarity": 1
+    },
+    {
+        "ID": 165,
+        "boardId": 10,
+        "number": 12,
+        "beforeNumber": 10,
+        "nodeId": 165,
+        "needRarity": 1
+    },
+    {
+        "ID": 166,
+        "boardId": 10,
+        "number": 13,
+        "beforeNumber": 3,
+        "nodeId": 166,
+        "needRarity": 1
+    },
+    {
+        "ID": 167,
+        "boardId": 10,
+        "number": 14,
+        "beforeNumber": 13,
+        "nodeId": 167,
+        "needRarity": 1
+    },
+    {
+        "ID": 168,
+        "boardId": 10,
+        "number": 15,
+        "beforeNumber": 13,
+        "nodeId": 168,
+        "needRarity": 1
+    },
+    {
+        "ID": 169,
+        "boardId": 10,
+        "number": 16,
+        "beforeNumber": 3,
+        "nodeId": 169,
+        "needRarity": 1
+    },
+    {
+        "ID": 170,
+        "boardId": 10,
+        "number": 17,
+        "beforeNumber": 16,
+        "nodeId": 170,
+        "needRarity": 1
+    },
+    {
+        "ID": 171,
+        "boardId": 11,
+        "number": 1,
+        "beforeNumber": 0,
+        "nodeId": 171,
+        "needRarity": 1
+    },
+    {
+        "ID": 172,
+        "boardId": 11,
+        "number": 2,
+        "beforeNumber": 1,
+        "nodeId": 172,
+        "needRarity": 1
+    },
+    {
+        "ID": 173,
+        "boardId": 11,
+        "number": 3,
+        "beforeNumber": 2,
+        "nodeId": 173,
+        "needRarity": 1
+    },
+    {
+        "ID": 174,
+        "boardId": 11,
+        "number": 4,
+        "beforeNumber": 3,
+        "nodeId": 174,
+        "needRarity": 1
+    },
+    {
+        "ID": 175,
+        "boardId": 11,
+        "number": 5,
+        "beforeNumber": 4,
+        "nodeId": 175,
+        "needRarity": 1
+    },
+    {
+        "ID": 176,
+        "boardId": 11,
+        "number": 6,
+        "beforeNumber": 4,
+        "nodeId": 176,
+        "needRarity": 1
+    },
+    {
+        "ID": 177,
+        "boardId": 11,
+        "number": 7,
+        "beforeNumber": 3,
+        "nodeId": 177,
+        "needRarity": 1
+    },
+    {
+        "ID": 178,
+        "boardId": 11,
+        "number": 8,
+        "beforeNumber": 7,
+        "nodeId": 178,
+        "needRarity": 1
+    },
+    {
+        "ID": 179,
+        "boardId": 11,
+        "number": 9,
+        "beforeNumber": 7,
+        "nodeId": 179,
+        "needRarity": 1
+    },
+    {
+        "ID": 180,
+        "boardId": 11,
+        "number": 10,
+        "beforeNumber": 3,
+        "nodeId": 180,
+        "needRarity": 1
+    },
+    {
+        "ID": 181,
+        "boardId": 11,
+        "number": 11,
+        "beforeNumber": 10,
+        "nodeId": 181,
+        "needRarity": 1
+    },
+    {
+        "ID": 182,
+        "boardId": 11,
+        "number": 12,
+        "beforeNumber": 10,
+        "nodeId": 182,
+        "needRarity": 1
+    },
+    {
+        "ID": 183,
+        "boardId": 11,
+        "number": 13,
+        "beforeNumber": 3,
+        "nodeId": 183,
+        "needRarity": 1
+    },
+    {
+        "ID": 184,
+        "boardId": 11,
+        "number": 14,
+        "beforeNumber": 13,
+        "nodeId": 184,
+        "needRarity": 1
+    },
+    {
+        "ID": 185,
+        "boardId": 11,
+        "number": 15,
+        "beforeNumber": 13,
+        "nodeId": 185,
+        "needRarity": 1
+    },
+    {
+        "ID": 186,
+        "boardId": 11,
+        "number": 16,
+        "beforeNumber": 3,
+        "nodeId": 186,
+        "needRarity": 1
+    },
+    {
+        "ID": 187,
+        "boardId": 11,
+        "number": 17,
+        "beforeNumber": 16,
+        "nodeId": 187,
+        "needRarity": 1
+    },
+    {
+        "ID": 188,
+        "boardId": 12,
+        "number": 1,
+        "beforeNumber": 0,
+        "nodeId": 188,
+        "needRarity": 1
+    },
+    {
+        "ID": 189,
+        "boardId": 12,
+        "number": 2,
+        "beforeNumber": 1,
+        "nodeId": 189,
+        "needRarity": 1
+    },
+    {
+        "ID": 190,
+        "boardId": 12,
+        "number": 3,
+        "beforeNumber": 2,
+        "nodeId": 190,
+        "needRarity": 1
+    },
+    {
+        "ID": 191,
+        "boardId": 12,
+        "number": 4,
+        "beforeNumber": 3,
+        "nodeId": 191,
+        "needRarity": 1
+    },
+    {
+        "ID": 192,
+        "boardId": 12,
+        "number": 5,
+        "beforeNumber": 4,
+        "nodeId": 192,
+        "needRarity": 1
+    },
+    {
+        "ID": 193,
+        "boardId": 12,
+        "number": 6,
+        "beforeNumber": 4,
+        "nodeId": 193,
+        "needRarity": 1
+    },
+    {
+        "ID": 194,
+        "boardId": 12,
+        "number": 7,
+        "beforeNumber": 3,
+        "nodeId": 194,
+        "needRarity": 1
+    },
+    {
+        "ID": 195,
+        "boardId": 12,
+        "number": 8,
+        "beforeNumber": 7,
+        "nodeId": 195,
+        "needRarity": 1
+    },
+    {
+        "ID": 196,
+        "boardId": 12,
+        "number": 9,
+        "beforeNumber": 7,
+        "nodeId": 196,
+        "needRarity": 1
+    },
+    {
+        "ID": 197,
+        "boardId": 12,
+        "number": 10,
+        "beforeNumber": 3,
+        "nodeId": 197,
+        "needRarity": 1
+    },
+    {
+        "ID": 198,
+        "boardId": 12,
+        "number": 11,
+        "beforeNumber": 10,
+        "nodeId": 198,
+        "needRarity": 1
+    },
+    {
+        "ID": 199,
+        "boardId": 12,
+        "number": 12,
+        "beforeNumber": 10,
+        "nodeId": 199,
+        "needRarity": 1
+    },
+    {
+        "ID": 200,
+        "boardId": 12,
+        "number": 13,
+        "beforeNumber": 3,
+        "nodeId": 200,
+        "needRarity": 1
+    },
+    {
+        "ID": 201,
+        "boardId": 12,
+        "number": 14,
+        "beforeNumber": 13,
+        "nodeId": 201,
+        "needRarity": 1
+    },
+    {
+        "ID": 202,
+        "boardId": 12,
+        "number": 15,
+        "beforeNumber": 13,
+        "nodeId": 202,
+        "needRarity": 1
+    },
+    {
+        "ID": 203,
+        "boardId": 12,
+        "number": 16,
+        "beforeNumber": 3,
+        "nodeId": 203,
+        "needRarity": 1
+    },
+    {
+        "ID": 204,
+        "boardId": 12,
+        "number": 17,
+        "beforeNumber": 16,
+        "nodeId": 204,
+        "needRarity": 1
+    },
+    {
+        "ID": 205,
+        "boardId": 13,
+        "number": 1,
+        "beforeNumber": 0,
+        "nodeId": 205,
+        "needRarity": 1
+    },
+    {
+        "ID": 206,
+        "boardId": 13,
+        "number": 2,
+        "beforeNumber": 1,
+        "nodeId": 206,
+        "needRarity": 1
+    },
+    {
+        "ID": 207,
+        "boardId": 13,
+        "number": 3,
+        "beforeNumber": 2,
+        "nodeId": 207,
+        "needRarity": 1
+    },
+    {
+        "ID": 208,
+        "boardId": 13,
+        "number": 4,
+        "beforeNumber": 3,
+        "nodeId": 208,
+        "needRarity": 1
+    },
+    {
+        "ID": 209,
+        "boardId": 13,
+        "number": 5,
+        "beforeNumber": 4,
+        "nodeId": 209,
+        "needRarity": 1
+    },
+    {
+        "ID": 210,
+        "boardId": 13,
+        "number": 6,
+        "beforeNumber": 4,
+        "nodeId": 210,
+        "needRarity": 1
+    },
+    {
+        "ID": 211,
+        "boardId": 13,
+        "number": 7,
+        "beforeNumber": 3,
+        "nodeId": 211,
+        "needRarity": 1
+    },
+    {
+        "ID": 212,
+        "boardId": 13,
+        "number": 8,
+        "beforeNumber": 7,
+        "nodeId": 212,
+        "needRarity": 1
+    },
+    {
+        "ID": 213,
+        "boardId": 13,
+        "number": 9,
+        "beforeNumber": 7,
+        "nodeId": 213,
+        "needRarity": 1
+    },
+    {
+        "ID": 214,
+        "boardId": 13,
+        "number": 10,
+        "beforeNumber": 3,
+        "nodeId": 214,
+        "needRarity": 1
+    },
+    {
+        "ID": 215,
+        "boardId": 13,
+        "number": 11,
+        "beforeNumber": 10,
+        "nodeId": 215,
+        "needRarity": 1
+    },
+    {
+        "ID": 216,
+        "boardId": 13,
+        "number": 12,
+        "beforeNumber": 10,
+        "nodeId": 216,
+        "needRarity": 1
+    },
+    {
+        "ID": 217,
+        "boardId": 13,
+        "number": 13,
+        "beforeNumber": 3,
+        "nodeId": 217,
+        "needRarity": 1
+    },
+    {
+        "ID": 218,
+        "boardId": 13,
+        "number": 14,
+        "beforeNumber": 13,
+        "nodeId": 218,
+        "needRarity": 1
+    },
+    {
+        "ID": 219,
+        "boardId": 13,
+        "number": 15,
+        "beforeNumber": 13,
+        "nodeId": 219,
+        "needRarity": 1
+    },
+    {
+        "ID": 220,
+        "boardId": 13,
+        "number": 16,
+        "beforeNumber": 3,
+        "nodeId": 220,
+        "needRarity": 1
+    },
+    {
+        "ID": 221,
+        "boardId": 13,
+        "number": 17,
+        "beforeNumber": 16,
+        "nodeId": 221,
+        "needRarity": 1
+    },
+    {
+        "ID": 222,
+        "boardId": 14,
+        "number": 1,
+        "beforeNumber": 0,
+        "nodeId": 222,
+        "needRarity": 1
+    },
+    {
+        "ID": 223,
+        "boardId": 14,
+        "number": 2,
+        "beforeNumber": 1,
+        "nodeId": 223,
+        "needRarity": 1
+    },
+    {
+        "ID": 224,
+        "boardId": 14,
+        "number": 3,
+        "beforeNumber": 2,
+        "nodeId": 224,
+        "needRarity": 1
+    },
+    {
+        "ID": 225,
+        "boardId": 14,
+        "number": 4,
+        "beforeNumber": 3,
+        "nodeId": 225,
+        "needRarity": 1
+    },
+    {
+        "ID": 226,
+        "boardId": 14,
+        "number": 5,
+        "beforeNumber": 4,
+        "nodeId": 226,
+        "needRarity": 1
+    },
+    {
+        "ID": 227,
+        "boardId": 14,
+        "number": 6,
+        "beforeNumber": 4,
+        "nodeId": 227,
+        "needRarity": 1
+    },
+    {
+        "ID": 228,
+        "boardId": 14,
+        "number": 7,
+        "beforeNumber": 3,
+        "nodeId": 228,
+        "needRarity": 1
+    },
+    {
+        "ID": 229,
+        "boardId": 14,
+        "number": 8,
+        "beforeNumber": 7,
+        "nodeId": 229,
+        "needRarity": 1
+    },
+    {
+        "ID": 230,
+        "boardId": 14,
+        "number": 9,
+        "beforeNumber": 7,
+        "nodeId": 230,
+        "needRarity": 1
+    },
+    {
+        "ID": 231,
+        "boardId": 14,
+        "number": 10,
+        "beforeNumber": 3,
+        "nodeId": 231,
+        "needRarity": 1
+    },
+    {
+        "ID": 232,
+        "boardId": 14,
+        "number": 11,
+        "beforeNumber": 10,
+        "nodeId": 232,
+        "needRarity": 1
+    },
+    {
+        "ID": 233,
+        "boardId": 14,
+        "number": 12,
+        "beforeNumber": 10,
+        "nodeId": 233,
+        "needRarity": 1
+    },
+    {
+        "ID": 234,
+        "boardId": 14,
+        "number": 13,
+        "beforeNumber": 3,
+        "nodeId": 234,
+        "needRarity": 1
+    },
+    {
+        "ID": 235,
+        "boardId": 14,
+        "number": 14,
+        "beforeNumber": 13,
+        "nodeId": 235,
+        "needRarity": 1
+    },
+    {
+        "ID": 236,
+        "boardId": 14,
+        "number": 15,
+        "beforeNumber": 13,
+        "nodeId": 236,
+        "needRarity": 1
+    },
+    {
+        "ID": 237,
+        "boardId": 14,
+        "number": 16,
+        "beforeNumber": 3,
+        "nodeId": 237,
+        "needRarity": 1
+    },
+    {
+        "ID": 238,
+        "boardId": 14,
+        "number": 17,
+        "beforeNumber": 16,
+        "nodeId": 238,
+        "needRarity": 1
+    },
+    {
+        "ID": 239,
+        "boardId": 15,
+        "number": 1,
+        "beforeNumber": 0,
+        "nodeId": 239,
+        "needRarity": 1
+    },
+    {
+        "ID": 240,
+        "boardId": 15,
+        "number": 2,
+        "beforeNumber": 1,
+        "nodeId": 240,
+        "needRarity": 1
+    },
+    {
+        "ID": 241,
+        "boardId": 15,
+        "number": 3,
+        "beforeNumber": 2,
+        "nodeId": 241,
+        "needRarity": 1
+    },
+    {
+        "ID": 242,
+        "boardId": 15,
+        "number": 4,
+        "beforeNumber": 3,
+        "nodeId": 242,
+        "needRarity": 1
+    },
+    {
+        "ID": 243,
+        "boardId": 15,
+        "number": 5,
+        "beforeNumber": 4,
+        "nodeId": 243,
+        "needRarity": 1
+    },
+    {
+        "ID": 244,
+        "boardId": 15,
+        "number": 6,
+        "beforeNumber": 4,
+        "nodeId": 244,
+        "needRarity": 1
+    },
+    {
+        "ID": 245,
+        "boardId": 15,
+        "number": 7,
+        "beforeNumber": 3,
+        "nodeId": 245,
+        "needRarity": 1
+    },
+    {
+        "ID": 246,
+        "boardId": 15,
+        "number": 8,
+        "beforeNumber": 7,
+        "nodeId": 246,
+        "needRarity": 1
+    },
+    {
+        "ID": 247,
+        "boardId": 15,
+        "number": 9,
+        "beforeNumber": 7,
+        "nodeId": 247,
+        "needRarity": 1
+    },
+    {
+        "ID": 248,
+        "boardId": 15,
+        "number": 10,
+        "beforeNumber": 3,
+        "nodeId": 248,
+        "needRarity": 1
+    },
+    {
+        "ID": 249,
+        "boardId": 15,
+        "number": 11,
+        "beforeNumber": 10,
+        "nodeId": 249,
+        "needRarity": 1
+    },
+    {
+        "ID": 250,
+        "boardId": 15,
+        "number": 12,
+        "beforeNumber": 10,
+        "nodeId": 250,
+        "needRarity": 1
+    },
+    {
+        "ID": 251,
+        "boardId": 15,
+        "number": 13,
+        "beforeNumber": 3,
+        "nodeId": 251,
+        "needRarity": 1
+    },
+    {
+        "ID": 252,
+        "boardId": 15,
+        "number": 14,
+        "beforeNumber": 13,
+        "nodeId": 252,
+        "needRarity": 1
+    },
+    {
+        "ID": 253,
+        "boardId": 15,
+        "number": 15,
+        "beforeNumber": 13,
+        "nodeId": 253,
+        "needRarity": 1
+    },
+    {
+        "ID": 254,
+        "boardId": 15,
+        "number": 16,
+        "beforeNumber": 3,
+        "nodeId": 254,
+        "needRarity": 1
+    },
+    {
+        "ID": 255,
+        "boardId": 15,
+        "number": 17,
+        "beforeNumber": 16,
+        "nodeId": 255,
+        "needRarity": 1
+    },
+    {
+        "ID": 256,
+        "boardId": 16,
+        "number": 1,
+        "beforeNumber": 0,
+        "nodeId": 256,
+        "needRarity": 1
+    },
+    {
+        "ID": 257,
+        "boardId": 16,
+        "number": 2,
+        "beforeNumber": 1,
+        "nodeId": 257,
+        "needRarity": 1
+    },
+    {
+        "ID": 258,
+        "boardId": 16,
+        "number": 3,
+        "beforeNumber": 2,
+        "nodeId": 258,
+        "needRarity": 1
+    },
+    {
+        "ID": 259,
+        "boardId": 16,
+        "number": 4,
+        "beforeNumber": 3,
+        "nodeId": 259,
+        "needRarity": 1
+    },
+    {
+        "ID": 260,
+        "boardId": 16,
+        "number": 5,
+        "beforeNumber": 4,
+        "nodeId": 260,
+        "needRarity": 1
+    },
+    {
+        "ID": 261,
+        "boardId": 16,
+        "number": 6,
+        "beforeNumber": 4,
+        "nodeId": 261,
+        "needRarity": 1
+    },
+    {
+        "ID": 262,
+        "boardId": 16,
+        "number": 7,
+        "beforeNumber": 3,
+        "nodeId": 262,
+        "needRarity": 1
+    },
+    {
+        "ID": 263,
+        "boardId": 16,
+        "number": 8,
+        "beforeNumber": 7,
+        "nodeId": 263,
+        "needRarity": 1
+    },
+    {
+        "ID": 264,
+        "boardId": 16,
+        "number": 9,
+        "beforeNumber": 7,
+        "nodeId": 264,
+        "needRarity": 1
+    },
+    {
+        "ID": 265,
+        "boardId": 16,
+        "number": 10,
+        "beforeNumber": 3,
+        "nodeId": 265,
+        "needRarity": 1
+    },
+    {
+        "ID": 266,
+        "boardId": 16,
+        "number": 11,
+        "beforeNumber": 10,
+        "nodeId": 266,
+        "needRarity": 1
+    },
+    {
+        "ID": 267,
+        "boardId": 16,
+        "number": 12,
+        "beforeNumber": 10,
+        "nodeId": 267,
+        "needRarity": 1
+    },
+    {
+        "ID": 268,
+        "boardId": 16,
+        "number": 13,
+        "beforeNumber": 3,
+        "nodeId": 268,
+        "needRarity": 1
+    },
+    {
+        "ID": 269,
+        "boardId": 16,
+        "number": 14,
+        "beforeNumber": 13,
+        "nodeId": 269,
+        "needRarity": 1
+    },
+    {
+        "ID": 270,
+        "boardId": 16,
+        "number": 15,
+        "beforeNumber": 13,
+        "nodeId": 270,
+        "needRarity": 1
+    },
+    {
+        "ID": 271,
+        "boardId": 16,
+        "number": 16,
+        "beforeNumber": 3,
+        "nodeId": 271,
+        "needRarity": 1
+    },
+    {
+        "ID": 272,
+        "boardId": 16,
+        "number": 17,
+        "beforeNumber": 16,
+        "nodeId": 272,
+        "needRarity": 1
+    },
+    {
+        "ID": 273,
+        "boardId": 17,
+        "number": 1,
+        "beforeNumber": 0,
+        "nodeId": 273,
+        "needRarity": 1
+    },
+    {
+        "ID": 274,
+        "boardId": 17,
+        "number": 2,
+        "beforeNumber": 1,
+        "nodeId": 274,
+        "needRarity": 1
+    },
+    {
+        "ID": 275,
+        "boardId": 17,
+        "number": 3,
+        "beforeNumber": 2,
+        "nodeId": 275,
+        "needRarity": 1
+    },
+    {
+        "ID": 276,
+        "boardId": 17,
+        "number": 4,
+        "beforeNumber": 3,
+        "nodeId": 276,
+        "needRarity": 1
+    },
+    {
+        "ID": 277,
+        "boardId": 17,
+        "number": 5,
+        "beforeNumber": 4,
+        "nodeId": 277,
+        "needRarity": 1
+    },
+    {
+        "ID": 278,
+        "boardId": 17,
+        "number": 6,
+        "beforeNumber": 4,
+        "nodeId": 278,
+        "needRarity": 1
+    },
+    {
+        "ID": 279,
+        "boardId": 17,
+        "number": 7,
+        "beforeNumber": 3,
+        "nodeId": 279,
+        "needRarity": 1
+    },
+    {
+        "ID": 280,
+        "boardId": 17,
+        "number": 8,
+        "beforeNumber": 7,
+        "nodeId": 280,
+        "needRarity": 1
+    },
+    {
+        "ID": 281,
+        "boardId": 17,
+        "number": 9,
+        "beforeNumber": 7,
+        "nodeId": 281,
+        "needRarity": 1
+    },
+    {
+        "ID": 282,
+        "boardId": 17,
+        "number": 10,
+        "beforeNumber": 3,
+        "nodeId": 282,
+        "needRarity": 1
+    },
+    {
+        "ID": 283,
+        "boardId": 17,
+        "number": 11,
+        "beforeNumber": 10,
+        "nodeId": 283,
+        "needRarity": 1
+    },
+    {
+        "ID": 284,
+        "boardId": 17,
+        "number": 12,
+        "beforeNumber": 10,
+        "nodeId": 284,
+        "needRarity": 1
+    },
+    {
+        "ID": 285,
+        "boardId": 17,
+        "number": 13,
+        "beforeNumber": 3,
+        "nodeId": 285,
+        "needRarity": 1
+    },
+    {
+        "ID": 286,
+        "boardId": 17,
+        "number": 14,
+        "beforeNumber": 13,
+        "nodeId": 286,
+        "needRarity": 1
+    },
+    {
+        "ID": 287,
+        "boardId": 17,
+        "number": 15,
+        "beforeNumber": 13,
+        "nodeId": 287,
+        "needRarity": 1
+    },
+    {
+        "ID": 288,
+        "boardId": 17,
+        "number": 16,
+        "beforeNumber": 3,
+        "nodeId": 288,
+        "needRarity": 1
+    },
+    {
+        "ID": 289,
+        "boardId": 17,
+        "number": 17,
+        "beforeNumber": 16,
+        "nodeId": 289,
+        "needRarity": 1
+    },
+    {
+        "ID": 290,
+        "boardId": 18,
+        "number": 1,
+        "beforeNumber": 0,
+        "nodeId": 290,
+        "needRarity": 1
+    },
+    {
+        "ID": 291,
+        "boardId": 18,
+        "number": 2,
+        "beforeNumber": 1,
+        "nodeId": 291,
+        "needRarity": 1
+    },
+    {
+        "ID": 292,
+        "boardId": 18,
+        "number": 3,
+        "beforeNumber": 2,
+        "nodeId": 292,
+        "needRarity": 1
+    },
+    {
+        "ID": 293,
+        "boardId": 18,
+        "number": 4,
+        "beforeNumber": 3,
+        "nodeId": 293,
+        "needRarity": 1
+    },
+    {
+        "ID": 294,
+        "boardId": 18,
+        "number": 5,
+        "beforeNumber": 4,
+        "nodeId": 294,
+        "needRarity": 1
+    },
+    {
+        "ID": 295,
+        "boardId": 18,
+        "number": 6,
+        "beforeNumber": 4,
+        "nodeId": 295,
+        "needRarity": 1
+    },
+    {
+        "ID": 296,
+        "boardId": 18,
+        "number": 7,
+        "beforeNumber": 3,
+        "nodeId": 296,
+        "needRarity": 1
+    },
+    {
+        "ID": 297,
+        "boardId": 18,
+        "number": 8,
+        "beforeNumber": 7,
+        "nodeId": 297,
+        "needRarity": 1
+    },
+    {
+        "ID": 298,
+        "boardId": 18,
+        "number": 9,
+        "beforeNumber": 7,
+        "nodeId": 298,
+        "needRarity": 1
+    },
+    {
+        "ID": 299,
+        "boardId": 18,
+        "number": 10,
+        "beforeNumber": 3,
+        "nodeId": 299,
+        "needRarity": 1
+    },
+    {
+        "ID": 300,
+        "boardId": 18,
+        "number": 11,
+        "beforeNumber": 10,
+        "nodeId": 300,
+        "needRarity": 1
+    },
+    {
+        "ID": 301,
+        "boardId": 18,
+        "number": 12,
+        "beforeNumber": 10,
+        "nodeId": 301,
+        "needRarity": 1
+    },
+    {
+        "ID": 302,
+        "boardId": 18,
+        "number": 13,
+        "beforeNumber": 3,
+        "nodeId": 302,
+        "needRarity": 1
+    },
+    {
+        "ID": 303,
+        "boardId": 18,
+        "number": 14,
+        "beforeNumber": 13,
+        "nodeId": 303,
+        "needRarity": 1
+    },
+    {
+        "ID": 304,
+        "boardId": 18,
+        "number": 15,
+        "beforeNumber": 13,
+        "nodeId": 304,
+        "needRarity": 1
+    },
+    {
+        "ID": 305,
+        "boardId": 18,
+        "number": 16,
+        "beforeNumber": 3,
+        "nodeId": 305,
+        "needRarity": 1
+    },
+    {
+        "ID": 306,
+        "boardId": 18,
+        "number": 17,
+        "beforeNumber": 16,
+        "nodeId": 306,
+        "needRarity": 1
+    },
+    {
+        "ID": 307,
+        "boardId": 19,
+        "number": 1,
+        "beforeNumber": 0,
+        "nodeId": 307,
+        "needRarity": 1
+    },
+    {
+        "ID": 308,
+        "boardId": 19,
+        "number": 2,
+        "beforeNumber": 1,
+        "nodeId": 308,
+        "needRarity": 1
+    },
+    {
+        "ID": 309,
+        "boardId": 19,
+        "number": 3,
+        "beforeNumber": 2,
+        "nodeId": 309,
+        "needRarity": 1
+    },
+    {
+        "ID": 310,
+        "boardId": 19,
+        "number": 4,
+        "beforeNumber": 3,
+        "nodeId": 310,
+        "needRarity": 1
+    },
+    {
+        "ID": 311,
+        "boardId": 19,
+        "number": 5,
+        "beforeNumber": 4,
+        "nodeId": 311,
+        "needRarity": 1
+    },
+    {
+        "ID": 312,
+        "boardId": 19,
+        "number": 6,
+        "beforeNumber": 4,
+        "nodeId": 312,
+        "needRarity": 1
+    },
+    {
+        "ID": 313,
+        "boardId": 19,
+        "number": 7,
+        "beforeNumber": 3,
+        "nodeId": 313,
+        "needRarity": 1
+    },
+    {
+        "ID": 314,
+        "boardId": 19,
+        "number": 8,
+        "beforeNumber": 7,
+        "nodeId": 314,
+        "needRarity": 1
+    },
+    {
+        "ID": 315,
+        "boardId": 19,
+        "number": 9,
+        "beforeNumber": 7,
+        "nodeId": 315,
+        "needRarity": 1
+    },
+    {
+        "ID": 316,
+        "boardId": 19,
+        "number": 10,
+        "beforeNumber": 3,
+        "nodeId": 316,
+        "needRarity": 1
+    },
+    {
+        "ID": 317,
+        "boardId": 19,
+        "number": 11,
+        "beforeNumber": 10,
+        "nodeId": 317,
+        "needRarity": 1
+    },
+    {
+        "ID": 318,
+        "boardId": 19,
+        "number": 12,
+        "beforeNumber": 10,
+        "nodeId": 318,
+        "needRarity": 1
+    },
+    {
+        "ID": 319,
+        "boardId": 19,
+        "number": 13,
+        "beforeNumber": 3,
+        "nodeId": 319,
+        "needRarity": 1
+    },
+    {
+        "ID": 320,
+        "boardId": 19,
+        "number": 14,
+        "beforeNumber": 13,
+        "nodeId": 320,
+        "needRarity": 1
+    },
+    {
+        "ID": 321,
+        "boardId": 19,
+        "number": 15,
+        "beforeNumber": 13,
+        "nodeId": 321,
+        "needRarity": 1
+    },
+    {
+        "ID": 322,
+        "boardId": 19,
+        "number": 16,
+        "beforeNumber": 3,
+        "nodeId": 322,
+        "needRarity": 1
+    },
+    {
+        "ID": 323,
+        "boardId": 19,
+        "number": 17,
+        "beforeNumber": 16,
+        "nodeId": 323,
+        "needRarity": 1
+    },
+    {
+        "ID": 324,
+        "boardId": 20,
+        "number": 1,
+        "beforeNumber": 0,
+        "nodeId": 324,
+        "needRarity": 1
+    },
+    {
+        "ID": 325,
+        "boardId": 20,
+        "number": 2,
+        "beforeNumber": 1,
+        "nodeId": 325,
+        "needRarity": 1
+    },
+    {
+        "ID": 326,
+        "boardId": 20,
+        "number": 3,
+        "beforeNumber": 2,
+        "nodeId": 326,
+        "needRarity": 1
+    },
+    {
+        "ID": 327,
+        "boardId": 20,
+        "number": 4,
+        "beforeNumber": 3,
+        "nodeId": 327,
+        "needRarity": 1
+    },
+    {
+        "ID": 328,
+        "boardId": 20,
+        "number": 5,
+        "beforeNumber": 4,
+        "nodeId": 328,
+        "needRarity": 1
+    },
+    {
+        "ID": 329,
+        "boardId": 20,
+        "number": 6,
+        "beforeNumber": 4,
+        "nodeId": 329,
+        "needRarity": 1
+    },
+    {
+        "ID": 330,
+        "boardId": 20,
+        "number": 7,
+        "beforeNumber": 3,
+        "nodeId": 330,
+        "needRarity": 1
+    },
+    {
+        "ID": 331,
+        "boardId": 20,
+        "number": 8,
+        "beforeNumber": 7,
+        "nodeId": 331,
+        "needRarity": 1
+    },
+    {
+        "ID": 332,
+        "boardId": 20,
+        "number": 9,
+        "beforeNumber": 7,
+        "nodeId": 332,
+        "needRarity": 1
+    },
+    {
+        "ID": 333,
+        "boardId": 20,
+        "number": 10,
+        "beforeNumber": 3,
+        "nodeId": 333,
+        "needRarity": 1
+    },
+    {
+        "ID": 334,
+        "boardId": 20,
+        "number": 11,
+        "beforeNumber": 10,
+        "nodeId": 334,
+        "needRarity": 1
+    },
+    {
+        "ID": 335,
+        "boardId": 20,
+        "number": 12,
+        "beforeNumber": 10,
+        "nodeId": 335,
+        "needRarity": 1
+    },
+    {
+        "ID": 336,
+        "boardId": 20,
+        "number": 13,
+        "beforeNumber": 3,
+        "nodeId": 336,
+        "needRarity": 1
+    },
+    {
+        "ID": 337,
+        "boardId": 20,
+        "number": 14,
+        "beforeNumber": 13,
+        "nodeId": 337,
+        "needRarity": 1
+    },
+    {
+        "ID": 338,
+        "boardId": 20,
+        "number": 15,
+        "beforeNumber": 13,
+        "nodeId": 338,
+        "needRarity": 1
+    },
+    {
+        "ID": 339,
+        "boardId": 20,
+        "number": 16,
+        "beforeNumber": 3,
+        "nodeId": 339,
+        "needRarity": 1
+    },
+    {
+        "ID": 340,
+        "boardId": 20,
+        "number": 17,
+        "beforeNumber": 16,
+        "nodeId": 340,
+        "needRarity": 1
+    }
+]

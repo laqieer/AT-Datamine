@@ -1,0 +1,30 @@
+[
+    {
+        "ID": 1,
+        "availableOnBuild": true
+    },
+    {
+        "ID": 2,
+        "availableOnBuild": true
+    },
+    {
+        "ID": 3,
+        "availableOnBuild": true
+    },
+    {
+        "ID": 4,
+        "availableOnBuild": true
+    },
+    {
+        "ID": 5,
+        "availableOnBuild": false
+    },
+    {
+        "ID": 6,
+        "availableOnBuild": false
+    },
+    {
+        "ID": 7,
+        "availableOnBuild": false
+    }
+]

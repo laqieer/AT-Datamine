@@ -1,0 +1,51 @@
+[
+    {
+        "ID": 1,
+        "name": "無属性マスター",
+        "target": 1,
+        "category": 1,
+        "exp": 1
+    },
+    {
+        "ID": 2,
+        "name": "炎属性マスター",
+        "target": 2,
+        "category": 2,
+        "exp": 1
+    },
+    {
+        "ID": 3,
+        "name": "氷属性マスター",
+        "target": 3,
+        "category": 3,
+        "exp": 1
+    },
+    {
+        "ID": 4,
+        "name": "雷属性マスター",
+        "target": 4,
+        "category": 5,
+        "exp": 1
+    },
+    {
+        "ID": 5,
+        "name": "風属性マスター",
+        "target": 5,
+        "category": 4,
+        "exp": 1
+    },
+    {
+        "ID": 6,
+        "name": "光属性マスター",
+        "target": 6,
+        "category": 6,
+        "exp": 1
+    },
+    {
+        "ID": 7,
+        "name": "闇属性マスター",
+        "target": 7,
+        "category": 7,
+        "exp": 1
+    }
+]

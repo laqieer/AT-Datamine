@@ -1,0 +1,26 @@
+[
+    {
+        "ID": 1,
+        "name": "ゼニー",
+        "requiredContributionPoint": 0,
+        "rewardType": 3,
+        "rewardID": 201010001,
+        "amount": 1000
+    },
+    {
+        "ID": 2,
+        "name": "ギルドコイン",
+        "requiredContributionPoint": 0,
+        "rewardType": 3,
+        "rewardID": 201010001,
+        "amount": 1
+    },
+    {
+        "ID": 3,
+        "name": "ノワールのかけら",
+        "requiredContributionPoint": 100,
+        "rewardType": 7,
+        "rewardID": 101009001,
+        "amount": 1
+    }
+]

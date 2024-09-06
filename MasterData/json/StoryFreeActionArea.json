@@ -1,0 +1,266 @@
+[
+    {
+        "ID": 0,
+        "Name": "なし",
+        "order": 0,
+        "region": 1,
+        "areaID": 0,
+        "sameAreaClassificationID": 0
+    },
+    {
+        "ID": 100,
+        "Name": "0章:教室",
+        "order": 100,
+        "region": 1,
+        "areaID": 100011,
+        "sameAreaClassificationID": 0
+    },
+    {
+        "ID": 101,
+        "Name": "0章:武器庫",
+        "order": 101,
+        "region": 1,
+        "areaID": 100021,
+        "sameAreaClassificationID": 0
+    },
+    {
+        "ID": 200,
+        "Name": "1章:屋上",
+        "order": 200,
+        "region": 102,
+        "areaID": 110041,
+        "sameAreaClassificationID": 0
+    },
+    {
+        "ID": 201,
+        "Name": "1章:廊下2F",
+        "order": 201,
+        "region": 100,
+        "areaID": 110191,
+        "sameAreaClassificationID": 0
+    },
+    {
+        "ID": 202,
+        "Name": "1章:教室1",
+        "order": 202,
+        "region": 100,
+        "areaID": 110011,
+        "sameAreaClassificationID": 0
+    },
+    {
+        "ID": 203,
+        "Name": "1章:教室2",
+        "order": 203,
+        "region": 100,
+        "areaID": 110161,
+        "sameAreaClassificationID": 0
+    },
+    {
+        "ID": 204,
+        "Name": "1章:教室3",
+        "order": 204,
+        "region": 100,
+        "areaID": 110171,
+        "sameAreaClassificationID": 0
+    },
+    {
+        "ID": 205,
+        "Name": "1章:教室4",
+        "order": 205,
+        "region": 100,
+        "areaID": 110181,
+        "sameAreaClassificationID": 0
+    },
+    {
+        "ID": 206,
+        "Name": "1章:廊下1F",
+        "order": 206,
+        "region": 101,
+        "areaID": 110031,
+        "sameAreaClassificationID": 0
+    },
+    {
+        "ID": 207,
+        "Name": "1章:教室5",
+        "order": 207,
+        "region": 101,
+        "areaID": 110011,
+        "sameAreaClassificationID": 0
+    },
+    {
+        "ID": 208,
+        "Name": "1章:大図書院",
+        "order": 208,
+        "region": 101,
+        "areaID": 110061,
+        "sameAreaClassificationID": 0
+    },
+    {
+        "ID": 209,
+        "Name": "1章:講堂",
+        "order": 209,
+        "region": 101,
+        "areaID": 110131,
+        "sameAreaClassificationID": 1
+    },
+    {
+        "ID": 210,
+        "Name": "1章:講堂_武道場",
+        "order": 210,
+        "region": 101,
+        "areaID": 110231,
+        "sameAreaClassificationID": 1
+    },
+    {
+        "ID": 211,
+        "Name": "1章:講堂_講演会",
+        "order": 211,
+        "region": 101,
+        "areaID": 110241,
+        "sameAreaClassificationID": 1
+    },
+    {
+        "ID": 212,
+        "Name": "1章:講堂_劇準備",
+        "order": 212,
+        "region": 101,
+        "areaID": 110251,
+        "sameAreaClassificationID": 1
+    },
+    {
+        "ID": 213,
+        "Name": "1章:講堂_劇当日",
+        "order": 213,
+        "region": 101,
+        "areaID": 110261,
+        "sameAreaClassificationID": 1
+    },
+    {
+        "ID": 214,
+        "Name": "1章:講堂_パーティ",
+        "order": 214,
+        "region": 101,
+        "areaID": 110271,
+        "sameAreaClassificationID": 1
+    },
+    {
+        "ID": 215,
+        "Name": "1章:病室",
+        "order": 215,
+        "region": 101,
+        "areaID": 110141,
+        "sameAreaClassificationID": 0
+    },
+    {
+        "ID": 216,
+        "Name": "1章:エントランス",
+        "order": 216,
+        "region": 101,
+        "areaID": 110021,
+        "sameAreaClassificationID": 0
+    },
+    {
+        "ID": 217,
+        "Name": "1章:円卓の間",
+        "order": 217,
+        "region": 101,
+        "areaID": 110051,
+        "sameAreaClassificationID": 0
+    },
+    {
+        "ID": 218,
+        "Name": "1章:前庭",
+        "order": 218,
+        "region": 103,
+        "areaID": 110071,
+        "sameAreaClassificationID": 0
+    },
+    {
+        "ID": 219,
+        "Name": "1章:食堂前",
+        "order": 219,
+        "region": 103,
+        "areaID": 110081,
+        "sameAreaClassificationID": 0
+    },
+    {
+        "ID": 220,
+        "Name": "1章:食堂",
+        "order": 220,
+        "region": 103,
+        "areaID": 110122,
+        "sameAreaClassificationID": 0
+    },
+    {
+        "ID": 221,
+        "Name": "1章:大聖堂前",
+        "order": 221,
+        "region": 103,
+        "areaID": 110091,
+        "sameAreaClassificationID": 0
+    },
+    {
+        "ID": 222,
+        "Name": "1章:大聖堂",
+        "order": 222,
+        "region": 103,
+        "areaID": 110101,
+        "sameAreaClassificationID": 0
+    },
+    {
+        "ID": 223,
+        "Name": "1章:遺跡",
+        "order": 223,
+        "region": 103,
+        "areaID": 112011,
+        "sameAreaClassificationID": 0
+    },
+    {
+        "ID": 224,
+        "Name": "1章:ログレス城下町",
+        "order": 224,
+        "region": 104,
+        "areaID": 110111,
+        "sameAreaClassificationID": 0
+    },
+    {
+        "ID": 225,
+        "Name": "1章:中央マーケット",
+        "order": 225,
+        "region": 104,
+        "areaID": 112021,
+        "sameAreaClassificationID": 0
+    },
+    {
+        "ID": 226,
+        "Name": "1章:ログレス大工房",
+        "order": 226,
+        "region": 104,
+        "areaID": 112031,
+        "sameAreaClassificationID": 0
+    },
+    {
+        "ID": 227,
+        "Name": "1章:酒場",
+        "order": 227,
+        "region": 104,
+        "areaID": 112041,
+        "sameAreaClassificationID": 0
+    },
+    {
+        "ID": 228,
+        "Name": "1章:ログレス住居区",
+        "order": 228,
+        "region": 104,
+        "areaID": 110151,
+        "sameAreaClassificationID": 0
+    },
+    {
+        "ID": 229,
+        "Name": "1章:談話室",
+        "order": 229,
+        "region": 104,
+        "areaID": 110901,
+        "sameAreaClassificationID": 0
+    }
+]

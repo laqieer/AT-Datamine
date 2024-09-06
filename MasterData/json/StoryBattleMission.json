@@ -1,0 +1,16 @@
+[
+    {
+        "ID": 1,
+        "missionSet": 1,
+        "rewardGroupId": 1,
+        "missionType1": 11,
+        "value1": 10,
+        "value2": 0,
+        "missionType2": 1,
+        "value3": 0,
+        "value4": 0,
+        "missionType3": 1,
+        "value5": 0,
+        "value6": 0
+    }
+]

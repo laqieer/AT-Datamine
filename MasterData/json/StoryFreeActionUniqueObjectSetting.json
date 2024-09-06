@@ -1,0 +1,932 @@
+[
+    {
+        "ID": 90,
+        "groupLabel": 99,
+        "objectName": "geo_chair_10",
+        "visible": true,
+        "offsetPosX": -0.6000000238418579,
+        "offsetPosY": 0.0,
+        "offsetPosZ": 0.4000000059604645,
+        "rotationY": 90.0
+    },
+    {
+        "ID": 91,
+        "groupLabel": 99,
+        "objectName": "geo_chair_11",
+        "visible": true,
+        "offsetPosX": -0.15000000596046448,
+        "offsetPosY": 0.0,
+        "offsetPosZ": 0.0,
+        "rotationY": 0.0
+    },
+    {
+        "ID": 92,
+        "groupLabel": 99,
+        "objectName": "geo_chair_13",
+        "visible": true,
+        "offsetPosX": 0.10000000149011612,
+        "offsetPosY": 0.0,
+        "offsetPosZ": 0.0,
+        "rotationY": 0.0
+    },
+    {
+        "ID": 93,
+        "groupLabel": 99,
+        "objectName": "geo_chair_14",
+        "visible": true,
+        "offsetPosX": -0.10000000149011612,
+        "offsetPosY": 0.0,
+        "offsetPosZ": 0.0,
+        "rotationY": 0.0
+    },
+    {
+        "ID": 94,
+        "groupLabel": 99,
+        "objectName": "geo_chair_27",
+        "visible": true,
+        "offsetPosX": -0.699999988079071,
+        "offsetPosY": 0.0,
+        "offsetPosZ": 0.0,
+        "rotationY": 0.0
+    },
+    {
+        "ID": 95,
+        "groupLabel": 99,
+        "objectName": "geo_chair_33",
+        "visible": true,
+        "offsetPosX": -0.20000000298023224,
+        "offsetPosY": 0.0,
+        "offsetPosZ": -0.30000001192092896,
+        "rotationY": -60.0
+    },
+    {
+        "ID": 100,
+        "groupLabel": 100,
+        "objectName": "geo_chairC",
+        "visible": false,
+        "offsetPosX": 0.0,
+        "offsetPosY": 0.0,
+        "offsetPosZ": 0.0,
+        "rotationY": 0.0
+    },
+    {
+        "ID": 200,
+        "groupLabel": 200,
+        "objectName": "Pro_0027_L",
+        "visible": false,
+        "offsetPosX": 0.0,
+        "offsetPosY": 0.0,
+        "offsetPosZ": 0.0,
+        "rotationY": 0.0
+    },
+    {
+        "ID": 201,
+        "groupLabel": 200,
+        "objectName": "Pro_0027_R",
+        "visible": false,
+        "offsetPosX": 0.0,
+        "offsetPosY": 0.0,
+        "offsetPosZ": 0.0,
+        "rotationY": 0.0
+    },
+    {
+        "ID": 202,
+        "groupLabel": 200,
+        "objectName": "Pro_0028",
+        "visible": false,
+        "offsetPosX": 0.0,
+        "offsetPosY": 0.0,
+        "offsetPosZ": 0.0,
+        "rotationY": 0.0
+    },
+    {
+        "ID": 203,
+        "groupLabel": 200,
+        "objectName": "Pro_0030",
+        "visible": false,
+        "offsetPosX": 0.0,
+        "offsetPosY": 0.0,
+        "offsetPosZ": 0.0,
+        "rotationY": 0.0
+    },
+    {
+        "ID": 400,
+        "groupLabel": 400,
+        "objectName": "geo_cutlery_01",
+        "visible": false,
+        "offsetPosX": 0.0,
+        "offsetPosY": 0.0,
+        "offsetPosZ": 0.0,
+        "rotationY": 0.0
+    },
+    {
+        "ID": 401,
+        "groupLabel": 400,
+        "objectName": "geo_cutlery_02",
+        "visible": false,
+        "offsetPosX": 0.0,
+        "offsetPosY": 0.0,
+        "offsetPosZ": 0.0,
+        "rotationY": 0.0
+    },
+    {
+        "ID": 402,
+        "groupLabel": 400,
+        "objectName": "geo_cutlery_03",
+        "visible": true,
+        "offsetPosX": 0.0,
+        "offsetPosY": 0.0,
+        "offsetPosZ": 0.0,
+        "rotationY": 0.0
+    },
+    {
+        "ID": 403,
+        "groupLabel": 400,
+        "objectName": "geo_cutlery_04",
+        "visible": false,
+        "offsetPosX": 0.0,
+        "offsetPosY": 0.0,
+        "offsetPosZ": 0.0,
+        "rotationY": 0.0
+    },
+    {
+        "ID": 404,
+        "groupLabel": 400,
+        "objectName": "geo_cutlery_05",
+        "visible": false,
+        "offsetPosX": 0.0,
+        "offsetPosY": 0.0,
+        "offsetPosZ": 0.0,
+        "rotationY": 0.0
+    },
+    {
+        "ID": 405,
+        "groupLabel": 400,
+        "objectName": "geo_cutlery_06",
+        "visible": true,
+        "offsetPosX": 0.0,
+        "offsetPosY": 0.0,
+        "offsetPosZ": 0.0,
+        "rotationY": 0.0
+    },
+    {
+        "ID": 406,
+        "groupLabel": 400,
+        "objectName": "geo_cutlery_07",
+        "visible": false,
+        "offsetPosX": 0.0,
+        "offsetPosY": 0.0,
+        "offsetPosZ": 0.0,
+        "rotationY": 0.0
+    },
+    {
+        "ID": 407,
+        "groupLabel": 400,
+        "objectName": "geo_cutlery_08",
+        "visible": true,
+        "offsetPosX": 0.0,
+        "offsetPosY": 0.0,
+        "offsetPosZ": 0.0,
+        "rotationY": 0.0
+    },
+    {
+        "ID": 408,
+        "groupLabel": 400,
+        "objectName": "geo_cutlery_09",
+        "visible": false,
+        "offsetPosX": 0.0,
+        "offsetPosY": 0.0,
+        "offsetPosZ": 0.0,
+        "rotationY": 0.0
+    },
+    {
+        "ID": 409,
+        "groupLabel": 400,
+        "objectName": "geo_cutlery_10",
+        "visible": true,
+        "offsetPosX": 0.0,
+        "offsetPosY": 0.0,
+        "offsetPosZ": 0.0,
+        "rotationY": 0.0
+    },
+    {
+        "ID": 410,
+        "groupLabel": 400,
+        "objectName": "geo_cutlery_11",
+        "visible": false,
+        "offsetPosX": 0.0,
+        "offsetPosY": 0.0,
+        "offsetPosZ": 0.0,
+        "rotationY": 0.0
+    },
+    {
+        "ID": 411,
+        "groupLabel": 400,
+        "objectName": "geo_cutlery_12",
+        "visible": false,
+        "offsetPosX": 0.0,
+        "offsetPosY": 0.0,
+        "offsetPosZ": 0.0,
+        "rotationY": 0.0
+    },
+    {
+        "ID": 412,
+        "groupLabel": 400,
+        "objectName": "geo_cutlery_13",
+        "visible": false,
+        "offsetPosX": 0.0,
+        "offsetPosY": 0.0,
+        "offsetPosZ": 0.0,
+        "rotationY": 0.0
+    },
+    {
+        "ID": 413,
+        "groupLabel": 400,
+        "objectName": "geo_cutlery_14",
+        "visible": false,
+        "offsetPosX": 0.0,
+        "offsetPosY": 0.0,
+        "offsetPosZ": 0.0,
+        "rotationY": 0.0
+    },
+    {
+        "ID": 414,
+        "groupLabel": 400,
+        "objectName": "geo_cutlery_15",
+        "visible": false,
+        "offsetPosX": 0.0,
+        "offsetPosY": 0.0,
+        "offsetPosZ": 0.0,
+        "rotationY": 0.0
+    },
+    {
+        "ID": 415,
+        "groupLabel": 400,
+        "objectName": "geo_cutlery_16",
+        "visible": false,
+        "offsetPosX": 0.0,
+        "offsetPosY": 0.0,
+        "offsetPosZ": 0.0,
+        "rotationY": 0.0
+    },
+    {
+        "ID": 416,
+        "groupLabel": 400,
+        "objectName": "geo_cutlery_17",
+        "visible": false,
+        "offsetPosX": 0.0,
+        "offsetPosY": 0.0,
+        "offsetPosZ": 0.0,
+        "rotationY": 0.0
+    },
+    {
+        "ID": 417,
+        "groupLabel": 400,
+        "objectName": "geo_cutlery_18",
+        "visible": false,
+        "offsetPosX": 0.0,
+        "offsetPosY": 0.0,
+        "offsetPosZ": 0.0,
+        "rotationY": 0.0
+    },
+    {
+        "ID": 418,
+        "groupLabel": 400,
+        "objectName": "geo_cutlery_19",
+        "visible": true,
+        "offsetPosX": 0.0,
+        "offsetPosY": 0.0,
+        "offsetPosZ": 0.0,
+        "rotationY": 0.0
+    },
+    {
+        "ID": 419,
+        "groupLabel": 400,
+        "objectName": "geo_cutlery_20",
+        "visible": false,
+        "offsetPosX": 0.0,
+        "offsetPosY": 0.0,
+        "offsetPosZ": 0.0,
+        "rotationY": 0.0
+    },
+    {
+        "ID": 420,
+        "groupLabel": 400,
+        "objectName": "geo_cutlery_21",
+        "visible": false,
+        "offsetPosX": 0.0,
+        "offsetPosY": 0.0,
+        "offsetPosZ": 0.0,
+        "rotationY": 0.0
+    },
+    {
+        "ID": 421,
+        "groupLabel": 400,
+        "objectName": "geo_cutlery_22",
+        "visible": true,
+        "offsetPosX": 0.0,
+        "offsetPosY": 0.0,
+        "offsetPosZ": 0.0,
+        "rotationY": 0.0
+    },
+    {
+        "ID": 422,
+        "groupLabel": 400,
+        "objectName": "geo_cutlery_23",
+        "visible": false,
+        "offsetPosX": 0.0,
+        "offsetPosY": 0.0,
+        "offsetPosZ": 0.0,
+        "rotationY": 0.0
+    },
+    {
+        "ID": 423,
+        "groupLabel": 400,
+        "objectName": "geo_cutlery_24",
+        "visible": false,
+        "offsetPosX": 0.0,
+        "offsetPosY": 0.0,
+        "offsetPosZ": 0.0,
+        "rotationY": 0.0
+    },
+    {
+        "ID": 424,
+        "groupLabel": 400,
+        "objectName": "geo_cutlery_25",
+        "visible": false,
+        "offsetPosX": 0.0,
+        "offsetPosY": 0.0,
+        "offsetPosZ": 0.0,
+        "rotationY": 0.0
+    },
+    {
+        "ID": 425,
+        "groupLabel": 400,
+        "objectName": "geo_cutlery_26",
+        "visible": false,
+        "offsetPosX": 0.0,
+        "offsetPosY": 0.0,
+        "offsetPosZ": 0.0,
+        "rotationY": 0.0
+    },
+    {
+        "ID": 426,
+        "groupLabel": 400,
+        "objectName": "geo_cutlery_27",
+        "visible": false,
+        "offsetPosX": 0.0,
+        "offsetPosY": 0.0,
+        "offsetPosZ": 0.0,
+        "rotationY": 0.0
+    },
+    {
+        "ID": 427,
+        "groupLabel": 400,
+        "objectName": "geo_cutlery_28",
+        "visible": false,
+        "offsetPosX": 0.0,
+        "offsetPosY": 0.0,
+        "offsetPosZ": 0.0,
+        "rotationY": 0.0
+    },
+    {
+        "ID": 428,
+        "groupLabel": 400,
+        "objectName": "geo_cutlery_29",
+        "visible": false,
+        "offsetPosX": 0.0,
+        "offsetPosY": 0.0,
+        "offsetPosZ": 0.0,
+        "rotationY": 0.0
+    },
+    {
+        "ID": 429,
+        "groupLabel": 400,
+        "objectName": "geo_cutlery_30",
+        "visible": false,
+        "offsetPosX": 0.0,
+        "offsetPosY": 0.0,
+        "offsetPosZ": 0.0,
+        "rotationY": 0.0
+    },
+    {
+        "ID": 430,
+        "groupLabel": 400,
+        "objectName": "geo_cutlery_31",
+        "visible": true,
+        "offsetPosX": 0.0,
+        "offsetPosY": 0.0,
+        "offsetPosZ": 0.0,
+        "rotationY": 0.0
+    },
+    {
+        "ID": 431,
+        "groupLabel": 400,
+        "objectName": "geo_cutlery_32",
+        "visible": false,
+        "offsetPosX": 0.0,
+        "offsetPosY": 0.0,
+        "offsetPosZ": 0.0,
+        "rotationY": 0.0
+    },
+    {
+        "ID": 432,
+        "groupLabel": 400,
+        "objectName": "geo_cutlery_33",
+        "visible": true,
+        "offsetPosX": 0.0,
+        "offsetPosY": 0.0,
+        "offsetPosZ": 0.0,
+        "rotationY": 0.0
+    },
+    {
+        "ID": 433,
+        "groupLabel": 400,
+        "objectName": "geo_cutlery_34",
+        "visible": false,
+        "offsetPosX": 0.0,
+        "offsetPosY": 0.0,
+        "offsetPosZ": 0.0,
+        "rotationY": 0.0
+    },
+    {
+        "ID": 434,
+        "groupLabel": 400,
+        "objectName": "geo_cutlery_35",
+        "visible": false,
+        "offsetPosX": 0.0,
+        "offsetPosY": 0.0,
+        "offsetPosZ": 0.0,
+        "rotationY": 0.0
+    },
+    {
+        "ID": 435,
+        "groupLabel": 400,
+        "objectName": "geo_cutlery_36",
+        "visible": true,
+        "offsetPosX": 0.0,
+        "offsetPosY": 0.0,
+        "offsetPosZ": 0.0,
+        "rotationY": 0.0
+    },
+    {
+        "ID": 436,
+        "groupLabel": 400,
+        "objectName": "geo_tea_set_01",
+        "visible": true,
+        "offsetPosX": 0.0,
+        "offsetPosY": 0.0,
+        "offsetPosZ": 0.0,
+        "rotationY": 0.0
+    },
+    {
+        "ID": 437,
+        "groupLabel": 400,
+        "objectName": "geo_tea_set_02",
+        "visible": true,
+        "offsetPosX": 0.0,
+        "offsetPosY": 0.0,
+        "offsetPosZ": 0.0,
+        "rotationY": 0.0
+    },
+    {
+        "ID": 438,
+        "groupLabel": 400,
+        "objectName": "geo_tea_set_03",
+        "visible": false,
+        "offsetPosX": 0.0,
+        "offsetPosY": 0.0,
+        "offsetPosZ": 0.0,
+        "rotationY": 0.0
+    },
+    {
+        "ID": 439,
+        "groupLabel": 400,
+        "objectName": "geo_tea_set_04",
+        "visible": true,
+        "offsetPosX": 0.0,
+        "offsetPosY": 0.0,
+        "offsetPosZ": 0.0,
+        "rotationY": 0.0
+    },
+    {
+        "ID": 440,
+        "groupLabel": 400,
+        "objectName": "geo_tea_set_05",
+        "visible": false,
+        "offsetPosX": 0.0,
+        "offsetPosY": 0.0,
+        "offsetPosZ": 0.0,
+        "rotationY": 0.0
+    },
+    {
+        "ID": 441,
+        "groupLabel": 400,
+        "objectName": "geo_tea_set_06",
+        "visible": true,
+        "offsetPosX": 0.0,
+        "offsetPosY": 0.0,
+        "offsetPosZ": 0.0,
+        "rotationY": 0.0
+    },
+    {
+        "ID": 442,
+        "groupLabel": 400,
+        "objectName": "geo_trayA_01",
+        "visible": false,
+        "offsetPosX": 0.0,
+        "offsetPosY": 0.0,
+        "offsetPosZ": 0.0,
+        "rotationY": 0.0
+    },
+    {
+        "ID": 443,
+        "groupLabel": 400,
+        "objectName": "geo_trayB_02",
+        "visible": false,
+        "offsetPosX": 0.0,
+        "offsetPosY": 0.0,
+        "offsetPosZ": 0.0,
+        "rotationY": 0.0
+    },
+    {
+        "ID": 444,
+        "groupLabel": 400,
+        "objectName": "geo_trayC_03",
+        "visible": true,
+        "offsetPosX": 0.0,
+        "offsetPosY": 0.0,
+        "offsetPosZ": 0.0,
+        "rotationY": 0.0
+    },
+    {
+        "ID": 445,
+        "groupLabel": 400,
+        "objectName": "geo_trayC_04",
+        "visible": false,
+        "offsetPosX": 0.0,
+        "offsetPosY": 0.0,
+        "offsetPosZ": 0.0,
+        "rotationY": 0.0
+    },
+    {
+        "ID": 446,
+        "groupLabel": 400,
+        "objectName": "geo_trayA_05",
+        "visible": false,
+        "offsetPosX": 0.0,
+        "offsetPosY": 0.0,
+        "offsetPosZ": 0.0,
+        "rotationY": 0.0
+    },
+    {
+        "ID": 447,
+        "groupLabel": 400,
+        "objectName": "geo_trayB_06",
+        "visible": true,
+        "offsetPosX": 0.0,
+        "offsetPosY": 0.0,
+        "offsetPosZ": 0.0,
+        "rotationY": 0.0
+    },
+    {
+        "ID": 448,
+        "groupLabel": 400,
+        "objectName": "geo_trayC_07",
+        "visible": false,
+        "offsetPosX": 0.0,
+        "offsetPosY": 0.0,
+        "offsetPosZ": 0.0,
+        "rotationY": 0.0
+    },
+    {
+        "ID": 449,
+        "groupLabel": 400,
+        "objectName": "geo_trayA_08",
+        "visible": true,
+        "offsetPosX": 0.0,
+        "offsetPosY": 0.0,
+        "offsetPosZ": 0.0,
+        "rotationY": 0.0
+    },
+    {
+        "ID": 450,
+        "groupLabel": 400,
+        "objectName": "geo_trayB_09",
+        "visible": false,
+        "offsetPosX": 0.0,
+        "offsetPosY": 0.0,
+        "offsetPosZ": 0.0,
+        "rotationY": 0.0
+    },
+    {
+        "ID": 451,
+        "groupLabel": 400,
+        "objectName": "geo_trayB_10",
+        "visible": true,
+        "offsetPosX": 0.0,
+        "offsetPosY": 0.0,
+        "offsetPosZ": 0.0,
+        "rotationY": 0.0
+    },
+    {
+        "ID": 452,
+        "groupLabel": 400,
+        "objectName": "geo_trayC_11",
+        "visible": false,
+        "offsetPosX": 0.0,
+        "offsetPosY": 0.0,
+        "offsetPosZ": 0.0,
+        "rotationY": 0.0
+    },
+    {
+        "ID": 453,
+        "groupLabel": 400,
+        "objectName": "geo_trayA_12",
+        "visible": false,
+        "offsetPosX": 0.0,
+        "offsetPosY": 0.0,
+        "offsetPosZ": 0.0,
+        "rotationY": 0.0
+    },
+    {
+        "ID": 454,
+        "groupLabel": 400,
+        "objectName": "geo_trayA_13",
+        "visible": false,
+        "offsetPosX": 0.0,
+        "offsetPosY": 0.0,
+        "offsetPosZ": 0.0,
+        "rotationY": 0.0
+    },
+    {
+        "ID": 455,
+        "groupLabel": 400,
+        "objectName": "geo_trayC_14",
+        "visible": false,
+        "offsetPosX": 0.0,
+        "offsetPosY": 0.0,
+        "offsetPosZ": 0.0,
+        "rotationY": 0.0
+    },
+    {
+        "ID": 456,
+        "groupLabel": 400,
+        "objectName": "geo_trayB_15",
+        "visible": false,
+        "offsetPosX": 0.0,
+        "offsetPosY": 0.0,
+        "offsetPosZ": 0.0,
+        "rotationY": 0.0
+    },
+    {
+        "ID": 457,
+        "groupLabel": 400,
+        "objectName": "geo_trayC_16",
+        "visible": false,
+        "offsetPosX": 0.0,
+        "offsetPosY": 0.0,
+        "offsetPosZ": 0.0,
+        "rotationY": 0.0
+    },
+    {
+        "ID": 458,
+        "groupLabel": 400,
+        "objectName": "geo_trayB_17",
+        "visible": false,
+        "offsetPosX": 0.0,
+        "offsetPosY": 0.0,
+        "offsetPosZ": 0.0,
+        "rotationY": 0.0
+    },
+    {
+        "ID": 459,
+        "groupLabel": 400,
+        "objectName": "geo_trayA_18",
+        "visible": false,
+        "offsetPosX": 0.0,
+        "offsetPosY": 0.0,
+        "offsetPosZ": 0.0,
+        "rotationY": 0.0
+    },
+    {
+        "ID": 460,
+        "groupLabel": 400,
+        "objectName": "geo_trayB_19",
+        "visible": true,
+        "offsetPosX": 0.0,
+        "offsetPosY": 0.0,
+        "offsetPosZ": 0.0,
+        "rotationY": 0.0
+    },
+    {
+        "ID": 461,
+        "groupLabel": 400,
+        "objectName": "geo_trayA_20",
+        "visible": false,
+        "offsetPosX": 0.0,
+        "offsetPosY": 0.0,
+        "offsetPosZ": 0.0,
+        "rotationY": 0.0
+    },
+    {
+        "ID": 462,
+        "groupLabel": 400,
+        "objectName": "geo_trayC_21",
+        "visible": false,
+        "offsetPosX": 0.0,
+        "offsetPosY": 0.0,
+        "offsetPosZ": 0.0,
+        "rotationY": 0.0
+    },
+    {
+        "ID": 463,
+        "groupLabel": 400,
+        "objectName": "geo_trayC_22",
+        "visible": true,
+        "offsetPosX": 0.0,
+        "offsetPosY": 0.0,
+        "offsetPosZ": 0.0,
+        "rotationY": 0.0
+    },
+    {
+        "ID": 464,
+        "groupLabel": 400,
+        "objectName": "geo_trayB_23",
+        "visible": false,
+        "offsetPosX": 0.0,
+        "offsetPosY": 0.0,
+        "offsetPosZ": 0.0,
+        "rotationY": 0.0
+    },
+    {
+        "ID": 465,
+        "groupLabel": 400,
+        "objectName": "geo_trayA_24",
+        "visible": false,
+        "offsetPosX": 0.0,
+        "offsetPosY": 0.0,
+        "offsetPosZ": 0.0,
+        "rotationY": 0.0
+    },
+    {
+        "ID": 466,
+        "groupLabel": 400,
+        "objectName": "geo_trayB_25",
+        "visible": false,
+        "offsetPosX": 0.0,
+        "offsetPosY": 0.0,
+        "offsetPosZ": 0.0,
+        "rotationY": 0.0
+    },
+    {
+        "ID": 467,
+        "groupLabel": 400,
+        "objectName": "geo_trayA_26",
+        "visible": false,
+        "offsetPosX": 0.0,
+        "offsetPosY": 0.0,
+        "offsetPosZ": 0.0,
+        "rotationY": 0.0
+    },
+    {
+        "ID": 468,
+        "groupLabel": 400,
+        "objectName": "geo_trayB_27",
+        "visible": false,
+        "offsetPosX": 0.0,
+        "offsetPosY": 0.0,
+        "offsetPosZ": 0.0,
+        "rotationY": 0.0
+    },
+    {
+        "ID": 469,
+        "groupLabel": 400,
+        "objectName": "geo_trayC_28",
+        "visible": false,
+        "offsetPosX": 0.0,
+        "offsetPosY": 0.0,
+        "offsetPosZ": 0.0,
+        "rotationY": 0.0
+    },
+    {
+        "ID": 470,
+        "groupLabel": 400,
+        "objectName": "geo_trayB_29",
+        "visible": false,
+        "offsetPosX": 0.0,
+        "offsetPosY": 0.0,
+        "offsetPosZ": 0.0,
+        "rotationY": 0.0
+    },
+    {
+        "ID": 471,
+        "groupLabel": 400,
+        "objectName": "geo_trayA_30",
+        "visible": false,
+        "offsetPosX": 0.0,
+        "offsetPosY": 0.0,
+        "offsetPosZ": 0.0,
+        "rotationY": 0.0
+    },
+    {
+        "ID": 472,
+        "groupLabel": 400,
+        "objectName": "geo_trayA_31",
+        "visible": true,
+        "offsetPosX": 0.0,
+        "offsetPosY": 0.0,
+        "offsetPosZ": 0.0,
+        "rotationY": 0.0
+    },
+    {
+        "ID": 473,
+        "groupLabel": 400,
+        "objectName": "geo_trayB_32",
+        "visible": false,
+        "offsetPosX": 0.0,
+        "offsetPosY": 0.0,
+        "offsetPosZ": 0.0,
+        "rotationY": 0.0
+    },
+    {
+        "ID": 474,
+        "groupLabel": 400,
+        "objectName": "geo_trayC_33",
+        "visible": true,
+        "offsetPosX": 0.0,
+        "offsetPosY": 0.0,
+        "offsetPosZ": 0.0,
+        "rotationY": 0.0
+    },
+    {
+        "ID": 475,
+        "groupLabel": 400,
+        "objectName": "geo_trayB_34",
+        "visible": false,
+        "offsetPosX": 0.0,
+        "offsetPosY": 0.0,
+        "offsetPosZ": 0.0,
+        "rotationY": 0.0
+    },
+    {
+        "ID": 476,
+        "groupLabel": 400,
+        "objectName": "geo_trayA_35",
+        "visible": false,
+        "offsetPosX": 0.0,
+        "offsetPosY": 0.0,
+        "offsetPosZ": 0.0,
+        "rotationY": 0.0
+    },
+    {
+        "ID": 477,
+        "groupLabel": 400,
+        "objectName": "geo_trayB_36",
+        "visible": true,
+        "offsetPosX": 0.0,
+        "offsetPosY": 0.0,
+        "offsetPosZ": 0.0,
+        "rotationY": 0.0
+    },
+    {
+        "ID": 500,
+        "groupLabel": 500,
+        "objectName": "geo_chairA_13",
+        "visible": true,
+        "offsetPosX": 0.0,
+        "offsetPosY": 0.0,
+        "offsetPosZ": 0.3499999940395355,
+        "rotationY": 0.0
+    },
+    {
+        "ID": 501,
+        "groupLabel": 500,
+        "objectName": "geo_chairA_17",
+        "visible": true,
+        "offsetPosX": 0.10000000149011612,
+        "offsetPosY": 0.0,
+        "offsetPosZ": -0.10000000149011612,
+        "rotationY": 0.0
+    },
+    {
+        "ID": 600,
+        "groupLabel": 600,
+        "objectName": "geo_desk_item_06",
+        "visible": false,
+        "offsetPosX": 0.0,
+        "offsetPosY": 0.0,
+        "offsetPosZ": 0.0,
+        "rotationY": 0.0
+    },
+    {
+        "ID": 610,
+        "groupLabel": 700,
+        "objectName": "geo_bush_round",
+        "visible": false,
+        "offsetPosX": 0.0,
+        "offsetPosY": 0.0,
+        "offsetPosZ": 0.0,
+        "rotationY": 0.0
+    }
+]

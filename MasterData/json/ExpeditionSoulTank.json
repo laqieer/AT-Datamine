@@ -1,0 +1,226 @@
+[
+    {
+        "ID": 1,
+        "soulType": 1,
+        "level": 1,
+        "storage": 250000,
+        "paymentAmount": 100
+    },
+    {
+        "ID": 2,
+        "soulType": 1,
+        "level": 2,
+        "storage": 300000,
+        "paymentAmount": 100
+    },
+    {
+        "ID": 3,
+        "soulType": 1,
+        "level": 3,
+        "storage": 350000,
+        "paymentAmount": 200
+    },
+    {
+        "ID": 4,
+        "soulType": 1,
+        "level": 4,
+        "storage": 400000,
+        "paymentAmount": 200
+    },
+    {
+        "ID": 5,
+        "soulType": 1,
+        "level": 5,
+        "storage": 450000,
+        "paymentAmount": 300
+    },
+    {
+        "ID": 6,
+        "soulType": 1,
+        "level": 6,
+        "storage": 500000,
+        "paymentAmount": 300
+    },
+    {
+        "ID": 7,
+        "soulType": 1,
+        "level": 7,
+        "storage": 550000,
+        "paymentAmount": 400
+    },
+    {
+        "ID": 8,
+        "soulType": 1,
+        "level": 8,
+        "storage": 600000,
+        "paymentAmount": 400
+    },
+    {
+        "ID": 9,
+        "soulType": 1,
+        "level": 9,
+        "storage": 650000,
+        "paymentAmount": 500
+    },
+    {
+        "ID": 10,
+        "soulType": 1,
+        "level": 10,
+        "storage": 700000,
+        "paymentAmount": 500
+    },
+    {
+        "ID": 11,
+        "soulType": 1,
+        "level": 11,
+        "storage": 750000,
+        "paymentAmount": 500
+    },
+    {
+        "ID": 12,
+        "soulType": 1,
+        "level": 12,
+        "storage": 800000,
+        "paymentAmount": 500
+    },
+    {
+        "ID": 13,
+        "soulType": 1,
+        "level": 13,
+        "storage": 850000,
+        "paymentAmount": 500
+    },
+    {
+        "ID": 14,
+        "soulType": 1,
+        "level": 14,
+        "storage": 900000,
+        "paymentAmount": 500
+    },
+    {
+        "ID": 15,
+        "soulType": 1,
+        "level": 15,
+        "storage": 950000,
+        "paymentAmount": 500
+    },
+    {
+        "ID": 16,
+        "soulType": 1,
+        "level": 16,
+        "storage": 1000000,
+        "paymentAmount": 500
+    },
+    {
+        "ID": 17,
+        "soulType": 2,
+        "level": 1,
+        "storage": 50000,
+        "paymentAmount": 100
+    },
+    {
+        "ID": 18,
+        "soulType": 2,
+        "level": 2,
+        "storage": 60000,
+        "paymentAmount": 100
+    },
+    {
+        "ID": 19,
+        "soulType": 2,
+        "level": 3,
+        "storage": 70000,
+        "paymentAmount": 200
+    },
+    {
+        "ID": 20,
+        "soulType": 2,
+        "level": 4,
+        "storage": 80000,
+        "paymentAmount": 200
+    },
+    {
+        "ID": 21,
+        "soulType": 2,
+        "level": 5,
+        "storage": 90000,
+        "paymentAmount": 300
+    },
+    {
+        "ID": 22,
+        "soulType": 2,
+        "level": 6,
+        "storage": 100000,
+        "paymentAmount": 300
+    },
+    {
+        "ID": 23,
+        "soulType": 2,
+        "level": 7,
+        "storage": 110000,
+        "paymentAmount": 400
+    },
+    {
+        "ID": 24,
+        "soulType": 2,
+        "level": 8,
+        "storage": 120000,
+        "paymentAmount": 400
+    },
+    {
+        "ID": 25,
+        "soulType": 2,
+        "level": 9,
+        "storage": 130000,
+        "paymentAmount": 500
+    },
+    {
+        "ID": 26,
+        "soulType": 2,
+        "level": 10,
+        "storage": 140000,
+        "paymentAmount": 500
+    },
+    {
+        "ID": 27,
+        "soulType": 2,
+        "level": 11,
+        "storage": 150000,
+        "paymentAmount": 500
+    },
+    {
+        "ID": 28,
+        "soulType": 2,
+        "level": 12,
+        "storage": 160000,
+        "paymentAmount": 500
+    },
+    {
+        "ID": 29,
+        "soulType": 2,
+        "level": 13,
+        "storage": 170000,
+        "paymentAmount": 500
+    },
+    {
+        "ID": 30,
+        "soulType": 2,
+        "level": 14,
+        "storage": 180000,
+        "paymentAmount": 500
+    },
+    {
+        "ID": 31,
+        "soulType": 2,
+        "level": 15,
+        "storage": 190000,
+        "paymentAmount": 500
+    },
+    {
+        "ID": 32,
+        "soulType": 2,
+        "level": 16,
+        "storage": 200000,
+        "paymentAmount": 500
+    }
+]

@@ -1,0 +1,110 @@
+[
+    {
+        "ID": 307911,
+        "questType": 9,
+        "questStageId": 307911,
+        "releaseConditionQuestId": 0,
+        "difficulty": 1,
+        "eventId": 3079111,
+        "killedSpecifiedUnitGroupId": 0
+    },
+    {
+        "ID": 307921,
+        "questType": 9,
+        "questStageId": 307921,
+        "releaseConditionQuestId": 0,
+        "difficulty": 2,
+        "eventId": 3079111,
+        "killedSpecifiedUnitGroupId": 0
+    },
+    {
+        "ID": 307931,
+        "questType": 9,
+        "questStageId": 307931,
+        "releaseConditionQuestId": 0,
+        "difficulty": 3,
+        "eventId": 3079111,
+        "killedSpecifiedUnitGroupId": 0
+    },
+    {
+        "ID": 309911,
+        "questType": 9,
+        "questStageId": 309911,
+        "releaseConditionQuestId": 0,
+        "difficulty": 1,
+        "eventId": 3099111,
+        "killedSpecifiedUnitGroupId": 0
+    },
+    {
+        "ID": 309921,
+        "questType": 9,
+        "questStageId": 309921,
+        "releaseConditionQuestId": 0,
+        "difficulty": 2,
+        "eventId": 3099111,
+        "killedSpecifiedUnitGroupId": 0
+    },
+    {
+        "ID": 309931,
+        "questType": 9,
+        "questStageId": 309931,
+        "releaseConditionQuestId": 0,
+        "difficulty": 3,
+        "eventId": 3099111,
+        "killedSpecifiedUnitGroupId": 0
+    },
+    {
+        "ID": 305811,
+        "questType": 9,
+        "questStageId": 305811,
+        "releaseConditionQuestId": 0,
+        "difficulty": 1,
+        "eventId": 3058111,
+        "killedSpecifiedUnitGroupId": 0
+    },
+    {
+        "ID": 305821,
+        "questType": 9,
+        "questStageId": 305821,
+        "releaseConditionQuestId": 0,
+        "difficulty": 2,
+        "eventId": 3058111,
+        "killedSpecifiedUnitGroupId": 0
+    },
+    {
+        "ID": 305831,
+        "questType": 9,
+        "questStageId": 305831,
+        "releaseConditionQuestId": 0,
+        "difficulty": 3,
+        "eventId": 3058111,
+        "killedSpecifiedUnitGroupId": 0
+    },
+    {
+        "ID": 306911,
+        "questType": 9,
+        "questStageId": 306911,
+        "releaseConditionQuestId": 0,
+        "difficulty": 1,
+        "eventId": 3069111,
+        "killedSpecifiedUnitGroupId": 0
+    },
+    {
+        "ID": 306921,
+        "questType": 9,
+        "questStageId": 306921,
+        "releaseConditionQuestId": 0,
+        "difficulty": 2,
+        "eventId": 3069111,
+        "killedSpecifiedUnitGroupId": 0
+    },
+    {
+        "ID": 306931,
+        "questType": 9,
+        "questStageId": 306931,
+        "releaseConditionQuestId": 0,
+        "difficulty": 3,
+        "eventId": 3069111,
+        "killedSpecifiedUnitGroupId": 0
+    }
+]

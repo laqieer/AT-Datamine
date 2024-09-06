@@ -1,0 +1,72 @@
+[
+    {
+        "ID": 10218111,
+        "placement": 1021811,
+        "number": 1,
+        "initial": false,
+        "quick": true
+    },
+    {
+        "ID": 10219111,
+        "placement": 1021911,
+        "number": 1,
+        "initial": true,
+        "quick": true
+    },
+    {
+        "ID": 303071,
+        "placement": 303071,
+        "number": 1,
+        "initial": true,
+        "quick": true
+    },
+    {
+        "ID": 303081,
+        "placement": 303081,
+        "number": 1,
+        "initial": true,
+        "quick": true
+    },
+    {
+        "ID": 10218211,
+        "placement": 1021821,
+        "number": 1,
+        "initial": false,
+        "quick": true
+    },
+    {
+        "ID": 10219211,
+        "placement": 1021921,
+        "number": 1,
+        "initial": true,
+        "quick": true
+    },
+    {
+        "ID": 3020411,
+        "placement": 302041,
+        "number": 1,
+        "initial": true,
+        "quick": true
+    },
+    {
+        "ID": 3020511,
+        "placement": 302051,
+        "number": 1,
+        "initial": true,
+        "quick": true
+    },
+    {
+        "ID": 3340111,
+        "placement": 334011,
+        "number": 1,
+        "initial": true,
+        "quick": true
+    },
+    {
+        "ID": 10219121,
+        "placement": 1021912,
+        "number": 1,
+        "initial": true,
+        "quick": true
+    }
+]

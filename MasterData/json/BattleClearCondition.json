@@ -1,0 +1,6546 @@
+[
+    {
+        "ID": 10000001,
+        "groupID": 100000,
+        "op": 0,
+        "conditionType": 1,
+        "value": 0,
+        "subValue": 0
+    },
+    {
+        "ID": 10000101,
+        "groupID": 100001,
+        "op": 0,
+        "conditionType": 4,
+        "value": 1,
+        "subValue": 0
+    },
+    {
+        "ID": 10000201,
+        "groupID": 100002,
+        "op": 0,
+        "conditionType": 4,
+        "value": 2,
+        "subValue": 0
+    },
+    {
+        "ID": 10000301,
+        "groupID": 100003,
+        "op": 0,
+        "conditionType": 4,
+        "value": 3,
+        "subValue": 0
+    },
+    {
+        "ID": 10000401,
+        "groupID": 100004,
+        "op": 0,
+        "conditionType": 4,
+        "value": 4,
+        "subValue": 0
+    },
+    {
+        "ID": 10000501,
+        "groupID": 100005,
+        "op": 0,
+        "conditionType": 4,
+        "value": 5,
+        "subValue": 0
+    },
+    {
+        "ID": 10000601,
+        "groupID": 100006,
+        "op": 0,
+        "conditionType": 4,
+        "value": 6,
+        "subValue": 0
+    },
+    {
+        "ID": 10000701,
+        "groupID": 100007,
+        "op": 0,
+        "conditionType": 4,
+        "value": 7,
+        "subValue": 0
+    },
+    {
+        "ID": 10000801,
+        "groupID": 100008,
+        "op": 0,
+        "conditionType": 4,
+        "value": 8,
+        "subValue": 0
+    },
+    {
+        "ID": 10000901,
+        "groupID": 100009,
+        "op": 0,
+        "conditionType": 4,
+        "value": 9,
+        "subValue": 0
+    },
+    {
+        "ID": 10001001,
+        "groupID": 100010,
+        "op": 0,
+        "conditionType": 4,
+        "value": 10,
+        "subValue": 0
+    },
+    {
+        "ID": 10001101,
+        "groupID": 100011,
+        "op": 0,
+        "conditionType": 4,
+        "value": 11,
+        "subValue": 0
+    },
+    {
+        "ID": 10001201,
+        "groupID": 100012,
+        "op": 0,
+        "conditionType": 4,
+        "value": 12,
+        "subValue": 0
+    },
+    {
+        "ID": 10001301,
+        "groupID": 100013,
+        "op": 0,
+        "conditionType": 4,
+        "value": 13,
+        "subValue": 0
+    },
+    {
+        "ID": 10001401,
+        "groupID": 100014,
+        "op": 0,
+        "conditionType": 4,
+        "value": 14,
+        "subValue": 0
+    },
+    {
+        "ID": 10001501,
+        "groupID": 100015,
+        "op": 0,
+        "conditionType": 4,
+        "value": 15,
+        "subValue": 0
+    },
+    {
+        "ID": 10001601,
+        "groupID": 100016,
+        "op": 0,
+        "conditionType": 4,
+        "value": 16,
+        "subValue": 0
+    },
+    {
+        "ID": 10001701,
+        "groupID": 100017,
+        "op": 0,
+        "conditionType": 4,
+        "value": 17,
+        "subValue": 0
+    },
+    {
+        "ID": 10001801,
+        "groupID": 100018,
+        "op": 0,
+        "conditionType": 4,
+        "value": 18,
+        "subValue": 0
+    },
+    {
+        "ID": 10001901,
+        "groupID": 100019,
+        "op": 0,
+        "conditionType": 4,
+        "value": 19,
+        "subValue": 0
+    },
+    {
+        "ID": 10002001,
+        "groupID": 100020,
+        "op": 0,
+        "conditionType": 4,
+        "value": 20,
+        "subValue": 0
+    },
+    {
+        "ID": 10002101,
+        "groupID": 100021,
+        "op": 1,
+        "conditionType": 4,
+        "value": 1,
+        "subValue": 0
+    },
+    {
+        "ID": 10002102,
+        "groupID": 100021,
+        "op": 0,
+        "conditionType": 1,
+        "value": 0,
+        "subValue": 0
+    },
+    {
+        "ID": 10002201,
+        "groupID": 100022,
+        "op": 1,
+        "conditionType": 4,
+        "value": 2,
+        "subValue": 0
+    },
+    {
+        "ID": 10002202,
+        "groupID": 100022,
+        "op": 0,
+        "conditionType": 1,
+        "value": 0,
+        "subValue": 0
+    },
+    {
+        "ID": 10002301,
+        "groupID": 100023,
+        "op": 1,
+        "conditionType": 4,
+        "value": 3,
+        "subValue": 0
+    },
+    {
+        "ID": 10002302,
+        "groupID": 100023,
+        "op": 0,
+        "conditionType": 1,
+        "value": 0,
+        "subValue": 0
+    },
+    {
+        "ID": 10002401,
+        "groupID": 100024,
+        "op": 1,
+        "conditionType": 4,
+        "value": 4,
+        "subValue": 0
+    },
+    {
+        "ID": 10002402,
+        "groupID": 100024,
+        "op": 0,
+        "conditionType": 1,
+        "value": 0,
+        "subValue": 0
+    },
+    {
+        "ID": 10002501,
+        "groupID": 100025,
+        "op": 1,
+        "conditionType": 4,
+        "value": 5,
+        "subValue": 0
+    },
+    {
+        "ID": 10002502,
+        "groupID": 100025,
+        "op": 0,
+        "conditionType": 1,
+        "value": 0,
+        "subValue": 0
+    },
+    {
+        "ID": 10002601,
+        "groupID": 100026,
+        "op": 1,
+        "conditionType": 4,
+        "value": 6,
+        "subValue": 0
+    },
+    {
+        "ID": 10002602,
+        "groupID": 100026,
+        "op": 0,
+        "conditionType": 1,
+        "value": 0,
+        "subValue": 0
+    },
+    {
+        "ID": 10002701,
+        "groupID": 100027,
+        "op": 1,
+        "conditionType": 4,
+        "value": 7,
+        "subValue": 0
+    },
+    {
+        "ID": 10002702,
+        "groupID": 100027,
+        "op": 0,
+        "conditionType": 1,
+        "value": 0,
+        "subValue": 0
+    },
+    {
+        "ID": 10002801,
+        "groupID": 100028,
+        "op": 1,
+        "conditionType": 4,
+        "value": 8,
+        "subValue": 0
+    },
+    {
+        "ID": 10002802,
+        "groupID": 100028,
+        "op": 0,
+        "conditionType": 1,
+        "value": 0,
+        "subValue": 0
+    },
+    {
+        "ID": 10002901,
+        "groupID": 100029,
+        "op": 1,
+        "conditionType": 4,
+        "value": 9,
+        "subValue": 0
+    },
+    {
+        "ID": 10002902,
+        "groupID": 100029,
+        "op": 0,
+        "conditionType": 1,
+        "value": 0,
+        "subValue": 0
+    },
+    {
+        "ID": 10003001,
+        "groupID": 100030,
+        "op": 1,
+        "conditionType": 4,
+        "value": 10,
+        "subValue": 0
+    },
+    {
+        "ID": 10003002,
+        "groupID": 100030,
+        "op": 0,
+        "conditionType": 1,
+        "value": 0,
+        "subValue": 0
+    },
+    {
+        "ID": 10003101,
+        "groupID": 100031,
+        "op": 1,
+        "conditionType": 4,
+        "value": 11,
+        "subValue": 0
+    },
+    {
+        "ID": 10003102,
+        "groupID": 100031,
+        "op": 0,
+        "conditionType": 1,
+        "value": 0,
+        "subValue": 0
+    },
+    {
+        "ID": 10003201,
+        "groupID": 100032,
+        "op": 1,
+        "conditionType": 4,
+        "value": 12,
+        "subValue": 0
+    },
+    {
+        "ID": 10003202,
+        "groupID": 100032,
+        "op": 0,
+        "conditionType": 1,
+        "value": 0,
+        "subValue": 0
+    },
+    {
+        "ID": 10003301,
+        "groupID": 100033,
+        "op": 1,
+        "conditionType": 4,
+        "value": 13,
+        "subValue": 0
+    },
+    {
+        "ID": 10003302,
+        "groupID": 100033,
+        "op": 0,
+        "conditionType": 1,
+        "value": 0,
+        "subValue": 0
+    },
+    {
+        "ID": 10003401,
+        "groupID": 100034,
+        "op": 1,
+        "conditionType": 4,
+        "value": 14,
+        "subValue": 0
+    },
+    {
+        "ID": 10003402,
+        "groupID": 100034,
+        "op": 0,
+        "conditionType": 1,
+        "value": 0,
+        "subValue": 0
+    },
+    {
+        "ID": 10003501,
+        "groupID": 100035,
+        "op": 1,
+        "conditionType": 4,
+        "value": 15,
+        "subValue": 0
+    },
+    {
+        "ID": 10003502,
+        "groupID": 100035,
+        "op": 0,
+        "conditionType": 1,
+        "value": 0,
+        "subValue": 0
+    },
+    {
+        "ID": 10003601,
+        "groupID": 100036,
+        "op": 1,
+        "conditionType": 4,
+        "value": 16,
+        "subValue": 0
+    },
+    {
+        "ID": 10003602,
+        "groupID": 100036,
+        "op": 0,
+        "conditionType": 1,
+        "value": 0,
+        "subValue": 0
+    },
+    {
+        "ID": 10003701,
+        "groupID": 100037,
+        "op": 1,
+        "conditionType": 4,
+        "value": 17,
+        "subValue": 0
+    },
+    {
+        "ID": 10003702,
+        "groupID": 100037,
+        "op": 0,
+        "conditionType": 1,
+        "value": 0,
+        "subValue": 0
+    },
+    {
+        "ID": 10003801,
+        "groupID": 100038,
+        "op": 1,
+        "conditionType": 4,
+        "value": 18,
+        "subValue": 0
+    },
+    {
+        "ID": 10003802,
+        "groupID": 100038,
+        "op": 0,
+        "conditionType": 1,
+        "value": 0,
+        "subValue": 0
+    },
+    {
+        "ID": 10003901,
+        "groupID": 100039,
+        "op": 1,
+        "conditionType": 4,
+        "value": 19,
+        "subValue": 0
+    },
+    {
+        "ID": 10003902,
+        "groupID": 100039,
+        "op": 0,
+        "conditionType": 1,
+        "value": 0,
+        "subValue": 0
+    },
+    {
+        "ID": 10004001,
+        "groupID": 100040,
+        "op": 1,
+        "conditionType": 4,
+        "value": 20,
+        "subValue": 0
+    },
+    {
+        "ID": 10004002,
+        "groupID": 100040,
+        "op": 0,
+        "conditionType": 4,
+        "value": 0,
+        "subValue": 0
+    },
+    {
+        "ID": 10004101,
+        "groupID": 100041,
+        "op": 0,
+        "conditionType": 4,
+        "value": 1,
+        "subValue": 0
+    },
+    {
+        "ID": 10004102,
+        "groupID": 100041,
+        "op": 0,
+        "conditionType": 1,
+        "value": 0,
+        "subValue": 0
+    },
+    {
+        "ID": 10004201,
+        "groupID": 100042,
+        "op": 0,
+        "conditionType": 4,
+        "value": 2,
+        "subValue": 0
+    },
+    {
+        "ID": 10004202,
+        "groupID": 100042,
+        "op": 0,
+        "conditionType": 1,
+        "value": 0,
+        "subValue": 0
+    },
+    {
+        "ID": 10004301,
+        "groupID": 100043,
+        "op": 0,
+        "conditionType": 4,
+        "value": 3,
+        "subValue": 0
+    },
+    {
+        "ID": 10004302,
+        "groupID": 100043,
+        "op": 0,
+        "conditionType": 1,
+        "value": 0,
+        "subValue": 0
+    },
+    {
+        "ID": 10004401,
+        "groupID": 100044,
+        "op": 0,
+        "conditionType": 4,
+        "value": 4,
+        "subValue": 0
+    },
+    {
+        "ID": 10004402,
+        "groupID": 100044,
+        "op": 0,
+        "conditionType": 1,
+        "value": 0,
+        "subValue": 0
+    },
+    {
+        "ID": 10004501,
+        "groupID": 100045,
+        "op": 0,
+        "conditionType": 4,
+        "value": 5,
+        "subValue": 0
+    },
+    {
+        "ID": 10004502,
+        "groupID": 100045,
+        "op": 0,
+        "conditionType": 1,
+        "value": 0,
+        "subValue": 0
+    },
+    {
+        "ID": 10004601,
+        "groupID": 100046,
+        "op": 0,
+        "conditionType": 4,
+        "value": 6,
+        "subValue": 0
+    },
+    {
+        "ID": 10004602,
+        "groupID": 100046,
+        "op": 0,
+        "conditionType": 1,
+        "value": 0,
+        "subValue": 0
+    },
+    {
+        "ID": 10004701,
+        "groupID": 100047,
+        "op": 0,
+        "conditionType": 4,
+        "value": 7,
+        "subValue": 0
+    },
+    {
+        "ID": 10004702,
+        "groupID": 100047,
+        "op": 0,
+        "conditionType": 1,
+        "value": 0,
+        "subValue": 0
+    },
+    {
+        "ID": 10004801,
+        "groupID": 100048,
+        "op": 0,
+        "conditionType": 4,
+        "value": 8,
+        "subValue": 0
+    },
+    {
+        "ID": 10004802,
+        "groupID": 100048,
+        "op": 0,
+        "conditionType": 1,
+        "value": 0,
+        "subValue": 0
+    },
+    {
+        "ID": 10004901,
+        "groupID": 100049,
+        "op": 0,
+        "conditionType": 4,
+        "value": 9,
+        "subValue": 0
+    },
+    {
+        "ID": 10004902,
+        "groupID": 100049,
+        "op": 0,
+        "conditionType": 1,
+        "value": 0,
+        "subValue": 0
+    },
+    {
+        "ID": 10005001,
+        "groupID": 100050,
+        "op": 0,
+        "conditionType": 4,
+        "value": 10,
+        "subValue": 0
+    },
+    {
+        "ID": 10005002,
+        "groupID": 100050,
+        "op": 0,
+        "conditionType": 1,
+        "value": 0,
+        "subValue": 0
+    },
+    {
+        "ID": 10005101,
+        "groupID": 100051,
+        "op": 0,
+        "conditionType": 4,
+        "value": 11,
+        "subValue": 0
+    },
+    {
+        "ID": 10005102,
+        "groupID": 100051,
+        "op": 0,
+        "conditionType": 1,
+        "value": 0,
+        "subValue": 0
+    },
+    {
+        "ID": 10005201,
+        "groupID": 100052,
+        "op": 0,
+        "conditionType": 4,
+        "value": 12,
+        "subValue": 0
+    },
+    {
+        "ID": 10005202,
+        "groupID": 100052,
+        "op": 0,
+        "conditionType": 1,
+        "value": 0,
+        "subValue": 0
+    },
+    {
+        "ID": 10005301,
+        "groupID": 100053,
+        "op": 0,
+        "conditionType": 4,
+        "value": 13,
+        "subValue": 0
+    },
+    {
+        "ID": 10005302,
+        "groupID": 100053,
+        "op": 0,
+        "conditionType": 1,
+        "value": 0,
+        "subValue": 0
+    },
+    {
+        "ID": 10005401,
+        "groupID": 100054,
+        "op": 0,
+        "conditionType": 4,
+        "value": 14,
+        "subValue": 0
+    },
+    {
+        "ID": 10005402,
+        "groupID": 100054,
+        "op": 0,
+        "conditionType": 1,
+        "value": 0,
+        "subValue": 0
+    },
+    {
+        "ID": 10005501,
+        "groupID": 100055,
+        "op": 0,
+        "conditionType": 4,
+        "value": 15,
+        "subValue": 0
+    },
+    {
+        "ID": 10005502,
+        "groupID": 100055,
+        "op": 0,
+        "conditionType": 1,
+        "value": 0,
+        "subValue": 0
+    },
+    {
+        "ID": 10005601,
+        "groupID": 100056,
+        "op": 0,
+        "conditionType": 4,
+        "value": 16,
+        "subValue": 0
+    },
+    {
+        "ID": 10005602,
+        "groupID": 100056,
+        "op": 0,
+        "conditionType": 1,
+        "value": 0,
+        "subValue": 0
+    },
+    {
+        "ID": 10005701,
+        "groupID": 100057,
+        "op": 0,
+        "conditionType": 4,
+        "value": 17,
+        "subValue": 0
+    },
+    {
+        "ID": 10005702,
+        "groupID": 100057,
+        "op": 0,
+        "conditionType": 1,
+        "value": 0,
+        "subValue": 0
+    },
+    {
+        "ID": 10005801,
+        "groupID": 100058,
+        "op": 0,
+        "conditionType": 4,
+        "value": 18,
+        "subValue": 0
+    },
+    {
+        "ID": 10005802,
+        "groupID": 100058,
+        "op": 0,
+        "conditionType": 1,
+        "value": 0,
+        "subValue": 0
+    },
+    {
+        "ID": 10005901,
+        "groupID": 100059,
+        "op": 0,
+        "conditionType": 4,
+        "value": 19,
+        "subValue": 0
+    },
+    {
+        "ID": 10005902,
+        "groupID": 100059,
+        "op": 0,
+        "conditionType": 1,
+        "value": 0,
+        "subValue": 0
+    },
+    {
+        "ID": 10006001,
+        "groupID": 100060,
+        "op": 0,
+        "conditionType": 4,
+        "value": 20,
+        "subValue": 0
+    },
+    {
+        "ID": 10006002,
+        "groupID": 100060,
+        "op": 0,
+        "conditionType": 1,
+        "value": 0,
+        "subValue": 0
+    },
+    {
+        "ID": 102321101,
+        "groupID": 1023211,
+        "op": 0,
+        "conditionType": 2,
+        "value": 2000001,
+        "subValue": 0
+    },
+    {
+        "ID": 102101101,
+        "groupID": 1021011,
+        "op": 1,
+        "conditionType": 4,
+        "value": 7,
+        "subValue": 0
+    },
+    {
+        "ID": 102101102,
+        "groupID": 1021011,
+        "op": 0,
+        "conditionType": 2,
+        "value": 2000001,
+        "subValue": 0
+    },
+    {
+        "ID": 102111101,
+        "groupID": 1021111,
+        "op": 0,
+        "conditionType": 2,
+        "value": 2000001,
+        "subValue": 0
+    },
+    {
+        "ID": 102121101,
+        "groupID": 1021211,
+        "op": 0,
+        "conditionType": 2,
+        "value": 2000001,
+        "subValue": 0
+    },
+    {
+        "ID": 102131101,
+        "groupID": 1021311,
+        "op": 0,
+        "conditionType": 2,
+        "value": 2000001,
+        "subValue": 0
+    },
+    {
+        "ID": 102161101,
+        "groupID": 1021611,
+        "op": 0,
+        "conditionType": 2,
+        "value": 2000001,
+        "subValue": 0
+    },
+    {
+        "ID": 102231101,
+        "groupID": 1022311,
+        "op": 1,
+        "conditionType": 3,
+        "value": 10,
+        "subValue": 3
+    },
+    {
+        "ID": 102231102,
+        "groupID": 1022311,
+        "op": 1,
+        "conditionType": 3,
+        "value": 11,
+        "subValue": 3
+    },
+    {
+        "ID": 102231103,
+        "groupID": 1022311,
+        "op": 1,
+        "conditionType": 3,
+        "value": 12,
+        "subValue": 3
+    },
+    {
+        "ID": 102231104,
+        "groupID": 1022311,
+        "op": 1,
+        "conditionType": 3,
+        "value": 13,
+        "subValue": 3
+    },
+    {
+        "ID": 102231105,
+        "groupID": 1022311,
+        "op": 1,
+        "conditionType": 3,
+        "value": 14,
+        "subValue": 3
+    },
+    {
+        "ID": 102231106,
+        "groupID": 1022311,
+        "op": 1,
+        "conditionType": 3,
+        "value": 10,
+        "subValue": 4
+    },
+    {
+        "ID": 102231107,
+        "groupID": 1022311,
+        "op": 1,
+        "conditionType": 3,
+        "value": 11,
+        "subValue": 4
+    },
+    {
+        "ID": 102231108,
+        "groupID": 1022311,
+        "op": 1,
+        "conditionType": 3,
+        "value": 12,
+        "subValue": 4
+    },
+    {
+        "ID": 102231109,
+        "groupID": 1022311,
+        "op": 1,
+        "conditionType": 3,
+        "value": 13,
+        "subValue": 4
+    },
+    {
+        "ID": 102231110,
+        "groupID": 1022311,
+        "op": 1,
+        "conditionType": 3,
+        "value": 14,
+        "subValue": 4
+    },
+    {
+        "ID": 102231111,
+        "groupID": 1022311,
+        "op": 1,
+        "conditionType": 3,
+        "value": 10,
+        "subValue": 5
+    },
+    {
+        "ID": 102231112,
+        "groupID": 1022311,
+        "op": 1,
+        "conditionType": 3,
+        "value": 11,
+        "subValue": 5
+    },
+    {
+        "ID": 102231113,
+        "groupID": 1022311,
+        "op": 1,
+        "conditionType": 3,
+        "value": 12,
+        "subValue": 5
+    },
+    {
+        "ID": 102231114,
+        "groupID": 1022311,
+        "op": 1,
+        "conditionType": 3,
+        "value": 13,
+        "subValue": 5
+    },
+    {
+        "ID": 102231115,
+        "groupID": 1022311,
+        "op": 0,
+        "conditionType": 3,
+        "value": 14,
+        "subValue": 5
+    },
+    {
+        "ID": 102261101,
+        "groupID": 1022611,
+        "op": 0,
+        "conditionType": 2,
+        "value": 2000001,
+        "subValue": 0
+    },
+    {
+        "ID": 102291101,
+        "groupID": 1022911,
+        "op": 0,
+        "conditionType": 2,
+        "value": 2000001,
+        "subValue": 0
+    },
+    {
+        "ID": 102301101,
+        "groupID": 1023011,
+        "op": 0,
+        "conditionType": 2,
+        "value": 2000001,
+        "subValue": 0
+    },
+    {
+        "ID": 102311101,
+        "groupID": 1023111,
+        "op": 0,
+        "conditionType": 2,
+        "value": 2000001,
+        "subValue": 0
+    },
+    {
+        "ID": 103051101,
+        "groupID": 1030511,
+        "op": 0,
+        "conditionType": 2,
+        "value": 2000001,
+        "subValue": 0
+    },
+    {
+        "ID": 103101101,
+        "groupID": 1031011,
+        "op": 0,
+        "conditionType": 2,
+        "value": 2000001,
+        "subValue": 0
+    },
+    {
+        "ID": 103131101,
+        "groupID": 1031311,
+        "op": 0,
+        "conditionType": 2,
+        "value": 2000001,
+        "subValue": 0
+    },
+    {
+        "ID": 103141101,
+        "groupID": 1031411,
+        "op": 1,
+        "conditionType": 3,
+        "value": 3,
+        "subValue": 21
+    },
+    {
+        "ID": 103141102,
+        "groupID": 1031411,
+        "op": 1,
+        "conditionType": 3,
+        "value": 4,
+        "subValue": 21
+    },
+    {
+        "ID": 103141103,
+        "groupID": 1031411,
+        "op": 1,
+        "conditionType": 3,
+        "value": 5,
+        "subValue": 21
+    },
+    {
+        "ID": 103141104,
+        "groupID": 1031411,
+        "op": 1,
+        "conditionType": 3,
+        "value": 6,
+        "subValue": 21
+    },
+    {
+        "ID": 103141105,
+        "groupID": 1031411,
+        "op": 1,
+        "conditionType": 3,
+        "value": 7,
+        "subValue": 21
+    },
+    {
+        "ID": 103141106,
+        "groupID": 1031411,
+        "op": 1,
+        "conditionType": 3,
+        "value": 8,
+        "subValue": 21
+    },
+    {
+        "ID": 103141107,
+        "groupID": 1031411,
+        "op": 1,
+        "conditionType": 3,
+        "value": 9,
+        "subValue": 21
+    },
+    {
+        "ID": 103141108,
+        "groupID": 1031411,
+        "op": 1,
+        "conditionType": 3,
+        "value": 3,
+        "subValue": 22
+    },
+    {
+        "ID": 103141109,
+        "groupID": 1031411,
+        "op": 1,
+        "conditionType": 3,
+        "value": 4,
+        "subValue": 22
+    },
+    {
+        "ID": 103141110,
+        "groupID": 1031411,
+        "op": 1,
+        "conditionType": 3,
+        "value": 5,
+        "subValue": 22
+    },
+    {
+        "ID": 103141111,
+        "groupID": 1031411,
+        "op": 1,
+        "conditionType": 3,
+        "value": 6,
+        "subValue": 22
+    },
+    {
+        "ID": 103141112,
+        "groupID": 1031411,
+        "op": 1,
+        "conditionType": 3,
+        "value": 7,
+        "subValue": 22
+    },
+    {
+        "ID": 103141113,
+        "groupID": 1031411,
+        "op": 1,
+        "conditionType": 3,
+        "value": 8,
+        "subValue": 22
+    },
+    {
+        "ID": 103141114,
+        "groupID": 1031411,
+        "op": 1,
+        "conditionType": 3,
+        "value": 9,
+        "subValue": 22
+    },
+    {
+        "ID": 103141115,
+        "groupID": 1031411,
+        "op": 1,
+        "conditionType": 3,
+        "value": 5,
+        "subValue": 23
+    },
+    {
+        "ID": 103141116,
+        "groupID": 1031411,
+        "op": 1,
+        "conditionType": 3,
+        "value": 6,
+        "subValue": 23
+    },
+    {
+        "ID": 103141117,
+        "groupID": 1031411,
+        "op": 1,
+        "conditionType": 3,
+        "value": 7,
+        "subValue": 23
+    },
+    {
+        "ID": 103141118,
+        "groupID": 1031411,
+        "op": 0,
+        "conditionType": 1,
+        "value": 0,
+        "subValue": 0
+    },
+    {
+        "ID": 103181101,
+        "groupID": 1031811,
+        "op": 0,
+        "conditionType": 2,
+        "value": 2000001,
+        "subValue": 0
+    },
+    {
+        "ID": 103181102,
+        "groupID": 1031811,
+        "op": 0,
+        "conditionType": 2,
+        "value": 2000017,
+        "subValue": 0
+    },
+    {
+        "ID": 103181103,
+        "groupID": 1031811,
+        "op": 0,
+        "conditionType": 2,
+        "value": 2000025,
+        "subValue": 0
+    },
+    {
+        "ID": 104071101,
+        "groupID": 1040711,
+        "op": 0,
+        "conditionType": 2,
+        "value": 2000003,
+        "subValue": 0
+    },
+    {
+        "ID": 104081101,
+        "groupID": 1040811,
+        "op": 1,
+        "conditionType": 2,
+        "value": 2000001,
+        "subValue": 0
+    },
+    {
+        "ID": 104081102,
+        "groupID": 1040811,
+        "op": 0,
+        "conditionType": 4,
+        "value": 5,
+        "subValue": 0
+    },
+    {
+        "ID": 104091101,
+        "groupID": 1040911,
+        "op": 0,
+        "conditionType": 2,
+        "value": 2000003,
+        "subValue": 0
+    },
+    {
+        "ID": 104111101,
+        "groupID": 1041111,
+        "op": 1,
+        "conditionType": 2,
+        "value": 2000001,
+        "subValue": 0
+    },
+    {
+        "ID": 104111102,
+        "groupID": 1041111,
+        "op": 0,
+        "conditionType": 4,
+        "value": 5,
+        "subValue": 0
+    },
+    {
+        "ID": 104151101,
+        "groupID": 1041511,
+        "op": 1,
+        "conditionType": 3,
+        "value": 0,
+        "subValue": 1
+    },
+    {
+        "ID": 104151102,
+        "groupID": 1041511,
+        "op": 1,
+        "conditionType": 3,
+        "value": 1,
+        "subValue": 1
+    },
+    {
+        "ID": 104151103,
+        "groupID": 1041511,
+        "op": 1,
+        "conditionType": 3,
+        "value": 2,
+        "subValue": 1
+    },
+    {
+        "ID": 104151104,
+        "groupID": 1041511,
+        "op": 1,
+        "conditionType": 3,
+        "value": 3,
+        "subValue": 1
+    },
+    {
+        "ID": 104151105,
+        "groupID": 1041511,
+        "op": 1,
+        "conditionType": 3,
+        "value": 4,
+        "subValue": 1
+    },
+    {
+        "ID": 104151106,
+        "groupID": 1041511,
+        "op": 1,
+        "conditionType": 3,
+        "value": 5,
+        "subValue": 1
+    },
+    {
+        "ID": 104151107,
+        "groupID": 1041511,
+        "op": 1,
+        "conditionType": 3,
+        "value": 6,
+        "subValue": 1
+    },
+    {
+        "ID": 104151108,
+        "groupID": 1041511,
+        "op": 1,
+        "conditionType": 3,
+        "value": 7,
+        "subValue": 1
+    },
+    {
+        "ID": 104151109,
+        "groupID": 1041511,
+        "op": 1,
+        "conditionType": 3,
+        "value": 0,
+        "subValue": 2
+    },
+    {
+        "ID": 104151110,
+        "groupID": 1041511,
+        "op": 1,
+        "conditionType": 3,
+        "value": 1,
+        "subValue": 2
+    },
+    {
+        "ID": 104151111,
+        "groupID": 1041511,
+        "op": 1,
+        "conditionType": 3,
+        "value": 2,
+        "subValue": 2
+    },
+    {
+        "ID": 104151112,
+        "groupID": 1041511,
+        "op": 1,
+        "conditionType": 3,
+        "value": 3,
+        "subValue": 2
+    },
+    {
+        "ID": 104151113,
+        "groupID": 1041511,
+        "op": 1,
+        "conditionType": 3,
+        "value": 4,
+        "subValue": 2
+    },
+    {
+        "ID": 104151114,
+        "groupID": 1041511,
+        "op": 1,
+        "conditionType": 3,
+        "value": 5,
+        "subValue": 2
+    },
+    {
+        "ID": 104151115,
+        "groupID": 1041511,
+        "op": 1,
+        "conditionType": 3,
+        "value": 6,
+        "subValue": 2
+    },
+    {
+        "ID": 104151116,
+        "groupID": 1041511,
+        "op": 1,
+        "conditionType": 3,
+        "value": 7,
+        "subValue": 2
+    },
+    {
+        "ID": 104151117,
+        "groupID": 1041511,
+        "op": 0,
+        "conditionType": 1,
+        "value": 0,
+        "subValue": 0
+    },
+    {
+        "ID": 104161101,
+        "groupID": 1041611,
+        "op": 0,
+        "conditionType": 2,
+        "value": 2000002,
+        "subValue": 0
+    },
+    {
+        "ID": 104161102,
+        "groupID": 1041611,
+        "op": 0,
+        "conditionType": 2,
+        "value": 2000003,
+        "subValue": 0
+    },
+    {
+        "ID": 104161103,
+        "groupID": 1041611,
+        "op": 0,
+        "conditionType": 2,
+        "value": 2000004,
+        "subValue": 0
+    },
+    {
+        "ID": 104181101,
+        "groupID": 1041811,
+        "op": 0,
+        "conditionType": 2,
+        "value": 2000001,
+        "subValue": 0
+    },
+    {
+        "ID": 104211101,
+        "groupID": 1042111,
+        "op": 0,
+        "conditionType": 2,
+        "value": 2000001,
+        "subValue": 0
+    },
+    {
+        "ID": 104211102,
+        "groupID": 1042111,
+        "op": 0,
+        "conditionType": 2,
+        "value": 2000002,
+        "subValue": 0
+    },
+    {
+        "ID": 104221101,
+        "groupID": 1042211,
+        "op": 0,
+        "conditionType": 2,
+        "value": 2000001,
+        "subValue": 0
+    },
+    {
+        "ID": 105031101,
+        "groupID": 1050311,
+        "op": 1,
+        "conditionType": 3,
+        "value": 5,
+        "subValue": 28
+    },
+    {
+        "ID": 105031102,
+        "groupID": 1050311,
+        "op": 1,
+        "conditionType": 3,
+        "value": 6,
+        "subValue": 28
+    },
+    {
+        "ID": 105031103,
+        "groupID": 1050311,
+        "op": 1,
+        "conditionType": 3,
+        "value": 7,
+        "subValue": 28
+    },
+    {
+        "ID": 105031104,
+        "groupID": 1050311,
+        "op": 1,
+        "conditionType": 3,
+        "value": 8,
+        "subValue": 28
+    },
+    {
+        "ID": 105031105,
+        "groupID": 1050311,
+        "op": 1,
+        "conditionType": 3,
+        "value": 9,
+        "subValue": 28
+    },
+    {
+        "ID": 105031106,
+        "groupID": 1050311,
+        "op": 1,
+        "conditionType": 3,
+        "value": 10,
+        "subValue": 28
+    },
+    {
+        "ID": 105031107,
+        "groupID": 1050311,
+        "op": 1,
+        "conditionType": 3,
+        "value": 11,
+        "subValue": 28
+    },
+    {
+        "ID": 105031108,
+        "groupID": 1050311,
+        "op": 1,
+        "conditionType": 3,
+        "value": 5,
+        "subValue": 29
+    },
+    {
+        "ID": 105031109,
+        "groupID": 1050311,
+        "op": 1,
+        "conditionType": 3,
+        "value": 6,
+        "subValue": 29
+    },
+    {
+        "ID": 105031110,
+        "groupID": 1050311,
+        "op": 1,
+        "conditionType": 3,
+        "value": 7,
+        "subValue": 29
+    },
+    {
+        "ID": 105031111,
+        "groupID": 1050311,
+        "op": 1,
+        "conditionType": 3,
+        "value": 8,
+        "subValue": 29
+    },
+    {
+        "ID": 105031112,
+        "groupID": 1050311,
+        "op": 1,
+        "conditionType": 3,
+        "value": 9,
+        "subValue": 29
+    },
+    {
+        "ID": 105031113,
+        "groupID": 1050311,
+        "op": 1,
+        "conditionType": 3,
+        "value": 10,
+        "subValue": 29
+    },
+    {
+        "ID": 105031114,
+        "groupID": 1050311,
+        "op": 1,
+        "conditionType": 3,
+        "value": 11,
+        "subValue": 29
+    },
+    {
+        "ID": 105031115,
+        "groupID": 1050311,
+        "op": 1,
+        "conditionType": 3,
+        "value": 5,
+        "subValue": 30
+    },
+    {
+        "ID": 105031116,
+        "groupID": 1050311,
+        "op": 1,
+        "conditionType": 3,
+        "value": 6,
+        "subValue": 30
+    },
+    {
+        "ID": 105031117,
+        "groupID": 1050311,
+        "op": 1,
+        "conditionType": 3,
+        "value": 7,
+        "subValue": 30
+    },
+    {
+        "ID": 105031118,
+        "groupID": 1050311,
+        "op": 1,
+        "conditionType": 3,
+        "value": 8,
+        "subValue": 30
+    },
+    {
+        "ID": 105031119,
+        "groupID": 1050311,
+        "op": 1,
+        "conditionType": 3,
+        "value": 9,
+        "subValue": 30
+    },
+    {
+        "ID": 105031120,
+        "groupID": 1050311,
+        "op": 1,
+        "conditionType": 3,
+        "value": 10,
+        "subValue": 30
+    },
+    {
+        "ID": 105031121,
+        "groupID": 1050311,
+        "op": 1,
+        "conditionType": 3,
+        "value": 11,
+        "subValue": 30
+    },
+    {
+        "ID": 105031122,
+        "groupID": 1050311,
+        "op": 0,
+        "conditionType": 1,
+        "value": 0,
+        "subValue": 0
+    },
+    {
+        "ID": 105081101,
+        "groupID": 1050811,
+        "op": 0,
+        "conditionType": 2,
+        "value": 2000001,
+        "subValue": 0
+    },
+    {
+        "ID": 105081102,
+        "groupID": 1050811,
+        "op": 1,
+        "conditionType": 2,
+        "value": 2000002,
+        "subValue": 0
+    },
+    {
+        "ID": 105081103,
+        "groupID": 1050811,
+        "op": 0,
+        "conditionType": 4,
+        "value": 5,
+        "subValue": 0
+    },
+    {
+        "ID": 105101101,
+        "groupID": 1051011,
+        "op": 1,
+        "conditionType": 2,
+        "value": 2000001,
+        "subValue": 0
+    },
+    {
+        "ID": 105101102,
+        "groupID": 1051011,
+        "op": 0,
+        "conditionType": 2,
+        "value": 2000002,
+        "subValue": 0
+    },
+    {
+        "ID": 105131101,
+        "groupID": 1051311,
+        "op": 1,
+        "conditionType": 2,
+        "value": 2000001,
+        "subValue": 0
+    },
+    {
+        "ID": 105131102,
+        "groupID": 1051311,
+        "op": 0,
+        "conditionType": 2,
+        "value": 2000002,
+        "subValue": 0
+    },
+    {
+        "ID": 105141101,
+        "groupID": 1051411,
+        "op": 1,
+        "conditionType": 3,
+        "value": 26,
+        "subValue": 0
+    },
+    {
+        "ID": 105141102,
+        "groupID": 1051411,
+        "op": 1,
+        "conditionType": 3,
+        "value": 27,
+        "subValue": 0
+    },
+    {
+        "ID": 105141103,
+        "groupID": 1051411,
+        "op": 1,
+        "conditionType": 3,
+        "value": 28,
+        "subValue": 0
+    },
+    {
+        "ID": 105141104,
+        "groupID": 1051411,
+        "op": 1,
+        "conditionType": 3,
+        "value": 29,
+        "subValue": 0
+    },
+    {
+        "ID": 105141105,
+        "groupID": 1051411,
+        "op": 1,
+        "conditionType": 3,
+        "value": 30,
+        "subValue": 0
+    },
+    {
+        "ID": 105141106,
+        "groupID": 1051411,
+        "op": 1,
+        "conditionType": 3,
+        "value": 26,
+        "subValue": 1
+    },
+    {
+        "ID": 105141107,
+        "groupID": 1051411,
+        "op": 1,
+        "conditionType": 3,
+        "value": 27,
+        "subValue": 1
+    },
+    {
+        "ID": 105141108,
+        "groupID": 1051411,
+        "op": 1,
+        "conditionType": 3,
+        "value": 28,
+        "subValue": 1
+    },
+    {
+        "ID": 105141109,
+        "groupID": 1051411,
+        "op": 1,
+        "conditionType": 3,
+        "value": 29,
+        "subValue": 1
+    },
+    {
+        "ID": 105141110,
+        "groupID": 1051411,
+        "op": 1,
+        "conditionType": 3,
+        "value": 30,
+        "subValue": 1
+    },
+    {
+        "ID": 105141111,
+        "groupID": 1051411,
+        "op": 1,
+        "conditionType": 3,
+        "value": 26,
+        "subValue": 2
+    },
+    {
+        "ID": 105141112,
+        "groupID": 1051411,
+        "op": 1,
+        "conditionType": 3,
+        "value": 27,
+        "subValue": 2
+    },
+    {
+        "ID": 105141113,
+        "groupID": 1051411,
+        "op": 1,
+        "conditionType": 3,
+        "value": 28,
+        "subValue": 2
+    },
+    {
+        "ID": 105141114,
+        "groupID": 1051411,
+        "op": 1,
+        "conditionType": 3,
+        "value": 29,
+        "subValue": 2
+    },
+    {
+        "ID": 105141115,
+        "groupID": 1051411,
+        "op": 1,
+        "conditionType": 3,
+        "value": 30,
+        "subValue": 2
+    },
+    {
+        "ID": 105141116,
+        "groupID": 1051411,
+        "op": 1,
+        "conditionType": 3,
+        "value": 26,
+        "subValue": 3
+    },
+    {
+        "ID": 105141117,
+        "groupID": 1051411,
+        "op": 1,
+        "conditionType": 3,
+        "value": 27,
+        "subValue": 3
+    },
+    {
+        "ID": 105141118,
+        "groupID": 1051411,
+        "op": 1,
+        "conditionType": 3,
+        "value": 28,
+        "subValue": 3
+    },
+    {
+        "ID": 105141119,
+        "groupID": 1051411,
+        "op": 1,
+        "conditionType": 3,
+        "value": 29,
+        "subValue": 3
+    },
+    {
+        "ID": 105141120,
+        "groupID": 1051411,
+        "op": 0,
+        "conditionType": 3,
+        "value": 30,
+        "subValue": 3
+    },
+    {
+        "ID": 105151101,
+        "groupID": 1051511,
+        "op": 1,
+        "conditionType": 3,
+        "value": 16,
+        "subValue": 7
+    },
+    {
+        "ID": 105151102,
+        "groupID": 1051511,
+        "op": 1,
+        "conditionType": 3,
+        "value": 17,
+        "subValue": 7
+    },
+    {
+        "ID": 105151103,
+        "groupID": 1051511,
+        "op": 1,
+        "conditionType": 3,
+        "value": 18,
+        "subValue": 7
+    },
+    {
+        "ID": 105151104,
+        "groupID": 1051511,
+        "op": 1,
+        "conditionType": 3,
+        "value": 19,
+        "subValue": 7
+    },
+    {
+        "ID": 105151105,
+        "groupID": 1051511,
+        "op": 1,
+        "conditionType": 3,
+        "value": 20,
+        "subValue": 7
+    },
+    {
+        "ID": 105151106,
+        "groupID": 1051511,
+        "op": 1,
+        "conditionType": 3,
+        "value": 21,
+        "subValue": 7
+    },
+    {
+        "ID": 105151107,
+        "groupID": 1051511,
+        "op": 1,
+        "conditionType": 3,
+        "value": 22,
+        "subValue": 7
+    },
+    {
+        "ID": 105151108,
+        "groupID": 1051511,
+        "op": 1,
+        "conditionType": 3,
+        "value": 23,
+        "subValue": 7
+    },
+    {
+        "ID": 105151109,
+        "groupID": 1051511,
+        "op": 1,
+        "conditionType": 3,
+        "value": 24,
+        "subValue": 7
+    },
+    {
+        "ID": 105151110,
+        "groupID": 1051511,
+        "op": 1,
+        "conditionType": 3,
+        "value": 25,
+        "subValue": 7
+    },
+    {
+        "ID": 105151111,
+        "groupID": 1051511,
+        "op": 1,
+        "conditionType": 3,
+        "value": 26,
+        "subValue": 7
+    },
+    {
+        "ID": 105151112,
+        "groupID": 1051511,
+        "op": 1,
+        "conditionType": 3,
+        "value": 16,
+        "subValue": 8
+    },
+    {
+        "ID": 105151113,
+        "groupID": 1051511,
+        "op": 1,
+        "conditionType": 3,
+        "value": 17,
+        "subValue": 8
+    },
+    {
+        "ID": 105151114,
+        "groupID": 1051511,
+        "op": 1,
+        "conditionType": 3,
+        "value": 18,
+        "subValue": 8
+    },
+    {
+        "ID": 105151115,
+        "groupID": 1051511,
+        "op": 1,
+        "conditionType": 3,
+        "value": 19,
+        "subValue": 8
+    },
+    {
+        "ID": 105151116,
+        "groupID": 1051511,
+        "op": 1,
+        "conditionType": 3,
+        "value": 20,
+        "subValue": 8
+    },
+    {
+        "ID": 105151117,
+        "groupID": 1051511,
+        "op": 1,
+        "conditionType": 3,
+        "value": 21,
+        "subValue": 8
+    },
+    {
+        "ID": 105151118,
+        "groupID": 1051511,
+        "op": 1,
+        "conditionType": 3,
+        "value": 22,
+        "subValue": 8
+    },
+    {
+        "ID": 105151119,
+        "groupID": 1051511,
+        "op": 1,
+        "conditionType": 3,
+        "value": 23,
+        "subValue": 8
+    },
+    {
+        "ID": 105151120,
+        "groupID": 1051511,
+        "op": 1,
+        "conditionType": 3,
+        "value": 24,
+        "subValue": 8
+    },
+    {
+        "ID": 105151121,
+        "groupID": 1051511,
+        "op": 1,
+        "conditionType": 3,
+        "value": 25,
+        "subValue": 8
+    },
+    {
+        "ID": 105151122,
+        "groupID": 1051511,
+        "op": 1,
+        "conditionType": 3,
+        "value": 26,
+        "subValue": 8
+    },
+    {
+        "ID": 105151123,
+        "groupID": 1051511,
+        "op": 1,
+        "conditionType": 3,
+        "value": 16,
+        "subValue": 9
+    },
+    {
+        "ID": 105151124,
+        "groupID": 1051511,
+        "op": 1,
+        "conditionType": 3,
+        "value": 17,
+        "subValue": 9
+    },
+    {
+        "ID": 105151125,
+        "groupID": 1051511,
+        "op": 1,
+        "conditionType": 3,
+        "value": 18,
+        "subValue": 9
+    },
+    {
+        "ID": 105151126,
+        "groupID": 1051511,
+        "op": 1,
+        "conditionType": 3,
+        "value": 19,
+        "subValue": 9
+    },
+    {
+        "ID": 105151127,
+        "groupID": 1051511,
+        "op": 1,
+        "conditionType": 3,
+        "value": 20,
+        "subValue": 9
+    },
+    {
+        "ID": 105151128,
+        "groupID": 1051511,
+        "op": 1,
+        "conditionType": 3,
+        "value": 21,
+        "subValue": 9
+    },
+    {
+        "ID": 105151129,
+        "groupID": 1051511,
+        "op": 1,
+        "conditionType": 3,
+        "value": 22,
+        "subValue": 9
+    },
+    {
+        "ID": 105151130,
+        "groupID": 1051511,
+        "op": 1,
+        "conditionType": 3,
+        "value": 23,
+        "subValue": 9
+    },
+    {
+        "ID": 105151131,
+        "groupID": 1051511,
+        "op": 1,
+        "conditionType": 3,
+        "value": 24,
+        "subValue": 9
+    },
+    {
+        "ID": 105151132,
+        "groupID": 1051511,
+        "op": 1,
+        "conditionType": 3,
+        "value": 25,
+        "subValue": 9
+    },
+    {
+        "ID": 105151133,
+        "groupID": 1051511,
+        "op": 1,
+        "conditionType": 3,
+        "value": 26,
+        "subValue": 9
+    },
+    {
+        "ID": 105151134,
+        "groupID": 1051511,
+        "op": 1,
+        "conditionType": 3,
+        "value": 16,
+        "subValue": 10
+    },
+    {
+        "ID": 105151135,
+        "groupID": 1051511,
+        "op": 1,
+        "conditionType": 3,
+        "value": 17,
+        "subValue": 10
+    },
+    {
+        "ID": 105151136,
+        "groupID": 1051511,
+        "op": 1,
+        "conditionType": 3,
+        "value": 18,
+        "subValue": 10
+    },
+    {
+        "ID": 105151137,
+        "groupID": 1051511,
+        "op": 1,
+        "conditionType": 3,
+        "value": 19,
+        "subValue": 10
+    },
+    {
+        "ID": 105151138,
+        "groupID": 1051511,
+        "op": 1,
+        "conditionType": 3,
+        "value": 20,
+        "subValue": 10
+    },
+    {
+        "ID": 105151139,
+        "groupID": 1051511,
+        "op": 1,
+        "conditionType": 3,
+        "value": 21,
+        "subValue": 10
+    },
+    {
+        "ID": 105151140,
+        "groupID": 1051511,
+        "op": 1,
+        "conditionType": 3,
+        "value": 22,
+        "subValue": 10
+    },
+    {
+        "ID": 105151141,
+        "groupID": 1051511,
+        "op": 1,
+        "conditionType": 3,
+        "value": 23,
+        "subValue": 10
+    },
+    {
+        "ID": 105151142,
+        "groupID": 1051511,
+        "op": 1,
+        "conditionType": 3,
+        "value": 24,
+        "subValue": 10
+    },
+    {
+        "ID": 105151143,
+        "groupID": 1051511,
+        "op": 1,
+        "conditionType": 3,
+        "value": 25,
+        "subValue": 10
+    },
+    {
+        "ID": 105151144,
+        "groupID": 1051511,
+        "op": 1,
+        "conditionType": 3,
+        "value": 26,
+        "subValue": 10
+    },
+    {
+        "ID": 105151145,
+        "groupID": 1051511,
+        "op": 0,
+        "conditionType": 1,
+        "value": 0,
+        "subValue": 0
+    },
+    {
+        "ID": 105171101,
+        "groupID": 1051711,
+        "op": 0,
+        "conditionType": 2,
+        "value": 2000001,
+        "subValue": 0
+    },
+    {
+        "ID": 105211101,
+        "groupID": 1052111,
+        "op": 1,
+        "conditionType": 3,
+        "value": 13,
+        "subValue": 0
+    },
+    {
+        "ID": 105211102,
+        "groupID": 1052111,
+        "op": 1,
+        "conditionType": 3,
+        "value": 14,
+        "subValue": 0
+    },
+    {
+        "ID": 105211103,
+        "groupID": 1052111,
+        "op": 1,
+        "conditionType": 3,
+        "value": 15,
+        "subValue": 0
+    },
+    {
+        "ID": 105211104,
+        "groupID": 1052111,
+        "op": 1,
+        "conditionType": 3,
+        "value": 16,
+        "subValue": 0
+    },
+    {
+        "ID": 105211105,
+        "groupID": 1052111,
+        "op": 1,
+        "conditionType": 3,
+        "value": 17,
+        "subValue": 0
+    },
+    {
+        "ID": 105211106,
+        "groupID": 1052111,
+        "op": 1,
+        "conditionType": 3,
+        "value": 13,
+        "subValue": 1
+    },
+    {
+        "ID": 105211107,
+        "groupID": 1052111,
+        "op": 1,
+        "conditionType": 3,
+        "value": 14,
+        "subValue": 1
+    },
+    {
+        "ID": 105211108,
+        "groupID": 1052111,
+        "op": 1,
+        "conditionType": 3,
+        "value": 15,
+        "subValue": 1
+    },
+    {
+        "ID": 105211109,
+        "groupID": 1052111,
+        "op": 1,
+        "conditionType": 3,
+        "value": 16,
+        "subValue": 1
+    },
+    {
+        "ID": 105211110,
+        "groupID": 1052111,
+        "op": 1,
+        "conditionType": 3,
+        "value": 17,
+        "subValue": 1
+    },
+    {
+        "ID": 105211111,
+        "groupID": 1052111,
+        "op": 1,
+        "conditionType": 3,
+        "value": 13,
+        "subValue": 2
+    },
+    {
+        "ID": 105211112,
+        "groupID": 1052111,
+        "op": 1,
+        "conditionType": 3,
+        "value": 14,
+        "subValue": 2
+    },
+    {
+        "ID": 105211113,
+        "groupID": 1052111,
+        "op": 1,
+        "conditionType": 3,
+        "value": 15,
+        "subValue": 2
+    },
+    {
+        "ID": 105211114,
+        "groupID": 1052111,
+        "op": 1,
+        "conditionType": 3,
+        "value": 16,
+        "subValue": 2
+    },
+    {
+        "ID": 105211115,
+        "groupID": 1052111,
+        "op": 1,
+        "conditionType": 3,
+        "value": 17,
+        "subValue": 2
+    },
+    {
+        "ID": 105211116,
+        "groupID": 1052111,
+        "op": 1,
+        "conditionType": 3,
+        "value": 13,
+        "subValue": 3
+    },
+    {
+        "ID": 105211117,
+        "groupID": 1052111,
+        "op": 1,
+        "conditionType": 3,
+        "value": 14,
+        "subValue": 3
+    },
+    {
+        "ID": 105211118,
+        "groupID": 1052111,
+        "op": 1,
+        "conditionType": 3,
+        "value": 15,
+        "subValue": 3
+    },
+    {
+        "ID": 105211119,
+        "groupID": 1052111,
+        "op": 1,
+        "conditionType": 3,
+        "value": 16,
+        "subValue": 3
+    },
+    {
+        "ID": 105211120,
+        "groupID": 1052111,
+        "op": 1,
+        "conditionType": 3,
+        "value": 17,
+        "subValue": 3
+    },
+    {
+        "ID": 105211121,
+        "groupID": 1052111,
+        "op": 0,
+        "conditionType": 1,
+        "value": 0,
+        "subValue": 0
+    },
+    {
+        "ID": 105241101,
+        "groupID": 1052411,
+        "op": 0,
+        "conditionType": 2,
+        "value": 2000001,
+        "subValue": 0
+    },
+    {
+        "ID": 105241102,
+        "groupID": 1052411,
+        "op": 0,
+        "conditionType": 2,
+        "value": 2000002,
+        "subValue": 0
+    },
+    {
+        "ID": 105251101,
+        "groupID": 1052511,
+        "op": 1,
+        "conditionType": 3,
+        "value": 15,
+        "subValue": 0
+    },
+    {
+        "ID": 105251102,
+        "groupID": 1052511,
+        "op": 1,
+        "conditionType": 3,
+        "value": 16,
+        "subValue": 0
+    },
+    {
+        "ID": 105251103,
+        "groupID": 1052511,
+        "op": 1,
+        "conditionType": 3,
+        "value": 17,
+        "subValue": 0
+    },
+    {
+        "ID": 105251104,
+        "groupID": 1052511,
+        "op": 1,
+        "conditionType": 3,
+        "value": 15,
+        "subValue": 1
+    },
+    {
+        "ID": 105251105,
+        "groupID": 1052511,
+        "op": 1,
+        "conditionType": 3,
+        "value": 16,
+        "subValue": 1
+    },
+    {
+        "ID": 105251106,
+        "groupID": 1052511,
+        "op": 1,
+        "conditionType": 3,
+        "value": 17,
+        "subValue": 1
+    },
+    {
+        "ID": 105251107,
+        "groupID": 1052511,
+        "op": 1,
+        "conditionType": 3,
+        "value": 15,
+        "subValue": 2
+    },
+    {
+        "ID": 105251108,
+        "groupID": 1052511,
+        "op": 1,
+        "conditionType": 3,
+        "value": 16,
+        "subValue": 2
+    },
+    {
+        "ID": 105251109,
+        "groupID": 1052511,
+        "op": 1,
+        "conditionType": 3,
+        "value": 17,
+        "subValue": 2
+    },
+    {
+        "ID": 105251110,
+        "groupID": 1052511,
+        "op": 1,
+        "conditionType": 3,
+        "value": 15,
+        "subValue": 3
+    },
+    {
+        "ID": 105251111,
+        "groupID": 1052511,
+        "op": 1,
+        "conditionType": 3,
+        "value": 16,
+        "subValue": 3
+    },
+    {
+        "ID": 105251112,
+        "groupID": 1052511,
+        "op": 1,
+        "conditionType": 3,
+        "value": 17,
+        "subValue": 3
+    },
+    {
+        "ID": 105251113,
+        "groupID": 1052511,
+        "op": 1,
+        "conditionType": 3,
+        "value": 15,
+        "subValue": 4
+    },
+    {
+        "ID": 105251114,
+        "groupID": 1052511,
+        "op": 1,
+        "conditionType": 3,
+        "value": 16,
+        "subValue": 4
+    },
+    {
+        "ID": 105251115,
+        "groupID": 1052511,
+        "op": 1,
+        "conditionType": 3,
+        "value": 17,
+        "subValue": 4
+    },
+    {
+        "ID": 105251116,
+        "groupID": 1052511,
+        "op": 1,
+        "conditionType": 3,
+        "value": 15,
+        "subValue": 5
+    },
+    {
+        "ID": 105251117,
+        "groupID": 1052511,
+        "op": 1,
+        "conditionType": 3,
+        "value": 16,
+        "subValue": 5
+    },
+    {
+        "ID": 105251118,
+        "groupID": 1052511,
+        "op": 1,
+        "conditionType": 3,
+        "value": 17,
+        "subValue": 5
+    },
+    {
+        "ID": 105251119,
+        "groupID": 1052511,
+        "op": 1,
+        "conditionType": 3,
+        "value": 15,
+        "subValue": 6
+    },
+    {
+        "ID": 105251120,
+        "groupID": 1052511,
+        "op": 1,
+        "conditionType": 3,
+        "value": 16,
+        "subValue": 6
+    },
+    {
+        "ID": 105251121,
+        "groupID": 1052511,
+        "op": 1,
+        "conditionType": 3,
+        "value": 17,
+        "subValue": 6
+    },
+    {
+        "ID": 105251122,
+        "groupID": 1052511,
+        "op": 0,
+        "conditionType": 1,
+        "value": 0,
+        "subValue": 0
+    },
+    {
+        "ID": 105261101,
+        "groupID": 1052611,
+        "op": 0,
+        "conditionType": 2,
+        "value": 2000001,
+        "subValue": 0
+    },
+    {
+        "ID": 105281101,
+        "groupID": 1052811,
+        "op": 0,
+        "conditionType": 2,
+        "value": 2000001,
+        "subValue": 0
+    },
+    {
+        "ID": 105281102,
+        "groupID": 1052811,
+        "op": 0,
+        "conditionType": 2,
+        "value": 2000002,
+        "subValue": 0
+    },
+    {
+        "ID": 105291101,
+        "groupID": 1052911,
+        "op": 0,
+        "conditionType": 2,
+        "value": 2000001,
+        "subValue": 0
+    },
+    {
+        "ID": 105291102,
+        "groupID": 1052911,
+        "op": 0,
+        "conditionType": 2,
+        "value": 2000002,
+        "subValue": 0
+    },
+    {
+        "ID": 105301101,
+        "groupID": 1053011,
+        "op": 0,
+        "conditionType": 2,
+        "value": 2000001,
+        "subValue": 0
+    },
+    {
+        "ID": 105311101,
+        "groupID": 1053111,
+        "op": 0,
+        "conditionType": 2,
+        "value": 2000001,
+        "subValue": 0
+    },
+    {
+        "ID": 301011101,
+        "groupID": 3010111,
+        "op": 1,
+        "conditionType": 3,
+        "value": 10,
+        "subValue": 31
+    },
+    {
+        "ID": 301011102,
+        "groupID": 3010111,
+        "op": 0,
+        "conditionType": 3,
+        "value": 10,
+        "subValue": 32
+    },
+    {
+        "ID": 106111101,
+        "groupID": 1061111,
+        "op": 0,
+        "conditionType": 2,
+        "value": 2000001,
+        "subValue": 0
+    },
+    {
+        "ID": 106141101,
+        "groupID": 1061411,
+        "op": 0,
+        "conditionType": 2,
+        "value": 2000010,
+        "subValue": 0
+    },
+    {
+        "ID": 106151101,
+        "groupID": 1061511,
+        "op": 1,
+        "conditionType": 3,
+        "value": 18,
+        "subValue": 0
+    },
+    {
+        "ID": 106151102,
+        "groupID": 1061511,
+        "op": 1,
+        "conditionType": 3,
+        "value": 19,
+        "subValue": 0
+    },
+    {
+        "ID": 106151103,
+        "groupID": 1061511,
+        "op": 1,
+        "conditionType": 3,
+        "value": 20,
+        "subValue": 0
+    },
+    {
+        "ID": 106151104,
+        "groupID": 1061511,
+        "op": 1,
+        "conditionType": 3,
+        "value": 21,
+        "subValue": 0
+    },
+    {
+        "ID": 106151105,
+        "groupID": 1061511,
+        "op": 1,
+        "conditionType": 3,
+        "value": 22,
+        "subValue": 0
+    },
+    {
+        "ID": 106151106,
+        "groupID": 1061511,
+        "op": 1,
+        "conditionType": 3,
+        "value": 18,
+        "subValue": 1
+    },
+    {
+        "ID": 106151107,
+        "groupID": 1061511,
+        "op": 1,
+        "conditionType": 3,
+        "value": 19,
+        "subValue": 1
+    },
+    {
+        "ID": 106151108,
+        "groupID": 1061511,
+        "op": 1,
+        "conditionType": 3,
+        "value": 20,
+        "subValue": 1
+    },
+    {
+        "ID": 106151109,
+        "groupID": 1061511,
+        "op": 1,
+        "conditionType": 3,
+        "value": 21,
+        "subValue": 1
+    },
+    {
+        "ID": 106151110,
+        "groupID": 1061511,
+        "op": 1,
+        "conditionType": 3,
+        "value": 22,
+        "subValue": 1
+    },
+    {
+        "ID": 106151111,
+        "groupID": 1061511,
+        "op": 1,
+        "conditionType": 3,
+        "value": 18,
+        "subValue": 2
+    },
+    {
+        "ID": 106151112,
+        "groupID": 1061511,
+        "op": 1,
+        "conditionType": 3,
+        "value": 19,
+        "subValue": 2
+    },
+    {
+        "ID": 106151113,
+        "groupID": 1061511,
+        "op": 1,
+        "conditionType": 3,
+        "value": 20,
+        "subValue": 2
+    },
+    {
+        "ID": 106151114,
+        "groupID": 1061511,
+        "op": 1,
+        "conditionType": 3,
+        "value": 21,
+        "subValue": 2
+    },
+    {
+        "ID": 106151115,
+        "groupID": 1061511,
+        "op": 0,
+        "conditionType": 3,
+        "value": 22,
+        "subValue": 2
+    },
+    {
+        "ID": 106191101,
+        "groupID": 1061911,
+        "op": 1,
+        "conditionType": 3,
+        "value": 4,
+        "subValue": 0
+    },
+    {
+        "ID": 106191102,
+        "groupID": 1061911,
+        "op": 1,
+        "conditionType": 3,
+        "value": 5,
+        "subValue": 0
+    },
+    {
+        "ID": 106191103,
+        "groupID": 1061911,
+        "op": 1,
+        "conditionType": 3,
+        "value": 6,
+        "subValue": 0
+    },
+    {
+        "ID": 106191104,
+        "groupID": 1061911,
+        "op": 1,
+        "conditionType": 3,
+        "value": 7,
+        "subValue": 0
+    },
+    {
+        "ID": 106191105,
+        "groupID": 1061911,
+        "op": 1,
+        "conditionType": 3,
+        "value": 8,
+        "subValue": 0
+    },
+    {
+        "ID": 106191106,
+        "groupID": 1061911,
+        "op": 1,
+        "conditionType": 3,
+        "value": 4,
+        "subValue": 1
+    },
+    {
+        "ID": 106191107,
+        "groupID": 1061911,
+        "op": 1,
+        "conditionType": 3,
+        "value": 5,
+        "subValue": 1
+    },
+    {
+        "ID": 106191108,
+        "groupID": 1061911,
+        "op": 1,
+        "conditionType": 3,
+        "value": 6,
+        "subValue": 1
+    },
+    {
+        "ID": 106191109,
+        "groupID": 1061911,
+        "op": 1,
+        "conditionType": 3,
+        "value": 7,
+        "subValue": 1
+    },
+    {
+        "ID": 106191110,
+        "groupID": 1061911,
+        "op": 1,
+        "conditionType": 3,
+        "value": 8,
+        "subValue": 1
+    },
+    {
+        "ID": 106191111,
+        "groupID": 1061911,
+        "op": 1,
+        "conditionType": 3,
+        "value": 4,
+        "subValue": 2
+    },
+    {
+        "ID": 106191112,
+        "groupID": 1061911,
+        "op": 1,
+        "conditionType": 3,
+        "value": 5,
+        "subValue": 2
+    },
+    {
+        "ID": 106191113,
+        "groupID": 1061911,
+        "op": 1,
+        "conditionType": 3,
+        "value": 6,
+        "subValue": 2
+    },
+    {
+        "ID": 106191114,
+        "groupID": 1061911,
+        "op": 1,
+        "conditionType": 3,
+        "value": 7,
+        "subValue": 2
+    },
+    {
+        "ID": 106191115,
+        "groupID": 1061911,
+        "op": 0,
+        "conditionType": 3,
+        "value": 8,
+        "subValue": 2
+    },
+    {
+        "ID": 106261101,
+        "groupID": 1062611,
+        "op": 0,
+        "conditionType": 2,
+        "value": 2000001,
+        "subValue": 0
+    },
+    {
+        "ID": 106381101,
+        "groupID": 1063811,
+        "op": 1,
+        "conditionType": 3,
+        "value": 17,
+        "subValue": 3
+    },
+    {
+        "ID": 106381102,
+        "groupID": 1063811,
+        "op": 1,
+        "conditionType": 3,
+        "value": 18,
+        "subValue": 3
+    },
+    {
+        "ID": 106381103,
+        "groupID": 1063811,
+        "op": 1,
+        "conditionType": 3,
+        "value": 19,
+        "subValue": 3
+    },
+    {
+        "ID": 106381104,
+        "groupID": 1063811,
+        "op": 1,
+        "conditionType": 3,
+        "value": 20,
+        "subValue": 3
+    },
+    {
+        "ID": 106381105,
+        "groupID": 1063811,
+        "op": 1,
+        "conditionType": 3,
+        "value": 21,
+        "subValue": 3
+    },
+    {
+        "ID": 106381106,
+        "groupID": 1063811,
+        "op": 1,
+        "conditionType": 3,
+        "value": 22,
+        "subValue": 3
+    },
+    {
+        "ID": 106381107,
+        "groupID": 1063811,
+        "op": 1,
+        "conditionType": 3,
+        "value": 23,
+        "subValue": 3
+    },
+    {
+        "ID": 106381108,
+        "groupID": 1063811,
+        "op": 1,
+        "conditionType": 3,
+        "value": 17,
+        "subValue": 4
+    },
+    {
+        "ID": 106381109,
+        "groupID": 1063811,
+        "op": 1,
+        "conditionType": 3,
+        "value": 18,
+        "subValue": 4
+    },
+    {
+        "ID": 106381110,
+        "groupID": 1063811,
+        "op": 1,
+        "conditionType": 3,
+        "value": 19,
+        "subValue": 4
+    },
+    {
+        "ID": 106381111,
+        "groupID": 1063811,
+        "op": 1,
+        "conditionType": 3,
+        "value": 20,
+        "subValue": 4
+    },
+    {
+        "ID": 106381112,
+        "groupID": 1063811,
+        "op": 1,
+        "conditionType": 3,
+        "value": 21,
+        "subValue": 4
+    },
+    {
+        "ID": 106381113,
+        "groupID": 1063811,
+        "op": 1,
+        "conditionType": 3,
+        "value": 22,
+        "subValue": 4
+    },
+    {
+        "ID": 106381114,
+        "groupID": 1063811,
+        "op": 1,
+        "conditionType": 3,
+        "value": 23,
+        "subValue": 4
+    },
+    {
+        "ID": 106381115,
+        "groupID": 1063811,
+        "op": 1,
+        "conditionType": 3,
+        "value": 17,
+        "subValue": 5
+    },
+    {
+        "ID": 106381116,
+        "groupID": 1063811,
+        "op": 1,
+        "conditionType": 3,
+        "value": 18,
+        "subValue": 5
+    },
+    {
+        "ID": 106381117,
+        "groupID": 1063811,
+        "op": 1,
+        "conditionType": 3,
+        "value": 19,
+        "subValue": 5
+    },
+    {
+        "ID": 106381118,
+        "groupID": 1063811,
+        "op": 1,
+        "conditionType": 3,
+        "value": 20,
+        "subValue": 5
+    },
+    {
+        "ID": 106381119,
+        "groupID": 1063811,
+        "op": 1,
+        "conditionType": 3,
+        "value": 21,
+        "subValue": 5
+    },
+    {
+        "ID": 106381120,
+        "groupID": 1063811,
+        "op": 1,
+        "conditionType": 3,
+        "value": 22,
+        "subValue": 5
+    },
+    {
+        "ID": 106381121,
+        "groupID": 1063811,
+        "op": 0,
+        "conditionType": 3,
+        "value": 23,
+        "subValue": 5
+    },
+    {
+        "ID": 106441101,
+        "groupID": 1064411,
+        "op": 1,
+        "conditionType": 3,
+        "value": 0,
+        "subValue": 0
+    },
+    {
+        "ID": 106441102,
+        "groupID": 1064411,
+        "op": 1,
+        "conditionType": 3,
+        "value": 1,
+        "subValue": 0
+    },
+    {
+        "ID": 106441103,
+        "groupID": 1064411,
+        "op": 1,
+        "conditionType": 3,
+        "value": 2,
+        "subValue": 0
+    },
+    {
+        "ID": 106441104,
+        "groupID": 1064411,
+        "op": 1,
+        "conditionType": 3,
+        "value": 3,
+        "subValue": 0
+    },
+    {
+        "ID": 106441105,
+        "groupID": 1064411,
+        "op": 1,
+        "conditionType": 3,
+        "value": 4,
+        "subValue": 0
+    },
+    {
+        "ID": 106441106,
+        "groupID": 1064411,
+        "op": 1,
+        "conditionType": 3,
+        "value": 5,
+        "subValue": 0
+    },
+    {
+        "ID": 106441107,
+        "groupID": 1064411,
+        "op": 1,
+        "conditionType": 3,
+        "value": 0,
+        "subValue": 1
+    },
+    {
+        "ID": 106441108,
+        "groupID": 1064411,
+        "op": 1,
+        "conditionType": 3,
+        "value": 1,
+        "subValue": 1
+    },
+    {
+        "ID": 106441109,
+        "groupID": 1064411,
+        "op": 1,
+        "conditionType": 3,
+        "value": 2,
+        "subValue": 1
+    },
+    {
+        "ID": 106441110,
+        "groupID": 1064411,
+        "op": 1,
+        "conditionType": 3,
+        "value": 3,
+        "subValue": 1
+    },
+    {
+        "ID": 106441111,
+        "groupID": 1064411,
+        "op": 1,
+        "conditionType": 3,
+        "value": 4,
+        "subValue": 1
+    },
+    {
+        "ID": 106441112,
+        "groupID": 1064411,
+        "op": 1,
+        "conditionType": 3,
+        "value": 5,
+        "subValue": 1
+    },
+    {
+        "ID": 106441113,
+        "groupID": 1064411,
+        "op": 1,
+        "conditionType": 3,
+        "value": 0,
+        "subValue": 2
+    },
+    {
+        "ID": 106441114,
+        "groupID": 1064411,
+        "op": 1,
+        "conditionType": 3,
+        "value": 1,
+        "subValue": 2
+    },
+    {
+        "ID": 106441115,
+        "groupID": 1064411,
+        "op": 1,
+        "conditionType": 3,
+        "value": 2,
+        "subValue": 2
+    },
+    {
+        "ID": 106441116,
+        "groupID": 1064411,
+        "op": 1,
+        "conditionType": 3,
+        "value": 3,
+        "subValue": 2
+    },
+    {
+        "ID": 106441117,
+        "groupID": 1064411,
+        "op": 1,
+        "conditionType": 3,
+        "value": 4,
+        "subValue": 2
+    },
+    {
+        "ID": 106441118,
+        "groupID": 1064411,
+        "op": 0,
+        "conditionType": 3,
+        "value": 5,
+        "subValue": 2
+    },
+    {
+        "ID": 106481101,
+        "groupID": 1064811,
+        "op": 1,
+        "conditionType": 3,
+        "value": 24,
+        "subValue": 7
+    },
+    {
+        "ID": 106481102,
+        "groupID": 1064811,
+        "op": 1,
+        "conditionType": 3,
+        "value": 25,
+        "subValue": 7
+    },
+    {
+        "ID": 106481103,
+        "groupID": 1064811,
+        "op": 1,
+        "conditionType": 3,
+        "value": 26,
+        "subValue": 7
+    },
+    {
+        "ID": 106481104,
+        "groupID": 1064811,
+        "op": 1,
+        "conditionType": 3,
+        "value": 27,
+        "subValue": 7
+    },
+    {
+        "ID": 106481105,
+        "groupID": 1064811,
+        "op": 1,
+        "conditionType": 3,
+        "value": 24,
+        "subValue": 8
+    },
+    {
+        "ID": 106481106,
+        "groupID": 1064811,
+        "op": 1,
+        "conditionType": 3,
+        "value": 25,
+        "subValue": 8
+    },
+    {
+        "ID": 106481107,
+        "groupID": 1064811,
+        "op": 1,
+        "conditionType": 3,
+        "value": 26,
+        "subValue": 8
+    },
+    {
+        "ID": 106481108,
+        "groupID": 1064811,
+        "op": 1,
+        "conditionType": 3,
+        "value": 27,
+        "subValue": 8
+    },
+    {
+        "ID": 106481109,
+        "groupID": 1064811,
+        "op": 1,
+        "conditionType": 3,
+        "value": 24,
+        "subValue": 9
+    },
+    {
+        "ID": 106481110,
+        "groupID": 1064811,
+        "op": 1,
+        "conditionType": 3,
+        "value": 25,
+        "subValue": 9
+    },
+    {
+        "ID": 106481111,
+        "groupID": 1064811,
+        "op": 1,
+        "conditionType": 3,
+        "value": 26,
+        "subValue": 9
+    },
+    {
+        "ID": 106481112,
+        "groupID": 1064811,
+        "op": 1,
+        "conditionType": 3,
+        "value": 27,
+        "subValue": 9
+    },
+    {
+        "ID": 106481113,
+        "groupID": 1064811,
+        "op": 0,
+        "conditionType": 1,
+        "value": 0,
+        "subValue": 0
+    },
+    {
+        "ID": 106501101,
+        "groupID": 1065011,
+        "op": 0,
+        "conditionType": 2,
+        "value": 2000001,
+        "subValue": 0
+    },
+    {
+        "ID": 106591101,
+        "groupID": 1065911,
+        "op": 0,
+        "conditionType": 2,
+        "value": 2000001,
+        "subValue": 0
+    },
+    {
+        "ID": 106601101,
+        "groupID": 1066011,
+        "op": 1,
+        "conditionType": 3,
+        "value": 0,
+        "subValue": 1
+    },
+    {
+        "ID": 106601102,
+        "groupID": 1066011,
+        "op": 1,
+        "conditionType": 3,
+        "value": 1,
+        "subValue": 1
+    },
+    {
+        "ID": 106601103,
+        "groupID": 1066011,
+        "op": 1,
+        "conditionType": 3,
+        "value": 2,
+        "subValue": 1
+    },
+    {
+        "ID": 106601104,
+        "groupID": 1066011,
+        "op": 1,
+        "conditionType": 3,
+        "value": 0,
+        "subValue": 2
+    },
+    {
+        "ID": 106601105,
+        "groupID": 1066011,
+        "op": 1,
+        "conditionType": 3,
+        "value": 1,
+        "subValue": 2
+    },
+    {
+        "ID": 106601106,
+        "groupID": 1066011,
+        "op": 1,
+        "conditionType": 3,
+        "value": 2,
+        "subValue": 2
+    },
+    {
+        "ID": 106601107,
+        "groupID": 1066011,
+        "op": 1,
+        "conditionType": 3,
+        "value": 0,
+        "subValue": 3
+    },
+    {
+        "ID": 106601108,
+        "groupID": 1066011,
+        "op": 1,
+        "conditionType": 3,
+        "value": 1,
+        "subValue": 3
+    },
+    {
+        "ID": 106601109,
+        "groupID": 1066011,
+        "op": 0,
+        "conditionType": 3,
+        "value": 2,
+        "subValue": 3
+    },
+    {
+        "ID": 106701101,
+        "groupID": 1067011,
+        "op": 1,
+        "conditionType": 3,
+        "value": 0,
+        "subValue": 16
+    },
+    {
+        "ID": 106701102,
+        "groupID": 1067011,
+        "op": 1,
+        "conditionType": 3,
+        "value": 0,
+        "subValue": 17
+    },
+    {
+        "ID": 106701103,
+        "groupID": 1067011,
+        "op": 1,
+        "conditionType": 3,
+        "value": 1,
+        "subValue": 17
+    },
+    {
+        "ID": 106701104,
+        "groupID": 1067011,
+        "op": 1,
+        "conditionType": 3,
+        "value": 0,
+        "subValue": 18
+    },
+    {
+        "ID": 106701105,
+        "groupID": 1067011,
+        "op": 1,
+        "conditionType": 3,
+        "value": 1,
+        "subValue": 18
+    },
+    {
+        "ID": 106701106,
+        "groupID": 1067011,
+        "op": 1,
+        "conditionType": 3,
+        "value": 0,
+        "subValue": 19
+    },
+    {
+        "ID": 106701107,
+        "groupID": 1067011,
+        "op": 1,
+        "conditionType": 3,
+        "value": 1,
+        "subValue": 19
+    },
+    {
+        "ID": 106701108,
+        "groupID": 1067011,
+        "op": 1,
+        "conditionType": 3,
+        "value": 0,
+        "subValue": 20
+    },
+    {
+        "ID": 106701109,
+        "groupID": 1067011,
+        "op": 1,
+        "conditionType": 3,
+        "value": 1,
+        "subValue": 20
+    },
+    {
+        "ID": 106701110,
+        "groupID": 1067011,
+        "op": 1,
+        "conditionType": 3,
+        "value": 2,
+        "subValue": 20
+    },
+    {
+        "ID": 106701111,
+        "groupID": 1067011,
+        "op": 1,
+        "conditionType": 3,
+        "value": 0,
+        "subValue": 21
+    },
+    {
+        "ID": 106701112,
+        "groupID": 1067011,
+        "op": 1,
+        "conditionType": 3,
+        "value": 1,
+        "subValue": 21
+    },
+    {
+        "ID": 106701113,
+        "groupID": 1067011,
+        "op": 1,
+        "conditionType": 3,
+        "value": 2,
+        "subValue": 21
+    },
+    {
+        "ID": 106701114,
+        "groupID": 1067011,
+        "op": 1,
+        "conditionType": 3,
+        "value": 3,
+        "subValue": 21
+    },
+    {
+        "ID": 106701115,
+        "groupID": 1067011,
+        "op": 1,
+        "conditionType": 3,
+        "value": 4,
+        "subValue": 21
+    },
+    {
+        "ID": 106701116,
+        "groupID": 1067011,
+        "op": 1,
+        "conditionType": 3,
+        "value": 0,
+        "subValue": 22
+    },
+    {
+        "ID": 106701117,
+        "groupID": 1067011,
+        "op": 1,
+        "conditionType": 3,
+        "value": 1,
+        "subValue": 22
+    },
+    {
+        "ID": 106701118,
+        "groupID": 1067011,
+        "op": 1,
+        "conditionType": 3,
+        "value": 2,
+        "subValue": 22
+    },
+    {
+        "ID": 106701119,
+        "groupID": 1067011,
+        "op": 1,
+        "conditionType": 3,
+        "value": 3,
+        "subValue": 22
+    },
+    {
+        "ID": 106701120,
+        "groupID": 1067011,
+        "op": 1,
+        "conditionType": 3,
+        "value": 4,
+        "subValue": 22
+    },
+    {
+        "ID": 106701121,
+        "groupID": 1067011,
+        "op": 1,
+        "conditionType": 3,
+        "value": 5,
+        "subValue": 22
+    },
+    {
+        "ID": 106701122,
+        "groupID": 1067011,
+        "op": 0,
+        "conditionType": 3,
+        "value": 6,
+        "subValue": 22
+    },
+    {
+        "ID": 106721101,
+        "groupID": 1067211,
+        "op": 0,
+        "conditionType": 2,
+        "value": 2000001,
+        "subValue": 0
+    },
+    {
+        "ID": 106731101,
+        "groupID": 1067311,
+        "op": 0,
+        "conditionType": 2,
+        "value": 2000001,
+        "subValue": 0
+    },
+    {
+        "ID": 106781101,
+        "groupID": 1067811,
+        "op": 0,
+        "conditionType": 2,
+        "value": 2000001,
+        "subValue": 0
+    },
+    {
+        "ID": 106851101,
+        "groupID": 1068511,
+        "op": 1,
+        "conditionType": 3,
+        "value": 15,
+        "subValue": 0
+    },
+    {
+        "ID": 106851102,
+        "groupID": 1068511,
+        "op": 1,
+        "conditionType": 3,
+        "value": 16,
+        "subValue": 0
+    },
+    {
+        "ID": 106851103,
+        "groupID": 1068511,
+        "op": 1,
+        "conditionType": 3,
+        "value": 17,
+        "subValue": 0
+    },
+    {
+        "ID": 106851104,
+        "groupID": 1068511,
+        "op": 1,
+        "conditionType": 3,
+        "value": 18,
+        "subValue": 0
+    },
+    {
+        "ID": 106851105,
+        "groupID": 1068511,
+        "op": 1,
+        "conditionType": 3,
+        "value": 19,
+        "subValue": 0
+    },
+    {
+        "ID": 106851106,
+        "groupID": 1068511,
+        "op": 1,
+        "conditionType": 3,
+        "value": 15,
+        "subValue": 1
+    },
+    {
+        "ID": 106851107,
+        "groupID": 1068511,
+        "op": 1,
+        "conditionType": 3,
+        "value": 16,
+        "subValue": 1
+    },
+    {
+        "ID": 106851108,
+        "groupID": 1068511,
+        "op": 1,
+        "conditionType": 3,
+        "value": 17,
+        "subValue": 1
+    },
+    {
+        "ID": 106851109,
+        "groupID": 1068511,
+        "op": 1,
+        "conditionType": 3,
+        "value": 18,
+        "subValue": 1
+    },
+    {
+        "ID": 106851110,
+        "groupID": 1068511,
+        "op": 1,
+        "conditionType": 3,
+        "value": 19,
+        "subValue": 1
+    },
+    {
+        "ID": 106851111,
+        "groupID": 1068511,
+        "op": 1,
+        "conditionType": 3,
+        "value": 15,
+        "subValue": 2
+    },
+    {
+        "ID": 106851112,
+        "groupID": 1068511,
+        "op": 1,
+        "conditionType": 3,
+        "value": 16,
+        "subValue": 2
+    },
+    {
+        "ID": 106851113,
+        "groupID": 1068511,
+        "op": 1,
+        "conditionType": 3,
+        "value": 17,
+        "subValue": 2
+    },
+    {
+        "ID": 106851114,
+        "groupID": 1068511,
+        "op": 1,
+        "conditionType": 3,
+        "value": 18,
+        "subValue": 2
+    },
+    {
+        "ID": 106851115,
+        "groupID": 1068511,
+        "op": 0,
+        "conditionType": 3,
+        "value": 19,
+        "subValue": 2
+    },
+    {
+        "ID": 106881101,
+        "groupID": 1068811,
+        "op": 1,
+        "conditionType": 3,
+        "value": 17,
+        "subValue": 3
+    },
+    {
+        "ID": 106881102,
+        "groupID": 1068811,
+        "op": 1,
+        "conditionType": 3,
+        "value": 18,
+        "subValue": 3
+    },
+    {
+        "ID": 106881103,
+        "groupID": 1068811,
+        "op": 1,
+        "conditionType": 3,
+        "value": 19,
+        "subValue": 3
+    },
+    {
+        "ID": 106881104,
+        "groupID": 1068811,
+        "op": 1,
+        "conditionType": 3,
+        "value": 20,
+        "subValue": 3
+    },
+    {
+        "ID": 106881105,
+        "groupID": 1068811,
+        "op": 1,
+        "conditionType": 3,
+        "value": 21,
+        "subValue": 3
+    },
+    {
+        "ID": 106881106,
+        "groupID": 1068811,
+        "op": 1,
+        "conditionType": 3,
+        "value": 22,
+        "subValue": 3
+    },
+    {
+        "ID": 106881107,
+        "groupID": 1068811,
+        "op": 1,
+        "conditionType": 3,
+        "value": 23,
+        "subValue": 3
+    },
+    {
+        "ID": 106881108,
+        "groupID": 1068811,
+        "op": 1,
+        "conditionType": 3,
+        "value": 17,
+        "subValue": 4
+    },
+    {
+        "ID": 106881109,
+        "groupID": 1068811,
+        "op": 1,
+        "conditionType": 3,
+        "value": 18,
+        "subValue": 4
+    },
+    {
+        "ID": 106881110,
+        "groupID": 1068811,
+        "op": 1,
+        "conditionType": 3,
+        "value": 19,
+        "subValue": 4
+    },
+    {
+        "ID": 106881111,
+        "groupID": 1068811,
+        "op": 1,
+        "conditionType": 3,
+        "value": 20,
+        "subValue": 4
+    },
+    {
+        "ID": 106881112,
+        "groupID": 1068811,
+        "op": 1,
+        "conditionType": 3,
+        "value": 21,
+        "subValue": 4
+    },
+    {
+        "ID": 106881113,
+        "groupID": 1068811,
+        "op": 1,
+        "conditionType": 3,
+        "value": 22,
+        "subValue": 4
+    },
+    {
+        "ID": 106881114,
+        "groupID": 1068811,
+        "op": 1,
+        "conditionType": 3,
+        "value": 23,
+        "subValue": 4
+    },
+    {
+        "ID": 106881115,
+        "groupID": 1068811,
+        "op": 1,
+        "conditionType": 3,
+        "value": 17,
+        "subValue": 5
+    },
+    {
+        "ID": 106881116,
+        "groupID": 1068811,
+        "op": 1,
+        "conditionType": 3,
+        "value": 18,
+        "subValue": 5
+    },
+    {
+        "ID": 106881117,
+        "groupID": 1068811,
+        "op": 1,
+        "conditionType": 3,
+        "value": 19,
+        "subValue": 5
+    },
+    {
+        "ID": 106881118,
+        "groupID": 1068811,
+        "op": 1,
+        "conditionType": 3,
+        "value": 20,
+        "subValue": 5
+    },
+    {
+        "ID": 106881119,
+        "groupID": 1068811,
+        "op": 1,
+        "conditionType": 3,
+        "value": 21,
+        "subValue": 5
+    },
+    {
+        "ID": 106881120,
+        "groupID": 1068811,
+        "op": 1,
+        "conditionType": 3,
+        "value": 22,
+        "subValue": 5
+    },
+    {
+        "ID": 106881121,
+        "groupID": 1068811,
+        "op": 0,
+        "conditionType": 3,
+        "value": 23,
+        "subValue": 5
+    },
+    {
+        "ID": 106941101,
+        "groupID": 1069411,
+        "op": 1,
+        "conditionType": 3,
+        "value": 29,
+        "subValue": 8
+    },
+    {
+        "ID": 106941102,
+        "groupID": 1069411,
+        "op": 1,
+        "conditionType": 3,
+        "value": 28,
+        "subValue": 9
+    },
+    {
+        "ID": 106941103,
+        "groupID": 1069411,
+        "op": 1,
+        "conditionType": 3,
+        "value": 29,
+        "subValue": 9
+    },
+    {
+        "ID": 106941104,
+        "groupID": 1069411,
+        "op": 1,
+        "conditionType": 3,
+        "value": 28,
+        "subValue": 10
+    },
+    {
+        "ID": 106941105,
+        "groupID": 1069411,
+        "op": 1,
+        "conditionType": 3,
+        "value": 29,
+        "subValue": 10
+    },
+    {
+        "ID": 106941106,
+        "groupID": 1069411,
+        "op": 1,
+        "conditionType": 3,
+        "value": 30,
+        "subValue": 10
+    },
+    {
+        "ID": 106941107,
+        "groupID": 1069411,
+        "op": 1,
+        "conditionType": 3,
+        "value": 23,
+        "subValue": 11
+    },
+    {
+        "ID": 106941108,
+        "groupID": 1069411,
+        "op": 1,
+        "conditionType": 3,
+        "value": 24,
+        "subValue": 11
+    },
+    {
+        "ID": 106941109,
+        "groupID": 1069411,
+        "op": 1,
+        "conditionType": 3,
+        "value": 27,
+        "subValue": 11
+    },
+    {
+        "ID": 106941110,
+        "groupID": 1069411,
+        "op": 1,
+        "conditionType": 3,
+        "value": 28,
+        "subValue": 11
+    },
+    {
+        "ID": 106941111,
+        "groupID": 1069411,
+        "op": 1,
+        "conditionType": 3,
+        "value": 29,
+        "subValue": 11
+    },
+    {
+        "ID": 106941112,
+        "groupID": 1069411,
+        "op": 1,
+        "conditionType": 3,
+        "value": 30,
+        "subValue": 11
+    },
+    {
+        "ID": 106941113,
+        "groupID": 1069411,
+        "op": 1,
+        "conditionType": 3,
+        "value": 23,
+        "subValue": 12
+    },
+    {
+        "ID": 106941114,
+        "groupID": 1069411,
+        "op": 1,
+        "conditionType": 3,
+        "value": 24,
+        "subValue": 12
+    },
+    {
+        "ID": 106941115,
+        "groupID": 1069411,
+        "op": 1,
+        "conditionType": 3,
+        "value": 25,
+        "subValue": 12
+    },
+    {
+        "ID": 106941116,
+        "groupID": 1069411,
+        "op": 1,
+        "conditionType": 3,
+        "value": 26,
+        "subValue": 12
+    },
+    {
+        "ID": 106941117,
+        "groupID": 1069411,
+        "op": 1,
+        "conditionType": 3,
+        "value": 27,
+        "subValue": 12
+    },
+    {
+        "ID": 106941118,
+        "groupID": 1069411,
+        "op": 1,
+        "conditionType": 3,
+        "value": 28,
+        "subValue": 12
+    },
+    {
+        "ID": 106941119,
+        "groupID": 1069411,
+        "op": 1,
+        "conditionType": 3,
+        "value": 24,
+        "subValue": 13
+    },
+    {
+        "ID": 106941120,
+        "groupID": 1069411,
+        "op": 1,
+        "conditionType": 3,
+        "value": 25,
+        "subValue": 13
+    },
+    {
+        "ID": 106941121,
+        "groupID": 1069411,
+        "op": 1,
+        "conditionType": 3,
+        "value": 26,
+        "subValue": 13
+    },
+    {
+        "ID": 106941122,
+        "groupID": 1069411,
+        "op": 0,
+        "conditionType": 3,
+        "value": 27,
+        "subValue": 13
+    },
+    {
+        "ID": 102292101,
+        "groupID": 1022921,
+        "op": 0,
+        "conditionType": 2,
+        "value": 2000001,
+        "subValue": 0
+    },
+    {
+        "ID": 103142101,
+        "groupID": 1031421,
+        "op": 1,
+        "conditionType": 3,
+        "value": 3,
+        "subValue": 21
+    },
+    {
+        "ID": 103142102,
+        "groupID": 1031421,
+        "op": 1,
+        "conditionType": 3,
+        "value": 4,
+        "subValue": 21
+    },
+    {
+        "ID": 103142103,
+        "groupID": 1031421,
+        "op": 1,
+        "conditionType": 3,
+        "value": 5,
+        "subValue": 21
+    },
+    {
+        "ID": 103142104,
+        "groupID": 1031421,
+        "op": 1,
+        "conditionType": 3,
+        "value": 6,
+        "subValue": 21
+    },
+    {
+        "ID": 103142105,
+        "groupID": 1031421,
+        "op": 1,
+        "conditionType": 3,
+        "value": 7,
+        "subValue": 21
+    },
+    {
+        "ID": 103142106,
+        "groupID": 1031421,
+        "op": 1,
+        "conditionType": 3,
+        "value": 8,
+        "subValue": 21
+    },
+    {
+        "ID": 103142107,
+        "groupID": 1031421,
+        "op": 1,
+        "conditionType": 3,
+        "value": 9,
+        "subValue": 21
+    },
+    {
+        "ID": 103142108,
+        "groupID": 1031421,
+        "op": 1,
+        "conditionType": 3,
+        "value": 3,
+        "subValue": 22
+    },
+    {
+        "ID": 103142109,
+        "groupID": 1031421,
+        "op": 1,
+        "conditionType": 3,
+        "value": 4,
+        "subValue": 22
+    },
+    {
+        "ID": 103142110,
+        "groupID": 1031421,
+        "op": 1,
+        "conditionType": 3,
+        "value": 5,
+        "subValue": 22
+    },
+    {
+        "ID": 103142111,
+        "groupID": 1031421,
+        "op": 1,
+        "conditionType": 3,
+        "value": 6,
+        "subValue": 22
+    },
+    {
+        "ID": 103142112,
+        "groupID": 1031421,
+        "op": 1,
+        "conditionType": 3,
+        "value": 7,
+        "subValue": 22
+    },
+    {
+        "ID": 103142113,
+        "groupID": 1031421,
+        "op": 1,
+        "conditionType": 3,
+        "value": 8,
+        "subValue": 22
+    },
+    {
+        "ID": 103142114,
+        "groupID": 1031421,
+        "op": 1,
+        "conditionType": 3,
+        "value": 9,
+        "subValue": 22
+    },
+    {
+        "ID": 103142115,
+        "groupID": 1031421,
+        "op": 1,
+        "conditionType": 3,
+        "value": 5,
+        "subValue": 23
+    },
+    {
+        "ID": 103142116,
+        "groupID": 1031421,
+        "op": 1,
+        "conditionType": 3,
+        "value": 6,
+        "subValue": 23
+    },
+    {
+        "ID": 103142117,
+        "groupID": 1031421,
+        "op": 1,
+        "conditionType": 3,
+        "value": 7,
+        "subValue": 23
+    },
+    {
+        "ID": 103142118,
+        "groupID": 1031421,
+        "op": 0,
+        "conditionType": 1,
+        "value": 0,
+        "subValue": 0
+    },
+    {
+        "ID": 104222101,
+        "groupID": 1042221,
+        "op": 0,
+        "conditionType": 2,
+        "value": 2000001,
+        "subValue": 0
+    },
+    {
+        "ID": 105152101,
+        "groupID": 1051521,
+        "op": 1,
+        "conditionType": 3,
+        "value": 16,
+        "subValue": 7
+    },
+    {
+        "ID": 105152102,
+        "groupID": 1051521,
+        "op": 1,
+        "conditionType": 3,
+        "value": 17,
+        "subValue": 7
+    },
+    {
+        "ID": 105152103,
+        "groupID": 1051521,
+        "op": 1,
+        "conditionType": 3,
+        "value": 18,
+        "subValue": 7
+    },
+    {
+        "ID": 105152104,
+        "groupID": 1051521,
+        "op": 1,
+        "conditionType": 3,
+        "value": 19,
+        "subValue": 7
+    },
+    {
+        "ID": 105152105,
+        "groupID": 1051521,
+        "op": 1,
+        "conditionType": 3,
+        "value": 20,
+        "subValue": 7
+    },
+    {
+        "ID": 105152106,
+        "groupID": 1051521,
+        "op": 1,
+        "conditionType": 3,
+        "value": 21,
+        "subValue": 7
+    },
+    {
+        "ID": 105152107,
+        "groupID": 1051521,
+        "op": 1,
+        "conditionType": 3,
+        "value": 22,
+        "subValue": 7
+    },
+    {
+        "ID": 105152108,
+        "groupID": 1051521,
+        "op": 1,
+        "conditionType": 3,
+        "value": 23,
+        "subValue": 7
+    },
+    {
+        "ID": 105152109,
+        "groupID": 1051521,
+        "op": 1,
+        "conditionType": 3,
+        "value": 24,
+        "subValue": 7
+    },
+    {
+        "ID": 105152110,
+        "groupID": 1051521,
+        "op": 1,
+        "conditionType": 3,
+        "value": 25,
+        "subValue": 7
+    },
+    {
+        "ID": 105152111,
+        "groupID": 1051521,
+        "op": 1,
+        "conditionType": 3,
+        "value": 26,
+        "subValue": 7
+    },
+    {
+        "ID": 105152112,
+        "groupID": 1051521,
+        "op": 1,
+        "conditionType": 3,
+        "value": 16,
+        "subValue": 8
+    },
+    {
+        "ID": 105152113,
+        "groupID": 1051521,
+        "op": 1,
+        "conditionType": 3,
+        "value": 17,
+        "subValue": 8
+    },
+    {
+        "ID": 105152114,
+        "groupID": 1051521,
+        "op": 1,
+        "conditionType": 3,
+        "value": 18,
+        "subValue": 8
+    },
+    {
+        "ID": 105152115,
+        "groupID": 1051521,
+        "op": 1,
+        "conditionType": 3,
+        "value": 19,
+        "subValue": 8
+    },
+    {
+        "ID": 105152116,
+        "groupID": 1051521,
+        "op": 1,
+        "conditionType": 3,
+        "value": 20,
+        "subValue": 8
+    },
+    {
+        "ID": 105152117,
+        "groupID": 1051521,
+        "op": 1,
+        "conditionType": 3,
+        "value": 21,
+        "subValue": 8
+    },
+    {
+        "ID": 105152118,
+        "groupID": 1051521,
+        "op": 1,
+        "conditionType": 3,
+        "value": 22,
+        "subValue": 8
+    },
+    {
+        "ID": 105152119,
+        "groupID": 1051521,
+        "op": 1,
+        "conditionType": 3,
+        "value": 23,
+        "subValue": 8
+    },
+    {
+        "ID": 105152120,
+        "groupID": 1051521,
+        "op": 1,
+        "conditionType": 3,
+        "value": 24,
+        "subValue": 8
+    },
+    {
+        "ID": 105152121,
+        "groupID": 1051521,
+        "op": 1,
+        "conditionType": 3,
+        "value": 25,
+        "subValue": 8
+    },
+    {
+        "ID": 105152122,
+        "groupID": 1051521,
+        "op": 1,
+        "conditionType": 3,
+        "value": 26,
+        "subValue": 8
+    },
+    {
+        "ID": 105152123,
+        "groupID": 1051521,
+        "op": 1,
+        "conditionType": 3,
+        "value": 16,
+        "subValue": 9
+    },
+    {
+        "ID": 105152124,
+        "groupID": 1051521,
+        "op": 1,
+        "conditionType": 3,
+        "value": 17,
+        "subValue": 9
+    },
+    {
+        "ID": 105152125,
+        "groupID": 1051521,
+        "op": 1,
+        "conditionType": 3,
+        "value": 18,
+        "subValue": 9
+    },
+    {
+        "ID": 105152126,
+        "groupID": 1051521,
+        "op": 1,
+        "conditionType": 3,
+        "value": 19,
+        "subValue": 9
+    },
+    {
+        "ID": 105152127,
+        "groupID": 1051521,
+        "op": 1,
+        "conditionType": 3,
+        "value": 20,
+        "subValue": 9
+    },
+    {
+        "ID": 105152128,
+        "groupID": 1051521,
+        "op": 1,
+        "conditionType": 3,
+        "value": 21,
+        "subValue": 9
+    },
+    {
+        "ID": 105152129,
+        "groupID": 1051521,
+        "op": 1,
+        "conditionType": 3,
+        "value": 22,
+        "subValue": 9
+    },
+    {
+        "ID": 105152130,
+        "groupID": 1051521,
+        "op": 1,
+        "conditionType": 3,
+        "value": 23,
+        "subValue": 9
+    },
+    {
+        "ID": 105152131,
+        "groupID": 1051521,
+        "op": 1,
+        "conditionType": 3,
+        "value": 24,
+        "subValue": 9
+    },
+    {
+        "ID": 105152132,
+        "groupID": 1051521,
+        "op": 1,
+        "conditionType": 3,
+        "value": 25,
+        "subValue": 9
+    },
+    {
+        "ID": 105152133,
+        "groupID": 1051521,
+        "op": 1,
+        "conditionType": 3,
+        "value": 26,
+        "subValue": 9
+    },
+    {
+        "ID": 105152134,
+        "groupID": 1051521,
+        "op": 1,
+        "conditionType": 3,
+        "value": 16,
+        "subValue": 10
+    },
+    {
+        "ID": 105152135,
+        "groupID": 1051521,
+        "op": 1,
+        "conditionType": 3,
+        "value": 17,
+        "subValue": 10
+    },
+    {
+        "ID": 105152136,
+        "groupID": 1051521,
+        "op": 1,
+        "conditionType": 3,
+        "value": 18,
+        "subValue": 10
+    },
+    {
+        "ID": 105152137,
+        "groupID": 1051521,
+        "op": 1,
+        "conditionType": 3,
+        "value": 19,
+        "subValue": 10
+    },
+    {
+        "ID": 105152138,
+        "groupID": 1051521,
+        "op": 1,
+        "conditionType": 3,
+        "value": 20,
+        "subValue": 10
+    },
+    {
+        "ID": 105152139,
+        "groupID": 1051521,
+        "op": 1,
+        "conditionType": 3,
+        "value": 21,
+        "subValue": 10
+    },
+    {
+        "ID": 105152140,
+        "groupID": 1051521,
+        "op": 1,
+        "conditionType": 3,
+        "value": 22,
+        "subValue": 10
+    },
+    {
+        "ID": 105152141,
+        "groupID": 1051521,
+        "op": 1,
+        "conditionType": 3,
+        "value": 23,
+        "subValue": 10
+    },
+    {
+        "ID": 105152142,
+        "groupID": 1051521,
+        "op": 1,
+        "conditionType": 3,
+        "value": 24,
+        "subValue": 10
+    },
+    {
+        "ID": 105152143,
+        "groupID": 1051521,
+        "op": 1,
+        "conditionType": 3,
+        "value": 25,
+        "subValue": 10
+    },
+    {
+        "ID": 105152144,
+        "groupID": 1051521,
+        "op": 1,
+        "conditionType": 3,
+        "value": 26,
+        "subValue": 10
+    },
+    {
+        "ID": 105152145,
+        "groupID": 1051521,
+        "op": 0,
+        "conditionType": 1,
+        "value": 0,
+        "subValue": 0
+    },
+    {
+        "ID": 105222101,
+        "groupID": 1052221,
+        "op": 0,
+        "conditionType": 2,
+        "value": 2000001,
+        "subValue": 0
+    },
+    {
+        "ID": 30204101,
+        "groupID": 302041,
+        "op": 1,
+        "conditionType": 3,
+        "value": 7,
+        "subValue": 13
+    },
+    {
+        "ID": 30204102,
+        "groupID": 302041,
+        "op": 1,
+        "conditionType": 3,
+        "value": 8,
+        "subValue": 13
+    },
+    {
+        "ID": 30204103,
+        "groupID": 302041,
+        "op": 1,
+        "conditionType": 3,
+        "value": 7,
+        "subValue": 14
+    },
+    {
+        "ID": 30204104,
+        "groupID": 302041,
+        "op": 0,
+        "conditionType": 3,
+        "value": 8,
+        "subValue": 14
+    },
+    {
+        "ID": 30205101,
+        "groupID": 302051,
+        "op": 1,
+        "conditionType": 3,
+        "value": 10,
+        "subValue": 31
+    },
+    {
+        "ID": 30205102,
+        "groupID": 302051,
+        "op": 0,
+        "conditionType": 3,
+        "value": 10,
+        "subValue": 32
+    },
+    {
+        "ID": 32304101,
+        "groupID": 323041,
+        "op": 0,
+        "conditionType": 2,
+        "value": 2000003,
+        "subValue": 0
+    },
+    {
+        "ID": 32304102,
+        "groupID": 323041,
+        "op": 0,
+        "conditionType": 2,
+        "value": 2000004,
+        "subValue": 0
+    },
+    {
+        "ID": 32305101,
+        "groupID": 323051,
+        "op": 0,
+        "conditionType": 2,
+        "value": 2000004,
+        "subValue": 0
+    },
+    {
+        "ID": 32305102,
+        "groupID": 323051,
+        "op": 0,
+        "conditionType": 2,
+        "value": 2000006,
+        "subValue": 0
+    },
+    {
+        "ID": 32305103,
+        "groupID": 323051,
+        "op": 0,
+        "conditionType": 2,
+        "value": 2000007,
+        "subValue": 0
+    },
+    {
+        "ID": 32305104,
+        "groupID": 323051,
+        "op": 0,
+        "conditionType": 2,
+        "value": 2000021,
+        "subValue": 0
+    },
+    {
+        "ID": 32305105,
+        "groupID": 323051,
+        "op": 0,
+        "conditionType": 2,
+        "value": 2000022,
+        "subValue": 0
+    },
+    {
+        "ID": 32306101,
+        "groupID": 323061,
+        "op": 0,
+        "conditionType": 2,
+        "value": 2000004,
+        "subValue": 0
+    },
+    {
+        "ID": 32306102,
+        "groupID": 323061,
+        "op": 0,
+        "conditionType": 2,
+        "value": 2000006,
+        "subValue": 0
+    },
+    {
+        "ID": 32306103,
+        "groupID": 323061,
+        "op": 0,
+        "conditionType": 2,
+        "value": 2000007,
+        "subValue": 0
+    },
+    {
+        "ID": 32306104,
+        "groupID": 323061,
+        "op": 0,
+        "conditionType": 2,
+        "value": 2000023,
+        "subValue": 0
+    },
+    {
+        "ID": 32306105,
+        "groupID": 323061,
+        "op": 0,
+        "conditionType": 2,
+        "value": 2000024,
+        "subValue": 0
+    },
+    {
+        "ID": 33401101,
+        "groupID": 334011,
+        "op": 1,
+        "conditionType": 4,
+        "value": 12,
+        "subValue": 0
+    },
+    {
+        "ID": 33401102,
+        "groupID": 334011,
+        "op": 1,
+        "conditionType": 3,
+        "value": 7,
+        "subValue": 4
+    },
+    {
+        "ID": 33401103,
+        "groupID": 334011,
+        "op": 1,
+        "conditionType": 3,
+        "value": 7,
+        "subValue": 7
+    },
+    {
+        "ID": 33401104,
+        "groupID": 334011,
+        "op": 0,
+        "conditionType": 3,
+        "value": 7,
+        "subValue": 10
+    },
+    {
+        "ID": 30903101,
+        "groupID": 309031,
+        "op": 0,
+        "conditionType": 2,
+        "value": 2000001,
+        "subValue": 0
+    },
+    {
+        "ID": 30991101,
+        "groupID": 309911,
+        "op": 1,
+        "conditionType": 3,
+        "value": 4,
+        "subValue": 1
+    },
+    {
+        "ID": 30991102,
+        "groupID": 309911,
+        "op": 1,
+        "conditionType": 3,
+        "value": 5,
+        "subValue": 1
+    },
+    {
+        "ID": 30991103,
+        "groupID": 309911,
+        "op": 1,
+        "conditionType": 3,
+        "value": 6,
+        "subValue": 1
+    },
+    {
+        "ID": 30991104,
+        "groupID": 309911,
+        "op": 1,
+        "conditionType": 3,
+        "value": 7,
+        "subValue": 1
+    },
+    {
+        "ID": 30991105,
+        "groupID": 309911,
+        "op": 1,
+        "conditionType": 3,
+        "value": 8,
+        "subValue": 1
+    },
+    {
+        "ID": 30991106,
+        "groupID": 309911,
+        "op": 1,
+        "conditionType": 3,
+        "value": 9,
+        "subValue": 1
+    },
+    {
+        "ID": 30991107,
+        "groupID": 309911,
+        "op": 1,
+        "conditionType": 3,
+        "value": 10,
+        "subValue": 1
+    },
+    {
+        "ID": 30991108,
+        "groupID": 309911,
+        "op": 1,
+        "conditionType": 3,
+        "value": 11,
+        "subValue": 1
+    },
+    {
+        "ID": 30991109,
+        "groupID": 309911,
+        "op": 1,
+        "conditionType": 3,
+        "value": 12,
+        "subValue": 1
+    },
+    {
+        "ID": 30991110,
+        "groupID": 309911,
+        "op": 1,
+        "conditionType": 3,
+        "value": 13,
+        "subValue": 1
+    },
+    {
+        "ID": 30991111,
+        "groupID": 309911,
+        "op": 1,
+        "conditionType": 3,
+        "value": 14,
+        "subValue": 1
+    },
+    {
+        "ID": 30991112,
+        "groupID": 309911,
+        "op": 1,
+        "conditionType": 3,
+        "value": 15,
+        "subValue": 1
+    },
+    {
+        "ID": 30991113,
+        "groupID": 309911,
+        "op": 1,
+        "conditionType": 3,
+        "value": 16,
+        "subValue": 1
+    },
+    {
+        "ID": 30991114,
+        "groupID": 309911,
+        "op": 1,
+        "conditionType": 3,
+        "value": 17,
+        "subValue": 1
+    },
+    {
+        "ID": 30991115,
+        "groupID": 309911,
+        "op": 1,
+        "conditionType": 3,
+        "value": 18,
+        "subValue": 1
+    },
+    {
+        "ID": 30991116,
+        "groupID": 309911,
+        "op": 1,
+        "conditionType": 3,
+        "value": 19,
+        "subValue": 1
+    },
+    {
+        "ID": 30991117,
+        "groupID": 309911,
+        "op": 1,
+        "conditionType": 3,
+        "value": 20,
+        "subValue": 1
+    },
+    {
+        "ID": 30991118,
+        "groupID": 309911,
+        "op": 1,
+        "conditionType": 3,
+        "value": 20,
+        "subValue": 2
+    },
+    {
+        "ID": 30991119,
+        "groupID": 309911,
+        "op": 1,
+        "conditionType": 3,
+        "value": 20,
+        "subValue": 3
+    },
+    {
+        "ID": 30991120,
+        "groupID": 309911,
+        "op": 1,
+        "conditionType": 3,
+        "value": 20,
+        "subValue": 4
+    },
+    {
+        "ID": 30991121,
+        "groupID": 309911,
+        "op": 1,
+        "conditionType": 3,
+        "value": 20,
+        "subValue": 5
+    },
+    {
+        "ID": 30991122,
+        "groupID": 309911,
+        "op": 1,
+        "conditionType": 3,
+        "value": 20,
+        "subValue": 6
+    },
+    {
+        "ID": 30991123,
+        "groupID": 309911,
+        "op": 1,
+        "conditionType": 3,
+        "value": 20,
+        "subValue": 7
+    },
+    {
+        "ID": 30991124,
+        "groupID": 309911,
+        "op": 1,
+        "conditionType": 3,
+        "value": 20,
+        "subValue": 8
+    },
+    {
+        "ID": 30991125,
+        "groupID": 309911,
+        "op": 1,
+        "conditionType": 3,
+        "value": 20,
+        "subValue": 9
+    },
+    {
+        "ID": 30991126,
+        "groupID": 309911,
+        "op": 1,
+        "conditionType": 3,
+        "value": 20,
+        "subValue": 10
+    },
+    {
+        "ID": 30991127,
+        "groupID": 309911,
+        "op": 1,
+        "conditionType": 3,
+        "value": 20,
+        "subValue": 11
+    },
+    {
+        "ID": 30991128,
+        "groupID": 309911,
+        "op": 1,
+        "conditionType": 3,
+        "value": 20,
+        "subValue": 12
+    },
+    {
+        "ID": 30991129,
+        "groupID": 309911,
+        "op": 1,
+        "conditionType": 3,
+        "value": 20,
+        "subValue": 13
+    },
+    {
+        "ID": 30991130,
+        "groupID": 309911,
+        "op": 1,
+        "conditionType": 3,
+        "value": 20,
+        "subValue": 14
+    },
+    {
+        "ID": 30991131,
+        "groupID": 309911,
+        "op": 1,
+        "conditionType": 3,
+        "value": 20,
+        "subValue": 15
+    },
+    {
+        "ID": 30991132,
+        "groupID": 309911,
+        "op": 1,
+        "conditionType": 3,
+        "value": 19,
+        "subValue": 15
+    },
+    {
+        "ID": 30991133,
+        "groupID": 309911,
+        "op": 1,
+        "conditionType": 3,
+        "value": 18,
+        "subValue": 15
+    },
+    {
+        "ID": 30991134,
+        "groupID": 309911,
+        "op": 1,
+        "conditionType": 3,
+        "value": 17,
+        "subValue": 15
+    },
+    {
+        "ID": 30991135,
+        "groupID": 309911,
+        "op": 1,
+        "conditionType": 3,
+        "value": 16,
+        "subValue": 15
+    },
+    {
+        "ID": 30991136,
+        "groupID": 309911,
+        "op": 1,
+        "conditionType": 3,
+        "value": 15,
+        "subValue": 15
+    },
+    {
+        "ID": 30991137,
+        "groupID": 309911,
+        "op": 1,
+        "conditionType": 3,
+        "value": 14,
+        "subValue": 15
+    },
+    {
+        "ID": 30991138,
+        "groupID": 309911,
+        "op": 1,
+        "conditionType": 3,
+        "value": 13,
+        "subValue": 15
+    },
+    {
+        "ID": 30991139,
+        "groupID": 309911,
+        "op": 1,
+        "conditionType": 3,
+        "value": 12,
+        "subValue": 15
+    },
+    {
+        "ID": 30991140,
+        "groupID": 309911,
+        "op": 1,
+        "conditionType": 3,
+        "value": 11,
+        "subValue": 15
+    },
+    {
+        "ID": 30991141,
+        "groupID": 309911,
+        "op": 1,
+        "conditionType": 3,
+        "value": 10,
+        "subValue": 15
+    },
+    {
+        "ID": 30991142,
+        "groupID": 309911,
+        "op": 1,
+        "conditionType": 3,
+        "value": 9,
+        "subValue": 15
+    },
+    {
+        "ID": 30991143,
+        "groupID": 309911,
+        "op": 1,
+        "conditionType": 3,
+        "value": 8,
+        "subValue": 15
+    },
+    {
+        "ID": 30991144,
+        "groupID": 309911,
+        "op": 1,
+        "conditionType": 3,
+        "value": 7,
+        "subValue": 15
+    },
+    {
+        "ID": 30991145,
+        "groupID": 309911,
+        "op": 1,
+        "conditionType": 3,
+        "value": 6,
+        "subValue": 15
+    },
+    {
+        "ID": 30991146,
+        "groupID": 309911,
+        "op": 1,
+        "conditionType": 3,
+        "value": 5,
+        "subValue": 15
+    },
+    {
+        "ID": 30991147,
+        "groupID": 309911,
+        "op": 1,
+        "conditionType": 3,
+        "value": 4,
+        "subValue": 15
+    },
+    {
+        "ID": 30991148,
+        "groupID": 309911,
+        "op": 1,
+        "conditionType": 1,
+        "value": 0,
+        "subValue": 0
+    },
+    {
+        "ID": 30503101,
+        "groupID": 305031,
+        "op": 0,
+        "conditionType": 2,
+        "value": 2000001,
+        "subValue": 0
+    },
+    {
+        "ID": 34501101,
+        "groupID": 345011,
+        "op": 1,
+        "conditionType": 3,
+        "value": 5,
+        "subValue": 0
+    },
+    {
+        "ID": 34501102,
+        "groupID": 345011,
+        "op": 1,
+        "conditionType": 3,
+        "value": 5,
+        "subValue": 1
+    },
+    {
+        "ID": 34501103,
+        "groupID": 345011,
+        "op": 1,
+        "conditionType": 3,
+        "value": 5,
+        "subValue": 2
+    },
+    {
+        "ID": 34501104,
+        "groupID": 345011,
+        "op": 1,
+        "conditionType": 3,
+        "value": 5,
+        "subValue": 3
+    },
+    {
+        "ID": 34501105,
+        "groupID": 345011,
+        "op": 1,
+        "conditionType": 3,
+        "value": 5,
+        "subValue": 4
+    },
+    {
+        "ID": 34501106,
+        "groupID": 345011,
+        "op": 1,
+        "conditionType": 3,
+        "value": 5,
+        "subValue": 5
+    },
+    {
+        "ID": 34501107,
+        "groupID": 345011,
+        "op": 1,
+        "conditionType": 3,
+        "value": 5,
+        "subValue": 6
+    },
+    {
+        "ID": 34501108,
+        "groupID": 345011,
+        "op": 1,
+        "conditionType": 3,
+        "value": 5,
+        "subValue": 7
+    },
+    {
+        "ID": 34501109,
+        "groupID": 345011,
+        "op": 1,
+        "conditionType": 3,
+        "value": 5,
+        "subValue": 8
+    },
+    {
+        "ID": 34501110,
+        "groupID": 345011,
+        "op": 0,
+        "conditionType": 3,
+        "value": 5,
+        "subValue": 9
+    },
+    {
+        "ID": 34523101,
+        "groupID": 345231,
+        "op": 1,
+        "conditionType": 3,
+        "value": 1,
+        "subValue": 14
+    },
+    {
+        "ID": 34523102,
+        "groupID": 345231,
+        "op": 1,
+        "conditionType": 3,
+        "value": 2,
+        "subValue": 14
+    },
+    {
+        "ID": 34523103,
+        "groupID": 345231,
+        "op": 1,
+        "conditionType": 3,
+        "value": 3,
+        "subValue": 14
+    },
+    {
+        "ID": 34523104,
+        "groupID": 345231,
+        "op": 1,
+        "conditionType": 3,
+        "value": 1,
+        "subValue": 15
+    },
+    {
+        "ID": 34523105,
+        "groupID": 345231,
+        "op": 1,
+        "conditionType": 3,
+        "value": 2,
+        "subValue": 15
+    },
+    {
+        "ID": 34523106,
+        "groupID": 345231,
+        "op": 0,
+        "conditionType": 3,
+        "value": 3,
+        "subValue": 15
+    },
+    {
+        "ID": 102231201,
+        "groupID": 1022312,
+        "op": 1,
+        "conditionType": 3,
+        "value": 0,
+        "subValue": 0
+    },
+    {
+        "ID": 102231202,
+        "groupID": 1022312,
+        "op": 1,
+        "conditionType": 3,
+        "value": 1,
+        "subValue": 0
+    },
+    {
+        "ID": 102231203,
+        "groupID": 1022312,
+        "op": 1,
+        "conditionType": 3,
+        "value": 2,
+        "subValue": 0
+    },
+    {
+        "ID": 102231204,
+        "groupID": 1022312,
+        "op": 1,
+        "conditionType": 3,
+        "value": 3,
+        "subValue": 0
+    },
+    {
+        "ID": 102231205,
+        "groupID": 1022312,
+        "op": 1,
+        "conditionType": 3,
+        "value": 4,
+        "subValue": 0
+    },
+    {
+        "ID": 102231206,
+        "groupID": 1022312,
+        "op": 1,
+        "conditionType": 3,
+        "value": 0,
+        "subValue": 1
+    },
+    {
+        "ID": 102231207,
+        "groupID": 1022312,
+        "op": 1,
+        "conditionType": 3,
+        "value": 1,
+        "subValue": 1
+    },
+    {
+        "ID": 102231208,
+        "groupID": 1022312,
+        "op": 1,
+        "conditionType": 3,
+        "value": 2,
+        "subValue": 1
+    },
+    {
+        "ID": 102231209,
+        "groupID": 1022312,
+        "op": 1,
+        "conditionType": 3,
+        "value": 3,
+        "subValue": 1
+    },
+    {
+        "ID": 102231210,
+        "groupID": 1022312,
+        "op": 1,
+        "conditionType": 3,
+        "value": 4,
+        "subValue": 1
+    },
+    {
+        "ID": 102231211,
+        "groupID": 1022312,
+        "op": 1,
+        "conditionType": 3,
+        "value": 0,
+        "subValue": 2
+    },
+    {
+        "ID": 102231212,
+        "groupID": 1022312,
+        "op": 1,
+        "conditionType": 3,
+        "value": 1,
+        "subValue": 2
+    },
+    {
+        "ID": 102231213,
+        "groupID": 1022312,
+        "op": 1,
+        "conditionType": 3,
+        "value": 2,
+        "subValue": 2
+    },
+    {
+        "ID": 102231214,
+        "groupID": 1022312,
+        "op": 1,
+        "conditionType": 3,
+        "value": 3,
+        "subValue": 2
+    },
+    {
+        "ID": 102231215,
+        "groupID": 1022312,
+        "op": 0,
+        "conditionType": 3,
+        "value": 4,
+        "subValue": 2
+    },
+    {
+        "ID": 106111201,
+        "groupID": 1061112,
+        "op": 0,
+        "conditionType": 2,
+        "value": 2000001,
+        "subValue": 0
+    },
+    {
+        "ID": 106481201,
+        "groupID": 1064812,
+        "op": 1,
+        "conditionType": 3,
+        "value": 8,
+        "subValue": 5
+    },
+    {
+        "ID": 106481202,
+        "groupID": 1064812,
+        "op": 1,
+        "conditionType": 3,
+        "value": 9,
+        "subValue": 5
+    },
+    {
+        "ID": 106481203,
+        "groupID": 1064812,
+        "op": 1,
+        "conditionType": 3,
+        "value": 10,
+        "subValue": 5
+    },
+    {
+        "ID": 106481204,
+        "groupID": 1064812,
+        "op": 1,
+        "conditionType": 3,
+        "value": 11,
+        "subValue": 5
+    },
+    {
+        "ID": 106481205,
+        "groupID": 1064812,
+        "op": 1,
+        "conditionType": 3,
+        "value": 8,
+        "subValue": 6
+    },
+    {
+        "ID": 106481206,
+        "groupID": 1064812,
+        "op": 1,
+        "conditionType": 3,
+        "value": 9,
+        "subValue": 6
+    },
+    {
+        "ID": 106481207,
+        "groupID": 1064812,
+        "op": 1,
+        "conditionType": 3,
+        "value": 10,
+        "subValue": 6
+    },
+    {
+        "ID": 106481208,
+        "groupID": 1064812,
+        "op": 1,
+        "conditionType": 3,
+        "value": 11,
+        "subValue": 6
+    },
+    {
+        "ID": 106481209,
+        "groupID": 1064812,
+        "op": 1,
+        "conditionType": 3,
+        "value": 8,
+        "subValue": 7
+    },
+    {
+        "ID": 106481210,
+        "groupID": 1064812,
+        "op": 1,
+        "conditionType": 3,
+        "value": 9,
+        "subValue": 7
+    },
+    {
+        "ID": 106481211,
+        "groupID": 1064812,
+        "op": 1,
+        "conditionType": 3,
+        "value": 10,
+        "subValue": 7
+    },
+    {
+        "ID": 106481212,
+        "groupID": 1064812,
+        "op": 1,
+        "conditionType": 3,
+        "value": 11,
+        "subValue": 7
+    },
+    {
+        "ID": 106481213,
+        "groupID": 1064812,
+        "op": 0,
+        "conditionType": 1,
+        "value": 0,
+        "subValue": 0
+    },
+    {
+        "ID": 106941201,
+        "groupID": 1069412,
+        "op": 1,
+        "conditionType": 3,
+        "value": 7,
+        "subValue": 4
+    },
+    {
+        "ID": 106941202,
+        "groupID": 1069412,
+        "op": 1,
+        "conditionType": 3,
+        "value": 6,
+        "subValue": 5
+    },
+    {
+        "ID": 106941203,
+        "groupID": 1069412,
+        "op": 1,
+        "conditionType": 3,
+        "value": 7,
+        "subValue": 5
+    },
+    {
+        "ID": 106941204,
+        "groupID": 1069412,
+        "op": 1,
+        "conditionType": 3,
+        "value": 6,
+        "subValue": 6
+    },
+    {
+        "ID": 106941205,
+        "groupID": 1069412,
+        "op": 1,
+        "conditionType": 3,
+        "value": 7,
+        "subValue": 6
+    },
+    {
+        "ID": 106941206,
+        "groupID": 1069412,
+        "op": 1,
+        "conditionType": 3,
+        "value": 8,
+        "subValue": 6
+    },
+    {
+        "ID": 106941207,
+        "groupID": 1069412,
+        "op": 1,
+        "conditionType": 3,
+        "value": 1,
+        "subValue": 7
+    },
+    {
+        "ID": 106941208,
+        "groupID": 1069412,
+        "op": 1,
+        "conditionType": 3,
+        "value": 2,
+        "subValue": 7
+    },
+    {
+        "ID": 106941209,
+        "groupID": 1069412,
+        "op": 1,
+        "conditionType": 3,
+        "value": 5,
+        "subValue": 7
+    },
+    {
+        "ID": 106941210,
+        "groupID": 1069412,
+        "op": 1,
+        "conditionType": 3,
+        "value": 6,
+        "subValue": 7
+    },
+    {
+        "ID": 106941211,
+        "groupID": 1069412,
+        "op": 1,
+        "conditionType": 3,
+        "value": 7,
+        "subValue": 7
+    },
+    {
+        "ID": 106941212,
+        "groupID": 1069412,
+        "op": 1,
+        "conditionType": 3,
+        "value": 8,
+        "subValue": 7
+    },
+    {
+        "ID": 106941213,
+        "groupID": 1069412,
+        "op": 1,
+        "conditionType": 3,
+        "value": 1,
+        "subValue": 8
+    },
+    {
+        "ID": 106941214,
+        "groupID": 1069412,
+        "op": 1,
+        "conditionType": 3,
+        "value": 2,
+        "subValue": 8
+    },
+    {
+        "ID": 106941215,
+        "groupID": 1069412,
+        "op": 1,
+        "conditionType": 3,
+        "value": 3,
+        "subValue": 8
+    },
+    {
+        "ID": 106941216,
+        "groupID": 1069412,
+        "op": 1,
+        "conditionType": 3,
+        "value": 4,
+        "subValue": 8
+    },
+    {
+        "ID": 106941217,
+        "groupID": 1069412,
+        "op": 1,
+        "conditionType": 3,
+        "value": 5,
+        "subValue": 8
+    },
+    {
+        "ID": 106941218,
+        "groupID": 1069412,
+        "op": 1,
+        "conditionType": 3,
+        "value": 6,
+        "subValue": 8
+    },
+    {
+        "ID": 106941219,
+        "groupID": 1069412,
+        "op": 1,
+        "conditionType": 3,
+        "value": 2,
+        "subValue": 9
+    },
+    {
+        "ID": 106941220,
+        "groupID": 1069412,
+        "op": 1,
+        "conditionType": 3,
+        "value": 3,
+        "subValue": 9
+    },
+    {
+        "ID": 106941221,
+        "groupID": 1069412,
+        "op": 1,
+        "conditionType": 3,
+        "value": 4,
+        "subValue": 9
+    },
+    {
+        "ID": 106941222,
+        "groupID": 1069412,
+        "op": 0,
+        "conditionType": 3,
+        "value": 5,
+        "subValue": 9
+    },
+    {
+        "ID": 110511101,
+        "groupID": 1105111,
+        "op": 1,
+        "conditionType": 3,
+        "value": 6,
+        "subValue": 0
+    },
+    {
+        "ID": 110511102,
+        "groupID": 1105111,
+        "op": 1,
+        "conditionType": 3,
+        "value": 7,
+        "subValue": 0
+    },
+    {
+        "ID": 110511103,
+        "groupID": 1105111,
+        "op": 1,
+        "conditionType": 3,
+        "value": 8,
+        "subValue": 0
+    },
+    {
+        "ID": 110511104,
+        "groupID": 1105111,
+        "op": 1,
+        "conditionType": 3,
+        "value": 9,
+        "subValue": 0
+    },
+    {
+        "ID": 110511105,
+        "groupID": 1105111,
+        "op": 1,
+        "conditionType": 3,
+        "value": 10,
+        "subValue": 0
+    },
+    {
+        "ID": 110511106,
+        "groupID": 1105111,
+        "op": 1,
+        "conditionType": 3,
+        "value": 6,
+        "subValue": 1
+    },
+    {
+        "ID": 110511107,
+        "groupID": 1105111,
+        "op": 1,
+        "conditionType": 3,
+        "value": 7,
+        "subValue": 1
+    },
+    {
+        "ID": 110511108,
+        "groupID": 1105111,
+        "op": 1,
+        "conditionType": 3,
+        "value": 8,
+        "subValue": 1
+    },
+    {
+        "ID": 110511109,
+        "groupID": 1105111,
+        "op": 1,
+        "conditionType": 3,
+        "value": 9,
+        "subValue": 1
+    },
+    {
+        "ID": 110511110,
+        "groupID": 1105111,
+        "op": 1,
+        "conditionType": 3,
+        "value": 10,
+        "subValue": 1
+    },
+    {
+        "ID": 110511111,
+        "groupID": 1105111,
+        "op": 0,
+        "conditionType": 1,
+        "value": 0,
+        "subValue": 0
+    },
+    {
+        "ID": 328011101,
+        "groupID": 328011,
+        "op": 1,
+        "conditionType": 3,
+        "value": 7,
+        "subValue": 0
+    },
+    {
+        "ID": 328011102,
+        "groupID": 328011,
+        "op": 1,
+        "conditionType": 3,
+        "value": 7,
+        "subValue": 1
+    },
+    {
+        "ID": 328011103,
+        "groupID": 328011,
+        "op": 1,
+        "conditionType": 3,
+        "value": 7,
+        "subValue": 2
+    },
+    {
+        "ID": 328011104,
+        "groupID": 328011,
+        "op": 1,
+        "conditionType": 3,
+        "value": 7,
+        "subValue": 3
+    },
+    {
+        "ID": 328011105,
+        "groupID": 328011,
+        "op": 1,
+        "conditionType": 3,
+        "value": 7,
+        "subValue": 4
+    },
+    {
+        "ID": 328011106,
+        "groupID": 328011,
+        "op": 1,
+        "conditionType": 3,
+        "value": 7,
+        "subValue": 5
+    },
+    {
+        "ID": 328011107,
+        "groupID": 328011,
+        "op": 1,
+        "conditionType": 3,
+        "value": 7,
+        "subValue": 6
+    },
+    {
+        "ID": 328011108,
+        "groupID": 328011,
+        "op": 1,
+        "conditionType": 3,
+        "value": 7,
+        "subValue": 7
+    },
+    {
+        "ID": 328011109,
+        "groupID": 328011,
+        "op": 1,
+        "conditionType": 3,
+        "value": 7,
+        "subValue": 8
+    },
+    {
+        "ID": 328011110,
+        "groupID": 328011,
+        "op": 1,
+        "conditionType": 3,
+        "value": 7,
+        "subValue": 9
+    },
+    {
+        "ID": 328151101,
+        "groupID": 328151,
+        "op": 1,
+        "conditionType": 3,
+        "value": 9,
+        "subValue": 14
+    },
+    {
+        "ID": 328151102,
+        "groupID": 328151,
+        "op": 1,
+        "conditionType": 3,
+        "value": 10,
+        "subValue": 14
+    },
+    {
+        "ID": 328151103,
+        "groupID": 328151,
+        "op": 1,
+        "conditionType": 3,
+        "value": 11,
+        "subValue": 14
+    },
+    {
+        "ID": 328151104,
+        "groupID": 328151,
+        "op": 1,
+        "conditionType": 3,
+        "value": 9,
+        "subValue": 15
+    },
+    {
+        "ID": 328151105,
+        "groupID": 328151,
+        "op": 1,
+        "conditionType": 3,
+        "value": 10,
+        "subValue": 15
+    },
+    {
+        "ID": 328151106,
+        "groupID": 328151,
+        "op": 1,
+        "conditionType": 3,
+        "value": 11,
+        "subValue": 15
+    },
+    {
+        "ID": 34805101,
+        "groupID": 348051,
+        "op": 1,
+        "conditionType": 3,
+        "value": 0,
+        "subValue": 11
+    },
+    {
+        "ID": 34805102,
+        "groupID": 348051,
+        "op": 1,
+        "conditionType": 3,
+        "value": 1,
+        "subValue": 11
+    },
+    {
+        "ID": 34805103,
+        "groupID": 348051,
+        "op": 1,
+        "conditionType": 3,
+        "value": 2,
+        "subValue": 11
+    },
+    {
+        "ID": 34805104,
+        "groupID": 348051,
+        "op": 1,
+        "conditionType": 3,
+        "value": 3,
+        "subValue": 11
+    },
+    {
+        "ID": 34805105,
+        "groupID": 348051,
+        "op": 1,
+        "conditionType": 3,
+        "value": 4,
+        "subValue": 11
+    },
+    {
+        "ID": 34805106,
+        "groupID": 348051,
+        "op": 1,
+        "conditionType": 3,
+        "value": 5,
+        "subValue": 11
+    },
+    {
+        "ID": 34805107,
+        "groupID": 348051,
+        "op": 1,
+        "conditionType": 3,
+        "value": 6,
+        "subValue": 11
+    },
+    {
+        "ID": 34805108,
+        "groupID": 348051,
+        "op": 0,
+        "conditionType": 3,
+        "value": 7,
+        "subValue": 11
+    },
+    {
+        "ID": 34807101,
+        "groupID": 348071,
+        "op": 1,
+        "conditionType": 3,
+        "value": 7,
+        "subValue": 14
+    },
+    {
+        "ID": 34807102,
+        "groupID": 348071,
+        "op": 1,
+        "conditionType": 3,
+        "value": 8,
+        "subValue": 14
+    },
+    {
+        "ID": 34807103,
+        "groupID": 348071,
+        "op": 1,
+        "conditionType": 3,
+        "value": 9,
+        "subValue": 14
+    },
+    {
+        "ID": 34807104,
+        "groupID": 348071,
+        "op": 1,
+        "conditionType": 3,
+        "value": 10,
+        "subValue": 14
+    },
+    {
+        "ID": 34807105,
+        "groupID": 348071,
+        "op": 1,
+        "conditionType": 3,
+        "value": 11,
+        "subValue": 14
+    },
+    {
+        "ID": 34807106,
+        "groupID": 348071,
+        "op": 1,
+        "conditionType": 3,
+        "value": 12,
+        "subValue": 14
+    },
+    {
+        "ID": 34807107,
+        "groupID": 348071,
+        "op": 0,
+        "conditionType": 3,
+        "value": 13,
+        "subValue": 14
+    },
+    {
+        "ID": 34808101,
+        "groupID": 348081,
+        "op": 0,
+        "conditionType": 2,
+        "value": 2000001,
+        "subValue": 0
+    },
+    {
+        "ID": 34808102,
+        "groupID": 348081,
+        "op": 0,
+        "conditionType": 2,
+        "value": 2000002,
+        "subValue": 0
+    },
+    {
+        "ID": 34808103,
+        "groupID": 348081,
+        "op": 0,
+        "conditionType": 2,
+        "value": 2000003,
+        "subValue": 0
+    },
+    {
+        "ID": 34820101,
+        "groupID": 348201,
+        "op": 1,
+        "conditionType": 3,
+        "value": 13,
+        "subValue": 0
+    },
+    {
+        "ID": 34820102,
+        "groupID": 348201,
+        "op": 1,
+        "conditionType": 3,
+        "value": 13,
+        "subValue": 1
+    },
+    {
+        "ID": 34820103,
+        "groupID": 348201,
+        "op": 1,
+        "conditionType": 3,
+        "value": 13,
+        "subValue": 2
+    },
+    {
+        "ID": 34820104,
+        "groupID": 348201,
+        "op": 1,
+        "conditionType": 3,
+        "value": 13,
+        "subValue": 3
+    },
+    {
+        "ID": 34820105,
+        "groupID": 348201,
+        "op": 1,
+        "conditionType": 3,
+        "value": 13,
+        "subValue": 4
+    },
+    {
+        "ID": 34820106,
+        "groupID": 348201,
+        "op": 1,
+        "conditionType": 3,
+        "value": 13,
+        "subValue": 5
+    },
+    {
+        "ID": 34820107,
+        "groupID": 348201,
+        "op": 0,
+        "conditionType": 3,
+        "value": 13,
+        "subValue": 6
+    },
+    {
+        "ID": 34821101,
+        "groupID": 348211,
+        "op": 1,
+        "conditionType": 3,
+        "value": 0,
+        "subValue": 0
+    },
+    {
+        "ID": 34821102,
+        "groupID": 348211,
+        "op": 1,
+        "conditionType": 3,
+        "value": 1,
+        "subValue": 0
+    },
+    {
+        "ID": 34821103,
+        "groupID": 348211,
+        "op": 1,
+        "conditionType": 3,
+        "value": 2,
+        "subValue": 0
+    },
+    {
+        "ID": 34821104,
+        "groupID": 348211,
+        "op": 1,
+        "conditionType": 3,
+        "value": 3,
+        "subValue": 0
+    },
+    {
+        "ID": 34821105,
+        "groupID": 348211,
+        "op": 1,
+        "conditionType": 3,
+        "value": 4,
+        "subValue": 0
+    },
+    {
+        "ID": 34821106,
+        "groupID": 348211,
+        "op": 1,
+        "conditionType": 3,
+        "value": 5,
+        "subValue": 0
+    },
+    {
+        "ID": 34821107,
+        "groupID": 348211,
+        "op": 1,
+        "conditionType": 3,
+        "value": 6,
+        "subValue": 0
+    },
+    {
+        "ID": 34821108,
+        "groupID": 348211,
+        "op": 1,
+        "conditionType": 3,
+        "value": 7,
+        "subValue": 0
+    },
+    {
+        "ID": 34821109,
+        "groupID": 348211,
+        "op": 1,
+        "conditionType": 3,
+        "value": 8,
+        "subValue": 0
+    },
+    {
+        "ID": 34821110,
+        "groupID": 348211,
+        "op": 0,
+        "conditionType": 3,
+        "value": 9,
+        "subValue": 0
+    },
+    {
+        "ID": 34826101,
+        "groupID": 348261,
+        "op": 1,
+        "conditionType": 3,
+        "value": 11,
+        "subValue": 12
+    },
+    {
+        "ID": 34826102,
+        "groupID": 348261,
+        "op": 1,
+        "conditionType": 3,
+        "value": 12,
+        "subValue": 12
+    },
+    {
+        "ID": 34826103,
+        "groupID": 348261,
+        "op": 1,
+        "conditionType": 3,
+        "value": 13,
+        "subValue": 12
+    },
+    {
+        "ID": 34826104,
+        "groupID": 348261,
+        "op": 0,
+        "conditionType": 3,
+        "value": 14,
+        "subValue": 12
+    },
+    {
+        "ID": 34834101,
+        "groupID": 348341,
+        "op": 1,
+        "conditionType": 3,
+        "value": 0,
+        "subValue": 1
+    },
+    {
+        "ID": 34834102,
+        "groupID": 348341,
+        "op": 1,
+        "conditionType": 3,
+        "value": 0,
+        "subValue": 2
+    },
+    {
+        "ID": 34834103,
+        "groupID": 348341,
+        "op": 1,
+        "conditionType": 3,
+        "value": 0,
+        "subValue": 3
+    },
+    {
+        "ID": 34834104,
+        "groupID": 348341,
+        "op": 1,
+        "conditionType": 3,
+        "value": 0,
+        "subValue": 4
+    },
+    {
+        "ID": 34834105,
+        "groupID": 348341,
+        "op": 1,
+        "conditionType": 3,
+        "value": 0,
+        "subValue": 5
+    },
+    {
+        "ID": 34834106,
+        "groupID": 348341,
+        "op": 0,
+        "conditionType": 3,
+        "value": 0,
+        "subValue": 0
+    },
+    {
+        "ID": 34844101,
+        "groupID": 348441,
+        "op": 1,
+        "conditionType": 3,
+        "value": 4,
+        "subValue": 0
+    },
+    {
+        "ID": 34844102,
+        "groupID": 348441,
+        "op": 1,
+        "conditionType": 3,
+        "value": 5,
+        "subValue": 0
+    },
+    {
+        "ID": 34844103,
+        "groupID": 348441,
+        "op": 0,
+        "conditionType": 3,
+        "value": 6,
+        "subValue": 0
+    },
+    {
+        "ID": 30605101,
+        "groupID": 306051,
+        "op": 0,
+        "conditionType": 2,
+        "value": 200006,
+        "subValue": 0
+    },
+    {
+        "ID": 30605102,
+        "groupID": 306051,
+        "op": 0,
+        "conditionType": 2,
+        "value": 200008,
+        "subValue": 0
+    },
+    {
+        "ID": 30605103,
+        "groupID": 306051,
+        "op": 0,
+        "conditionType": 2,
+        "value": 200011,
+        "subValue": 0
+    },
+    {
+        "ID": 30581101,
+        "groupID": 305811,
+        "op": 1,
+        "conditionType": 1,
+        "value": 0,
+        "subValue": 0
+    },
+    {
+        "ID": 30581102,
+        "groupID": 305811,
+        "op": 1,
+        "conditionType": 3,
+        "value": 2,
+        "subValue": 6
+    },
+    {
+        "ID": 30581103,
+        "groupID": 305811,
+        "op": 1,
+        "conditionType": 3,
+        "value": 3,
+        "subValue": 7
+    },
+    {
+        "ID": 30581104,
+        "groupID": 305811,
+        "op": 1,
+        "conditionType": 3,
+        "value": 17,
+        "subValue": 6
+    },
+    {
+        "ID": 30581105,
+        "groupID": 305811,
+        "op": 1,
+        "conditionType": 3,
+        "value": 18,
+        "subValue": 7
+    },
+    {
+        "ID": 30581106,
+        "groupID": 305811,
+        "op": 1,
+        "conditionType": 3,
+        "value": 0,
+        "subValue": 4
+    },
+    {
+        "ID": 30581107,
+        "groupID": 305811,
+        "op": 1,
+        "conditionType": 3,
+        "value": 1,
+        "subValue": 4
+    },
+    {
+        "ID": 30581108,
+        "groupID": 305811,
+        "op": 1,
+        "conditionType": 3,
+        "value": 19,
+        "subValue": 4
+    },
+    {
+        "ID": 30581109,
+        "groupID": 305811,
+        "op": 1,
+        "conditionType": 3,
+        "value": 20,
+        "subValue": 4
+    },
+    {
+        "ID": 39303101,
+        "groupID": 393031,
+        "op": 1,
+        "conditionType": 3,
+        "value": 1,
+        "subValue": 0
+    },
+    {
+        "ID": 39303102,
+        "groupID": 393031,
+        "op": 1,
+        "conditionType": 3,
+        "value": 2,
+        "subValue": 0
+    },
+    {
+        "ID": 39303103,
+        "groupID": 393031,
+        "op": 1,
+        "conditionType": 3,
+        "value": 3,
+        "subValue": 0
+    },
+    {
+        "ID": 39303104,
+        "groupID": 393031,
+        "op": 0,
+        "conditionType": 3,
+        "value": 4,
+        "subValue": 0
+    },
+    {
+        "ID": 30691101,
+        "groupID": 306911,
+        "op": 1,
+        "conditionType": 3,
+        "value": 8,
+        "subValue": 7
+    },
+    {
+        "ID": 30691102,
+        "groupID": 306911,
+        "op": 1,
+        "conditionType": 3,
+        "value": 9,
+        "subValue": 7
+    },
+    {
+        "ID": 30691103,
+        "groupID": 306911,
+        "op": 1,
+        "conditionType": 3,
+        "value": 10,
+        "subValue": 7
+    },
+    {
+        "ID": 30691104,
+        "groupID": 306911,
+        "op": 1,
+        "conditionType": 3,
+        "value": 8,
+        "subValue": 8
+    },
+    {
+        "ID": 30691105,
+        "groupID": 306911,
+        "op": 1,
+        "conditionType": 3,
+        "value": 10,
+        "subValue": 8
+    },
+    {
+        "ID": 30691106,
+        "groupID": 306911,
+        "op": 1,
+        "conditionType": 3,
+        "value": 8,
+        "subValue": 9
+    },
+    {
+        "ID": 30691107,
+        "groupID": 306911,
+        "op": 1,
+        "conditionType": 3,
+        "value": 9,
+        "subValue": 9
+    },
+    {
+        "ID": 30691108,
+        "groupID": 306911,
+        "op": 1,
+        "conditionType": 3,
+        "value": 10,
+        "subValue": 9
+    },
+    {
+        "ID": 30691109,
+        "groupID": 306911,
+        "op": 0,
+        "conditionType": 1,
+        "value": 0,
+        "subValue": 0
+    },
+    {
+        "ID": 35351101,
+        "groupID": 353511,
+        "op": 1,
+        "conditionType": 3,
+        "value": 27,
+        "subValue": 2
+    },
+    {
+        "ID": 35351102,
+        "groupID": 353511,
+        "op": 1,
+        "conditionType": 3,
+        "value": 27,
+        "subValue": 3
+    },
+    {
+        "ID": 35351103,
+        "groupID": 353511,
+        "op": 1,
+        "conditionType": 3,
+        "value": 27,
+        "subValue": 4
+    },
+    {
+        "ID": 35351104,
+        "groupID": 353511,
+        "op": 0,
+        "conditionType": 1,
+        "value": 0,
+        "subValue": 0
+    }
+]

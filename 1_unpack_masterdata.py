@@ -7,7 +7,7 @@ def unpack_masterdata(asset_folder):
         for file in files:
             folder = os.path.basename(root)
             if 'masterdata' in folder:
-                dest_folder = os.path.join("Masterdata/raw/", folder)
+                dest_folder = os.path.join("MasterData/raw/", folder)
                 if not os.path.exists(dest_folder):
                     os.makedirs(dest_folder)
                 env = UnityPy.load(os.path.join(root, file))

@@ -1,0 +1,12 @@
+[
+    {
+        "ID": 1,
+        "BattleRollbackSaveTurnCount": 5,
+        "BattleRollbackFreeCount": 3,
+        "BattleRollbackPaymentAmount": 100,
+        "FastModeSpeed": 3.0,
+        "IncreaseSupportValueBySkill": 5,
+        "IncreaseSupportValueByClear": 5,
+        "DecreaseSupportValueByDead": 40
+    }
+]

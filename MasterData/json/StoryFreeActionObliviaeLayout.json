@@ -1,0 +1,50 @@
+[
+    {
+        "ID": 1,
+        "layoutLabelID": 100,
+        "objectID": 6300,
+        "advID": 201508,
+        "cameraMovePosition": 1000,
+        "playerMovePosition": 4,
+        "beginNpcAct": 3,
+        "positionOffsetX": 0.0,
+        "positionOffsetY": 0.0,
+        "positionOffsetZ": 0.0
+    },
+    {
+        "ID": 2,
+        "layoutLabelID": 101,
+        "objectID": 6300,
+        "advID": 201508,
+        "cameraMovePosition": 1000,
+        "playerMovePosition": 4,
+        "beginNpcAct": 3,
+        "positionOffsetX": 0.0,
+        "positionOffsetY": 0.0,
+        "positionOffsetZ": 0.0
+    },
+    {
+        "ID": 3,
+        "layoutLabelID": 1990,
+        "objectID": 6300,
+        "advID": 201508,
+        "cameraMovePosition": 1000,
+        "playerMovePosition": 4,
+        "beginNpcAct": 3,
+        "positionOffsetX": 0.0,
+        "positionOffsetY": 0.0,
+        "positionOffsetZ": 0.0
+    },
+    {
+        "ID": 4,
+        "layoutLabelID": 101,
+        "objectID": 6696,
+        "advID": 201508,
+        "cameraMovePosition": 1000,
+        "playerMovePosition": 4,
+        "beginNpcAct": 3,
+        "positionOffsetX": 0.0,
+        "positionOffsetY": 0.0,
+        "positionOffsetZ": 0.0
+    }
+]

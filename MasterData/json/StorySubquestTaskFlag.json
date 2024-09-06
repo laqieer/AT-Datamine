@@ -1,0 +1,117 @@
+[
+    {
+        "ID": 1,
+        "Name": "フラグA",
+        "Value": 1
+    },
+    {
+        "ID": 2,
+        "Name": "フラグB",
+        "Value": 2
+    },
+    {
+        "ID": 3,
+        "Name": "フラグC",
+        "Value": 4
+    },
+    {
+        "ID": 4,
+        "Name": "フラグD",
+        "Value": 8
+    },
+    {
+        "ID": 5,
+        "Name": "フラグE",
+        "Value": 16
+    },
+    {
+        "ID": 6,
+        "Name": "フラグF",
+        "Value": 32
+    },
+    {
+        "ID": 7,
+        "Name": "フラグG",
+        "Value": 64
+    },
+    {
+        "ID": 8,
+        "Name": "フラグH",
+        "Value": 128
+    },
+    {
+        "ID": 9,
+        "Name": "フラグチェックA",
+        "Value": 1
+    },
+    {
+        "ID": 10,
+        "Name": "フラグチェックB",
+        "Value": 2
+    },
+    {
+        "ID": 11,
+        "Name": "フラグチェックAB",
+        "Value": 3
+    },
+    {
+        "ID": 12,
+        "Name": "フラグチェックC",
+        "Value": 4
+    },
+    {
+        "ID": 13,
+        "Name": "フラグチェックABC",
+        "Value": 7
+    },
+    {
+        "ID": 14,
+        "Name": "フラグチェックD",
+        "Value": 8
+    },
+    {
+        "ID": 15,
+        "Name": "フラグチェックABCD",
+        "Value": 15
+    },
+    {
+        "ID": 16,
+        "Name": "フラグチェックE",
+        "Value": 16
+    },
+    {
+        "ID": 17,
+        "Name": "フラグチェックABCDE",
+        "Value": 31
+    },
+    {
+        "ID": 18,
+        "Name": "フラグチェックF",
+        "Value": 32
+    },
+    {
+        "ID": 19,
+        "Name": "フラグチェックABCDEF",
+        "Value": 63
+    },
+    {
+        "ID": 20,
+        "Name": "フラグチェックG",
+        "Value": 64
+    },
+    {
+        "ID": 21,
+        "Name": "フラグチェックABCDEFG",
+        "Value": 127
+    },
+    {
+        "ID": 22,
+        "Name": "フラグチェックH",
+        "Value": 128
+    },
+    {
+        "ID": 23,
+        "Name": "フラグチェックABCDEFGH",
+        "Value": 255
+    }
+]

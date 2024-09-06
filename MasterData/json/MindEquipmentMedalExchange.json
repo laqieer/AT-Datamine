@@ -1,0 +1,20 @@
+[
+    {
+        "ID": 1,
+        "rarity": 3,
+        "medalExchangeId": 201150001,
+        "medalExchangeValue": 5
+    },
+    {
+        "ID": 2,
+        "rarity": 4,
+        "medalExchangeId": 201150001,
+        "medalExchangeValue": 15
+    },
+    {
+        "ID": 3,
+        "rarity": 5,
+        "medalExchangeId": 201150001,
+        "medalExchangeValue": 150
+    }
+]

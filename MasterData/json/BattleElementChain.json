@@ -1,0 +1,57 @@
+[
+    {
+        "ID": 1,
+        "minChainCount": 1,
+        "reduceResistRate": 20
+    },
+    {
+        "ID": 2,
+        "minChainCount": 2,
+        "reduceResistRate": 18
+    },
+    {
+        "ID": 3,
+        "minChainCount": 3,
+        "reduceResistRate": 16
+    },
+    {
+        "ID": 4,
+        "minChainCount": 4,
+        "reduceResistRate": 14
+    },
+    {
+        "ID": 5,
+        "minChainCount": 5,
+        "reduceResistRate": 12
+    },
+    {
+        "ID": 6,
+        "minChainCount": 6,
+        "reduceResistRate": 10
+    },
+    {
+        "ID": 7,
+        "minChainCount": 7,
+        "reduceResistRate": 8
+    },
+    {
+        "ID": 8,
+        "minChainCount": 8,
+        "reduceResistRate": 6
+    },
+    {
+        "ID": 9,
+        "minChainCount": 9,
+        "reduceResistRate": 4
+    },
+    {
+        "ID": 10,
+        "minChainCount": 10,
+        "reduceResistRate": 2
+    },
+    {
+        "ID": 11,
+        "minChainCount": 11,
+        "reduceResistRate": 1
+    }
+]

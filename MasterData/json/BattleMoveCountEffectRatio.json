@@ -1,0 +1,128 @@
+[
+    {
+        "ID": 1,
+        "groupID": 1,
+        "from": 0,
+        "to": 1,
+        "ratio": 0.0
+    },
+    {
+        "ID": 2,
+        "groupID": 1,
+        "from": 1,
+        "to": 2,
+        "ratio": 0.0
+    },
+    {
+        "ID": 3,
+        "groupID": 1,
+        "from": 2,
+        "to": 3,
+        "ratio": 10.0
+    },
+    {
+        "ID": 4,
+        "groupID": 1,
+        "from": 3,
+        "to": 4,
+        "ratio": 20.0
+    },
+    {
+        "ID": 5,
+        "groupID": 1,
+        "from": 4,
+        "to": 5,
+        "ratio": 30.0
+    },
+    {
+        "ID": 6,
+        "groupID": 1,
+        "from": 5,
+        "to": 99,
+        "ratio": 40.0
+    },
+    {
+        "ID": 7,
+        "groupID": 2,
+        "from": 0,
+        "to": 1,
+        "ratio": 0.0
+    },
+    {
+        "ID": 8,
+        "groupID": 2,
+        "from": 1,
+        "to": 2,
+        "ratio": 0.0
+    },
+    {
+        "ID": 9,
+        "groupID": 2,
+        "from": 2,
+        "to": 3,
+        "ratio": 10.0
+    },
+    {
+        "ID": 10,
+        "groupID": 2,
+        "from": 3,
+        "to": 4,
+        "ratio": 20.0
+    },
+    {
+        "ID": 11,
+        "groupID": 2,
+        "from": 4,
+        "to": 5,
+        "ratio": 50.0
+    },
+    {
+        "ID": 12,
+        "groupID": 2,
+        "from": 5,
+        "to": 99,
+        "ratio": 70.0
+    },
+    {
+        "ID": 13,
+        "groupID": 3,
+        "from": 0,
+        "to": 1,
+        "ratio": 0.0
+    },
+    {
+        "ID": 14,
+        "groupID": 3,
+        "from": 1,
+        "to": 2,
+        "ratio": 10.0
+    },
+    {
+        "ID": 15,
+        "groupID": 3,
+        "from": 2,
+        "to": 3,
+        "ratio": 30.0
+    },
+    {
+        "ID": 16,
+        "groupID": 3,
+        "from": 3,
+        "to": 4,
+        "ratio": 50.0
+    },
+    {
+        "ID": 17,
+        "groupID": 3,
+        "from": 4,
+        "to": 5,
+        "ratio": 80.0
+    },
+    {
+        "ID": 18,
+        "groupID": 3,
+        "from": 5,
+        "to": 99,
+        "ratio": 150.0
+    }
+]

@@ -1,0 +1,137 @@
+[
+    {
+        "ID": 1,
+        "groupID": 1,
+        "param": 1,
+        "flag": true,
+        "routteID": 0,
+        "sequenceBegin": 0,
+        "sequenceEnd": 0
+    },
+    {
+        "ID": 2,
+        "groupID": 2,
+        "param": 3,
+        "flag": true,
+        "routteID": 0,
+        "sequenceBegin": 0,
+        "sequenceEnd": 0
+    },
+    {
+        "ID": 3,
+        "groupID": 3,
+        "param": 2,
+        "flag": true,
+        "routteID": 0,
+        "sequenceBegin": 0,
+        "sequenceEnd": 0
+    },
+    {
+        "ID": 4,
+        "groupID": 4,
+        "param": 4,
+        "flag": true,
+        "routteID": 0,
+        "sequenceBegin": 0,
+        "sequenceEnd": 0
+    },
+    {
+        "ID": 5,
+        "groupID": 5,
+        "param": 1,
+        "flag": true,
+        "routteID": 0,
+        "sequenceBegin": 0,
+        "sequenceEnd": 0
+    },
+    {
+        "ID": 6,
+        "groupID": 5,
+        "param": 3,
+        "flag": true,
+        "routteID": 0,
+        "sequenceBegin": 0,
+        "sequenceEnd": 0
+    },
+    {
+        "ID": 7,
+        "groupID": 6,
+        "param": 1,
+        "flag": true,
+        "routteID": 0,
+        "sequenceBegin": 0,
+        "sequenceEnd": 0
+    },
+    {
+        "ID": 8,
+        "groupID": 6,
+        "param": 2,
+        "flag": true,
+        "routteID": 0,
+        "sequenceBegin": 0,
+        "sequenceEnd": 0
+    },
+    {
+        "ID": 9,
+        "groupID": 7,
+        "param": 1,
+        "flag": true,
+        "routteID": 0,
+        "sequenceBegin": 0,
+        "sequenceEnd": 0
+    },
+    {
+        "ID": 10,
+        "groupID": 7,
+        "param": 4,
+        "flag": true,
+        "routteID": 0,
+        "sequenceBegin": 0,
+        "sequenceEnd": 0
+    },
+    {
+        "ID": 11,
+        "groupID": 8,
+        "param": 5,
+        "flag": true,
+        "routteID": 0,
+        "sequenceBegin": 0,
+        "sequenceEnd": 0
+    },
+    {
+        "ID": 12,
+        "groupID": 9,
+        "param": 1,
+        "flag": true,
+        "routteID": 0,
+        "sequenceBegin": 0,
+        "sequenceEnd": 0
+    },
+    {
+        "ID": 13,
+        "groupID": 9,
+        "param": 3,
+        "flag": true,
+        "routteID": 0,
+        "sequenceBegin": 0,
+        "sequenceEnd": 0
+    },
+    {
+        "ID": 14,
+        "groupID": 9,
+        "param": 2,
+        "flag": true,
+        "routteID": 0,
+        "sequenceBegin": 0,
+        "sequenceEnd": 0
+    },
+    {
+        "ID": 15,
+        "groupID": 9,
+        "param": 4,
+        "flag": true,
+        "routteID": 0,
+        "sequenceBegin": 0,
+        "sequenceEnd": 0
+    }
+]

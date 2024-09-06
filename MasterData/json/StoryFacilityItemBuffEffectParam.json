@@ -1,0 +1,74 @@
+[
+    {
+        "ID": 1,
+        "groupLabel": 11,
+        "humanParameterID": 1,
+        "value": 10
+    },
+    {
+        "ID": 2,
+        "groupLabel": 12,
+        "humanParameterID": 1,
+        "value": 30
+    },
+    {
+        "ID": 3,
+        "groupLabel": 13,
+        "humanParameterID": 2,
+        "value": 10
+    },
+    {
+        "ID": 4,
+        "groupLabel": 14,
+        "humanParameterID": 2,
+        "value": 30
+    },
+    {
+        "ID": 5,
+        "groupLabel": 15,
+        "humanParameterID": 3,
+        "value": 10
+    },
+    {
+        "ID": 6,
+        "groupLabel": 16,
+        "humanParameterID": 3,
+        "value": 30
+    },
+    {
+        "ID": 7,
+        "groupLabel": 17,
+        "humanParameterID": 5,
+        "value": 10
+    },
+    {
+        "ID": 8,
+        "groupLabel": 18,
+        "humanParameterID": 5,
+        "value": 30
+    },
+    {
+        "ID": 9,
+        "groupLabel": 19,
+        "humanParameterID": 4,
+        "value": 10
+    },
+    {
+        "ID": 10,
+        "groupLabel": 20,
+        "humanParameterID": 4,
+        "value": 30
+    },
+    {
+        "ID": 11,
+        "groupLabel": 21,
+        "humanParameterID": 4,
+        "value": 10
+    },
+    {
+        "ID": 12,
+        "groupLabel": 22,
+        "humanParameterID": 4,
+        "value": 30
+    }
+]

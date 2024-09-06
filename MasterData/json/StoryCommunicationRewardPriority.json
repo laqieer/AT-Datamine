@@ -1,0 +1,27 @@
+[
+    {
+        "ID": 1,
+        "rewardTypeID": 30,
+        "priority": 0
+    },
+    {
+        "ID": 2,
+        "rewardTypeID": 33,
+        "priority": 1
+    },
+    {
+        "ID": 3,
+        "rewardTypeID": 21,
+        "priority": 2
+    },
+    {
+        "ID": 4,
+        "rewardTypeID": 34,
+        "priority": 3
+    },
+    {
+        "ID": 5,
+        "rewardTypeID": 24,
+        "priority": 4
+    }
+]

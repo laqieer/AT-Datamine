@@ -1,0 +1,27 @@
+[
+    {
+        "ID": 1,
+        "rarity": 1,
+        "numberToUse": 10
+    },
+    {
+        "ID": 2,
+        "rarity": 2,
+        "numberToUse": 10
+    },
+    {
+        "ID": 3,
+        "rarity": 3,
+        "numberToUse": 10
+    },
+    {
+        "ID": 4,
+        "rarity": 4,
+        "numberToUse": 10
+    },
+    {
+        "ID": 5,
+        "rarity": 5,
+        "numberToUse": 10
+    }
+]

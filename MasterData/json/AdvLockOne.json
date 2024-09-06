@@ -1,0 +1,112 @@
+[
+    {
+        "ID": 1,
+        "LockID": 1,
+        "Order": 1,
+        "VariableKind": "ENDING",
+        "VariableID": 2,
+        "ComparisonType": "",
+        "Argument": 0,
+        "TextID": "CHRNAME_GUINEVERE"
+    },
+    {
+        "ID": 2,
+        "LockID": 1,
+        "Order": 2,
+        "VariableKind": "ENDING",
+        "VariableID": 5,
+        "ComparisonType": "",
+        "Argument": 0,
+        "TextID": "CHRNAME_DINATAN"
+    },
+    {
+        "ID": 3,
+        "LockID": 2,
+        "Order": 1,
+        "VariableKind": "ROUTE",
+        "VariableID": 6,
+        "ComparisonType": "",
+        "Argument": 0,
+        "TextID": "CHRNAME_GUINEVERE"
+    },
+    {
+        "ID": 4,
+        "LockID": 3,
+        "Order": 1,
+        "VariableKind": "ROUTE",
+        "VariableID": 7,
+        "ComparisonType": "",
+        "Argument": 0,
+        "TextID": "CHRNAME_LANCELOT"
+    },
+    {
+        "ID": 5,
+        "LockID": 4,
+        "Order": 1,
+        "VariableKind": "ROUTE",
+        "VariableID": 6,
+        "ComparisonType": "",
+        "Argument": 0,
+        "TextID": "ROUTE_CLEAR_G"
+    },
+    {
+        "ID": 6,
+        "LockID": 4,
+        "Order": 2,
+        "VariableKind": "ROUTE",
+        "VariableID": 7,
+        "ComparisonType": "",
+        "Argument": 0,
+        "TextID": "ROUTE_CLEAR_L"
+    },
+    {
+        "ID": 7,
+        "LockID": 4,
+        "Order": 3,
+        "VariableKind": "ROUTE",
+        "VariableID": 8,
+        "ComparisonType": "",
+        "Argument": 0,
+        "TextID": "ROUTE_CLEAR_D"
+    },
+    {
+        "ID": 8,
+        "LockID": 5,
+        "Order": 1,
+        "VariableKind": "ROUTE",
+        "VariableID": 6,
+        "ComparisonType": "",
+        "Argument": 0,
+        "TextID": "ROUTE_CLEAR_G"
+    },
+    {
+        "ID": 9,
+        "LockID": 5,
+        "Order": 2,
+        "VariableKind": "ROUTE",
+        "VariableID": 7,
+        "ComparisonType": "",
+        "Argument": 0,
+        "TextID": "ROUTE_CLEAR_L"
+    },
+    {
+        "ID": 10,
+        "LockID": 5,
+        "Order": 3,
+        "VariableKind": "ROUTE",
+        "VariableID": 8,
+        "ComparisonType": "",
+        "Argument": 0,
+        "TextID": "ROUTE_CLEAR_D"
+    },
+    {
+        "ID": 11,
+        "LockID": 6,
+        "Order": 1,
+        "VariableKind": "ENDING",
+        "VariableID": 1,
+        "ComparisonType": "",
+        "Argument": 0,
+        "TextID": "ENDING_CLEAR_GE"
+    }
+]

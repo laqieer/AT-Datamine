@@ -1,0 +1,12 @@
+[
+    {
+        "ID": 1,
+        "name": "サンプル設定",
+        "customA1": 1,
+        "customA2": 1,
+        "customA3": 1,
+        "customB1": 1,
+        "customB2": 2,
+        "customB3": 3
+    }
+]

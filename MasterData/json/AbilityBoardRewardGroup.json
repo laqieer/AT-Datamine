@@ -1,0 +1,338 @@
+[
+    {
+        "ID": 1,
+        "name": "能力_命+2",
+        "nodeName": "命+2",
+        "explanation": "能力値「命」が[n]上がる",
+        "allocationType": 1
+    },
+    {
+        "ID": 2,
+        "name": "能力_力+2",
+        "nodeName": "力+2",
+        "explanation": "能力値「力」が[n]上がる",
+        "allocationType": 1
+    },
+    {
+        "ID": 3,
+        "name": "能力_魔+2",
+        "nodeName": "魔+2",
+        "explanation": "能力値「魔」が[n]上がる",
+        "allocationType": 1
+    },
+    {
+        "ID": 4,
+        "name": "能力_守+2",
+        "nodeName": "守+2",
+        "explanation": "能力値「守」が[n]上がる",
+        "allocationType": 1
+    },
+    {
+        "ID": 5,
+        "name": "能力_精+2",
+        "nodeName": "精+2",
+        "explanation": "能力値「精」が[n]上がる",
+        "allocationType": 1
+    },
+    {
+        "ID": 6,
+        "name": "能力_速+2",
+        "nodeName": "速+2",
+        "explanation": "能力値「速」が[n]上がる",
+        "allocationType": 1
+    },
+    {
+        "ID": 7,
+        "name": "能力_技+2",
+        "nodeName": "技+2",
+        "explanation": "能力値「技」が[n]上がる",
+        "allocationType": 1
+    },
+    {
+        "ID": 8,
+        "name": "能力_運+2",
+        "nodeName": "運+2",
+        "explanation": "能力値「運」が[n]上がる",
+        "allocationType": 1
+    },
+    {
+        "ID": 9,
+        "name": "能力_特化1",
+        "nodeName": "特化1",
+        "explanation": "能力値「[特化1]」が[n]上がる",
+        "allocationType": 10
+    },
+    {
+        "ID": 10,
+        "name": "能力_特化2",
+        "nodeName": "特化2",
+        "explanation": "能力値「[特化2]」が[n]上がる",
+        "allocationType": 10
+    },
+    {
+        "ID": 11,
+        "name": "能力_特化3",
+        "nodeName": "特化3",
+        "explanation": "能力値「[特化3]」が[n]上がる",
+        "allocationType": 10
+    },
+    {
+        "ID": 12,
+        "name": "能力_特化4",
+        "nodeName": "特化4",
+        "explanation": "能力値「[特化4]」が[n]上がる",
+        "allocationType": 10
+    },
+    {
+        "ID": 13,
+        "name": "能力_特化5",
+        "nodeName": "特化5",
+        "explanation": "能力値「[特化5]」が[n]上がる",
+        "allocationType": 10
+    },
+    {
+        "ID": 14,
+        "name": "能力_特化6",
+        "nodeName": "特化6",
+        "explanation": "能力値「[特化6]」が[n]上がる",
+        "allocationType": 10
+    },
+    {
+        "ID": 15,
+        "name": "能力_特化7",
+        "nodeName": "特化7",
+        "explanation": "能力値「[特化7]」が[n]上がる",
+        "allocationType": 10
+    },
+    {
+        "ID": 16,
+        "name": "能力_特化8",
+        "nodeName": "特化8",
+        "explanation": "能力値「[特化8]」が[n]上がる",
+        "allocationType": 10
+    },
+    {
+        "ID": 17,
+        "name": "能力_特化9",
+        "nodeName": "特化9",
+        "explanation": "能力値「[特化9]」が[n]上がる",
+        "allocationType": 10
+    },
+    {
+        "ID": 18,
+        "name": "能力_特化10",
+        "nodeName": "特化10",
+        "explanation": "能力値「[特化10]」が[n]上がる",
+        "allocationType": 10
+    },
+    {
+        "ID": 19,
+        "name": "能力_特化11",
+        "nodeName": "特化11",
+        "explanation": "能力値「[特化11]」が[n]上がる",
+        "allocationType": 10
+    },
+    {
+        "ID": 20,
+        "name": "能力_特化12",
+        "nodeName": "特化12",
+        "explanation": "能力値「[特化12]」が[n]上がる",
+        "allocationType": 10
+    },
+    {
+        "ID": 21,
+        "name": "能力_特化13",
+        "nodeName": "特化13",
+        "explanation": "能力値「[特化13]」が[n]上がる",
+        "allocationType": 10
+    },
+    {
+        "ID": 22,
+        "name": "能力_特化14",
+        "nodeName": "特化14",
+        "explanation": "能力値「[特化14]」が[n]上がる",
+        "allocationType": 10
+    },
+    {
+        "ID": 23,
+        "name": "能力_特化15",
+        "nodeName": "特化15",
+        "explanation": "能力値「[特化15]」が[n]上がる",
+        "allocationType": 10
+    },
+    {
+        "ID": 24,
+        "name": "能力_特化16",
+        "nodeName": "特化16",
+        "explanation": "能力値「[特化16]」が[n]上がる",
+        "allocationType": 10
+    },
+    {
+        "ID": 25,
+        "name": "能力_特化17",
+        "nodeName": "特化17",
+        "explanation": "能力値「[特化17]」が[n]上がる",
+        "allocationType": 10
+    },
+    {
+        "ID": 26,
+        "name": "属性強化＿自属性",
+        "nodeName": "自属性強化",
+        "explanation": "[自属性]属性強化値が[n]上がる",
+        "allocationType": 2
+    },
+    {
+        "ID": 27,
+        "name": "属性耐性＿自属性",
+        "nodeName": "自属性耐性",
+        "explanation": "[自属性]属性耐性値が[n]上がる",
+        "allocationType": 2
+    },
+    {
+        "ID": 28,
+        "name": "属性耐性＿その他１",
+        "nodeName": "属性耐性1",
+        "explanation": "[その他1]属性耐性値が[n]上がる",
+        "allocationType": 11
+    },
+    {
+        "ID": 29,
+        "name": "属性耐性＿その他２",
+        "nodeName": "属性耐性2",
+        "explanation": "[その他2]属性耐性値が[n]上がる",
+        "allocationType": 11
+    },
+    {
+        "ID": 30,
+        "name": "属性耐性＿その他３",
+        "nodeName": "属性耐性3",
+        "explanation": "[その他3]属性耐性値が[n]上がる",
+        "allocationType": 11
+    },
+    {
+        "ID": 31,
+        "name": "属性耐性＿その他４",
+        "nodeName": "属性耐性4",
+        "explanation": "[その他4]属性耐性値が[n]上がる",
+        "allocationType": 11
+    },
+    {
+        "ID": 32,
+        "name": "カスタムA_1",
+        "nodeName": "カスタムA",
+        "explanation": "ランダムでパラメータを付加します",
+        "allocationType": 13
+    },
+    {
+        "ID": 33,
+        "name": "カスタムA_2",
+        "nodeName": "カスタムA",
+        "explanation": "ランダムでパラメータを付加します",
+        "allocationType": 13
+    },
+    {
+        "ID": 34,
+        "name": "カスタムA_3",
+        "nodeName": "カスタムA",
+        "explanation": "ランダムでパラメータを付加します",
+        "allocationType": 13
+    },
+    {
+        "ID": 35,
+        "name": "カスタムB_1",
+        "nodeName": "カスタムB",
+        "explanation": "ランダムでパラメータを付加します",
+        "allocationType": 13
+    },
+    {
+        "ID": 36,
+        "name": "カスタムB_2",
+        "nodeName": "カスタムB",
+        "explanation": "ランダムでパラメータを付加します",
+        "allocationType": 13
+    },
+    {
+        "ID": 37,
+        "name": "カスタムB_3",
+        "nodeName": "カスタムB",
+        "explanation": "ランダムでパラメータを付加します",
+        "allocationType": 13
+    },
+    {
+        "ID": 38,
+        "name": "マスターボーナス+1",
+        "nodeName": "マスターボーナス",
+        "explanation": "[自属性]マスターボーナス経験値が[n]上がる",
+        "allocationType": 2
+    },
+    {
+        "ID": 39,
+        "name": "マスターボーナス+2",
+        "nodeName": "マスターボーナス",
+        "explanation": "[自属性]マスターボーナス経験値が[n]上がる",
+        "allocationType": 2
+    },
+    {
+        "ID": 40,
+        "name": "スキル習得_キャラスキル",
+        "nodeName": "キャラスキル習得",
+        "explanation": "スキル「[キャラスキル]」を習得する",
+        "allocationType": 14
+    },
+    {
+        "ID": 41,
+        "name": "スキルLv_キャラスキル",
+        "nodeName": "キャラスキルLvアップ",
+        "explanation": "スキル「[キャラスキル]」のLvが1上がる",
+        "allocationType": 14
+    },
+    {
+        "ID": 42,
+        "name": "スキルLv_クラススキル",
+        "nodeName": "クラススキルLvアップ",
+        "explanation": "スキル「[クラススキル]」のLvが1上がる",
+        "allocationType": 14
+    },
+    {
+        "ID": 43,
+        "name": "スキルLv_シングルスキル",
+        "nodeName": "シングルスキルLvアップ",
+        "explanation": "スキル「[シングルスキル]」のLvが1上がる",
+        "allocationType": 14
+    },
+    {
+        "ID": 44,
+        "name": "スキルLv_ダブルスキル",
+        "nodeName": "ダブルスキルLvアップ",
+        "explanation": "スキル「[ダブルスキル]」のLvが1上がる",
+        "allocationType": 14
+    },
+    {
+        "ID": 45,
+        "name": "能力_特化13_1",
+        "nodeName": "特化13",
+        "explanation": "能力値「[特化13]」が[n]上がる",
+        "allocationType": 10
+    },
+    {
+        "ID": 46,
+        "name": "能力_特化14_1",
+        "nodeName": "特化14",
+        "explanation": "能力値「[特化14]」が[n]上がる",
+        "allocationType": 10
+    },
+    {
+        "ID": 47,
+        "name": "能力_特化16_1",
+        "nodeName": "特化16",
+        "explanation": "能力値「[特化16]」が[n]上がる",
+        "allocationType": 10
+    },
+    {
+        "ID": 48,
+        "name": "能力_特化17_1",
+        "nodeName": "特化17",
+        "explanation": "能力値「[特化17]」が[n]上がる",
+        "allocationType": 10
+    }
+]

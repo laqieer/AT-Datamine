@@ -1,0 +1,13 @@
+[
+    {
+        "ID": 1,
+        "areaSettingLabel": 1,
+        "conditionID": 100,
+        "backGroundID": 3000,
+        "playerID": 1,
+        "startAnchorName": "DefaultStartPoint",
+        "bgmBank": "MU_ADV",
+        "bgmEvent": "MU_ADV_Start",
+        "bgmSubEvent": "MU_ADV_Rythm_Off"
+    }
+]

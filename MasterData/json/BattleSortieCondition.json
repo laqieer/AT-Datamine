@@ -1,0 +1,156 @@
+[
+    {
+        "ID": 1,
+        "groupID": 1,
+        "op": 0,
+        "conditionType": 14,
+        "value1": 1,
+        "value2": 0,
+        "value3": 0,
+        "value4": 0,
+        "value5": 0
+    },
+    {
+        "ID": 2,
+        "groupID": 2,
+        "op": 0,
+        "conditionType": 14,
+        "value1": 2,
+        "value2": 0,
+        "value3": 0,
+        "value4": 0,
+        "value5": 0
+    },
+    {
+        "ID": 3,
+        "groupID": 3,
+        "op": 0,
+        "conditionType": 14,
+        "value1": 3,
+        "value2": 0,
+        "value3": 0,
+        "value4": 0,
+        "value5": 0
+    },
+    {
+        "ID": 4,
+        "groupID": 4,
+        "op": 0,
+        "conditionType": 14,
+        "value1": 4,
+        "value2": 0,
+        "value3": 0,
+        "value4": 0,
+        "value5": 0
+    },
+    {
+        "ID": 5,
+        "groupID": 5,
+        "op": 0,
+        "conditionType": 1,
+        "value1": 2000001,
+        "value2": 0,
+        "value3": 0,
+        "value4": 0,
+        "value5": 0
+    },
+    {
+        "ID": 6,
+        "groupID": 6,
+        "op": 0,
+        "conditionType": 12,
+        "value1": 3000001,
+        "value2": 0,
+        "value3": 0,
+        "value4": 0,
+        "value5": 0
+    },
+    {
+        "ID": 7,
+        "groupID": 7,
+        "op": 0,
+        "conditionType": 5,
+        "value1": 3000001,
+        "value2": 0,
+        "value3": 0,
+        "value4": 0,
+        "value5": 0
+    },
+    {
+        "ID": 8,
+        "groupID": 8,
+        "op": 0,
+        "conditionType": 6,
+        "value1": 15,
+        "value2": 11,
+        "value3": 15,
+        "value4": 11,
+        "value5": 0
+    },
+    {
+        "ID": 9,
+        "groupID": 9,
+        "op": 0,
+        "conditionType": 3,
+        "value1": 2000002,
+        "value2": 50,
+        "value3": 0,
+        "value4": 0,
+        "value5": 0
+    },
+    {
+        "ID": 10,
+        "groupID": 9,
+        "op": 0,
+        "conditionType": 14,
+        "value1": 1,
+        "value2": 0,
+        "value3": 0,
+        "value4": 0,
+        "value5": 0
+    },
+    {
+        "ID": 11,
+        "groupID": 10,
+        "op": 0,
+        "conditionType": 2,
+        "value1": 2000005,
+        "value2": 90,
+        "value3": 0,
+        "value4": 0,
+        "value5": 0
+    },
+    {
+        "ID": 12,
+        "groupID": 11,
+        "op": 0,
+        "conditionType": 10,
+        "value1": 4,
+        "value2": 3,
+        "value3": 0,
+        "value4": 0,
+        "value5": 0
+    },
+    {
+        "ID": 13,
+        "groupID": 12,
+        "op": 0,
+        "conditionType": 11,
+        "value1": 3,
+        "value2": 3,
+        "value3": 0,
+        "value4": 0,
+        "value5": 0
+    },
+    {
+        "ID": 14,
+        "groupID": 13,
+        "op": 0,
+        "conditionType": 8,
+        "value1": 5,
+        "value2": 5,
+        "value3": 9,
+        "value4": 11,
+        "value5": 1
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "ID": 1,
+        "name": "バトル5",
+        "deckType": 1,
+        "memberLimit": 5,
+        "customDeckLimit": 15,
+        "defaultNameFormat": "デッキ ＃{DECK_NUMBER}",
+        "partyUnitCount": 5
+    },
+    {
+        "ID": 2,
+        "name": "バトル10",
+        "deckType": 2,
+        "memberLimit": 10,
+        "customDeckLimit": 10,
+        "defaultNameFormat": "中部隊デッキ ＃{DECK_NUMBER}",
+        "partyUnitCount": 5
+    },
+    {
+        "ID": 3,
+        "name": "PVP(攻撃)",
+        "deckType": 3,
+        "memberLimit": 0,
+        "customDeckLimit": 0,
+        "defaultNameFormat": "攻撃デッキ ＃{DECK_NUMBER}",
+        "partyUnitCount": 0
+    },
+    {
+        "ID": 4,
+        "name": "バトル15",
+        "deckType": 4,
+        "memberLimit": 15,
+        "customDeckLimit": 10,
+        "defaultNameFormat": "大部隊デッキ ＃{DECK_NUMBER}",
+        "partyUnitCount": 5
+    },
+    {
+        "ID": 5,
+        "name": "PVP(防御)",
+        "deckType": 5,
+        "memberLimit": 0,
+        "customDeckLimit": 0,
+        "defaultNameFormat": "防衛デッキ ＃{DECK_NUMBER}",
+        "partyUnitCount": 0
+    }
+]

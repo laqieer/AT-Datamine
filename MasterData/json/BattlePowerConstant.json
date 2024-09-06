@@ -1,0 +1,22 @@
+[
+    {
+        "ID": 1,
+        "CoefficientA": 3,
+        "CoefficientB": 3,
+        "CoefficientC": 4,
+        "CoefficientD": 0.25,
+        "CoefficientE": 4,
+        "CoefficientF": 0.6499999761581421,
+        "MaxSpRate": 3.5,
+        "MinSpRate": 1.5,
+        "Adjust": 100,
+        "HpLevel1": 500,
+        "HpLevel2": 3000,
+        "HpRate1": 0.10000000149011612,
+        "HpRate2": 0.004999999888241291,
+        "AdjustA": 200,
+        "AdjustB": 150,
+        "AdjustC": 75,
+        "AdjustD": 55
+    }
+]

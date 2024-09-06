@@ -1,0 +1,22 @@
+[
+    {
+        "ID": 1,
+        "ButtonLongPressSEType": "None",
+        "SEName": ""
+    },
+    {
+        "ID": 2,
+        "ButtonLongPressSEType": "Default",
+        "SEName": "LongPressDefaultSE"
+    },
+    {
+        "ID": 3,
+        "ButtonLongPressSEType": "Type1",
+        "SEName": "LongPRessType1SE"
+    },
+    {
+        "ID": 4,
+        "ButtonLongPressSEType": "Type2",
+        "SEName": "LongPressType2SE"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "ID": 16,
+        "layoutGroupLabel": 2,
+        "conditionID": 100,
+        "anchorName": "Bulletin_Board",
+        "placementObjectID": 1,
+        "characterPatternAssignID": 0,
+        "objectRotationY": 0,
+        "positionOffsetX": 0.0,
+        "positionOffsetY": 0.0,
+        "positionOffsetZ": 0.0
+    }
+]

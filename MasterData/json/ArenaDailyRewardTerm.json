@@ -1,0 +1,299 @@
+[
+    {
+        "ID": 1,
+        "name": "通貨アリーナデイリー",
+        "arenaDailyRewardGroup": 1,
+        "rewardFixedHour": 15,
+        "rewardFixedMinute": 0,
+        "startAt": "2000-04-25 21:00:00+09:00",
+        "endAt": "2001-01-01 00:00:00+09:00"
+    },
+    {
+        "ID": 2,
+        "name": "育成ボードアリーナデイリー",
+        "arenaDailyRewardGroup": 2,
+        "rewardFixedHour": 15,
+        "rewardFixedMinute": 0,
+        "startAt": "2000-04-25 21:00:00+09:00",
+        "endAt": "2001-01-01 00:00:00+09:00"
+    },
+    {
+        "ID": 3,
+        "name": "強化スキルアリーナデイリー",
+        "arenaDailyRewardGroup": 3,
+        "rewardFixedHour": 15,
+        "rewardFixedMinute": 0,
+        "startAt": "2000-04-25 21:00:00+09:00",
+        "endAt": "2001-01-01 00:00:00+09:00"
+    },
+    {
+        "ID": 4,
+        "name": "コロシアムβデイリーその1",
+        "arenaDailyRewardGroup": 4,
+        "rewardFixedHour": 22,
+        "rewardFixedMinute": 0,
+        "startAt": "2023-11-16 15:00:00+09:00",
+        "endAt": "2023-11-22 22:00:00+09:00"
+    },
+    {
+        "ID": 5,
+        "name": "コロシアムβデイリーその2",
+        "arenaDailyRewardGroup": 4,
+        "rewardFixedHour": 22,
+        "rewardFixedMinute": 0,
+        "startAt": "2023-11-23 15:00:00+09:00",
+        "endAt": "2023-11-29 22:00:00+09:00"
+    },
+    {
+        "ID": 6,
+        "name": "コロシアムγデイリーその1",
+        "arenaDailyRewardGroup": 5,
+        "rewardFixedHour": 22,
+        "rewardFixedMinute": 0,
+        "startAt": "2024-02-08 15:00:00+09:00",
+        "endAt": "2024-02-14 22:00:00+09:00"
+    },
+    {
+        "ID": 7,
+        "name": "コロシアムγデイリーその2",
+        "arenaDailyRewardGroup": 5,
+        "rewardFixedHour": 22,
+        "rewardFixedMinute": 0,
+        "startAt": "2024-02-15 15:00:00+09:00",
+        "endAt": "2024-02-21 22:00:00+09:00"
+    },
+    {
+        "ID": 8,
+        "name": "コロシアムδ_デイリーその1_報酬",
+        "arenaDailyRewardGroup": 6,
+        "rewardFixedHour": 22,
+        "rewardFixedMinute": 0,
+        "startAt": "2024-03-21 15:00:00+09:00",
+        "endAt": "2024-03-27 22:00:00+09:00"
+    },
+    {
+        "ID": 9,
+        "name": "コロシアムδ_デイリーその2_報酬",
+        "arenaDailyRewardGroup": 7,
+        "rewardFixedHour": 22,
+        "rewardFixedMinute": 0,
+        "startAt": "2024-03-28 15:00:00+09:00",
+        "endAt": "2024-04-03 22:00:00+09:00"
+    },
+    {
+        "ID": 10,
+        "name": "コロシアムδ_デイリーその3_報酬",
+        "arenaDailyRewardGroup": 8,
+        "rewardFixedHour": 22,
+        "rewardFixedMinute": 0,
+        "startAt": "2024-04-04 15:00:00+09:00",
+        "endAt": "2024-04-10 22:00:00+09:00"
+    },
+    {
+        "ID": 11,
+        "name": "コロシアムδ_デイリーその4_報酬",
+        "arenaDailyRewardGroup": 9,
+        "rewardFixedHour": 22,
+        "rewardFixedMinute": 0,
+        "startAt": "2024-04-11 15:00:00+09:00",
+        "endAt": "2024-04-17 22:00:00+09:00"
+    },
+    {
+        "ID": 12,
+        "name": "コロシアム鬼滅デイリーその1_報酬",
+        "arenaDailyRewardGroup": 10,
+        "rewardFixedHour": 22,
+        "rewardFixedMinute": 0,
+        "startAt": "2024-04-18 15:00:00+09:00",
+        "endAt": "2024-04-24 22:00:00+09:00"
+    },
+    {
+        "ID": 13,
+        "name": "コロシアム鬼滅デイリーその2_報酬",
+        "arenaDailyRewardGroup": 11,
+        "rewardFixedHour": 22,
+        "rewardFixedMinute": 0,
+        "startAt": "2024-04-25 15:00:00+09:00",
+        "endAt": "2024-05-01 22:00:00+09:00"
+    },
+    {
+        "ID": 14,
+        "name": "コロシアムδ_デイリーその5_報酬",
+        "arenaDailyRewardGroup": 12,
+        "rewardFixedHour": 22,
+        "rewardFixedMinute": 0,
+        "startAt": "2024-05-02 15:00:00+09:00",
+        "endAt": "2024-05-08 22:00:00+09:00"
+    },
+    {
+        "ID": 15,
+        "name": "コロシアムδ_デイリーその6_報酬",
+        "arenaDailyRewardGroup": 13,
+        "rewardFixedHour": 22,
+        "rewardFixedMinute": 0,
+        "startAt": "2024-05-09 15:00:00+09:00",
+        "endAt": "2024-05-15 22:00:00+09:00"
+    },
+    {
+        "ID": 16,
+        "name": "コロシアムδ_デイリーその7_報酬",
+        "arenaDailyRewardGroup": 14,
+        "rewardFixedHour": 22,
+        "rewardFixedMinute": 0,
+        "startAt": "2024-05-16 15:00:00+09:00",
+        "endAt": "2024-05-22 22:00:00+09:00"
+    },
+    {
+        "ID": 17,
+        "name": "コロシアムδ_デイリーその8_報酬",
+        "arenaDailyRewardGroup": 15,
+        "rewardFixedHour": 22,
+        "rewardFixedMinute": 0,
+        "startAt": "2024-05-23 15:00:00+09:00",
+        "endAt": "2024-05-29 22:00:00+09:00"
+    },
+    {
+        "ID": 18,
+        "name": "コロシアムδ_デイリーその9_報酬",
+        "arenaDailyRewardGroup": 16,
+        "rewardFixedHour": 22,
+        "rewardFixedMinute": 0,
+        "startAt": "2024-05-30 15:00:00+09:00",
+        "endAt": "2024-06-05 22:00:00+09:00"
+    },
+    {
+        "ID": 19,
+        "name": "コロシアムδ_デイリーその10_報酬",
+        "arenaDailyRewardGroup": 17,
+        "rewardFixedHour": 22,
+        "rewardFixedMinute": 0,
+        "startAt": "2024-06-06 15:00:00+09:00",
+        "endAt": "2024-06-12 22:00:00+09:00"
+    },
+    {
+        "ID": 20,
+        "name": "コロシアムδ_デイリーその11_報酬",
+        "arenaDailyRewardGroup": 18,
+        "rewardFixedHour": 22,
+        "rewardFixedMinute": 0,
+        "startAt": "2024-06-13 15:00:00+09:00",
+        "endAt": "2024-06-19 22:00:00+09:00"
+    },
+    {
+        "ID": 21,
+        "name": "コロシアムδ_デイリーその12_報酬",
+        "arenaDailyRewardGroup": 19,
+        "rewardFixedHour": 22,
+        "rewardFixedMinute": 0,
+        "startAt": "2024-06-20 15:00:00+09:00",
+        "endAt": "2024-06-26 22:00:00+09:00"
+    },
+    {
+        "ID": 22,
+        "name": "コロシアムδ_デイリーその13_報酬",
+        "arenaDailyRewardGroup": 20,
+        "rewardFixedHour": 22,
+        "rewardFixedMinute": 0,
+        "startAt": "2024-06-27 15:00:00+09:00",
+        "endAt": "2024-07-03 22:00:00+09:00"
+    },
+    {
+        "ID": 23,
+        "name": "コロシアムδ_デイリーその14_報酬",
+        "arenaDailyRewardGroup": 21,
+        "rewardFixedHour": 22,
+        "rewardFixedMinute": 0,
+        "startAt": "2024-07-04 15:00:00+09:00",
+        "endAt": "2024-07-10 22:00:00+09:00"
+    },
+    {
+        "ID": 24,
+        "name": "コロシアムδ_デイリーその15_報酬",
+        "arenaDailyRewardGroup": 22,
+        "rewardFixedHour": 22,
+        "rewardFixedMinute": 0,
+        "startAt": "2024-07-11 15:00:00+09:00",
+        "endAt": "2024-07-17 22:00:00+09:00"
+    },
+    {
+        "ID": 25,
+        "name": "コロシアムδ_デイリーその16_報酬",
+        "arenaDailyRewardGroup": 23,
+        "rewardFixedHour": 22,
+        "rewardFixedMinute": 0,
+        "startAt": "2024-07-18 15:00:00+09:00",
+        "endAt": "2024-07-24 22:00:00+09:00"
+    },
+    {
+        "ID": 26,
+        "name": "コロシアムδ_デイリーその17_報酬",
+        "arenaDailyRewardGroup": 24,
+        "rewardFixedHour": 22,
+        "rewardFixedMinute": 0,
+        "startAt": "2024-07-25 15:00:00+09:00",
+        "endAt": "2024-07-31 22:00:00+09:00"
+    },
+    {
+        "ID": 27,
+        "name": "コロシアムδ_デイリーその18_報酬",
+        "arenaDailyRewardGroup": 25,
+        "rewardFixedHour": 22,
+        "rewardFixedMinute": 0,
+        "startAt": "2024-08-01 15:00:00+09:00",
+        "endAt": "2024-08-07 22:00:00+09:00"
+    },
+    {
+        "ID": 28,
+        "name": "コロシアムδ_デイリーその19_報酬",
+        "arenaDailyRewardGroup": 26,
+        "rewardFixedHour": 22,
+        "rewardFixedMinute": 0,
+        "startAt": "2024-08-08 15:00:00+09:00",
+        "endAt": "2024-08-14 22:00:00+09:00"
+    },
+    {
+        "ID": 29,
+        "name": "コロシアムδ_デイリーその20_報酬",
+        "arenaDailyRewardGroup": 27,
+        "rewardFixedHour": 22,
+        "rewardFixedMinute": 0,
+        "startAt": "2024-08-15 15:00:00+09:00",
+        "endAt": "2024-08-21 22:00:00+09:00"
+    },
+    {
+        "ID": 30,
+        "name": "コロシアムδ_デイリーその21_報酬",
+        "arenaDailyRewardGroup": 28,
+        "rewardFixedHour": 22,
+        "rewardFixedMinute": 0,
+        "startAt": "2024-08-22 15:00:00+09:00",
+        "endAt": "2024-08-28 22:00:00+09:00"
+    },
+    {
+        "ID": 31,
+        "name": "コロシアムδ_デイリーその22_報酬",
+        "arenaDailyRewardGroup": 29,
+        "rewardFixedHour": 22,
+        "rewardFixedMinute": 0,
+        "startAt": "2024-08-29 15:00:00+09:00",
+        "endAt": "2024-09-04 22:00:00+09:00"
+    },
+    {
+        "ID": 32,
+        "name": "コロシアムδ_デイリーその23_報酬",
+        "arenaDailyRewardGroup": 30,
+        "rewardFixedHour": 22,
+        "rewardFixedMinute": 0,
+        "startAt": "2024-09-05 15:00:00+09:00",
+        "endAt": "2024-09-11 22:00:00+09:00"
+    },
+    {
+        "ID": 33,
+        "name": "コロシアムδ_デイリーその24_報酬",
+        "arenaDailyRewardGroup": 31,
+        "rewardFixedHour": 22,
+        "rewardFixedMinute": 0,
+        "startAt": "2024-09-12 15:00:00+09:00",
+        "endAt": "2024-09-18 22:00:00+09:00"
+    }
+]

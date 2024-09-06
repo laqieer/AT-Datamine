@@ -1,0 +1,30 @@
+[
+    {
+        "ID": 1,
+        "shopLayoutLabel": 1,
+        "shopType": 2,
+        "objectID": 5614,
+        "cameraMovePosition": 1000,
+        "playerMovePosition": 6,
+        "beforeAdvID": 201630,
+        "afterAdvID": 201631,
+        "beginNpcAct": 2,
+        "iconPositionX": 0.0,
+        "iconPositionY": 0.0,
+        "iconPositionZ": 0.0
+    },
+    {
+        "ID": 2,
+        "shopLayoutLabel": 1,
+        "shopType": 3,
+        "objectID": 6033,
+        "cameraMovePosition": 1000,
+        "playerMovePosition": 2,
+        "beforeAdvID": 201632,
+        "afterAdvID": 201633,
+        "beginNpcAct": 3,
+        "iconPositionX": 0.0,
+        "iconPositionY": 0.0,
+        "iconPositionZ": 0.0
+    }
+]
