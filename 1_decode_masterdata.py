@@ -83,7 +83,7 @@ def read_bytes(binary_file, count):
 
 def decode(data_name):
     binary_file_path = raw_files[data_name.lower()]
-    json_file_path = os.path.join(json_folder, data_name + '.json')
+    json_file_path = os.path.join(json_folder, os.path.basename(os.path.dirname(binary_file_path)), data_name + '.json')
     serializable_fields = decode_info[data_name]
 
     if not os.path.exists(binary_file_path):
@@ -125,6 +125,7 @@ def decode(data_name):
         if binary_file.read(1):
             raise EOFError
 
+    os.makedirs(os.path.dirname(json_file_path), exist_ok=True)
     with open(json_file_path, 'w', encoding="utf-8") as json_file:
         json.dump(decoded_data, json_file, indent=4, ensure_ascii=False)
 
