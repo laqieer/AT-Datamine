@@ -1,0 +1,362 @@
+[
+    {
+        "ID": 1,
+        "groupID": 1,
+        "paramID": 1,
+        "flag": true,
+        "routteID": 0,
+        "sequenceBegin": 0,
+        "sequenceEnd": 0,
+        "timeZone": 5
+    },
+    {
+        "ID": 2,
+        "groupID": 1,
+        "paramID": 1,
+        "flag": true,
+        "routteID": 0,
+        "sequenceBegin": 0,
+        "sequenceEnd": 0,
+        "timeZone": 2
+    },
+    {
+        "ID": 3,
+        "groupID": 1,
+        "paramID": 2,
+        "flag": true,
+        "routteID": 0,
+        "sequenceBegin": 0,
+        "sequenceEnd": 0,
+        "timeZone": 6
+    },
+    {
+        "ID": 4,
+        "groupID": 1,
+        "paramID": 2,
+        "flag": true,
+        "routteID": 0,
+        "sequenceBegin": 0,
+        "sequenceEnd": 0,
+        "timeZone": 3
+    },
+    {
+        "ID": 5,
+        "groupID": 1,
+        "paramID": 2,
+        "flag": true,
+        "routteID": 0,
+        "sequenceBegin": 0,
+        "sequenceEnd": 0,
+        "timeZone": 7
+    },
+    {
+        "ID": 6,
+        "groupID": 1,
+        "paramID": 12,
+        "flag": true,
+        "routteID": 0,
+        "sequenceBegin": 0,
+        "sequenceEnd": 0,
+        "timeZone": 4
+    },
+    {
+        "ID": 7,
+        "groupID": 2,
+        "paramID": 2,
+        "flag": true,
+        "routteID": 0,
+        "sequenceBegin": 0,
+        "sequenceEnd": 0,
+        "timeZone": 5
+    },
+    {
+        "ID": 8,
+        "groupID": 2,
+        "paramID": 2,
+        "flag": true,
+        "routteID": 0,
+        "sequenceBegin": 0,
+        "sequenceEnd": 0,
+        "timeZone": 2
+    },
+    {
+        "ID": 9,
+        "groupID": 2,
+        "paramID": 2,
+        "flag": true,
+        "routteID": 0,
+        "sequenceBegin": 0,
+        "sequenceEnd": 0,
+        "timeZone": 6
+    },
+    {
+        "ID": 10,
+        "groupID": 2,
+        "paramID": 2,
+        "flag": true,
+        "routteID": 0,
+        "sequenceBegin": 0,
+        "sequenceEnd": 0,
+        "timeZone": 3
+    },
+    {
+        "ID": 11,
+        "groupID": 2,
+        "paramID": 2,
+        "flag": true,
+        "routteID": 0,
+        "sequenceBegin": 0,
+        "sequenceEnd": 0,
+        "timeZone": 7
+    },
+    {
+        "ID": 12,
+        "groupID": 2,
+        "paramID": 12,
+        "flag": true,
+        "routteID": 0,
+        "sequenceBegin": 0,
+        "sequenceEnd": 0,
+        "timeZone": 4
+    },
+    {
+        "ID": 13,
+        "groupID": 3,
+        "paramID": 4,
+        "flag": true,
+        "routteID": 0,
+        "sequenceBegin": 0,
+        "sequenceEnd": 0,
+        "timeZone": 0
+    },
+    {
+        "ID": 14,
+        "groupID": 3,
+        "paramID": 4,
+        "flag": false,
+        "routteID": 0,
+        "sequenceBegin": 0,
+        "sequenceEnd": 0,
+        "timeZone": 4
+    },
+    {
+        "ID": 15,
+        "groupID": 3,
+        "paramID": 12,
+        "flag": true,
+        "routteID": 0,
+        "sequenceBegin": 0,
+        "sequenceEnd": 0,
+        "timeZone": 4
+    },
+    {
+        "ID": 16,
+        "groupID": 4,
+        "paramID": 5,
+        "flag": true,
+        "routteID": 0,
+        "sequenceBegin": 0,
+        "sequenceEnd": 0,
+        "timeZone": 0
+    },
+    {
+        "ID": 17,
+        "groupID": 4,
+        "paramID": 5,
+        "flag": false,
+        "routteID": 0,
+        "sequenceBegin": 0,
+        "sequenceEnd": 0,
+        "timeZone": 4
+    },
+    {
+        "ID": 18,
+        "groupID": 4,
+        "paramID": 12,
+        "flag": true,
+        "routteID": 0,
+        "sequenceBegin": 0,
+        "sequenceEnd": 0,
+        "timeZone": 4
+    },
+    {
+        "ID": 19,
+        "groupID": 5,
+        "paramID": 6,
+        "flag": true,
+        "routteID": 0,
+        "sequenceBegin": 0,
+        "sequenceEnd": 0,
+        "timeZone": 0
+    },
+    {
+        "ID": 20,
+        "groupID": 5,
+        "paramID": 6,
+        "flag": false,
+        "routteID": 0,
+        "sequenceBegin": 0,
+        "sequenceEnd": 0,
+        "timeZone": 4
+    },
+    {
+        "ID": 21,
+        "groupID": 5,
+        "paramID": 12,
+        "flag": true,
+        "routteID": 0,
+        "sequenceBegin": 0,
+        "sequenceEnd": 0,
+        "timeZone": 4
+    },
+    {
+        "ID": 22,
+        "groupID": 6,
+        "paramID": 7,
+        "flag": true,
+        "routteID": 0,
+        "sequenceBegin": 0,
+        "sequenceEnd": 0,
+        "timeZone": 0
+    },
+    {
+        "ID": 23,
+        "groupID": 6,
+        "paramID": 7,
+        "flag": false,
+        "routteID": 0,
+        "sequenceBegin": 0,
+        "sequenceEnd": 0,
+        "timeZone": 4
+    },
+    {
+        "ID": 24,
+        "groupID": 6,
+        "paramID": 12,
+        "flag": true,
+        "routteID": 0,
+        "sequenceBegin": 0,
+        "sequenceEnd": 0,
+        "timeZone": 4
+    },
+    {
+        "ID": 25,
+        "groupID": 7,
+        "paramID": 8,
+        "flag": true,
+        "routteID": 0,
+        "sequenceBegin": 0,
+        "sequenceEnd": 0,
+        "timeZone": 0
+    },
+    {
+        "ID": 26,
+        "groupID": 7,
+        "paramID": 8,
+        "flag": false,
+        "routteID": 0,
+        "sequenceBegin": 0,
+        "sequenceEnd": 0,
+        "timeZone": 4
+    },
+    {
+        "ID": 27,
+        "groupID": 7,
+        "paramID": 12,
+        "flag": true,
+        "routteID": 0,
+        "sequenceBegin": 0,
+        "sequenceEnd": 0,
+        "timeZone": 4
+    },
+    {
+        "ID": 28,
+        "groupID": 8,
+        "paramID": 9,
+        "flag": true,
+        "routteID": 0,
+        "sequenceBegin": 0,
+        "sequenceEnd": 0,
+        "timeZone": 1
+    },
+    {
+        "ID": 29,
+        "groupID": 8,
+        "paramID": 9,
+        "flag": true,
+        "routteID": 0,
+        "sequenceBegin": 0,
+        "sequenceEnd": 0,
+        "timeZone": 5
+    },
+    {
+        "ID": 30,
+        "groupID": 8,
+        "paramID": 9,
+        "flag": true,
+        "routteID": 0,
+        "sequenceBegin": 0,
+        "sequenceEnd": 0,
+        "timeZone": 2
+    },
+    {
+        "ID": 31,
+        "groupID": 8,
+        "paramID": 9,
+        "flag": true,
+        "routteID": 0,
+        "sequenceBegin": 0,
+        "sequenceEnd": 0,
+        "timeZone": 6
+    },
+    {
+        "ID": 32,
+        "groupID": 8,
+        "paramID": 10,
+        "flag": true,
+        "routteID": 0,
+        "sequenceBegin": 0,
+        "sequenceEnd": 0,
+        "timeZone": 3
+    },
+    {
+        "ID": 33,
+        "groupID": 8,
+        "paramID": 10,
+        "flag": true,
+        "routteID": 0,
+        "sequenceBegin": 0,
+        "sequenceEnd": 0,
+        "timeZone": 7
+    },
+    {
+        "ID": 34,
+        "groupID": 8,
+        "paramID": 11,
+        "flag": true,
+        "routteID": 0,
+        "sequenceBegin": 0,
+        "sequenceEnd": 0,
+        "timeZone": 4
+    },
+    {
+        "ID": 35,
+        "groupID": 9,
+        "paramID": 3,
+        "flag": true,
+        "routteID": 0,
+        "sequenceBegin": 0,
+        "sequenceEnd": 0,
+        "timeZone": 4
+    },
+    {
+        "ID": 36,
+        "groupID": 10,
+        "paramID": 0,
+        "flag": true,
+        "routteID": 0,
+        "sequenceBegin": 0,
+        "sequenceEnd": 0,
+        "timeZone": 0
+    }
+]

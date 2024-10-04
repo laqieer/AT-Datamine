@@ -1,0 +1,226 @@
+[
+    {
+        "ID": 1,
+        "referenceName": "キャメ学/ログレス城",
+        "positionX": 0.3190709054470062,
+        "positionY": 0.22617611289024353,
+        "landmarkResourceId": 1004
+    },
+    {
+        "ID": 2,
+        "referenceName": "キャメリアード城",
+        "positionX": 0.4290953576564789,
+        "positionY": 0.2780458331108093,
+        "landmarkResourceId": 1002
+    },
+    {
+        "ID": 3,
+        "referenceName": "グランストンベリー",
+        "positionX": 0.3190709054470062,
+        "positionY": 0.45235222578048706,
+        "landmarkResourceId": 9001
+    },
+    {
+        "ID": 4,
+        "referenceName": "テリベル城（カーライル）",
+        "positionX": 0.604523241519928,
+        "positionY": 0.5603136420249939,
+        "landmarkResourceId": 1001
+    },
+    {
+        "ID": 5,
+        "referenceName": "ロンディニウムの都",
+        "positionX": 0.31968215107917786,
+        "positionY": 0.09710494428873062,
+        "landmarkResourceId": 1008
+    },
+    {
+        "ID": 6,
+        "referenceName": "キャメリアード鉱山",
+        "positionX": 0.395476758480072,
+        "positionY": 0.32629674673080444,
+        "landmarkResourceId": 9001
+    },
+    {
+        "ID": 7,
+        "referenceName": "ノワールの故郷",
+        "positionX": 0.6222493648529053,
+        "positionY": 0.4487334191799164,
+        "landmarkResourceId": 1006
+    },
+    {
+        "ID": 8,
+        "referenceName": "ソールズベリー平原",
+        "positionX": 0.42420539259910583,
+        "positionY": 0.21351025998592377,
+        "landmarkResourceId": 9001
+    },
+    {
+        "ID": 9,
+        "referenceName": "コーンウォール城付近の森",
+        "positionX": 0.17787286639213562,
+        "positionY": 0.4420989155769348,
+        "landmarkResourceId": 9001
+    },
+    {
+        "ID": 10,
+        "referenceName": "アントニヌス・ウォール　北の海",
+        "positionX": 0.5739609003067017,
+        "positionY": 0.3359469175338745,
+        "landmarkResourceId": 9001
+    },
+    {
+        "ID": 11,
+        "referenceName": "アントニヌス・ウォール　南の海",
+        "positionX": 0.5067237019538879,
+        "positionY": 0.5337756276130676,
+        "landmarkResourceId": 9001
+    },
+    {
+        "ID": 12,
+        "referenceName": "ハドリアヌス・ウォール",
+        "positionX": 0.4492664933204651,
+        "positionY": 0.6978287100791931,
+        "landmarkResourceId": 9001
+    },
+    {
+        "ID": 13,
+        "referenceName": "湖のある村",
+        "positionX": 0.41992664337158203,
+        "positionY": 0.7521109580993652,
+        "landmarkResourceId": 9001
+    },
+    {
+        "ID": 14,
+        "referenceName": "アントニヌス・ウォール",
+        "positionX": 0.5110024213790894,
+        "positionY": 0.35765981674194336,
+        "landmarkResourceId": 9001
+    },
+    {
+        "ID": 15,
+        "referenceName": "スノードン山",
+        "positionX": 0.6638141870498657,
+        "positionY": 0.5277442932128906,
+        "landmarkResourceId": 9001
+    },
+    {
+        "ID": 16,
+        "referenceName": "アヴァロン",
+        "positionX": 0.42848411202430725,
+        "positionY": 0.425211101770401,
+        "landmarkResourceId": 9001
+    },
+    {
+        "ID": 17,
+        "referenceName": "果てなき森プロセリアンド",
+        "positionX": 0.7402200698852539,
+        "positionY": 0.4746682643890381,
+        "landmarkResourceId": 9001
+    },
+    {
+        "ID": 18,
+        "referenceName": "廃都サラス",
+        "positionX": 0.7249388694763184,
+        "positionY": 0.6586248278617859,
+        "landmarkResourceId": 1010
+    },
+    {
+        "ID": 19,
+        "referenceName": "ログレス城付近の平原",
+        "positionX": 0.24511002004146576,
+        "positionY": 0.183956578373909,
+        "landmarkResourceId": 9001
+    },
+    {
+        "ID": 20,
+        "referenceName": "カレドニア城",
+        "positionX": 0.6742053627967834,
+        "positionY": 0.3449939787387848,
+        "landmarkResourceId": 1003
+    },
+    {
+        "ID": 21,
+        "referenceName": "喜びの城（アバドン）",
+        "positionX": 0.7872860431671143,
+        "positionY": 0.3968636989593506,
+        "landmarkResourceId": 9001
+    },
+    {
+        "ID": 22,
+        "referenceName": "カムランの丘",
+        "positionX": 0.19865526258945465,
+        "positionY": 0.33232811093330383,
+        "landmarkResourceId": 9001
+    },
+    {
+        "ID": 23,
+        "referenceName": "フリクエ1",
+        "positionX": 0.12224938720464706,
+        "positionY": 0.7889022827148438,
+        "landmarkResourceId": 9001
+    },
+    {
+        "ID": 24,
+        "referenceName": "一夜砦",
+        "positionX": 0.24449877440929413,
+        "positionY": 0.3299155533313751,
+        "landmarkResourceId": 9001
+    },
+    {
+        "ID": 25,
+        "referenceName": "花畑",
+        "positionX": 0.31540343165397644,
+        "positionY": 0.25452351570129395,
+        "landmarkResourceId": 9001
+    },
+    {
+        "ID": 26,
+        "referenceName": "キャメリアード",
+        "positionX": 0.4290953576564789,
+        "positionY": 0.2780458331108093,
+        "landmarkResourceId": 9001
+    },
+    {
+        "ID": 27,
+        "referenceName": "ログレスとグラストンベリーの間",
+        "positionX": 0.3331295847892761,
+        "positionY": 0.367913156747818,
+        "landmarkResourceId": 9001
+    },
+    {
+        "ID": 28,
+        "referenceName": "コルベニック城",
+        "positionX": 0.4015892446041107,
+        "positionY": 0.7334137558937073,
+        "landmarkResourceId": 1005
+    },
+    {
+        "ID": 29,
+        "referenceName": "忘却領域オブリヴィエ",
+        "positionX": 0.19865526258945465,
+        "positionY": 0.33232811093330383,
+        "landmarkResourceId": 9001
+    },
+    {
+        "ID": 30,
+        "referenceName": "ログレスとロンディニウムの間",
+        "positionX": 0.33985328674316406,
+        "positionY": 0.18214716017246246,
+        "landmarkResourceId": 9001
+    },
+    {
+        "ID": 31,
+        "referenceName": "虚構廻廊",
+        "positionX": 0.19865526258945465,
+        "positionY": 0.33232811093330383,
+        "landmarkResourceId": 9001
+    },
+    {
+        "ID": 32,
+        "referenceName": "暗闇",
+        "positionX": 6.918092727661133,
+        "positionY": 0.8570566773414612,
+        "landmarkResourceId": 9001
+    }
+]

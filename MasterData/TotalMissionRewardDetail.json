@@ -1,0 +1,58 @@
+[
+    {
+        "ID": 1,
+        "missionRewardID": 1,
+        "rewardType": 29,
+        "rewardID": 101030001,
+        "amount": 1
+    },
+    {
+        "ID": 2,
+        "missionRewardID": 2,
+        "rewardType": 29,
+        "rewardID": 101030001,
+        "amount": 3
+    },
+    {
+        "ID": 3,
+        "missionRewardID": 3,
+        "rewardType": 29,
+        "rewardID": 101030001,
+        "amount": 7
+    },
+    {
+        "ID": 4,
+        "missionRewardID": 4,
+        "rewardType": 29,
+        "rewardID": 101030001,
+        "amount": 8
+    },
+    {
+        "ID": 5,
+        "missionRewardID": 5,
+        "rewardType": 29,
+        "rewardID": 101030001,
+        "amount": 10
+    },
+    {
+        "ID": 6,
+        "missionRewardID": 6,
+        "rewardType": 34,
+        "rewardID": 0,
+        "amount": 100
+    },
+    {
+        "ID": 7,
+        "missionRewardID": 7,
+        "rewardType": 34,
+        "rewardID": 0,
+        "amount": 300
+    },
+    {
+        "ID": 8,
+        "missionRewardID": 8,
+        "rewardType": 34,
+        "rewardID": 0,
+        "amount": 500
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "ID": 1,
+        "characterLimitRelease": 1,
+        "releaseState": 0,
+        "influenceRateLimit": 1000
+    },
+    {
+        "ID": 2,
+        "characterLimitRelease": 1,
+        "releaseState": 1,
+        "influenceRateLimit": 1000
+    },
+    {
+        "ID": 3,
+        "characterLimitRelease": 1,
+        "releaseState": 2,
+        "influenceRateLimit": 1000
+    },
+    {
+        "ID": 4,
+        "characterLimitRelease": 1,
+        "releaseState": 3,
+        "influenceRateLimit": 1000
+    },
+    {
+        "ID": 5,
+        "characterLimitRelease": 1,
+        "releaseState": 4,
+        "influenceRateLimit": 1000
+    },
+    {
+        "ID": 6,
+        "characterLimitRelease": 1,
+        "releaseState": 5,
+        "influenceRateLimit": 1000
+    },
+    {
+        "ID": 7,
+        "characterLimitRelease": 1,
+        "releaseState": 6,
+        "influenceRateLimit": 1000
+    },
+    {
+        "ID": 8,
+        "characterLimitRelease": 1,
+        "releaseState": 7,
+        "influenceRateLimit": 1000
+    },
+    {
+        "ID": 9,
+        "characterLimitRelease": 1,
+        "releaseState": 8,
+        "influenceRateLimit": 1000
+    },
+    {
+        "ID": 10,
+        "characterLimitRelease": 1,
+        "releaseState": 9,
+        "influenceRateLimit": 1000
+    },
+    {
+        "ID": 11,
+        "characterLimitRelease": 2,
+        "releaseState": 0,
+        "influenceRateLimit": 1000
+    },
+    {
+        "ID": 12,
+        "characterLimitRelease": 2,
+        "releaseState": 1,
+        "influenceRateLimit": 1000
+    },
+    {
+        "ID": 13,
+        "characterLimitRelease": 2,
+        "releaseState": 2,
+        "influenceRateLimit": 1000
+    },
+    {
+        "ID": 14,
+        "characterLimitRelease": 2,
+        "releaseState": 3,
+        "influenceRateLimit": 1000
+    },
+    {
+        "ID": 15,
+        "characterLimitRelease": 2,
+        "releaseState": 4,
+        "influenceRateLimit": 1000
+    },
+    {
+        "ID": 16,
+        "characterLimitRelease": 2,
+        "releaseState": 5,
+        "influenceRateLimit": 1000
+    },
+    {
+        "ID": 17,
+        "characterLimitRelease": 2,
+        "releaseState": 6,
+        "influenceRateLimit": 1000
+    },
+    {
+        "ID": 18,
+        "characterLimitRelease": 2,
+        "releaseState": 7,
+        "influenceRateLimit": 1000
+    },
+    {
+        "ID": 19,
+        "characterLimitRelease": 2,
+        "releaseState": 8,
+        "influenceRateLimit": 1000
+    },
+    {
+        "ID": 20,
+        "characterLimitRelease": 2,
+        "releaseState": 9,
+        "influenceRateLimit": 1000
+    }
+]

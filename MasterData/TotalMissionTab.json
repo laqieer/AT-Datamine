@@ -1,0 +1,17 @@
+[
+    {
+        "ID": 1,
+        "eventId": 10001,
+        "conditionTypeId": 1
+    },
+    {
+        "ID": 2,
+        "eventId": 10001,
+        "conditionTypeId": 2
+    },
+    {
+        "ID": 3,
+        "eventId": 10001,
+        "conditionTypeId": 3
+    }
+]

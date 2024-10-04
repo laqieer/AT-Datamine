@@ -1,0 +1,19 @@
+[
+    {
+        "ID": 0,
+        "guildNameMaxLength": 10,
+        "guildIntroductionMaxLength": 400,
+        "guildBulletinBoardMaxLength": 400,
+        "joinCoolTimeHours": 24,
+        "joinHoursForGiftSending": 24,
+        "guildGiftExpirationHours": 168,
+        "guildGiftReceiveMaxCount": 20,
+        "maxInvestCount": 3,
+        "guildFavoriteMaxCount": 3,
+        "chatPostThrottle": 5,
+        "chatLogMax": 50,
+        "chatPostLengthMax": 50,
+        "chatActiveTimeSecond": 1800,
+        "chatLogThrottle": 5
+    }
+]

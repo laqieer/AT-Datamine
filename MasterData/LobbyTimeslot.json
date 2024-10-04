@@ -1,0 +1,44 @@
+[
+    {
+        "ID": 0,
+        "name": "指定なし",
+        "beginMinute": 0,
+        "endMinute": 1439
+    },
+    {
+        "ID": 1,
+        "name": "深夜",
+        "beginMinute": 0,
+        "endMinute": 239
+    },
+    {
+        "ID": 2,
+        "name": "早朝",
+        "beginMinute": 240,
+        "endMinute": 539
+    },
+    {
+        "ID": 3,
+        "name": "朝",
+        "beginMinute": 480,
+        "endMinute": 719
+    },
+    {
+        "ID": 4,
+        "name": "昼",
+        "beginMinute": 720,
+        "endMinute": 959
+    },
+    {
+        "ID": 5,
+        "name": "夕方",
+        "beginMinute": 960,
+        "endMinute": 1199
+    },
+    {
+        "ID": 6,
+        "name": "夜",
+        "beginMinute": 1200,
+        "endMinute": 1439
+    }
+]

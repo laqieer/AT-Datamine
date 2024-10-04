@@ -1,0 +1,58 @@
+[
+    {
+        "ID": 3079111,
+        "difficultyScoreGroupId": 1,
+        "retreatScoreMax": 2000,
+        "retreatSubtraction": 500,
+        "clearTurnGroupId": 501,
+        "maxDamageCoeficientPercentage": 15,
+        "takeDamageCoeficient": 3000,
+        "dealDamageCoeficientPermillage": 20,
+        "useItemGroupId": 0,
+        "breakBarrierCoeficient": 0,
+        "breakBarrierScoreMax": 0,
+        "armorBreakBonus": 0
+    },
+    {
+        "ID": 3099111,
+        "difficultyScoreGroupId": 2,
+        "retreatScoreMax": 2000,
+        "retreatSubtraction": 500,
+        "clearTurnGroupId": 502,
+        "maxDamageCoeficientPercentage": 15,
+        "takeDamageCoeficient": 3000,
+        "dealDamageCoeficientPermillage": 30,
+        "useItemGroupId": 0,
+        "breakBarrierCoeficient": 0,
+        "breakBarrierScoreMax": 0,
+        "armorBreakBonus": 0
+    },
+    {
+        "ID": 3058111,
+        "difficultyScoreGroupId": 3,
+        "retreatScoreMax": 2000,
+        "retreatSubtraction": 500,
+        "clearTurnGroupId": 502,
+        "maxDamageCoeficientPercentage": 15,
+        "takeDamageCoeficient": 3000,
+        "dealDamageCoeficientPermillage": 30,
+        "useItemGroupId": 0,
+        "breakBarrierCoeficient": 0,
+        "breakBarrierScoreMax": 0,
+        "armorBreakBonus": 0
+    },
+    {
+        "ID": 3069111,
+        "difficultyScoreGroupId": 4,
+        "retreatScoreMax": 3600,
+        "retreatSubtraction": 400,
+        "clearTurnGroupId": 503,
+        "maxDamageCoeficientPercentage": 100,
+        "takeDamageCoeficient": 3000,
+        "dealDamageCoeficientPermillage": 30,
+        "useItemGroupId": 0,
+        "breakBarrierCoeficient": 0,
+        "breakBarrierScoreMax": 0,
+        "armorBreakBonus": 0
+    }
+]

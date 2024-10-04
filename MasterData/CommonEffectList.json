@@ -1,0 +1,450 @@
+[
+    {
+        "ID": 0,
+        "EffectName": "なし",
+        "AssetBundlePath": "",
+        "EffectPrefabName": "",
+        "SE": ""
+    },
+    {
+        "ID": 1,
+        "EffectName": "Ef_C_Adv_Maki01",
+        "AssetBundlePath": "adv",
+        "EffectPrefabName": "Ef_C_Adv_Maki01",
+        "SE": "ADV_SE_002"
+    },
+    {
+        "ID": 2,
+        "EffectName": "Ef_C_Adv_Coin01",
+        "AssetBundlePath": "adv",
+        "EffectPrefabName": "Ef_C_Adv_Coin01",
+        "SE": "ADV_SE_003"
+    },
+    {
+        "ID": 3,
+        "EffectName": "Ef_C_Adv_Slash01",
+        "AssetBundlePath": "adv",
+        "EffectPrefabName": "Ef_C_Adv_Slash01",
+        "SE": ""
+    },
+    {
+        "ID": 4,
+        "EffectName": "Ef_C_Adv_Die01_Lop",
+        "AssetBundlePath": "adv",
+        "EffectPrefabName": "Ef_C_Adv_Die01_Lop",
+        "SE": "ADV_SE_005"
+    },
+    {
+        "ID": 5,
+        "EffectName": "Ef_C_Adv_Die01",
+        "AssetBundlePath": "adv",
+        "EffectPrefabName": "Ef_C_Adv_Die01",
+        "SE": "ADV_SE_006"
+    },
+    {
+        "ID": 6,
+        "EffectName": "Ef_C_Adv_CLine01_Lop",
+        "AssetBundlePath": "adv",
+        "EffectPrefabName": "Ef_C_Adv_CLine01_Lop",
+        "SE": ""
+    },
+    {
+        "ID": 7,
+        "EffectName": "Ef_C_Adv_AreaSmoke01_Lop",
+        "AssetBundlePath": "adv",
+        "EffectPrefabName": "Ef_C_Adv_AreaSmoke01_Lop",
+        "SE": "ADV_SE_007"
+    },
+    {
+        "ID": 8,
+        "EffectName": "Ef_C_Adv_Pressure01_Lop",
+        "AssetBundlePath": "adv",
+        "EffectPrefabName": "Ef_C_Adv_Pressure01_Lop",
+        "SE": "ADV_SE_008"
+    },
+    {
+        "ID": 9,
+        "EffectName": "Ef_C_Emo_Excl01",
+        "AssetBundlePath": "emotion",
+        "EffectPrefabName": "Ef_C_Emo_Excl01",
+        "SE": "ADV_SE_009"
+    },
+    {
+        "ID": 10,
+        "EffectName": "Ef_C_Emo_Que01",
+        "AssetBundlePath": "emotion",
+        "EffectPrefabName": "Ef_C_Emo_Que01",
+        "SE": "ADV_SE_010"
+    },
+    {
+        "ID": 11,
+        "EffectName": "Ef_C_Emo_Heart01",
+        "AssetBundlePath": "emotion",
+        "EffectPrefabName": "Ef_C_Emo_Heart01",
+        "SE": "ADV_SE_011"
+    },
+    {
+        "ID": 12,
+        "EffectName": "Ef_C_Emo_Angry01",
+        "AssetBundlePath": "emotion",
+        "EffectPrefabName": "Ef_C_Emo_Angry01_Lop",
+        "SE": ""
+    },
+    {
+        "ID": 13,
+        "EffectName": "Ef_C_Emo_Sleep01",
+        "AssetBundlePath": "emotion",
+        "EffectPrefabName": "Ef_C_Emo_Sleep01_Lop",
+        "SE": ""
+    },
+    {
+        "ID": 14,
+        "EffectName": "Ef_C_Emo_Waiwai01",
+        "AssetBundlePath": "emotion",
+        "EffectPrefabName": "Ef_C_Emo_Waiwai01_Lop",
+        "SE": ""
+    },
+    {
+        "ID": 15,
+        "EffectName": "Ef_C_Emo_Moya01",
+        "AssetBundlePath": "emotion",
+        "EffectPrefabName": "Ef_C_Emo_Moya01_Lop",
+        "SE": ""
+    },
+    {
+        "ID": 16,
+        "EffectName": "Ef_C_Emo_Upset01",
+        "AssetBundlePath": "emotion",
+        "EffectPrefabName": "Ef_C_Emo_Upset01__Lop",
+        "SE": ""
+    },
+    {
+        "ID": 17,
+        "EffectName": "Ef_C_Emo_Sweat01",
+        "AssetBundlePath": "emotion",
+        "EffectPrefabName": "Ef_C_Emo_Sweat01",
+        "SE": ""
+    },
+    {
+        "ID": 18,
+        "EffectName": "Ef_C_Emo_FelUp01",
+        "AssetBundlePath": "emotion",
+        "EffectPrefabName": "Ef_C_Emo_FelUp01",
+        "SE": "ADV_SE_012"
+    },
+    {
+        "ID": 19,
+        "EffectName": "Ef_C_Emo_FelUp02",
+        "AssetBundlePath": "emotion",
+        "EffectPrefabName": "Ef_C_Emo_FelUp02",
+        "SE": "ADV_SE_013"
+    },
+    {
+        "ID": 20,
+        "EffectName": "Ef_C_Emo_FelUp03",
+        "AssetBundlePath": "emotion",
+        "EffectPrefabName": "Ef_C_Emo_FelUp03",
+        "SE": "ADV_SE_014"
+    },
+    {
+        "ID": 21,
+        "EffectName": "Ef_C_Emo_StUP01",
+        "AssetBundlePath": "emotion",
+        "EffectPrefabName": "Ef_C_Emo_StUP01",
+        "SE": "ADV_SE_015"
+    },
+    {
+        "ID": 22,
+        "EffectName": "Ef_C_Emo_StUP02",
+        "AssetBundlePath": "emotion",
+        "EffectPrefabName": "Ef_C_Emo_StUP02",
+        "SE": "ADV_SE_016"
+    },
+    {
+        "ID": 23,
+        "EffectName": "Ef_C_Emo_StUP03",
+        "AssetBundlePath": "emotion",
+        "EffectPrefabName": "Ef_C_Emo_StUP03",
+        "SE": "ADV_SE_017"
+    },
+    {
+        "ID": 24,
+        "EffectName": "Ef_F_Cmn_WepBreak01",
+        "AssetBundlePath": "field",
+        "EffectPrefabName": "Ef_F_Cmn_WepBreak01",
+        "SE": "SE_0058"
+    },
+    {
+        "ID": 25,
+        "EffectName": "Ef_F_Cmn_Death01",
+        "AssetBundlePath": "field",
+        "EffectPrefabName": "Ef_F_Cmn_Death01",
+        "SE": "SE_2040"
+    },
+    {
+        "ID": 26,
+        "EffectName": "Ef_F_Cmn_Spawn01",
+        "AssetBundlePath": "field",
+        "EffectPrefabName": "Ef_F_Cmn_Spawn01",
+        "SE": "SE_2029"
+    },
+    {
+        "ID": 27,
+        "EffectName": "Ef_F_Cmn_Hit_Ss01",
+        "AssetBundlePath": "field",
+        "EffectPrefabName": "Ef_F_Cmn_Hit_Ss01",
+        "SE": "SE_2002"
+    },
+    {
+        "ID": 28,
+        "EffectName": "Ef_F_Cmn_Hit_Ms01",
+        "AssetBundlePath": "field",
+        "EffectPrefabName": "Ef_F_Cmn_Hit_Ms01",
+        "SE": "SE_2003"
+    },
+    {
+        "ID": 29,
+        "EffectName": "Ef_F_Cmn_DGuard01",
+        "AssetBundlePath": "field",
+        "EffectPrefabName": "Ef_F_Cmn_DGuard01",
+        "SE": "SE_2005"
+    },
+    {
+        "ID": 30,
+        "EffectName": "Ef_F_Cmn_SsAura01",
+        "AssetBundlePath": "field",
+        "EffectPrefabName": "Ef_F_Cmn_SsAura01",
+        "SE": "SE_2004"
+    },
+    {
+        "ID": 31,
+        "EffectName": "Ef_F_Swd_N_Atk01",
+        "AssetBundlePath": "field",
+        "EffectPrefabName": "Ef_F_Swd_N_Atk01",
+        "SE": "SE_2007"
+    },
+    {
+        "ID": 32,
+        "EffectName": "Ef_F_Swd_N_Atk01_Cri",
+        "AssetBundlePath": "field",
+        "EffectPrefabName": "Ef_F_Swd_N_Atk01_Cri",
+        "SE": "SE_2008"
+    },
+    {
+        "ID": 33,
+        "EffectName": "Ef_F_Spr_N_Atk01",
+        "AssetBundlePath": "field",
+        "EffectPrefabName": "Ef_F_Spr_N_Atk01",
+        "SE": "SE_2009"
+    },
+    {
+        "ID": 34,
+        "EffectName": "Ef_F_Spr_N_Atk01_Cri",
+        "AssetBundlePath": "field",
+        "EffectPrefabName": "Ef_F_Spr_N_Atk01_Cri",
+        "SE": "SE_2010"
+    },
+    {
+        "ID": 35,
+        "EffectName": "Ef_F_Axe_N_Atk01",
+        "AssetBundlePath": "field",
+        "EffectPrefabName": "Ef_F_Axe_N_Atk01",
+        "SE": "SE_2011"
+    },
+    {
+        "ID": 36,
+        "EffectName": "Ef_F_Axe_N_Atk01_Cri",
+        "AssetBundlePath": "field",
+        "EffectPrefabName": "Ef_F_Axe_N_Atk01_Cri",
+        "SE": "SE_2012"
+    },
+    {
+        "ID": 37,
+        "EffectName": "Ef_F_Bow_N_Atk01",
+        "AssetBundlePath": "field",
+        "EffectPrefabName": "Ef_F_Bow_N_Atk01",
+        "SE": "SE_2013"
+    },
+    {
+        "ID": 38,
+        "EffectName": "Ef_F_Bow_N_Atk01_Cri",
+        "AssetBundlePath": "field",
+        "EffectPrefabName": "Ef_F_Bow_N_Atk01_Cri",
+        "SE": "SE_2014"
+    },
+    {
+        "ID": 39,
+        "EffectName": "Ef_F_Swd_N_Hit01",
+        "AssetBundlePath": "field",
+        "EffectPrefabName": "Ef_F_Swd_N_Hit01",
+        "SE": "SE_2000"
+    },
+    {
+        "ID": 40,
+        "EffectName": "Ef_F_Swd_N_Hit01_Cri",
+        "AssetBundlePath": "field",
+        "EffectPrefabName": "Ef_F_Swd_N_Hit01_Cri",
+        "SE": "SE_2001"
+    },
+    {
+        "ID": 41,
+        "EffectName": "Ef_F_Spr_N_Hit01",
+        "AssetBundlePath": "field",
+        "EffectPrefabName": "Ef_F_Spr_N_Hit01",
+        "SE": "SE_2015"
+    },
+    {
+        "ID": 42,
+        "EffectName": "Ef_F_Spr_N_Hit01_Cri",
+        "AssetBundlePath": "field",
+        "EffectPrefabName": "Ef_F_Spr_N_Hit01_Cri",
+        "SE": "SE_2016"
+    },
+    {
+        "ID": 43,
+        "EffectName": "Ef_F_Axe_N_Hit01",
+        "AssetBundlePath": "field",
+        "EffectPrefabName": "Ef_F_Axe_N_Hit01",
+        "SE": "SE_2017"
+    },
+    {
+        "ID": 44,
+        "EffectName": "Ef_F_Axe_N_Hit01_Cri",
+        "AssetBundlePath": "field",
+        "EffectPrefabName": "Ef_F_Axe_N_Hit01_Cri",
+        "SE": "SE_2018"
+    },
+    {
+        "ID": 45,
+        "EffectName": "Ef_F_Bow_N_Hit01",
+        "AssetBundlePath": "field",
+        "EffectPrefabName": "Ef_F_Bow_N_Hit01",
+        "SE": "SE_2019"
+    },
+    {
+        "ID": 46,
+        "EffectName": "Ef_F_Bow_N_Hit01_Cri",
+        "AssetBundlePath": "field",
+        "EffectPrefabName": "Ef_F_Bow_N_Hit01_Cri",
+        "SE": "SE_2020"
+    },
+    {
+        "ID": 47,
+        "EffectName": "Ef_F_Bow_N_Bul01",
+        "AssetBundlePath": "field",
+        "EffectPrefabName": "Ef_F_Bow_N_Bul01",
+        "SE": ""
+    },
+    {
+        "ID": 48,
+        "EffectName": "Ef_F_Fot_Critical01",
+        "AssetBundlePath": "field",
+        "EffectPrefabName": "Ef_F_Fot_Critical01",
+        "SE": ""
+    },
+    {
+        "ID": 49,
+        "EffectName": "Ef_F_Fot_Miss01",
+        "AssetBundlePath": "field",
+        "EffectPrefabName": "Ef_F_Fot_Miss01",
+        "SE": ""
+    },
+    {
+        "ID": 50,
+        "EffectName": "Ef_F_Fot_NoDamage01",
+        "AssetBundlePath": "field",
+        "EffectPrefabName": "Ef_F_Fot_NoDamage01",
+        "SE": ""
+    },
+    {
+        "ID": 51,
+        "EffectName": "Ef_F_Fot_Broken01",
+        "AssetBundlePath": "field",
+        "EffectPrefabName": "Ef_F_Fot_Broken01",
+        "SE": ""
+    },
+    {
+        "ID": 52,
+        "EffectName": "Ef_D_Dbf_Poison01_Lop",
+        "AssetBundlePath": "duel",
+        "EffectPrefabName": "Ef_D_Dbf_Poison01_Lop",
+        "SE": "SE_0051"
+    },
+    {
+        "ID": 53,
+        "EffectName": "Ef_F_Buf_Cure01",
+        "AssetBundlePath": "field",
+        "EffectPrefabName": "Ef_F_Buf_Cure01",
+        "SE": "SE_0052"
+    },
+    {
+        "ID": 54,
+        "EffectName": "Ef_F_Buf_Heal01",
+        "AssetBundlePath": "field",
+        "EffectPrefabName": "Ef_F_Buf_Heal01",
+        "SE": "SE_0048"
+    },
+    {
+        "ID": 55,
+        "EffectName": "Ef_F_Map_ItemBuff01",
+        "AssetBundlePath": "field",
+        "EffectPrefabName": "Ef_F_Map_ItemBuff01",
+        "SE": "SE_0056"
+    },
+    {
+        "ID": 56,
+        "EffectName": "Ef_F_Dbf_Poison01_Lop",
+        "AssetBundlePath": "field",
+        "EffectPrefabName": "Ef_F_Dbf_Poison01_Lop",
+        "SE": "SE_0049"
+    },
+    {
+        "ID": 57,
+        "EffectName": "Ef_F_Dbf_Paralys01_Lop",
+        "AssetBundlePath": "field",
+        "EffectPrefabName": "Ef_F_Dbf_Paralys01_Lop",
+        "SE": "SE_0050"
+    },
+    {
+        "ID": 58,
+        "EffectName": "Ef_F_Dbf_DntAct01",
+        "AssetBundlePath": "field",
+        "EffectPrefabName": "Ef_F_Dbf_DntAct01",
+        "SE": "SE_2031"
+    },
+    {
+        "ID": 59,
+        "EffectName": "Ef_F_Dbf_DntAct01_Lop",
+        "AssetBundlePath": "field",
+        "EffectPrefabName": "Ef_F_Dbf_DntAct01_Lop",
+        "SE": ""
+    },
+    {
+        "ID": 60,
+        "EffectName": "Ef_F_Dbf_DntMov01",
+        "AssetBundlePath": "field",
+        "EffectPrefabName": "Ef_F_Dbf_DntMov01",
+        "SE": "SE_2032"
+    },
+    {
+        "ID": 61,
+        "EffectName": "Ef_F_Dbf_DntMov01_Lop",
+        "AssetBundlePath": "field",
+        "EffectPrefabName": "Ef_F_Dbf_DntMov01_Lop",
+        "SE": ""
+    },
+    {
+        "ID": 62,
+        "EffectName": "Ef_F_Dbf_SldSkill01",
+        "AssetBundlePath": "field",
+        "EffectPrefabName": "Ef_F_Dbf_SldSkill01",
+        "SE": "SE_2030"
+    },
+    {
+        "ID": 63,
+        "EffectName": "Ef_F_Dbf_SldSkill01_Lop",
+        "AssetBundlePath": "field",
+        "EffectPrefabName": "Ef_F_Dbf_SldSkill01_Lop",
+        "SE": ""
+    }
+]

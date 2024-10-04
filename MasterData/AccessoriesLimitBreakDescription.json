@@ -1,0 +1,177 @@
+[
+    {
+        "ID": 1,
+        "accessoriesLimitBreak": 1,
+        "limitBreakCount": 1,
+        "rarity": 1,
+        "pieceNum": 50
+    },
+    {
+        "ID": 2,
+        "accessoriesLimitBreak": 1,
+        "limitBreakCount": 2,
+        "rarity": 1,
+        "pieceNum": 50
+    },
+    {
+        "ID": 3,
+        "accessoriesLimitBreak": 1,
+        "limitBreakCount": 3,
+        "rarity": 1,
+        "pieceNum": 100
+    },
+    {
+        "ID": 4,
+        "accessoriesLimitBreak": 1,
+        "limitBreakCount": 4,
+        "rarity": 1,
+        "pieceNum": 100
+    },
+    {
+        "ID": 5,
+        "accessoriesLimitBreak": 1,
+        "limitBreakCount": 5,
+        "rarity": 1,
+        "pieceNum": 150
+    },
+    {
+        "ID": 6,
+        "accessoriesLimitBreak": 1,
+        "limitBreakCount": 1,
+        "rarity": 2,
+        "pieceNum": 50
+    },
+    {
+        "ID": 7,
+        "accessoriesLimitBreak": 1,
+        "limitBreakCount": 2,
+        "rarity": 2,
+        "pieceNum": 50
+    },
+    {
+        "ID": 8,
+        "accessoriesLimitBreak": 1,
+        "limitBreakCount": 3,
+        "rarity": 2,
+        "pieceNum": 100
+    },
+    {
+        "ID": 9,
+        "accessoriesLimitBreak": 1,
+        "limitBreakCount": 4,
+        "rarity": 2,
+        "pieceNum": 100
+    },
+    {
+        "ID": 10,
+        "accessoriesLimitBreak": 1,
+        "limitBreakCount": 5,
+        "rarity": 2,
+        "pieceNum": 150
+    },
+    {
+        "ID": 11,
+        "accessoriesLimitBreak": 1,
+        "limitBreakCount": 1,
+        "rarity": 3,
+        "pieceNum": 50
+    },
+    {
+        "ID": 12,
+        "accessoriesLimitBreak": 1,
+        "limitBreakCount": 2,
+        "rarity": 3,
+        "pieceNum": 50
+    },
+    {
+        "ID": 13,
+        "accessoriesLimitBreak": 1,
+        "limitBreakCount": 3,
+        "rarity": 3,
+        "pieceNum": 100
+    },
+    {
+        "ID": 14,
+        "accessoriesLimitBreak": 1,
+        "limitBreakCount": 4,
+        "rarity": 3,
+        "pieceNum": 100
+    },
+    {
+        "ID": 15,
+        "accessoriesLimitBreak": 1,
+        "limitBreakCount": 5,
+        "rarity": 3,
+        "pieceNum": 150
+    },
+    {
+        "ID": 16,
+        "accessoriesLimitBreak": 1,
+        "limitBreakCount": 1,
+        "rarity": 4,
+        "pieceNum": 50
+    },
+    {
+        "ID": 17,
+        "accessoriesLimitBreak": 1,
+        "limitBreakCount": 2,
+        "rarity": 4,
+        "pieceNum": 50
+    },
+    {
+        "ID": 18,
+        "accessoriesLimitBreak": 1,
+        "limitBreakCount": 3,
+        "rarity": 4,
+        "pieceNum": 100
+    },
+    {
+        "ID": 19,
+        "accessoriesLimitBreak": 1,
+        "limitBreakCount": 4,
+        "rarity": 4,
+        "pieceNum": 100
+    },
+    {
+        "ID": 20,
+        "accessoriesLimitBreak": 1,
+        "limitBreakCount": 5,
+        "rarity": 4,
+        "pieceNum": 150
+    },
+    {
+        "ID": 21,
+        "accessoriesLimitBreak": 1,
+        "limitBreakCount": 1,
+        "rarity": 5,
+        "pieceNum": 50
+    },
+    {
+        "ID": 22,
+        "accessoriesLimitBreak": 1,
+        "limitBreakCount": 2,
+        "rarity": 5,
+        "pieceNum": 50
+    },
+    {
+        "ID": 23,
+        "accessoriesLimitBreak": 1,
+        "limitBreakCount": 3,
+        "rarity": 5,
+        "pieceNum": 100
+    },
+    {
+        "ID": 24,
+        "accessoriesLimitBreak": 1,
+        "limitBreakCount": 4,
+        "rarity": 5,
+        "pieceNum": 100
+    },
+    {
+        "ID": 25,
+        "accessoriesLimitBreak": 1,
+        "limitBreakCount": 5,
+        "rarity": 5,
+        "pieceNum": 150
+    }
+]

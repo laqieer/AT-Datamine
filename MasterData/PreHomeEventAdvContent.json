@@ -1,0 +1,202 @@
+[
+    {
+        "ID": 1,
+        "advDemoId": 80005,
+        "advRunArgs": "Prehome/MV_hoshimachi,false,1920,1080,center"
+    },
+    {
+        "ID": 23111301,
+        "advDemoId": 80005,
+        "advRunArgs": "Prehome/lbm0001,false,1280,720,center"
+    },
+    {
+        "ID": 23112801,
+        "advDemoId": 80005,
+        "advRunArgs": "Prehome/lbm0002,false,1280,720,center"
+    },
+    {
+        "ID": 23112802,
+        "advDemoId": 80005,
+        "advRunArgs": "Prehome/lbm0003,false,1280,720,center"
+    },
+    {
+        "ID": 23120801,
+        "advDemoId": 80005,
+        "advRunArgs": "Prehome/lbm0004,false,1280,720,center"
+    },
+    {
+        "ID": 24010101,
+        "advDemoId": 80005,
+        "advRunArgs": "Prehome/lbm0005,false,1280,720,center"
+    },
+    {
+        "ID": 24010102,
+        "advDemoId": 80005,
+        "advRunArgs": "Prehome/lbm0006,false,1280,720,center"
+    },
+    {
+        "ID": 24010103,
+        "advDemoId": 80005,
+        "advRunArgs": "Prehome/lbm0007,false,1280,720,center"
+    },
+    {
+        "ID": 24011801,
+        "advDemoId": 80005,
+        "advRunArgs": "Prehome/lbm0009,false,1280,720,center"
+    },
+    {
+        "ID": 24012901,
+        "advDemoId": 80005,
+        "advRunArgs": "Prehome/lbm0010,false,1280,720,center"
+    },
+    {
+        "ID": 24012902,
+        "advDemoId": 80005,
+        "advRunArgs": "Prehome/lbm0011,false,1280,720,center"
+    },
+    {
+        "ID": 24021501,
+        "advDemoId": 80005,
+        "advRunArgs": "Prehome/lbm0012,false,1280,720,center"
+    },
+    {
+        "ID": 24022801,
+        "advDemoId": 80005,
+        "advRunArgs": "Prehome/lbm0013,false,1280,720,center"
+    },
+    {
+        "ID": 24022802,
+        "advDemoId": 80005,
+        "advRunArgs": "Prehome/lbm0014,false,1280,720,center"
+    },
+    {
+        "ID": 24022803,
+        "advDemoId": 80005,
+        "advRunArgs": "Prehome/lbm0015,false,1280,720,center"
+    },
+    {
+        "ID": 24030701,
+        "advDemoId": 80005,
+        "advRunArgs": "Prehome/lbm0016,false,1280,720,center"
+    },
+    {
+        "ID": 24031401,
+        "advDemoId": 80005,
+        "advRunArgs": "Prehome/lbm0017,false,1920,1080,center"
+    },
+    {
+        "ID": 24031402,
+        "advDemoId": 80005,
+        "advRunArgs": "Prehome/lbm0021,false,1920,1080,center"
+    },
+    {
+        "ID": 24032101,
+        "advDemoId": 80005,
+        "advRunArgs": "Prehome/lbm0018,false,1920,1080,center"
+    },
+    {
+        "ID": 24032102,
+        "advDemoId": 80005,
+        "advRunArgs": "Prehome/lbm0022,false,1920,1080,center"
+    },
+    {
+        "ID": 24033101,
+        "advDemoId": 80005,
+        "advRunArgs": "Prehome/lbm0019,false,1920,1080,center"
+    },
+    {
+        "ID": 24033102,
+        "advDemoId": 80005,
+        "advRunArgs": "Prehome/lbm0020,false,1920,1080,center"
+    },
+    {
+        "ID": 24041101,
+        "advDemoId": 80005,
+        "advRunArgs": "Prehome/lbm0023,false,1280,720,center"
+    },
+    {
+        "ID": 24041102,
+        "advDemoId": 80005,
+        "advRunArgs": "Prehome/lbm0024,false,1280,720,center"
+    },
+    {
+        "ID": 24041801,
+        "advDemoId": 80005,
+        "advRunArgs": "Prehome/lbm0025,false,1280,720,center"
+    },
+    {
+        "ID": 24050101,
+        "advDemoId": 80005,
+        "advRunArgs": "Prehome/lbm0026,false,1280,720,center"
+    },
+    {
+        "ID": 24050102,
+        "advDemoId": 80005,
+        "advRunArgs": "Prehome/lbm0027,false,1280,720,center"
+    },
+    {
+        "ID": 24051601,
+        "advDemoId": 80005,
+        "advRunArgs": "Prehome/lbm0028,false,1280,720,center"
+    },
+    {
+        "ID": 24053001,
+        "advDemoId": 80005,
+        "advRunArgs": "Prehome/lbm0029,false,1280,720,center"
+    },
+    {
+        "ID": 24053002,
+        "advDemoId": 80005,
+        "advRunArgs": "Prehome/lbm0030,false,1280,720,center"
+    },
+    {
+        "ID": 24060601,
+        "advDemoId": 80005,
+        "advRunArgs": "Prehome/lbm0031,false,1280,720,center"
+    },
+    {
+        "ID": 24061301,
+        "advDemoId": 80005,
+        "advRunArgs": "Prehome/lbm0032,false,1280,720,center"
+    },
+    {
+        "ID": 24062001,
+        "advDemoId": 80005,
+        "advRunArgs": "Prehome/lbm0033,false,1280,720,center"
+    },
+    {
+        "ID": 24062002,
+        "advDemoId": 80005,
+        "advRunArgs": "Prehome/lbm0034,false,1280,720,center"
+    },
+    {
+        "ID": 24062701,
+        "advDemoId": 80005,
+        "advRunArgs": "Prehome/lbm0036,false,1280,720,center"
+    },
+    {
+        "ID": 24062702,
+        "advDemoId": 80005,
+        "advRunArgs": "Prehome/lbm0035,false,1280,720,center"
+    },
+    {
+        "ID": 24071201,
+        "advDemoId": 80005,
+        "advRunArgs": "Prehome/lbm0038,false,1280,720,center"
+    },
+    {
+        "ID": 24071202,
+        "advDemoId": 80005,
+        "advRunArgs": "Prehome/lbm0039,false,1280,720,center"
+    },
+    {
+        "ID": 24071203,
+        "advDemoId": 80005,
+        "advRunArgs": "Prehome/lbm0040,false,1280,720,center"
+    },
+    {
+        "ID": 24080101,
+        "advDemoId": 80005,
+        "advRunArgs": "Prehome/lbm0041,false,1280,720,center"
+    }
+]

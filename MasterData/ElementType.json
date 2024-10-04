@@ -1,0 +1,47 @@
+[
+    {
+        "ID": 1,
+        "name": "無",
+        "displayName": "無"
+    },
+    {
+        "ID": 2,
+        "name": "火",
+        "displayName": "火"
+    },
+    {
+        "ID": 3,
+        "name": "氷",
+        "displayName": "氷"
+    },
+    {
+        "ID": 4,
+        "name": "雷",
+        "displayName": "雷"
+    },
+    {
+        "ID": 5,
+        "name": "風",
+        "displayName": "風"
+    },
+    {
+        "ID": 6,
+        "name": "光",
+        "displayName": "光"
+    },
+    {
+        "ID": 7,
+        "name": "闇",
+        "displayName": "闇"
+    },
+    {
+        "ID": 8,
+        "name": "武器参照",
+        "displayName": "武器参照"
+    },
+    {
+        "ID": 9,
+        "name": "スタイル参照",
+        "displayName": "スタイル参照"
+    }
+]

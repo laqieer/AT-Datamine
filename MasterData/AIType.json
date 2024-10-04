@@ -1,0 +1,1072 @@
+[
+    {
+        "ID": 1,
+        "name": "アタッカー",
+        "summary": "最大の攻撃力を惜しみなく使う。回復はしない",
+        "isAvailableUser": true,
+        "isAvailableParty": false,
+        "role": 1,
+        "assetBundleName": "content_ai_aitype",
+        "scriptName": "AITypeTest"
+    },
+    {
+        "ID": 2,
+        "name": "ボス/HP>50%",
+        "summary": "ボスの行動、HPが50%より多いの時に利用する",
+        "isAvailableUser": false,
+        "isAvailableParty": false,
+        "role": 2,
+        "assetBundleName": "content_ai_aitype",
+        "scriptName": "AITypeTest"
+    },
+    {
+        "ID": 3,
+        "name": "ボス/HP<=50%",
+        "summary": "ボスの行動、HPが50%以下の時に利用する",
+        "isAvailableUser": false,
+        "isAvailableParty": false,
+        "role": 1,
+        "assetBundleName": "content_ai_aitype",
+        "scriptName": "AITypeTest"
+    },
+    {
+        "ID": 4,
+        "name": "村人",
+        "summary": "村人固有の行動。攻撃はしない",
+        "isAvailableUser": false,
+        "isAvailableParty": false,
+        "role": 5,
+        "assetBundleName": "content_ai_aitype",
+        "scriptName": "AITypeMoveTest"
+    },
+    {
+        "ID": 5,
+        "name": "テスト1",
+        "summary": "テスト1",
+        "isAvailableUser": false,
+        "isAvailableParty": false,
+        "role": 1,
+        "assetBundleName": "content_ai_aitype",
+        "scriptName": "AITypeTest"
+    },
+    {
+        "ID": 6,
+        "name": "テスト2",
+        "summary": "テスト2",
+        "isAvailableUser": false,
+        "isAvailableParty": false,
+        "role": 1,
+        "assetBundleName": "content_ai_aitype",
+        "scriptName": "AITypeTest"
+    },
+    {
+        "ID": 7,
+        "name": "テスト3",
+        "summary": "テスト3",
+        "isAvailableUser": false,
+        "isAvailableParty": false,
+        "role": 1,
+        "assetBundleName": "content_ai_aitype",
+        "scriptName": "AITypeTest"
+    },
+    {
+        "ID": 8,
+        "name": "デフォルト(パーティAI)",
+        "summary": "パーティAIのデフォルト",
+        "isAvailableUser": false,
+        "isAvailableParty": true,
+        "role": 1,
+        "assetBundleName": "content_ai_aitype",
+        "scriptName": "AITypeTest"
+    },
+    {
+        "ID": 9,
+        "name": "パーティAIテスト",
+        "summary": "パーティAIのテストデータ",
+        "isAvailableUser": false,
+        "isAvailableParty": true,
+        "role": 1,
+        "assetBundleName": "content_ai_aitype",
+        "scriptName": "AITypeTest"
+    },
+    {
+        "ID": 10,
+        "name": "物理アタッカー(ダミー)",
+        "summary": "物理攻撃を優先して行う。回復はしない(ダミー)",
+        "isAvailableUser": true,
+        "isAvailableParty": false,
+        "role": 1,
+        "assetBundleName": "content_ai_aitype",
+        "scriptName": "AITypeTest"
+    },
+    {
+        "ID": 11,
+        "name": "魔法アタッカー(ダミー)",
+        "summary": "魔法攻撃を優先して行う。回復はしない(ダミー)",
+        "isAvailableUser": true,
+        "isAvailableParty": false,
+        "role": 1,
+        "assetBundleName": "content_ai_aitype",
+        "scriptName": "AITypeTest"
+    },
+    {
+        "ID": 12,
+        "name": "タンカー(ダミー)",
+        "summary": "HPが低い味方を優先して守る(ダミー)",
+        "isAvailableUser": true,
+        "isAvailableParty": false,
+        "role": 2,
+        "assetBundleName": "content_ai_aitype",
+        "scriptName": "AITypeTest"
+    },
+    {
+        "ID": 13,
+        "name": "バッファー(ダミー)",
+        "summary": "味方の強化を優先して行う(ダミー)",
+        "isAvailableUser": true,
+        "isAvailableParty": false,
+        "role": 3,
+        "assetBundleName": "content_ai_aitype",
+        "scriptName": "AITypeTest"
+    },
+    {
+        "ID": 14,
+        "name": "デバッファー(ダミー)",
+        "summary": "敵の弱体化を優先して行う(ダミー)",
+        "isAvailableUser": true,
+        "isAvailableParty": false,
+        "role": 3,
+        "assetBundleName": "content_ai_aitype",
+        "scriptName": "AITypeTest"
+    },
+    {
+        "ID": 15,
+        "name": "HP回復優先(ダミー)",
+        "summary": "HPが低い味方を優先して回復する(ダミー)",
+        "isAvailableUser": true,
+        "isAvailableParty": false,
+        "role": 4,
+        "assetBundleName": "content_ai_aitype",
+        "scriptName": "AITypeHealTest"
+    },
+    {
+        "ID": 16,
+        "name": "状態異常優先(ダミー)",
+        "summary": "状態異常にかかってしまった味方を優先して回復する(ダミー)",
+        "isAvailableUser": true,
+        "isAvailableParty": false,
+        "role": 4,
+        "assetBundleName": "content_ai_aitype",
+        "scriptName": "AITypeTest"
+    },
+    {
+        "ID": 17,
+        "name": "逃げる(ダミー)",
+        "summary": "攻撃や回復をせず敵から常に距離を取る(ダミー)",
+        "isAvailableUser": true,
+        "isAvailableParty": false,
+        "role": 5,
+        "assetBundleName": "content_ai_aitype",
+        "scriptName": "AITypeTest"
+    },
+    {
+        "ID": 10001001,
+        "name": "攻撃アタッカー",
+        "summary": "攻撃アタッカー",
+        "isAvailableUser": true,
+        "isAvailableParty": true,
+        "role": 1,
+        "assetBundleName": "content_ai_aitype",
+        "scriptName": "AITypeAtkAttacker"
+    },
+    {
+        "ID": 10002001,
+        "name": "回復アタッカー",
+        "summary": "回復アタッカー",
+        "isAvailableUser": true,
+        "isAvailableParty": true,
+        "role": 1,
+        "assetBundleName": "content_ai_aitype",
+        "scriptName": "AITypeHealAttacker"
+    },
+    {
+        "ID": 10003001,
+        "name": "バフアタッカー",
+        "summary": "バフアタッカー",
+        "isAvailableUser": true,
+        "isAvailableParty": true,
+        "role": 1,
+        "assetBundleName": "content_ai_aitype",
+        "scriptName": "AITypeBuffAttacker"
+    },
+    {
+        "ID": 10004001,
+        "name": "デバフアタッカー",
+        "summary": "デバフアタッカー",
+        "isAvailableUser": true,
+        "isAvailableParty": true,
+        "role": 1,
+        "assetBundleName": "content_ai_aitype",
+        "scriptName": "AITypeDebuffAttacker"
+    },
+    {
+        "ID": 10005001,
+        "name": "ヒーラー",
+        "summary": "ヒーラー",
+        "isAvailableUser": true,
+        "isAvailableParty": true,
+        "role": 4,
+        "assetBundleName": "content_ai_aitype",
+        "scriptName": "AITypeHealer"
+    },
+    {
+        "ID": 20006001,
+        "name": "がんがんいこうぜ",
+        "summary": "がんがんいこうぜ",
+        "isAvailableUser": false,
+        "isAvailableParty": false,
+        "role": 5,
+        "assetBundleName": "content_ai_aitype",
+        "scriptName": "AITypeNoMercy"
+    },
+    {
+        "ID": 20007002,
+        "name": "待機＆がんがん/2T",
+        "summary": "待機＆がんがん/2T",
+        "isAvailableUser": false,
+        "isAvailableParty": false,
+        "role": 5,
+        "assetBundleName": "content_ai_aitype",
+        "scriptName": "AITypeStayNoMercy2"
+    },
+    {
+        "ID": 20007003,
+        "name": "待機＆がんがん/3T",
+        "summary": "待機＆がんがん/3T",
+        "isAvailableUser": false,
+        "isAvailableParty": false,
+        "role": 5,
+        "assetBundleName": "content_ai_aitype",
+        "scriptName": "AITypeStayNoMercy3"
+    },
+    {
+        "ID": 20007004,
+        "name": "待機＆がんがん/4T",
+        "summary": "待機＆がんがん/4T",
+        "isAvailableUser": false,
+        "isAvailableParty": false,
+        "role": 5,
+        "assetBundleName": "content_ai_aitype",
+        "scriptName": "AITypeStayNoMercy4"
+    },
+    {
+        "ID": 20007005,
+        "name": "待機＆がんがん/5T",
+        "summary": "待機＆がんがん/5T",
+        "isAvailableUser": false,
+        "isAvailableParty": false,
+        "role": 5,
+        "assetBundleName": "content_ai_aitype",
+        "scriptName": "AITypeStayNoMercy5"
+    },
+    {
+        "ID": 20007006,
+        "name": "待機＆がんがん/6T",
+        "summary": "待機＆がんがん/6T",
+        "isAvailableUser": false,
+        "isAvailableParty": false,
+        "role": 5,
+        "assetBundleName": "content_ai_aitype",
+        "scriptName": "AITypeStayNoMercy6"
+    },
+    {
+        "ID": 20007007,
+        "name": "待機＆がんがん/7T",
+        "summary": "待機＆がんがん/7T",
+        "isAvailableUser": false,
+        "isAvailableParty": false,
+        "role": 5,
+        "assetBundleName": "content_ai_aitype",
+        "scriptName": "AITypeStayNoMercy7"
+    },
+    {
+        "ID": 20007008,
+        "name": "待機＆がんがん/8T",
+        "summary": "待機＆がんがん/8T",
+        "isAvailableUser": false,
+        "isAvailableParty": false,
+        "role": 5,
+        "assetBundleName": "content_ai_aitype",
+        "scriptName": "AITypeStayNoMercy8"
+    },
+    {
+        "ID": 20008001,
+        "name": "待ち伏せ１＆がんがん",
+        "summary": "待ち伏せ１＆がんがん",
+        "isAvailableUser": false,
+        "isAvailableParty": false,
+        "role": 5,
+        "assetBundleName": "content_ai_aitype",
+        "scriptName": "AITypeAmbushNoMercy"
+    },
+    {
+        "ID": 20009001,
+        "name": "動かず攻撃２",
+        "summary": "動かず攻撃２",
+        "isAvailableUser": false,
+        "isAvailableParty": false,
+        "role": 5,
+        "assetBundleName": "content_ai_aitype",
+        "scriptName": "AITypeImmovable"
+    },
+    {
+        "ID": 20010001,
+        "name": "目的地へ急げ/05_1_1",
+        "summary": "目的地へ急げ/05_1_1",
+        "isAvailableUser": false,
+        "isAvailableParty": false,
+        "role": 5,
+        "assetBundleName": "content_ai_aitype",
+        "scriptName": "AITypeHurryToDestination1"
+    },
+    {
+        "ID": 20010002,
+        "name": "目的地へ急げ/05_2",
+        "summary": "目的地へ急げ/05_2",
+        "isAvailableUser": false,
+        "isAvailableParty": false,
+        "role": 5,
+        "assetBundleName": "content_ai_aitype",
+        "scriptName": "AITypeHurryToDestination2"
+    },
+    {
+        "ID": 20010003,
+        "name": "目的地へ急げ/X_076",
+        "summary": "目的地へ急げ/X_076",
+        "isAvailableUser": false,
+        "isAvailableParty": false,
+        "role": 5,
+        "assetBundleName": "content_ai_aitype",
+        "scriptName": "AITypeHurryToDestination3"
+    },
+    {
+        "ID": 20010004,
+        "name": "目的地へ急げ/X_016",
+        "summary": "目的地へ急げ/X_016",
+        "isAvailableUser": false,
+        "isAvailableParty": false,
+        "role": 5,
+        "assetBundleName": "content_ai_aitype",
+        "scriptName": "AITypeHurryToDestination4"
+    },
+    {
+        "ID": 20010005,
+        "name": "目的地へ急げ/X_064",
+        "summary": "目的地へ急げ/X_064",
+        "isAvailableUser": false,
+        "isAvailableParty": false,
+        "role": 5,
+        "assetBundleName": "content_ai_aitype",
+        "scriptName": "AITypeHurryToDestination5"
+    },
+    {
+        "ID": 20010006,
+        "name": "目的地へ急げ/X_004",
+        "summary": "目的地へ急げ/X_004",
+        "isAvailableUser": false,
+        "isAvailableParty": false,
+        "role": 5,
+        "assetBundleName": "content_ai_aitype",
+        "scriptName": "AITypeHurryToDestination6"
+    },
+    {
+        "ID": 20010007,
+        "name": "目的地へ急げ/X_010",
+        "summary": "目的地へ急げ/X_010",
+        "isAvailableUser": false,
+        "isAvailableParty": false,
+        "role": 5,
+        "assetBundleName": "content_ai_aitype",
+        "scriptName": "AITypeHurryToDestination7"
+    },
+    {
+        "ID": 20010008,
+        "name": "目的地へ急げ/X_017",
+        "summary": "目的地へ急げ/X_017",
+        "isAvailableUser": false,
+        "isAvailableParty": false,
+        "role": 5,
+        "assetBundleName": "content_ai_aitype",
+        "scriptName": "AITypeHurryToDestination8"
+    },
+    {
+        "ID": 20010009,
+        "name": "目的地へ急げ/X_052",
+        "summary": "目的地へ急げ/X_052",
+        "isAvailableUser": false,
+        "isAvailableParty": false,
+        "role": 5,
+        "assetBundleName": "content_ai_aitype",
+        "scriptName": "AITypeHurryToDestination9"
+    },
+    {
+        "ID": 20010010,
+        "name": "目的地へ急げ/X_028",
+        "summary": "目的地へ急げ/X_028",
+        "isAvailableUser": false,
+        "isAvailableParty": false,
+        "role": 5,
+        "assetBundleName": "content_ai_aitype",
+        "scriptName": "AITypeHurryToDestination10"
+    },
+    {
+        "ID": 20010011,
+        "name": "目的地へ急げ/X_004_2",
+        "summary": "目的地へ急げ/X_004_2",
+        "isAvailableUser": false,
+        "isAvailableParty": false,
+        "role": 5,
+        "assetBundleName": "content_ai_aitype",
+        "scriptName": "AITypeHurryToDestination11"
+    },
+    {
+        "ID": 20010012,
+        "name": "目的地へ急げ/D11_5",
+        "summary": "目的地へ急げ/X_004_2",
+        "isAvailableUser": false,
+        "isAvailableParty": false,
+        "role": 5,
+        "assetBundleName": "content_ai_aitype",
+        "scriptName": "AITypeHurryToDestination12"
+    },
+    {
+        "ID": 20011001,
+        "name": "いのちだいじに",
+        "summary": "いのちだいじに",
+        "isAvailableUser": false,
+        "isAvailableParty": false,
+        "role": 5,
+        "assetBundleName": "content_ai_aitype",
+        "scriptName": "AITypeFocusOnHealing"
+    },
+    {
+        "ID": 20012001,
+        "name": "固有ボス① 巨大悪魔型バルバロイ用",
+        "summary": "固有ボス① 巨大悪魔型バルバロイ用",
+        "isAvailableUser": false,
+        "isAvailableParty": false,
+        "role": 5,
+        "assetBundleName": "content_ai_aitype",
+        "scriptName": "AITypeBossDemon"
+    },
+    {
+        "ID": 20012101,
+        "name": "固有ボス① 巨大悪魔型バルバロイ用＆残り1体で行動開始",
+        "summary": "固有ボス① 巨大悪魔型バルバロイ用＆残り1体で行動開始",
+        "isAvailableUser": false,
+        "isAvailableParty": false,
+        "role": 5,
+        "assetBundleName": "content_ai_aitype",
+        "scriptName": "AITypeStayEnemy1BossDemon"
+    },
+    {
+        "ID": 20012102,
+        "name": "固有ボス① 巨大悪魔型バルバロイ用＆残り2体で行動開始",
+        "summary": "固有ボス① 巨大悪魔型バルバロイ用＆残り2体で行動開始",
+        "isAvailableUser": false,
+        "isAvailableParty": false,
+        "role": 5,
+        "assetBundleName": "content_ai_aitype",
+        "scriptName": "AITypeStayEnemy2BossDemon"
+    },
+    {
+        "ID": 20012103,
+        "name": "固有ボス① 巨大悪魔型バルバロイ用＆残り3体で行動開始",
+        "summary": "固有ボス① 巨大悪魔型バルバロイ用＆残り3体で行動開始",
+        "isAvailableUser": false,
+        "isAvailableParty": false,
+        "role": 5,
+        "assetBundleName": "content_ai_aitype",
+        "scriptName": "AITypeStayEnemy3BossDemon"
+    },
+    {
+        "ID": 20012104,
+        "name": "固有ボス① 巨大悪魔型バルバロイ用＆残り4体で行動開始",
+        "summary": "固有ボス① 巨大悪魔型バルバロイ用＆残り4体で行動開始",
+        "isAvailableUser": false,
+        "isAvailableParty": false,
+        "role": 5,
+        "assetBundleName": "content_ai_aitype",
+        "scriptName": "AITypeStayEnemy4BossDemon"
+    },
+    {
+        "ID": 20012105,
+        "name": "固有ボス① 巨大悪魔型バルバロイ用＆残り5体で行動開始",
+        "summary": "固有ボス① 巨大悪魔型バルバロイ用＆残り5体で行動開始",
+        "isAvailableUser": false,
+        "isAvailableParty": false,
+        "role": 5,
+        "assetBundleName": "content_ai_aitype",
+        "scriptName": "AITypeStayEnemy5BossDemon"
+    },
+    {
+        "ID": 20012106,
+        "name": "固有ボス① 巨大悪魔型バルバロイ用＆残り6体で行動開始",
+        "summary": "固有ボス① 巨大悪魔型バルバロイ用＆残り6体で行動開始",
+        "isAvailableUser": false,
+        "isAvailableParty": false,
+        "role": 5,
+        "assetBundleName": "content_ai_aitype",
+        "scriptName": "AITypeStayEnemy6BossDemon"
+    },
+    {
+        "ID": 20012107,
+        "name": "固有ボス① 巨大悪魔型バルバロイ用＆残り7体で行動開始",
+        "summary": "固有ボス① 巨大悪魔型バルバロイ用＆残り7体で行動開始",
+        "isAvailableUser": false,
+        "isAvailableParty": false,
+        "role": 5,
+        "assetBundleName": "content_ai_aitype",
+        "scriptName": "AITypeStayEnemy7BossDemon"
+    },
+    {
+        "ID": 20012108,
+        "name": "固有ボス① 巨大悪魔型バルバロイ用＆残り8体で行動開始",
+        "summary": "固有ボス① 巨大悪魔型バルバロイ用＆残り8体で行動開始",
+        "isAvailableUser": false,
+        "isAvailableParty": false,
+        "role": 5,
+        "assetBundleName": "content_ai_aitype",
+        "scriptName": "AITypeStayEnemy8BossDemon"
+    },
+    {
+        "ID": 20013001,
+        "name": "固有ボス② １章ラスボス用",
+        "summary": "固有ボス② １章ラスボス用",
+        "isAvailableUser": false,
+        "isAvailableParty": false,
+        "role": 5,
+        "assetBundleName": "content_ai_aitype",
+        "scriptName": "AITypeBossChapter1"
+    },
+    {
+        "ID": 20013101,
+        "name": "固有ボス② １章ラスボス用＆残り1体で行動開始",
+        "summary": "固有ボス② １章ラスボス用＆残り1体で行動開始",
+        "isAvailableUser": false,
+        "isAvailableParty": false,
+        "role": 5,
+        "assetBundleName": "content_ai_aitype",
+        "scriptName": "AITypeStayEnemy1BossChapter1"
+    },
+    {
+        "ID": 20013102,
+        "name": "固有ボス② １章ラスボス用＆残り2体で行動開始",
+        "summary": "固有ボス② １章ラスボス用＆残り2体で行動開始",
+        "isAvailableUser": false,
+        "isAvailableParty": false,
+        "role": 5,
+        "assetBundleName": "content_ai_aitype",
+        "scriptName": "AITypeStayEnemy2BossChapter1"
+    },
+    {
+        "ID": 20013103,
+        "name": "固有ボス② １章ラスボス用＆残り3体で行動開始",
+        "summary": "固有ボス② １章ラスボス用＆残り3体で行動開始",
+        "isAvailableUser": false,
+        "isAvailableParty": false,
+        "role": 5,
+        "assetBundleName": "content_ai_aitype",
+        "scriptName": "AITypeStayEnemy3BossChapter1"
+    },
+    {
+        "ID": 20013104,
+        "name": "固有ボス② １章ラスボス用＆残り4体で行動開始",
+        "summary": "固有ボス② １章ラスボス用＆残り4体で行動開始",
+        "isAvailableUser": false,
+        "isAvailableParty": false,
+        "role": 5,
+        "assetBundleName": "content_ai_aitype",
+        "scriptName": "AITypeStayEnemy4BossChapter1"
+    },
+    {
+        "ID": 20013105,
+        "name": "固有ボス② １章ラスボス用＆残り5体で行動開始",
+        "summary": "固有ボス② １章ラスボス用＆残り5体で行動開始",
+        "isAvailableUser": false,
+        "isAvailableParty": false,
+        "role": 5,
+        "assetBundleName": "content_ai_aitype",
+        "scriptName": "AITypeStayEnemy5BossChapter1"
+    },
+    {
+        "ID": 20013106,
+        "name": "固有ボス② １章ラスボス用＆残り6体で行動開始",
+        "summary": "固有ボス② １章ラスボス用＆残り6体で行動開始",
+        "isAvailableUser": false,
+        "isAvailableParty": false,
+        "role": 5,
+        "assetBundleName": "content_ai_aitype",
+        "scriptName": "AITypeStayEnemy6BossChapter1"
+    },
+    {
+        "ID": 20013107,
+        "name": "固有ボス② １章ラスボス用＆残り7体で行動開始",
+        "summary": "固有ボス② １章ラスボス用＆残り7体で行動開始",
+        "isAvailableUser": false,
+        "isAvailableParty": false,
+        "role": 5,
+        "assetBundleName": "content_ai_aitype",
+        "scriptName": "AITypeStayEnemy7BossChapter1"
+    },
+    {
+        "ID": 20013108,
+        "name": "固有ボス② １章ラスボス用＆残り8体で行動開始",
+        "summary": "固有ボス② １章ラスボス用＆残り8体で行動開始",
+        "isAvailableUser": false,
+        "isAvailableParty": false,
+        "role": 5,
+        "assetBundleName": "content_ai_aitype",
+        "scriptName": "AITypeStayEnemy8BossChapter1"
+    },
+    {
+        "ID": 20014001,
+        "name": "固有ボス③ ドラゴン（巨竜）用",
+        "summary": "固有ボス③ ドラゴン（巨竜）用",
+        "isAvailableUser": false,
+        "isAvailableParty": false,
+        "role": 5,
+        "assetBundleName": "content_ai_aitype",
+        "scriptName": "AITypeBossDragon"
+    },
+    {
+        "ID": 20014101,
+        "name": "固有ボス③ ドラゴン（巨竜）用＆残り1体で行動開始",
+        "summary": "固有ボス③ ドラゴン（巨竜）用＆残り1体で行動開始",
+        "isAvailableUser": false,
+        "isAvailableParty": false,
+        "role": 5,
+        "assetBundleName": "content_ai_aitype",
+        "scriptName": "AITypeStayEnemy1BossDragon"
+    },
+    {
+        "ID": 20014102,
+        "name": "固有ボス③ ドラゴン（巨竜）用＆残り2体で行動開始",
+        "summary": "固有ボス③ ドラゴン（巨竜）用＆残り2体で行動開始",
+        "isAvailableUser": false,
+        "isAvailableParty": false,
+        "role": 5,
+        "assetBundleName": "content_ai_aitype",
+        "scriptName": "AITypeStayEnemy2BossDragon"
+    },
+    {
+        "ID": 20014103,
+        "name": "固有ボス③ ドラゴン（巨竜）用＆残り3体で行動開始",
+        "summary": "固有ボス③ ドラゴン（巨竜）用＆残り3体で行動開始",
+        "isAvailableUser": false,
+        "isAvailableParty": false,
+        "role": 5,
+        "assetBundleName": "content_ai_aitype",
+        "scriptName": "AITypeStayEnemy3BossDragon"
+    },
+    {
+        "ID": 20014104,
+        "name": "固有ボス③ ドラゴン（巨竜）用＆残り4体で行動開始",
+        "summary": "固有ボス③ ドラゴン（巨竜）用＆残り4体で行動開始",
+        "isAvailableUser": false,
+        "isAvailableParty": false,
+        "role": 5,
+        "assetBundleName": "content_ai_aitype",
+        "scriptName": "AITypeStayEnemy4BossDragon"
+    },
+    {
+        "ID": 20014105,
+        "name": "固有ボス③ ドラゴン（巨竜）用＆残り5体で行動開始",
+        "summary": "固有ボス③ ドラゴン（巨竜）用＆残り5体で行動開始",
+        "isAvailableUser": false,
+        "isAvailableParty": false,
+        "role": 5,
+        "assetBundleName": "content_ai_aitype",
+        "scriptName": "AITypeStayEnemy5BossDragon"
+    },
+    {
+        "ID": 20014106,
+        "name": "固有ボス③ ドラゴン（巨竜）用＆残り6体で行動開始",
+        "summary": "固有ボス③ ドラゴン（巨竜）用＆残り6体で行動開始",
+        "isAvailableUser": false,
+        "isAvailableParty": false,
+        "role": 5,
+        "assetBundleName": "content_ai_aitype",
+        "scriptName": "AITypeStayEnemy6BossDragon"
+    },
+    {
+        "ID": 20014107,
+        "name": "固有ボス③ ドラゴン（巨竜）用＆残り7体で行動開始",
+        "summary": "固有ボス③ ドラゴン（巨竜）用＆残り7体で行動開始",
+        "isAvailableUser": false,
+        "isAvailableParty": false,
+        "role": 5,
+        "assetBundleName": "content_ai_aitype",
+        "scriptName": "AITypeStayEnemy7BossDragon"
+    },
+    {
+        "ID": 20014108,
+        "name": "固有ボス③ ドラゴン（巨竜）用＆残り8体で行動開始",
+        "summary": "固有ボス③ ドラゴン（巨竜）用＆残り8体で行動開始",
+        "isAvailableUser": false,
+        "isAvailableParty": false,
+        "role": 5,
+        "assetBundleName": "content_ai_aitype",
+        "scriptName": "AITypeStayEnemy8BossDragon"
+    },
+    {
+        "ID": 20015001,
+        "name": "固有ボス④ 飛行怪鳥系用",
+        "summary": "固有ボス④ 飛行怪鳥系用",
+        "isAvailableUser": false,
+        "isAvailableParty": false,
+        "role": 5,
+        "assetBundleName": "content_ai_aitype",
+        "scriptName": "AITypeBossBird"
+    },
+    {
+        "ID": 20015101,
+        "name": "固有ボス④ 飛行怪鳥系用＆残り1体で行動開始",
+        "summary": "固有ボス④ 飛行怪鳥系用＆残り1体で行動開始",
+        "isAvailableUser": false,
+        "isAvailableParty": false,
+        "role": 5,
+        "assetBundleName": "content_ai_aitype",
+        "scriptName": "AITypeStayEnemy1BossBird"
+    },
+    {
+        "ID": 20015102,
+        "name": "固有ボス④ 飛行怪鳥系用＆残り2体で行動開始",
+        "summary": "固有ボス④ 飛行怪鳥系用＆残り2体で行動開始",
+        "isAvailableUser": false,
+        "isAvailableParty": false,
+        "role": 5,
+        "assetBundleName": "content_ai_aitype",
+        "scriptName": "AITypeStayEnemy2BossBird"
+    },
+    {
+        "ID": 20015103,
+        "name": "固有ボス④ 飛行怪鳥系用＆残り3体で行動開始",
+        "summary": "固有ボス④ 飛行怪鳥系用＆残り3体で行動開始",
+        "isAvailableUser": false,
+        "isAvailableParty": false,
+        "role": 5,
+        "assetBundleName": "content_ai_aitype",
+        "scriptName": "AITypeStayEnemy3BossBird"
+    },
+    {
+        "ID": 20015104,
+        "name": "固有ボス④ 飛行怪鳥系用＆残り4体で行動開始",
+        "summary": "固有ボス④ 飛行怪鳥系用＆残り4体で行動開始",
+        "isAvailableUser": false,
+        "isAvailableParty": false,
+        "role": 5,
+        "assetBundleName": "content_ai_aitype",
+        "scriptName": "AITypeStayEnemy4BossBird"
+    },
+    {
+        "ID": 20015105,
+        "name": "固有ボス④ 飛行怪鳥系用＆残り5体で行動開始",
+        "summary": "固有ボス④ 飛行怪鳥系用＆残り5体で行動開始",
+        "isAvailableUser": false,
+        "isAvailableParty": false,
+        "role": 5,
+        "assetBundleName": "content_ai_aitype",
+        "scriptName": "AITypeStayEnemy5BossBird"
+    },
+    {
+        "ID": 20015106,
+        "name": "固有ボス④ 飛行怪鳥系用＆残り6体で行動開始",
+        "summary": "固有ボス④ 飛行怪鳥系用＆残り6体で行動開始",
+        "isAvailableUser": false,
+        "isAvailableParty": false,
+        "role": 5,
+        "assetBundleName": "content_ai_aitype",
+        "scriptName": "AITypeStayEnemy6BossBird"
+    },
+    {
+        "ID": 20015107,
+        "name": "固有ボス④ 飛行怪鳥系用＆残り7体で行動開始",
+        "summary": "固有ボス④ 飛行怪鳥系用＆残り7体で行動開始",
+        "isAvailableUser": false,
+        "isAvailableParty": false,
+        "role": 5,
+        "assetBundleName": "content_ai_aitype",
+        "scriptName": "AITypeStayEnemy7BossBird"
+    },
+    {
+        "ID": 20015108,
+        "name": "固有ボス④ 飛行怪鳥系用＆残り8体で行動開始",
+        "summary": "固有ボス④ 飛行怪鳥系用＆残り8体で行動開始",
+        "isAvailableUser": false,
+        "isAvailableParty": false,
+        "role": 5,
+        "assetBundleName": "content_ai_aitype",
+        "scriptName": "AITypeStayEnemy8BossBird"
+    },
+    {
+        "ID": 20016001,
+        "name": "自陣営ユニット残り1体でガンガン",
+        "summary": "自陣営ユニット残り1体でガンガン",
+        "isAvailableUser": false,
+        "isAvailableParty": false,
+        "role": 5,
+        "assetBundleName": "content_ai_aitype",
+        "scriptName": "AITypeStayResidueEnemy1"
+    },
+    {
+        "ID": 20016002,
+        "name": "自陣営ユニット残り2体でガンガン",
+        "summary": "自陣営ユニット残り2体でガンガン",
+        "isAvailableUser": false,
+        "isAvailableParty": false,
+        "role": 5,
+        "assetBundleName": "content_ai_aitype",
+        "scriptName": "AITypeStayResidueEnemy2"
+    },
+    {
+        "ID": 20016003,
+        "name": "自陣営ユニット残り3体でガンガン",
+        "summary": "自陣営ユニット残り3体でガンガン",
+        "isAvailableUser": false,
+        "isAvailableParty": false,
+        "role": 5,
+        "assetBundleName": "content_ai_aitype",
+        "scriptName": "AITypeStayResidueEnemy3"
+    },
+    {
+        "ID": 20016004,
+        "name": "自陣営ユニット残り4体でガンガン",
+        "summary": "自陣営ユニット残り4体でガンガン",
+        "isAvailableUser": false,
+        "isAvailableParty": false,
+        "role": 5,
+        "assetBundleName": "content_ai_aitype",
+        "scriptName": "AITypeStayResidueEnemy4"
+    },
+    {
+        "ID": 20016005,
+        "name": "自陣営ユニット残り5体でガンガン",
+        "summary": "自陣営ユニット残り5体でガンガン",
+        "isAvailableUser": false,
+        "isAvailableParty": false,
+        "role": 5,
+        "assetBundleName": "content_ai_aitype",
+        "scriptName": "AITypeStayResidueEnemy5"
+    },
+    {
+        "ID": 20016006,
+        "name": "自陣営ユニット残り6体でガンガン",
+        "summary": "自陣営ユニット残り6体でガンガン",
+        "isAvailableUser": false,
+        "isAvailableParty": false,
+        "role": 5,
+        "assetBundleName": "content_ai_aitype",
+        "scriptName": "AITypeStayResidueEnemy6"
+    },
+    {
+        "ID": 20016007,
+        "name": "自陣営ユニット残り7体でガンガン",
+        "summary": "自陣営ユニット残り7体でガンガン",
+        "isAvailableUser": false,
+        "isAvailableParty": false,
+        "role": 5,
+        "assetBundleName": "content_ai_aitype",
+        "scriptName": "AITypeStayResidueEnemy7"
+    },
+    {
+        "ID": 20016008,
+        "name": "自陣営ユニット残り8体でガンガン",
+        "summary": "自陣営ユニット残り8体でガンガン",
+        "isAvailableUser": false,
+        "isAvailableParty": false,
+        "role": 5,
+        "assetBundleName": "content_ai_aitype",
+        "scriptName": "AITypeStayResidueEnemy8"
+    },
+    {
+        "ID": 80001001,
+        "name": "遠征用共通AI",
+        "summary": "遠征で全ユニットに適用するAI",
+        "isAvailableUser": false,
+        "isAvailableParty": false,
+        "role": 5,
+        "assetBundleName": "content_ai_aitype",
+        "scriptName": "AITypeExpedition"
+    },
+    {
+        "ID": 10005002,
+        "name": "ヒーラー2",
+        "summary": "ヒーラー2",
+        "isAvailableUser": true,
+        "isAvailableParty": true,
+        "role": 4,
+        "assetBundleName": "content_ai_aitype",
+        "scriptName": "AITypeHealer2"
+    },
+    {
+        "ID": 20017001,
+        "name": "とにかく回復",
+        "summary": "とにかく回復",
+        "isAvailableUser": false,
+        "isAvailableParty": false,
+        "role": 4,
+        "assetBundleName": "content_ai_aitype",
+        "scriptName": "AITypeAnywayHealing"
+    },
+    {
+        "ID": 20010013,
+        "name": "目的地へ急げ/EQ_2310_03",
+        "summary": "目的地へ急げ/EQ_2310_03",
+        "isAvailableUser": false,
+        "isAvailableParty": false,
+        "role": 5,
+        "assetBundleName": "content_ai_aitype",
+        "scriptName": "AITypeHurryToDestination13"
+    },
+    {
+        "ID": 20018001,
+        "name": "固有ボス⑤ 巨大魔導兵器用",
+        "summary": "固有ボス⑤ 巨大魔導兵器用",
+        "isAvailableUser": false,
+        "isAvailableParty": false,
+        "role": 5,
+        "assetBundleName": "content_ai_aitype",
+        "scriptName": "AITypeBossGolem"
+    },
+    {
+        "ID": 20019001,
+        "name": "がんがんいこうぜ-接近",
+        "summary": "がんがんいこうぜ-接近",
+        "isAvailableUser": false,
+        "isAvailableParty": false,
+        "role": 5,
+        "assetBundleName": "content_ai_aitype",
+        "scriptName": "AITypeNoMercyProximity"
+    },
+    {
+        "ID": 20010014,
+        "name": "目的地へ急げ/EQ_2312_02",
+        "summary": "目的地へ急げ/EQ_2312_02",
+        "isAvailableUser": false,
+        "isAvailableParty": false,
+        "role": 5,
+        "assetBundleName": "content_ai_aitype",
+        "scriptName": "AITypeHurryToDestination14"
+    },
+    {
+        "ID": 20020001,
+        "name": "ボス用A.I. 1ターンおきに猛撃",
+        "summary": "1ターンおきに猛撃",
+        "isAvailableUser": false,
+        "isAvailableParty": false,
+        "role": 5,
+        "assetBundleName": "content_ai_aitype",
+        "scriptName": "AITypeBossRB1"
+    },
+    {
+        "ID": 20020002,
+        "name": "ボス用A.I. 2ターンおきに猛撃",
+        "summary": "2ターンおきに猛撃",
+        "isAvailableUser": false,
+        "isAvailableParty": false,
+        "role": 5,
+        "assetBundleName": "content_ai_aitype",
+        "scriptName": "AITypeBossRB2"
+    },
+    {
+        "ID": 20020003,
+        "name": "ボス用A.I. 3ターンおきに猛撃",
+        "summary": "3ターンおきに猛撃",
+        "isAvailableUser": false,
+        "isAvailableParty": false,
+        "role": 5,
+        "assetBundleName": "content_ai_aitype",
+        "scriptName": "AITypeBossRB3"
+    },
+    {
+        "ID": 20020004,
+        "name": "ボス用A.I. 4ターンおきに猛撃",
+        "summary": "4ターンおきに猛撃",
+        "isAvailableUser": false,
+        "isAvailableParty": false,
+        "role": 5,
+        "assetBundleName": "content_ai_aitype",
+        "scriptName": "AITypeBossRB4"
+    },
+    {
+        "ID": 20020005,
+        "name": "ボス用A.I. 5ターンおきに猛撃",
+        "summary": "5ターンおきに猛撃",
+        "isAvailableUser": false,
+        "isAvailableParty": false,
+        "role": 5,
+        "assetBundleName": "content_ai_aitype",
+        "scriptName": "AITypeBossRB5"
+    },
+    {
+        "ID": 20021001,
+        "name": "待機だけ",
+        "summary": "プレゼントクエスト用雑魚AI",
+        "isAvailableUser": false,
+        "isAvailableParty": false,
+        "role": 5,
+        "assetBundleName": "content_ai_aitype",
+        "scriptName": "AITypeStandbyOnly"
+    },
+    {
+        "ID": 20010015,
+        "name": "目的地へ急げ/TW_2401_10",
+        "summary": "目的地へ急げ/TW_2401_10",
+        "isAvailableUser": false,
+        "isAvailableParty": false,
+        "role": 5,
+        "assetBundleName": "content_ai_aitype",
+        "scriptName": "AITypeHurryToDestination15"
+    },
+    {
+        "ID": 20010016,
+        "name": "目的地へ急げ/GE_01_03",
+        "summary": "目的地へ急げ/GE_01_03",
+        "isAvailableUser": false,
+        "isAvailableParty": false,
+        "role": 5,
+        "assetBundleName": "content_ai_aitype",
+        "scriptName": "AITypeHurryToDestination16"
+    },
+    {
+        "ID": 20010017,
+        "name": "目的地へ急げ/EQ_240302_02",
+        "summary": "目的地へ急げ/EQ_240302_02",
+        "isAvailableUser": false,
+        "isAvailableParty": false,
+        "role": 5,
+        "assetBundleName": "content_ai_aitype",
+        "scriptName": "AITypeHurryToDestination17"
+    },
+    {
+        "ID": 20010018,
+        "name": "目的地へ急げ/EQ_240302_38",
+        "summary": "目的地へ急げ/EQ_240302_38",
+        "isAvailableUser": false,
+        "isAvailableParty": false,
+        "role": 5,
+        "assetBundleName": "content_ai_aitype",
+        "scriptName": "AITypeHurryToDestination18"
+    },
+    {
+        "ID": 20010019,
+        "name": "目的地へ急げ/EQ_2409_02",
+        "summary": "目的地へ急げ/EQ_2409_02",
+        "isAvailableUser": false,
+        "isAvailableParty": false,
+        "role": 5,
+        "assetBundleName": "content_ai_aitype",
+        "scriptName": "AITypeHurryToDestination19"
+    }
+]

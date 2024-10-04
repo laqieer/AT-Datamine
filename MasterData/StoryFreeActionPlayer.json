@@ -1,0 +1,42 @@
+[
+    {
+        "ID": 1,
+        "Name": "α5プレイヤー",
+        "characterSwitchPatternID": 101009003
+    },
+    {
+        "ID": 1001,
+        "Name": "現代編主人公1（男）",
+        "characterSwitchPatternID": 101003001
+    },
+    {
+        "ID": 1002,
+        "Name": "現代編主人公1（女）",
+        "characterSwitchPatternID": 101004001
+    },
+    {
+        "ID": 1003,
+        "Name": "現代編主人公２（男）",
+        "characterSwitchPatternID": 101005001
+    },
+    {
+        "ID": 1004,
+        "Name": "現代編主人公２（女）",
+        "characterSwitchPatternID": 101006001
+    },
+    {
+        "ID": 1005,
+        "Name": "現代編主人公３（男）",
+        "characterSwitchPatternID": 101007001
+    },
+    {
+        "ID": 1006,
+        "Name": "現代編主人公３（女）",
+        "characterSwitchPatternID": 101008001
+    },
+    {
+        "ID": 1007,
+        "Name": "アルハン",
+        "characterSwitchPatternID": 101059001
+    }
+]

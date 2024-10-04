@@ -1,0 +1,42 @@
+[
+    {
+        "ID": 1,
+        "name": "スタイル",
+        "emblemType": 1
+    },
+    {
+        "ID": 2,
+        "name": "ストーリー",
+        "emblemType": 2
+    },
+    {
+        "ID": 3,
+        "name": "遠征",
+        "emblemType": 3
+    },
+    {
+        "ID": 4,
+        "name": "プレイヤー",
+        "emblemType": 4
+    },
+    {
+        "ID": 5,
+        "name": "継承念装",
+        "emblemType": 5
+    },
+    {
+        "ID": 6,
+        "name": "武具・装飾品",
+        "emblemType": 6
+    },
+    {
+        "ID": 7,
+        "name": "バトル",
+        "emblemType": 7
+    },
+    {
+        "ID": 8,
+        "name": "イベント",
+        "emblemType": 8
+    }
+]

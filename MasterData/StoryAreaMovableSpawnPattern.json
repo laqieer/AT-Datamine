@@ -1,0 +1,312 @@
+[
+    {
+        "ID": 100,
+        "groupLabel": 100,
+        "groupPattern": 100
+    },
+    {
+        "ID": 101,
+        "groupLabel": 100,
+        "groupPattern": 101
+    },
+    {
+        "ID": 102,
+        "groupLabel": 100,
+        "groupPattern": 102
+    },
+    {
+        "ID": 103,
+        "groupLabel": 100,
+        "groupPattern": 103
+    },
+    {
+        "ID": 104,
+        "groupLabel": 100,
+        "groupPattern": 104
+    },
+    {
+        "ID": 105,
+        "groupLabel": 100,
+        "groupPattern": 105
+    },
+    {
+        "ID": 106,
+        "groupLabel": 100,
+        "groupPattern": 106
+    },
+    {
+        "ID": 107,
+        "groupLabel": 100,
+        "groupPattern": 107
+    },
+    {
+        "ID": 108,
+        "groupLabel": 106,
+        "groupPattern": 108
+    },
+    {
+        "ID": 109,
+        "groupLabel": 106,
+        "groupPattern": 109
+    },
+    {
+        "ID": 110,
+        "groupLabel": 106,
+        "groupPattern": 110
+    },
+    {
+        "ID": 111,
+        "groupLabel": 106,
+        "groupPattern": 111
+    },
+    {
+        "ID": 112,
+        "groupLabel": 106,
+        "groupPattern": 112
+    },
+    {
+        "ID": 113,
+        "groupLabel": 106,
+        "groupPattern": 113
+    },
+    {
+        "ID": 114,
+        "groupLabel": 106,
+        "groupPattern": 114
+    },
+    {
+        "ID": 115,
+        "groupLabel": 106,
+        "groupPattern": 115
+    },
+    {
+        "ID": 116,
+        "groupLabel": 101,
+        "groupPattern": 100
+    },
+    {
+        "ID": 117,
+        "groupLabel": 101,
+        "groupPattern": 101
+    },
+    {
+        "ID": 118,
+        "groupLabel": 101,
+        "groupPattern": 102
+    },
+    {
+        "ID": 119,
+        "groupLabel": 101,
+        "groupPattern": 103
+    },
+    {
+        "ID": 120,
+        "groupLabel": 101,
+        "groupPattern": 105
+    },
+    {
+        "ID": 121,
+        "groupLabel": 101,
+        "groupPattern": 106
+    },
+    {
+        "ID": 122,
+        "groupLabel": 101,
+        "groupPattern": 107
+    },
+    {
+        "ID": 123,
+        "groupLabel": 107,
+        "groupPattern": 123
+    },
+    {
+        "ID": 124,
+        "groupLabel": 107,
+        "groupPattern": 124
+    },
+    {
+        "ID": 125,
+        "groupLabel": 107,
+        "groupPattern": 125
+    },
+    {
+        "ID": 126,
+        "groupLabel": 107,
+        "groupPattern": 126
+    },
+    {
+        "ID": 127,
+        "groupLabel": 107,
+        "groupPattern": 127
+    },
+    {
+        "ID": 128,
+        "groupLabel": 107,
+        "groupPattern": 112
+    },
+    {
+        "ID": 129,
+        "groupLabel": 107,
+        "groupPattern": 129
+    },
+    {
+        "ID": 130,
+        "groupLabel": 107,
+        "groupPattern": 130
+    },
+    {
+        "ID": 200,
+        "groupLabel": 102,
+        "groupPattern": 100
+    },
+    {
+        "ID": 201,
+        "groupLabel": 102,
+        "groupPattern": 101
+    },
+    {
+        "ID": 202,
+        "groupLabel": 102,
+        "groupPattern": 102
+    },
+    {
+        "ID": 203,
+        "groupLabel": 102,
+        "groupPattern": 103
+    },
+    {
+        "ID": 204,
+        "groupLabel": 102,
+        "groupPattern": 104
+    },
+    {
+        "ID": 205,
+        "groupLabel": 102,
+        "groupPattern": 105
+    },
+    {
+        "ID": 206,
+        "groupLabel": 102,
+        "groupPattern": 106
+    },
+    {
+        "ID": 207,
+        "groupLabel": 102,
+        "groupPattern": 107
+    },
+    {
+        "ID": 208,
+        "groupLabel": 108,
+        "groupPattern": 108
+    },
+    {
+        "ID": 209,
+        "groupLabel": 108,
+        "groupPattern": 109
+    },
+    {
+        "ID": 210,
+        "groupLabel": 108,
+        "groupPattern": 110
+    },
+    {
+        "ID": 211,
+        "groupLabel": 108,
+        "groupPattern": 111
+    },
+    {
+        "ID": 212,
+        "groupLabel": 108,
+        "groupPattern": 112
+    },
+    {
+        "ID": 213,
+        "groupLabel": 108,
+        "groupPattern": 113
+    },
+    {
+        "ID": 214,
+        "groupLabel": 108,
+        "groupPattern": 114
+    },
+    {
+        "ID": 215,
+        "groupLabel": 108,
+        "groupPattern": 115
+    },
+    {
+        "ID": 216,
+        "groupLabel": 103,
+        "groupPattern": 100
+    },
+    {
+        "ID": 217,
+        "groupLabel": 103,
+        "groupPattern": 101
+    },
+    {
+        "ID": 218,
+        "groupLabel": 103,
+        "groupPattern": 102
+    },
+    {
+        "ID": 219,
+        "groupLabel": 103,
+        "groupPattern": 103
+    },
+    {
+        "ID": 220,
+        "groupLabel": 103,
+        "groupPattern": 105
+    },
+    {
+        "ID": 221,
+        "groupLabel": 103,
+        "groupPattern": 106
+    },
+    {
+        "ID": 222,
+        "groupLabel": 103,
+        "groupPattern": 107
+    },
+    {
+        "ID": 223,
+        "groupLabel": 109,
+        "groupPattern": 123
+    },
+    {
+        "ID": 224,
+        "groupLabel": 109,
+        "groupPattern": 124
+    },
+    {
+        "ID": 225,
+        "groupLabel": 109,
+        "groupPattern": 125
+    },
+    {
+        "ID": 226,
+        "groupLabel": 109,
+        "groupPattern": 126
+    },
+    {
+        "ID": 227,
+        "groupLabel": 109,
+        "groupPattern": 127
+    },
+    {
+        "ID": 228,
+        "groupLabel": 109,
+        "groupPattern": 112
+    },
+    {
+        "ID": 229,
+        "groupLabel": 109,
+        "groupPattern": 129
+    },
+    {
+        "ID": 230,
+        "groupLabel": 109,
+        "groupPattern": 130
+    }
+]

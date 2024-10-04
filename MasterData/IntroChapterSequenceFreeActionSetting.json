@@ -1,0 +1,12 @@
+[
+    {
+        "ID": 301,
+        "storyFreeActionSettingID": 900,
+        "advAsset1": "content_luascript_story_tutorial",
+        "advFileName1": "FREEMOVE_TUTORIAL_1",
+        "advAsset2": "content_luascript_story_tutorial",
+        "advFileName2": "FREEMOVE_TUTORIAL_2",
+        "playerFreeActionPlayerId": 1007,
+        "swipTutorialDisplayTime": 1.5
+    }
+]

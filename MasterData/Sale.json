@@ -1,0 +1,722 @@
+[
+    {
+        "ID": 1,
+        "rarity": 1,
+        "itemType": 2,
+        "rewardType": 3,
+        "reward": 201010001,
+        "rewardQuantity": 10
+    },
+    {
+        "ID": 2,
+        "rarity": 2,
+        "itemType": 2,
+        "rewardType": 3,
+        "reward": 201010001,
+        "rewardQuantity": 12
+    },
+    {
+        "ID": 3,
+        "rarity": 3,
+        "itemType": 2,
+        "rewardType": 3,
+        "reward": 201010001,
+        "rewardQuantity": 15
+    },
+    {
+        "ID": 4,
+        "rarity": 4,
+        "itemType": 2,
+        "rewardType": 3,
+        "reward": 201010001,
+        "rewardQuantity": 20
+    },
+    {
+        "ID": 5,
+        "rarity": 5,
+        "itemType": 2,
+        "rewardType": 3,
+        "reward": 201010001,
+        "rewardQuantity": 30
+    },
+    {
+        "ID": 6,
+        "rarity": 1,
+        "itemType": 4,
+        "rewardType": 3,
+        "reward": 201010001,
+        "rewardQuantity": 50
+    },
+    {
+        "ID": 7,
+        "rarity": 2,
+        "itemType": 4,
+        "rewardType": 3,
+        "reward": 201010001,
+        "rewardQuantity": 60
+    },
+    {
+        "ID": 8,
+        "rarity": 3,
+        "itemType": 4,
+        "rewardType": 3,
+        "reward": 201010001,
+        "rewardQuantity": 75
+    },
+    {
+        "ID": 9,
+        "rarity": 4,
+        "itemType": 4,
+        "rewardType": 3,
+        "reward": 201010001,
+        "rewardQuantity": 100
+    },
+    {
+        "ID": 10,
+        "rarity": 5,
+        "itemType": 4,
+        "rewardType": 3,
+        "reward": 201010001,
+        "rewardQuantity": 150
+    },
+    {
+        "ID": 11,
+        "rarity": 1,
+        "itemType": 5,
+        "rewardType": 3,
+        "reward": 201010001,
+        "rewardQuantity": 50
+    },
+    {
+        "ID": 12,
+        "rarity": 2,
+        "itemType": 5,
+        "rewardType": 3,
+        "reward": 201010001,
+        "rewardQuantity": 60
+    },
+    {
+        "ID": 13,
+        "rarity": 3,
+        "itemType": 5,
+        "rewardType": 3,
+        "reward": 201010001,
+        "rewardQuantity": 75
+    },
+    {
+        "ID": 14,
+        "rarity": 4,
+        "itemType": 5,
+        "rewardType": 3,
+        "reward": 201010001,
+        "rewardQuantity": 100
+    },
+    {
+        "ID": 15,
+        "rarity": 5,
+        "itemType": 5,
+        "rewardType": 3,
+        "reward": 201010001,
+        "rewardQuantity": 150
+    },
+    {
+        "ID": 16,
+        "rarity": 1,
+        "itemType": 6,
+        "rewardType": 3,
+        "reward": 201010001,
+        "rewardQuantity": 50
+    },
+    {
+        "ID": 17,
+        "rarity": 2,
+        "itemType": 6,
+        "rewardType": 3,
+        "reward": 201010001,
+        "rewardQuantity": 60
+    },
+    {
+        "ID": 18,
+        "rarity": 3,
+        "itemType": 6,
+        "rewardType": 3,
+        "reward": 201010001,
+        "rewardQuantity": 75
+    },
+    {
+        "ID": 19,
+        "rarity": 4,
+        "itemType": 6,
+        "rewardType": 3,
+        "reward": 201010001,
+        "rewardQuantity": 100
+    },
+    {
+        "ID": 20,
+        "rarity": 5,
+        "itemType": 6,
+        "rewardType": 3,
+        "reward": 201010001,
+        "rewardQuantity": 150
+    },
+    {
+        "ID": 21,
+        "rarity": 1,
+        "itemType": 27,
+        "rewardType": 3,
+        "reward": 201010001,
+        "rewardQuantity": 10
+    },
+    {
+        "ID": 22,
+        "rarity": 2,
+        "itemType": 27,
+        "rewardType": 3,
+        "reward": 201010001,
+        "rewardQuantity": 12
+    },
+    {
+        "ID": 23,
+        "rarity": 3,
+        "itemType": 27,
+        "rewardType": 3,
+        "reward": 201010001,
+        "rewardQuantity": 15
+    },
+    {
+        "ID": 24,
+        "rarity": 4,
+        "itemType": 27,
+        "rewardType": 3,
+        "reward": 201010001,
+        "rewardQuantity": 20
+    },
+    {
+        "ID": 25,
+        "rarity": 5,
+        "itemType": 27,
+        "rewardType": 3,
+        "reward": 201010001,
+        "rewardQuantity": 30
+    },
+    {
+        "ID": 26,
+        "rarity": 1,
+        "itemType": 8,
+        "rewardType": 3,
+        "reward": 201010001,
+        "rewardQuantity": 10
+    },
+    {
+        "ID": 27,
+        "rarity": 2,
+        "itemType": 8,
+        "rewardType": 3,
+        "reward": 201010001,
+        "rewardQuantity": 12
+    },
+    {
+        "ID": 28,
+        "rarity": 3,
+        "itemType": 8,
+        "rewardType": 3,
+        "reward": 201010001,
+        "rewardQuantity": 15
+    },
+    {
+        "ID": 29,
+        "rarity": 4,
+        "itemType": 8,
+        "rewardType": 3,
+        "reward": 201010001,
+        "rewardQuantity": 20
+    },
+    {
+        "ID": 30,
+        "rarity": 5,
+        "itemType": 8,
+        "rewardType": 3,
+        "reward": 201010001,
+        "rewardQuantity": 30
+    },
+    {
+        "ID": 31,
+        "rarity": 1,
+        "itemType": 9,
+        "rewardType": 3,
+        "reward": 201010001,
+        "rewardQuantity": 10
+    },
+    {
+        "ID": 32,
+        "rarity": 2,
+        "itemType": 9,
+        "rewardType": 3,
+        "reward": 201010001,
+        "rewardQuantity": 12
+    },
+    {
+        "ID": 33,
+        "rarity": 3,
+        "itemType": 9,
+        "rewardType": 3,
+        "reward": 201010001,
+        "rewardQuantity": 15
+    },
+    {
+        "ID": 34,
+        "rarity": 4,
+        "itemType": 9,
+        "rewardType": 3,
+        "reward": 201010001,
+        "rewardQuantity": 20
+    },
+    {
+        "ID": 35,
+        "rarity": 5,
+        "itemType": 9,
+        "rewardType": 3,
+        "reward": 201010001,
+        "rewardQuantity": 30
+    },
+    {
+        "ID": 36,
+        "rarity": 1,
+        "itemType": 10,
+        "rewardType": 3,
+        "reward": 201010001,
+        "rewardQuantity": 10
+    },
+    {
+        "ID": 37,
+        "rarity": 2,
+        "itemType": 10,
+        "rewardType": 3,
+        "reward": 201010001,
+        "rewardQuantity": 12
+    },
+    {
+        "ID": 38,
+        "rarity": 3,
+        "itemType": 10,
+        "rewardType": 3,
+        "reward": 201010001,
+        "rewardQuantity": 15
+    },
+    {
+        "ID": 39,
+        "rarity": 4,
+        "itemType": 10,
+        "rewardType": 3,
+        "reward": 201010001,
+        "rewardQuantity": 20
+    },
+    {
+        "ID": 40,
+        "rarity": 5,
+        "itemType": 10,
+        "rewardType": 3,
+        "reward": 201010001,
+        "rewardQuantity": 30
+    },
+    {
+        "ID": 41,
+        "rarity": 1,
+        "itemType": 14,
+        "rewardType": 3,
+        "reward": 201010001,
+        "rewardQuantity": 10
+    },
+    {
+        "ID": 42,
+        "rarity": 2,
+        "itemType": 14,
+        "rewardType": 3,
+        "reward": 201010001,
+        "rewardQuantity": 12
+    },
+    {
+        "ID": 43,
+        "rarity": 3,
+        "itemType": 14,
+        "rewardType": 3,
+        "reward": 201010001,
+        "rewardQuantity": 15
+    },
+    {
+        "ID": 44,
+        "rarity": 4,
+        "itemType": 14,
+        "rewardType": 3,
+        "reward": 201010001,
+        "rewardQuantity": 20
+    },
+    {
+        "ID": 45,
+        "rarity": 5,
+        "itemType": 14,
+        "rewardType": 3,
+        "reward": 201010001,
+        "rewardQuantity": 30
+    },
+    {
+        "ID": 46,
+        "rarity": 1,
+        "itemType": 15,
+        "rewardType": 3,
+        "reward": 201010001,
+        "rewardQuantity": 10
+    },
+    {
+        "ID": 47,
+        "rarity": 2,
+        "itemType": 15,
+        "rewardType": 3,
+        "reward": 201010001,
+        "rewardQuantity": 12
+    },
+    {
+        "ID": 48,
+        "rarity": 3,
+        "itemType": 15,
+        "rewardType": 3,
+        "reward": 201010001,
+        "rewardQuantity": 15
+    },
+    {
+        "ID": 49,
+        "rarity": 4,
+        "itemType": 15,
+        "rewardType": 3,
+        "reward": 201010001,
+        "rewardQuantity": 20
+    },
+    {
+        "ID": 50,
+        "rarity": 5,
+        "itemType": 15,
+        "rewardType": 3,
+        "reward": 201010001,
+        "rewardQuantity": 30
+    },
+    {
+        "ID": 56,
+        "rarity": 1,
+        "itemType": 17,
+        "rewardType": 3,
+        "reward": 201010001,
+        "rewardQuantity": 20
+    },
+    {
+        "ID": 57,
+        "rarity": 2,
+        "itemType": 17,
+        "rewardType": 3,
+        "reward": 201010001,
+        "rewardQuantity": 24
+    },
+    {
+        "ID": 58,
+        "rarity": 3,
+        "itemType": 17,
+        "rewardType": 3,
+        "reward": 201010001,
+        "rewardQuantity": 30
+    },
+    {
+        "ID": 59,
+        "rarity": 4,
+        "itemType": 17,
+        "rewardType": 3,
+        "reward": 201010001,
+        "rewardQuantity": 50
+    },
+    {
+        "ID": 60,
+        "rarity": 5,
+        "itemType": 17,
+        "rewardType": 3,
+        "reward": 201010001,
+        "rewardQuantity": 80
+    },
+    {
+        "ID": 61,
+        "rarity": 1,
+        "itemType": 18,
+        "rewardType": 3,
+        "reward": 201010001,
+        "rewardQuantity": 50
+    },
+    {
+        "ID": 62,
+        "rarity": 2,
+        "itemType": 18,
+        "rewardType": 3,
+        "reward": 201010001,
+        "rewardQuantity": 60
+    },
+    {
+        "ID": 63,
+        "rarity": 3,
+        "itemType": 18,
+        "rewardType": 3,
+        "reward": 201010001,
+        "rewardQuantity": 75
+    },
+    {
+        "ID": 64,
+        "rarity": 4,
+        "itemType": 18,
+        "rewardType": 3,
+        "reward": 201010001,
+        "rewardQuantity": 100
+    },
+    {
+        "ID": 65,
+        "rarity": 5,
+        "itemType": 18,
+        "rewardType": 3,
+        "reward": 201010001,
+        "rewardQuantity": 150
+    },
+    {
+        "ID": 66,
+        "rarity": 1,
+        "itemType": 19,
+        "rewardType": 3,
+        "reward": 201010001,
+        "rewardQuantity": 50
+    },
+    {
+        "ID": 67,
+        "rarity": 2,
+        "itemType": 19,
+        "rewardType": 3,
+        "reward": 201010001,
+        "rewardQuantity": 60
+    },
+    {
+        "ID": 68,
+        "rarity": 3,
+        "itemType": 19,
+        "rewardType": 3,
+        "reward": 201010001,
+        "rewardQuantity": 75
+    },
+    {
+        "ID": 69,
+        "rarity": 4,
+        "itemType": 19,
+        "rewardType": 3,
+        "reward": 201010001,
+        "rewardQuantity": 100
+    },
+    {
+        "ID": 70,
+        "rarity": 5,
+        "itemType": 19,
+        "rewardType": 3,
+        "reward": 201010001,
+        "rewardQuantity": 150
+    },
+    {
+        "ID": 76,
+        "rarity": 1,
+        "itemType": 21,
+        "rewardType": 3,
+        "reward": 201010001,
+        "rewardQuantity": 20
+    },
+    {
+        "ID": 77,
+        "rarity": 2,
+        "itemType": 21,
+        "rewardType": 3,
+        "reward": 201010001,
+        "rewardQuantity": 24
+    },
+    {
+        "ID": 78,
+        "rarity": 3,
+        "itemType": 21,
+        "rewardType": 3,
+        "reward": 201010001,
+        "rewardQuantity": 30
+    },
+    {
+        "ID": 79,
+        "rarity": 4,
+        "itemType": 21,
+        "rewardType": 3,
+        "reward": 201010001,
+        "rewardQuantity": 50
+    },
+    {
+        "ID": 80,
+        "rarity": 5,
+        "itemType": 21,
+        "rewardType": 3,
+        "reward": 201010001,
+        "rewardQuantity": 80
+    },
+    {
+        "ID": 81,
+        "rarity": 1,
+        "itemType": 22,
+        "rewardType": 3,
+        "reward": 201010001,
+        "rewardQuantity": 8
+    },
+    {
+        "ID": 82,
+        "rarity": 2,
+        "itemType": 22,
+        "rewardType": 3,
+        "reward": 201010001,
+        "rewardQuantity": 12
+    },
+    {
+        "ID": 83,
+        "rarity": 3,
+        "itemType": 22,
+        "rewardType": 3,
+        "reward": 201010001,
+        "rewardQuantity": 20
+    },
+    {
+        "ID": 84,
+        "rarity": 4,
+        "itemType": 22,
+        "rewardType": 3,
+        "reward": 201010001,
+        "rewardQuantity": 30
+    },
+    {
+        "ID": 85,
+        "rarity": 5,
+        "itemType": 22,
+        "rewardType": 3,
+        "reward": 201010001,
+        "rewardQuantity": 50
+    },
+    {
+        "ID": 86,
+        "rarity": 1,
+        "itemType": 23,
+        "rewardType": 3,
+        "reward": 201010001,
+        "rewardQuantity": 8
+    },
+    {
+        "ID": 87,
+        "rarity": 2,
+        "itemType": 23,
+        "rewardType": 3,
+        "reward": 201010001,
+        "rewardQuantity": 12
+    },
+    {
+        "ID": 88,
+        "rarity": 3,
+        "itemType": 23,
+        "rewardType": 3,
+        "reward": 201010001,
+        "rewardQuantity": 20
+    },
+    {
+        "ID": 89,
+        "rarity": 4,
+        "itemType": 23,
+        "rewardType": 3,
+        "reward": 201010001,
+        "rewardQuantity": 30
+    },
+    {
+        "ID": 90,
+        "rarity": 5,
+        "itemType": 23,
+        "rewardType": 3,
+        "reward": 201010001,
+        "rewardQuantity": 50
+    },
+    {
+        "ID": 91,
+        "rarity": 1,
+        "itemType": 24,
+        "rewardType": 3,
+        "reward": 201010001,
+        "rewardQuantity": 50
+    },
+    {
+        "ID": 92,
+        "rarity": 2,
+        "itemType": 24,
+        "rewardType": 3,
+        "reward": 201010001,
+        "rewardQuantity": 60
+    },
+    {
+        "ID": 93,
+        "rarity": 3,
+        "itemType": 24,
+        "rewardType": 3,
+        "reward": 201010001,
+        "rewardQuantity": 75
+    },
+    {
+        "ID": 94,
+        "rarity": 4,
+        "itemType": 24,
+        "rewardType": 3,
+        "reward": 201010001,
+        "rewardQuantity": 100
+    },
+    {
+        "ID": 95,
+        "rarity": 5,
+        "itemType": 24,
+        "rewardType": 3,
+        "reward": 201010001,
+        "rewardQuantity": 150
+    },
+    {
+        "ID": 96,
+        "rarity": 1,
+        "itemType": 25,
+        "rewardType": 3,
+        "reward": 201010001,
+        "rewardQuantity": 50
+    },
+    {
+        "ID": 97,
+        "rarity": 2,
+        "itemType": 25,
+        "rewardType": 3,
+        "reward": 201010001,
+        "rewardQuantity": 60
+    },
+    {
+        "ID": 98,
+        "rarity": 3,
+        "itemType": 25,
+        "rewardType": 3,
+        "reward": 201010001,
+        "rewardQuantity": 75
+    },
+    {
+        "ID": 99,
+        "rarity": 4,
+        "itemType": 25,
+        "rewardType": 3,
+        "reward": 201010001,
+        "rewardQuantity": 100
+    },
+    {
+        "ID": 100,
+        "rarity": 5,
+        "itemType": 25,
+        "rewardType": 3,
+        "reward": 201010001,
+        "rewardQuantity": 150
+    }
+]

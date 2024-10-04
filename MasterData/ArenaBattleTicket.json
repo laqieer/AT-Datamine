@@ -1,0 +1,12 @@
+[
+    {
+        "ID": 1,
+        "name": "アリーナバトル回数リセットチケット",
+        "flavor": "アリーナバトル回数をリセットできるチケット。",
+        "rarity": 1,
+        "pictureNumber": 1,
+        "image": "",
+        "itemType": 38,
+        "isSellable": false
+    }
+]

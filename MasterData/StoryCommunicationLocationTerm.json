@@ -1,0 +1,135 @@
+[
+    {
+        "ID": 1,
+        "locationID": 1,
+        "routeID": 0,
+        "termBegin": 0,
+        "termEnd": 0
+    },
+    {
+        "ID": 2,
+        "locationID": 2,
+        "routeID": 0,
+        "termBegin": 0,
+        "termEnd": 0
+    },
+    {
+        "ID": 3,
+        "locationID": 3,
+        "routeID": 0,
+        "termBegin": 0,
+        "termEnd": 0
+    },
+    {
+        "ID": 4,
+        "locationID": 4,
+        "routeID": 0,
+        "termBegin": 0,
+        "termEnd": 0
+    },
+    {
+        "ID": 5,
+        "locationID": 5,
+        "routeID": 0,
+        "termBegin": 0,
+        "termEnd": 0
+    },
+    {
+        "ID": 6,
+        "locationID": 6,
+        "routeID": 0,
+        "termBegin": 0,
+        "termEnd": 0
+    },
+    {
+        "ID": 7,
+        "locationID": 7,
+        "routeID": 0,
+        "termBegin": 0,
+        "termEnd": 0
+    },
+    {
+        "ID": 8,
+        "locationID": 8,
+        "routeID": 0,
+        "termBegin": 0,
+        "termEnd": 0
+    },
+    {
+        "ID": 9,
+        "locationID": 9,
+        "routeID": 0,
+        "termBegin": 0,
+        "termEnd": 0
+    },
+    {
+        "ID": 10,
+        "locationID": 10,
+        "routeID": 0,
+        "termBegin": 0,
+        "termEnd": 0
+    },
+    {
+        "ID": 11,
+        "locationID": 11,
+        "routeID": 0,
+        "termBegin": 0,
+        "termEnd": 0
+    },
+    {
+        "ID": 12,
+        "locationID": 12,
+        "routeID": 0,
+        "termBegin": 0,
+        "termEnd": 0
+    },
+    {
+        "ID": 13,
+        "locationID": 13,
+        "routeID": 0,
+        "termBegin": 0,
+        "termEnd": 0
+    },
+    {
+        "ID": 14,
+        "locationID": 14,
+        "routeID": 0,
+        "termBegin": 0,
+        "termEnd": 0
+    },
+    {
+        "ID": 15,
+        "locationID": 15,
+        "routeID": 0,
+        "termBegin": 0,
+        "termEnd": 0
+    },
+    {
+        "ID": 16,
+        "locationID": 16,
+        "routeID": 0,
+        "termBegin": 0,
+        "termEnd": 0
+    },
+    {
+        "ID": 17,
+        "locationID": 17,
+        "routeID": 0,
+        "termBegin": 0,
+        "termEnd": 0
+    },
+    {
+        "ID": 18,
+        "locationID": 18,
+        "routeID": 0,
+        "termBegin": 0,
+        "termEnd": 0
+    },
+    {
+        "ID": 19,
+        "locationID": 19,
+        "routeID": 0,
+        "termBegin": 0,
+        "termEnd": 0
+    }
+]

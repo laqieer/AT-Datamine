@@ -1,0 +1,234 @@
+[
+    {
+        "ID": 1,
+        "itemTypeID": 1,
+        "itemID": 0,
+        "showLimitNumber": 999999999,
+        "possessionLimitNumber": 2100000000,
+        "sendPresent": false
+    },
+    {
+        "ID": 2,
+        "itemTypeID": 1,
+        "itemID": 201010001,
+        "showLimitNumber": 999999999,
+        "possessionLimitNumber": 2100000000,
+        "sendPresent": false
+    },
+    {
+        "ID": 3,
+        "itemTypeID": 1,
+        "itemID": 201020001,
+        "showLimitNumber": 999999,
+        "possessionLimitNumber": 999999,
+        "sendPresent": false
+    },
+    {
+        "ID": 4,
+        "itemTypeID": 2,
+        "itemID": 0,
+        "showLimitNumber": 999,
+        "possessionLimitNumber": 999,
+        "sendPresent": false
+    },
+    {
+        "ID": 6,
+        "itemTypeID": 3,
+        "itemID": 0,
+        "showLimitNumber": 999,
+        "possessionLimitNumber": 2100000000,
+        "sendPresent": false
+    },
+    {
+        "ID": 7,
+        "itemTypeID": 4,
+        "itemID": 0,
+        "showLimitNumber": 999,
+        "possessionLimitNumber": 999999999,
+        "sendPresent": false
+    },
+    {
+        "ID": 8,
+        "itemTypeID": 5,
+        "itemID": 0,
+        "showLimitNumber": 999,
+        "possessionLimitNumber": 2100000000,
+        "sendPresent": true
+    },
+    {
+        "ID": 9,
+        "itemTypeID": 6,
+        "itemID": 0,
+        "showLimitNumber": 999,
+        "possessionLimitNumber": 999999999,
+        "sendPresent": false
+    },
+    {
+        "ID": 10,
+        "itemTypeID": 10,
+        "itemID": 0,
+        "showLimitNumber": 999,
+        "possessionLimitNumber": 2100000000,
+        "sendPresent": false
+    },
+    {
+        "ID": 14,
+        "itemTypeID": 14,
+        "itemID": 0,
+        "showLimitNumber": 999,
+        "possessionLimitNumber": 2100000000,
+        "sendPresent": false
+    },
+    {
+        "ID": 15,
+        "itemTypeID": 15,
+        "itemID": 0,
+        "showLimitNumber": 9999,
+        "possessionLimitNumber": 2100000000,
+        "sendPresent": false
+    },
+    {
+        "ID": 17,
+        "itemTypeID": 17,
+        "itemID": 0,
+        "showLimitNumber": 9999,
+        "possessionLimitNumber": 2100000000,
+        "sendPresent": false
+    },
+    {
+        "ID": 18,
+        "itemTypeID": 18,
+        "itemID": 0,
+        "showLimitNumber": 999,
+        "possessionLimitNumber": 2100000000,
+        "sendPresent": false
+    },
+    {
+        "ID": 19,
+        "itemTypeID": 19,
+        "itemID": 0,
+        "showLimitNumber": 9999,
+        "possessionLimitNumber": 2100000000,
+        "sendPresent": false
+    },
+    {
+        "ID": 21,
+        "itemTypeID": 21,
+        "itemID": 0,
+        "showLimitNumber": 999,
+        "possessionLimitNumber": 999999999,
+        "sendPresent": false
+    },
+    {
+        "ID": 22,
+        "itemTypeID": 22,
+        "itemID": 0,
+        "showLimitNumber": 9999,
+        "possessionLimitNumber": 2100000000,
+        "sendPresent": false
+    },
+    {
+        "ID": 23,
+        "itemTypeID": 23,
+        "itemID": 0,
+        "showLimitNumber": 999999999,
+        "possessionLimitNumber": 999999999,
+        "sendPresent": false
+    },
+    {
+        "ID": 24,
+        "itemTypeID": 25,
+        "itemID": 0,
+        "showLimitNumber": 999,
+        "possessionLimitNumber": 2100000000,
+        "sendPresent": false
+    },
+    {
+        "ID": 25,
+        "itemTypeID": 26,
+        "itemID": 0,
+        "showLimitNumber": 9999,
+        "possessionLimitNumber": 2100000000,
+        "sendPresent": false
+    },
+    {
+        "ID": 26,
+        "itemTypeID": 27,
+        "itemID": 0,
+        "showLimitNumber": 999,
+        "possessionLimitNumber": 999,
+        "sendPresent": true
+    },
+    {
+        "ID": 27,
+        "itemTypeID": 28,
+        "itemID": 0,
+        "showLimitNumber": 999,
+        "possessionLimitNumber": 2100000000,
+        "sendPresent": false
+    },
+    {
+        "ID": 29,
+        "itemTypeID": 35,
+        "itemID": 0,
+        "showLimitNumber": 99999,
+        "possessionLimitNumber": 2100000000,
+        "sendPresent": false
+    },
+    {
+        "ID": 30,
+        "itemTypeID": 36,
+        "itemID": 0,
+        "showLimitNumber": 99999,
+        "possessionLimitNumber": 2100000000,
+        "sendPresent": false
+    },
+    {
+        "ID": 31,
+        "itemTypeID": 38,
+        "itemID": 0,
+        "showLimitNumber": 999,
+        "possessionLimitNumber": 2100000000,
+        "sendPresent": false
+    },
+    {
+        "ID": 32,
+        "itemTypeID": 31,
+        "itemID": 0,
+        "showLimitNumber": 999,
+        "possessionLimitNumber": 2100000000,
+        "sendPresent": false
+    },
+    {
+        "ID": 33,
+        "itemTypeID": 32,
+        "itemID": 0,
+        "showLimitNumber": 999,
+        "possessionLimitNumber": 2100000000,
+        "sendPresent": false
+    },
+    {
+        "ID": 34,
+        "itemTypeID": 37,
+        "itemID": 0,
+        "showLimitNumber": 999,
+        "possessionLimitNumber": 2100000000,
+        "sendPresent": false
+    },
+    {
+        "ID": 35,
+        "itemTypeID": 40,
+        "itemID": 0,
+        "showLimitNumber": 999,
+        "possessionLimitNumber": 2100000000,
+        "sendPresent": false
+    },
+    {
+        "ID": 36,
+        "itemTypeID": 41,
+        "itemID": 0,
+        "showLimitNumber": 1,
+        "possessionLimitNumber": 1,
+        "sendPresent": false
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "ID": 1,
+        "paymentTypeId": 21,
+        "paymentId": 101030001,
+        "paymentAmount": 1
+    },
+    {
+        "ID": 2,
+        "paymentTypeId": 21,
+        "paymentId": 101030003,
+        "paymentAmount": 1
+    }
+]

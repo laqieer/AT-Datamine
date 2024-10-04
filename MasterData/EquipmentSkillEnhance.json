@@ -1,0 +1,26 @@
+[
+    {
+        "ID": 104080001,
+        "rarity": 3,
+        "pictureNumber": 1,
+        "image": "",
+        "itemType": 26,
+        "isSellable": false
+    },
+    {
+        "ID": 104080002,
+        "rarity": 4,
+        "pictureNumber": 1,
+        "image": "",
+        "itemType": 26,
+        "isSellable": false
+    },
+    {
+        "ID": 104080003,
+        "rarity": 5,
+        "pictureNumber": 1,
+        "image": "",
+        "itemType": 26,
+        "isSellable": false
+    }
+]

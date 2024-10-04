@@ -1,0 +1,16 @@
+[
+    {
+        "ID": 1,
+        "lobbyEventGroupLabel": 1,
+        "conditionID": 100,
+        "targetObjectID": 1,
+        "lobbyEventType": 1,
+        "advID": 0,
+        "iconID": 35,
+        "cameraViewPositionID": 1,
+        "playerMovePositionID": 1,
+        "iconPositionX": 0.0,
+        "iconPositionY": 1.7999999523162842,
+        "iconPositionZ": 0.0
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "ID": 0,
+        "Name": "なし",
+        "RefarencePosition": 1,
+        "CameraPositionX": 0.0,
+        "CameraPositionY": 0.0,
+        "CameraPositionZ": 0.0,
+        "CameraRotationX": 0.0,
+        "CameraRotationY": 0.0,
+        "CameraRotationZ": 0.0,
+        "CameraFovAbsolute": 60.0,
+        "CameraFovRelative": 0.0
+    },
+    {
+        "ID": 1000,
+        "Name": "汎用ズーム",
+        "RefarencePosition": 2,
+        "CameraPositionX": 0.0,
+        "CameraPositionY": 0.0,
+        "CameraPositionZ": 0.0,
+        "CameraRotationX": 0.0,
+        "CameraRotationY": 0.0,
+        "CameraRotationZ": 0.0,
+        "CameraFovAbsolute": 0.0,
+        "CameraFovRelative": -20.0
+    },
+    {
+        "ID": 1001,
+        "Name": "汎用右寄りズーム",
+        "RefarencePosition": 2,
+        "CameraPositionX": 0.5,
+        "CameraPositionY": 0.0,
+        "CameraPositionZ": 0.0,
+        "CameraRotationX": 0.0,
+        "CameraRotationY": 10.0,
+        "CameraRotationZ": 0.0,
+        "CameraFovAbsolute": 0.0,
+        "CameraFovRelative": -20.0
+    },
+    {
+        "ID": 1002,
+        "Name": "汎用左寄りズーム",
+        "RefarencePosition": 2,
+        "CameraPositionX": -0.5,
+        "CameraPositionY": 0.0,
+        "CameraPositionZ": 0.0,
+        "CameraRotationX": 0.0,
+        "CameraRotationY": -10.0,
+        "CameraRotationZ": 0.0,
+        "CameraFovAbsolute": 0.0,
+        "CameraFovRelative": -20.0
+    },
+    {
+        "ID": 1,
+        "Name": "テストパターン1",
+        "RefarencePosition": 1,
+        "CameraPositionX": 1.7999999523162842,
+        "CameraPositionY": 1.649999976158142,
+        "CameraPositionZ": 0.5,
+        "CameraRotationX": 10.0,
+        "CameraRotationY": 270.0,
+        "CameraRotationZ": 0.0,
+        "CameraFovAbsolute": 45.0,
+        "CameraFovRelative": 0.0
+    }
+]

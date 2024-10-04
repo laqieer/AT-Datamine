@@ -1,0 +1,14 @@
+[
+    {
+        "ID": 0,
+        "StorySubquestTaskType": "receipt"
+    },
+    {
+        "ID": 1,
+        "StorySubquestTaskType": "progress"
+    },
+    {
+        "ID": 2,
+        "StorySubquestTaskType": "complete"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "ID": 0,
+        "name": "DEFAULT"
+    },
+    {
+        "ID": 100,
+        "name": "NG_WORD"
+    },
+    {
+        "ID": 101,
+        "name": "BANNED"
+    },
+    {
+        "ID": 102,
+        "name": "IN_THROTTLE"
+    },
+    {
+        "ID": 103,
+        "name": "TOO_LONG"
+    },
+    {
+        "ID": 104,
+        "name": "INVALID_MESSAGE_TYPE"
+    },
+    {
+        "ID": 105,
+        "name": "INVALID_STAMP"
+    },
+    {
+        "ID": 200,
+        "name": "NEED_RETRY"
+    },
+    {
+        "ID": 300,
+        "name": "ALREADY_REPORTED"
+    },
+    {
+        "ID": 301,
+        "name": "CANNOT_REPORT"
+    }
+]

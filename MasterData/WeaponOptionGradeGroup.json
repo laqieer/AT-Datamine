@@ -1,0 +1,142 @@
+[
+    {
+        "ID": 1,
+        "name": "Nグレード１",
+        "rarity": 1,
+        "optionGrade": 1,
+        "weight": 54
+    },
+    {
+        "ID": 2,
+        "name": "Nグレード２",
+        "rarity": 1,
+        "optionGrade": 2,
+        "weight": 40
+    },
+    {
+        "ID": 3,
+        "name": "Nグレード３",
+        "rarity": 1,
+        "optionGrade": 3,
+        "weight": 5
+    },
+    {
+        "ID": 4,
+        "name": "Nグレード４",
+        "rarity": 1,
+        "optionGrade": 4,
+        "weight": 1
+    },
+    {
+        "ID": 5,
+        "name": "Rグレード１",
+        "rarity": 2,
+        "optionGrade": 1,
+        "weight": 48
+    },
+    {
+        "ID": 6,
+        "name": "Rグレード２",
+        "rarity": 2,
+        "optionGrade": 2,
+        "weight": 38
+    },
+    {
+        "ID": 7,
+        "name": "Rグレード３",
+        "rarity": 2,
+        "optionGrade": 3,
+        "weight": 11
+    },
+    {
+        "ID": 8,
+        "name": "Rグレード４",
+        "rarity": 2,
+        "optionGrade": 4,
+        "weight": 3
+    },
+    {
+        "ID": 9,
+        "name": "SRグレード１",
+        "rarity": 3,
+        "optionGrade": 1,
+        "weight": 40
+    },
+    {
+        "ID": 10,
+        "name": "SRグレード２",
+        "rarity": 3,
+        "optionGrade": 2,
+        "weight": 37
+    },
+    {
+        "ID": 11,
+        "name": "SRグレード３",
+        "rarity": 3,
+        "optionGrade": 3,
+        "weight": 18
+    },
+    {
+        "ID": 12,
+        "name": "SRグレード４",
+        "rarity": 3,
+        "optionGrade": 4,
+        "weight": 5
+    },
+    {
+        "ID": 13,
+        "name": "SSRグレード１",
+        "rarity": 4,
+        "optionGrade": 1,
+        "weight": 36
+    },
+    {
+        "ID": 14,
+        "name": "SSRグレード２",
+        "rarity": 4,
+        "optionGrade": 2,
+        "weight": 38
+    },
+    {
+        "ID": 15,
+        "name": "SSRグレード３",
+        "rarity": 4,
+        "optionGrade": 3,
+        "weight": 19
+    },
+    {
+        "ID": 16,
+        "name": "SSRグレード４",
+        "rarity": 4,
+        "optionGrade": 4,
+        "weight": 7
+    },
+    {
+        "ID": 17,
+        "name": "URグレード１",
+        "rarity": 5,
+        "optionGrade": 1,
+        "weight": 32
+    },
+    {
+        "ID": 18,
+        "name": "URグレード２",
+        "rarity": 5,
+        "optionGrade": 2,
+        "weight": 40
+    },
+    {
+        "ID": 19,
+        "name": "URグレード３",
+        "rarity": 5,
+        "optionGrade": 3,
+        "weight": 20
+    },
+    {
+        "ID": 20,
+        "name": "URグレード４",
+        "rarity": 5,
+        "optionGrade": 4,
+        "weight": 8
+    }
+]

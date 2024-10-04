@@ -1,0 +1,104 @@
+[
+    {
+        "ID": 1,
+        "facility": 12,
+        "commuID": 4,
+        "advID": 200851
+    },
+    {
+        "ID": 2,
+        "facility": 12,
+        "commuID": 7,
+        "advID": 200856
+    },
+    {
+        "ID": 3,
+        "facility": 12,
+        "commuID": 11,
+        "advID": 200858
+    },
+    {
+        "ID": 4,
+        "facility": 12,
+        "commuID": 17,
+        "advID": 200866
+    },
+    {
+        "ID": 5,
+        "facility": 13,
+        "commuID": 2,
+        "advID": 200852
+    },
+    {
+        "ID": 6,
+        "facility": 13,
+        "commuID": 12,
+        "advID": 200859
+    },
+    {
+        "ID": 7,
+        "facility": 13,
+        "commuID": 13,
+        "advID": 200864
+    },
+    {
+        "ID": 11,
+        "facility": 17,
+        "commuID": 1,
+        "advID": 200853
+    },
+    {
+        "ID": 12,
+        "facility": 17,
+        "commuID": 5,
+        "advID": 200857
+    },
+    {
+        "ID": 13,
+        "facility": 17,
+        "commuID": 15,
+        "advID": 200865
+    },
+    {
+        "ID": 14,
+        "facility": 15,
+        "commuID": 3,
+        "advID": 200854
+    },
+    {
+        "ID": 15,
+        "facility": 15,
+        "commuID": 8,
+        "advID": 200860
+    },
+    {
+        "ID": 16,
+        "facility": 15,
+        "commuID": 16,
+        "advID": 200861
+    },
+    {
+        "ID": 17,
+        "facility": 15,
+        "commuID": 9,
+        "advID": 200867
+    },
+    {
+        "ID": 22,
+        "facility": 11,
+        "commuID": 6,
+        "advID": 200855
+    },
+    {
+        "ID": 23,
+        "facility": 11,
+        "commuID": 14,
+        "advID": 200862
+    },
+    {
+        "ID": 24,
+        "facility": 11,
+        "commuID": 10,
+        "advID": 200863
+    }
+]

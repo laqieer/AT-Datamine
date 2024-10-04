@@ -1,0 +1,127 @@
+[
+    {
+        "ID": 1,
+        "facility": 1,
+        "sequence": 10014
+    },
+    {
+        "ID": 2,
+        "facility": 2,
+        "sequence": 10014
+    },
+    {
+        "ID": 3,
+        "facility": 3,
+        "sequence": 10041
+    },
+    {
+        "ID": 4,
+        "facility": 4,
+        "sequence": 10041
+    },
+    {
+        "ID": 5,
+        "facility": 5,
+        "sequence": 10041
+    },
+    {
+        "ID": 6,
+        "facility": 6,
+        "sequence": 10041
+    },
+    {
+        "ID": 7,
+        "facility": 7,
+        "sequence": 10041
+    },
+    {
+        "ID": 8,
+        "facility": 8,
+        "sequence": 10041
+    },
+    {
+        "ID": 9,
+        "facility": 9,
+        "sequence": 10041
+    },
+    {
+        "ID": 10,
+        "facility": 10,
+        "sequence": 10041
+    },
+    {
+        "ID": 11,
+        "facility": 11,
+        "sequence": 10079
+    },
+    {
+        "ID": 12,
+        "facility": 12,
+        "sequence": 10079
+    },
+    {
+        "ID": 13,
+        "facility": 13,
+        "sequence": 10079
+    },
+    {
+        "ID": 14,
+        "facility": 14,
+        "sequence": 10079
+    },
+    {
+        "ID": 15,
+        "facility": 15,
+        "sequence": 10079
+    },
+    {
+        "ID": 16,
+        "facility": 16,
+        "sequence": 10079
+    },
+    {
+        "ID": 17,
+        "facility": 17,
+        "sequence": 10079
+    },
+    {
+        "ID": 18,
+        "facility": 18,
+        "sequence": 10123
+    },
+    {
+        "ID": 19,
+        "facility": 19,
+        "sequence": 10123
+    },
+    {
+        "ID": 20,
+        "facility": 20,
+        "sequence": 10014
+    },
+    {
+        "ID": 21,
+        "facility": 21,
+        "sequence": 10041
+    },
+    {
+        "ID": 22,
+        "facility": 22,
+        "sequence": 10037
+    },
+    {
+        "ID": 23,
+        "facility": 23,
+        "sequence": 10059
+    },
+    {
+        "ID": 24,
+        "facility": 24,
+        "sequence": 10050
+    },
+    {
+        "ID": 25,
+        "facility": 25,
+        "sequence": 10079
+    }
+]

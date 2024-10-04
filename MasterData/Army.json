@@ -1,0 +1,170 @@
+[
+    {
+        "ID": 1,
+        "move": 2,
+        "armor": 1,
+        "ride": 1
+    },
+    {
+        "ID": 2,
+        "move": 2,
+        "armor": 3,
+        "ride": 1
+    },
+    {
+        "ID": 3,
+        "move": 2,
+        "armor": 2,
+        "ride": 1
+    },
+    {
+        "ID": 4,
+        "move": 3,
+        "armor": 1,
+        "ride": 1
+    },
+    {
+        "ID": 5,
+        "move": 3,
+        "armor": 3,
+        "ride": 1
+    },
+    {
+        "ID": 6,
+        "move": 3,
+        "armor": 2,
+        "ride": 1
+    },
+    {
+        "ID": 7,
+        "move": 4,
+        "armor": 1,
+        "ride": 2
+    },
+    {
+        "ID": 8,
+        "move": 4,
+        "armor": 3,
+        "ride": 2
+    },
+    {
+        "ID": 9,
+        "move": 4,
+        "armor": 2,
+        "ride": 2
+    },
+    {
+        "ID": 10,
+        "move": 5,
+        "armor": 1,
+        "ride": 2
+    },
+    {
+        "ID": 11,
+        "move": 5,
+        "armor": 3,
+        "ride": 2
+    },
+    {
+        "ID": 12,
+        "move": 5,
+        "armor": 2,
+        "ride": 2
+    },
+    {
+        "ID": 13,
+        "move": 6,
+        "armor": 1,
+        "ride": 2
+    },
+    {
+        "ID": 14,
+        "move": 6,
+        "armor": 3,
+        "ride": 2
+    },
+    {
+        "ID": 15,
+        "move": 6,
+        "armor": 2,
+        "ride": 2
+    },
+    {
+        "ID": 16,
+        "move": 7,
+        "armor": 1,
+        "ride": 2
+    },
+    {
+        "ID": 17,
+        "move": 7,
+        "armor": 3,
+        "ride": 2
+    },
+    {
+        "ID": 18,
+        "move": 7,
+        "armor": 2,
+        "ride": 2
+    },
+    {
+        "ID": 19,
+        "move": 8,
+        "armor": 1,
+        "ride": 1
+    },
+    {
+        "ID": 20,
+        "move": 4,
+        "armor": 1,
+        "ride": 1
+    },
+    {
+        "ID": 21,
+        "move": 6,
+        "armor": 1,
+        "ride": 1
+    },
+    {
+        "ID": 22,
+        "move": 6,
+        "armor": 1,
+        "ride": 3
+    },
+    {
+        "ID": 23,
+        "move": 4,
+        "armor": 1,
+        "ride": 3
+    },
+    {
+        "ID": 24,
+        "move": 2,
+        "armor": 1,
+        "ride": 3
+    },
+    {
+        "ID": 25,
+        "move": 9,
+        "armor": 1,
+        "ride": 1
+    },
+    {
+        "ID": 26,
+        "move": 10,
+        "armor": 1,
+        "ride": 1
+    },
+    {
+        "ID": 27,
+        "move": 11,
+        "armor": 1,
+        "ride": 3
+    },
+    {
+        "ID": 28,
+        "move": 12,
+        "armor": 1,
+        "ride": 3
+    }
+]

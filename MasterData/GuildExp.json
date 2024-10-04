@@ -1,0 +1,152 @@
+[
+    {
+        "ID": 1,
+        "level": 1,
+        "fromExp": 0,
+        "toExp": 999
+    },
+    {
+        "ID": 2,
+        "level": 2,
+        "fromExp": 1000,
+        "toExp": 1999
+    },
+    {
+        "ID": 3,
+        "level": 3,
+        "fromExp": 2000,
+        "toExp": 4999
+    },
+    {
+        "ID": 4,
+        "level": 4,
+        "fromExp": 5000,
+        "toExp": 9999
+    },
+    {
+        "ID": 5,
+        "level": 5,
+        "fromExp": 10000,
+        "toExp": 19999
+    },
+    {
+        "ID": 6,
+        "level": 6,
+        "fromExp": 20000,
+        "toExp": 49999
+    },
+    {
+        "ID": 7,
+        "level": 7,
+        "fromExp": 50000,
+        "toExp": 74999
+    },
+    {
+        "ID": 8,
+        "level": 8,
+        "fromExp": 75000,
+        "toExp": 99999
+    },
+    {
+        "ID": 9,
+        "level": 9,
+        "fromExp": 100000,
+        "toExp": 149999
+    },
+    {
+        "ID": 10,
+        "level": 10,
+        "fromExp": 150000,
+        "toExp": 199999
+    },
+    {
+        "ID": 11,
+        "level": 11,
+        "fromExp": 200000,
+        "toExp": 299999
+    },
+    {
+        "ID": 12,
+        "level": 12,
+        "fromExp": 300000,
+        "toExp": 399999
+    },
+    {
+        "ID": 13,
+        "level": 13,
+        "fromExp": 400000,
+        "toExp": 499999
+    },
+    {
+        "ID": 14,
+        "level": 14,
+        "fromExp": 500000,
+        "toExp": 749999
+    },
+    {
+        "ID": 15,
+        "level": 15,
+        "fromExp": 750000,
+        "toExp": 999999
+    },
+    {
+        "ID": 16,
+        "level": 16,
+        "fromExp": 1000000,
+        "toExp": 1249999
+    },
+    {
+        "ID": 17,
+        "level": 17,
+        "fromExp": 1250000,
+        "toExp": 1499999
+    },
+    {
+        "ID": 18,
+        "level": 18,
+        "fromExp": 1500000,
+        "toExp": 1999999
+    },
+    {
+        "ID": 19,
+        "level": 19,
+        "fromExp": 2000000,
+        "toExp": 2499999
+    },
+    {
+        "ID": 20,
+        "level": 20,
+        "fromExp": 2500000,
+        "toExp": 2999999
+    },
+    {
+        "ID": 21,
+        "level": 21,
+        "fromExp": 3000000,
+        "toExp": 3499999
+    },
+    {
+        "ID": 22,
+        "level": 22,
+        "fromExp": 3500000,
+        "toExp": 3999999
+    },
+    {
+        "ID": 23,
+        "level": 23,
+        "fromExp": 4000000,
+        "toExp": 4499999
+    },
+    {
+        "ID": 24,
+        "level": 24,
+        "fromExp": 4500000,
+        "toExp": 4999999
+    },
+    {
+        "ID": 25,
+        "level": 25,
+        "fromExp": 5000000,
+        "toExp": 5999999
+    }
+]

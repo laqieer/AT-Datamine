@@ -1,0 +1,1702 @@
+[
+    {
+        "ID": 1,
+        "rewardGroupId": 10,
+        "consumeGroupTypeId": 50
+    },
+    {
+        "ID": 2,
+        "rewardGroupId": 1,
+        "consumeGroupTypeId": 82
+    },
+    {
+        "ID": 3,
+        "rewardGroupId": 40,
+        "consumeGroupTypeId": 4
+    },
+    {
+        "ID": 4,
+        "rewardGroupId": 2,
+        "consumeGroupTypeId": 87
+    },
+    {
+        "ID": 5,
+        "rewardGroupId": 39,
+        "consumeGroupTypeId": 19
+    },
+    {
+        "ID": 6,
+        "rewardGroupId": 4,
+        "consumeGroupTypeId": 63
+    },
+    {
+        "ID": 7,
+        "rewardGroupId": 6,
+        "consumeGroupTypeId": 73
+    },
+    {
+        "ID": 8,
+        "rewardGroupId": 9,
+        "consumeGroupTypeId": 51
+    },
+    {
+        "ID": 9,
+        "rewardGroupId": 27,
+        "consumeGroupTypeId": 35
+    },
+    {
+        "ID": 10,
+        "rewardGroupId": 3,
+        "consumeGroupTypeId": 77
+    },
+    {
+        "ID": 11,
+        "rewardGroupId": 39,
+        "consumeGroupTypeId": 19
+    },
+    {
+        "ID": 12,
+        "rewardGroupId": 5,
+        "consumeGroupTypeId": 68
+    },
+    {
+        "ID": 13,
+        "rewardGroupId": 7,
+        "consumeGroupTypeId": 59
+    },
+    {
+        "ID": 14,
+        "rewardGroupId": 13,
+        "consumeGroupTypeId": 51
+    },
+    {
+        "ID": 15,
+        "rewardGroupId": 26,
+        "consumeGroupTypeId": 32
+    },
+    {
+        "ID": 16,
+        "rewardGroupId": 8,
+        "consumeGroupTypeId": 55
+    },
+    {
+        "ID": 17,
+        "rewardGroupId": 18,
+        "consumeGroupTypeId": 51
+    },
+    {
+        "ID": 18,
+        "rewardGroupId": 42,
+        "consumeGroupTypeId": 8
+    },
+    {
+        "ID": 19,
+        "rewardGroupId": 1,
+        "consumeGroupTypeId": 83
+    },
+    {
+        "ID": 20,
+        "rewardGroupId": 32,
+        "consumeGroupTypeId": 1
+    },
+    {
+        "ID": 21,
+        "rewardGroupId": 2,
+        "consumeGroupTypeId": 88
+    },
+    {
+        "ID": 22,
+        "rewardGroupId": 38,
+        "consumeGroupTypeId": 20
+    },
+    {
+        "ID": 23,
+        "rewardGroupId": 4,
+        "consumeGroupTypeId": 64
+    },
+    {
+        "ID": 24,
+        "rewardGroupId": 6,
+        "consumeGroupTypeId": 74
+    },
+    {
+        "ID": 25,
+        "rewardGroupId": 16,
+        "consumeGroupTypeId": 52
+    },
+    {
+        "ID": 26,
+        "rewardGroupId": 38,
+        "consumeGroupTypeId": 21
+    },
+    {
+        "ID": 27,
+        "rewardGroupId": 3,
+        "consumeGroupTypeId": 78
+    },
+    {
+        "ID": 28,
+        "rewardGroupId": 38,
+        "consumeGroupTypeId": 20
+    },
+    {
+        "ID": 29,
+        "rewardGroupId": 5,
+        "consumeGroupTypeId": 69
+    },
+    {
+        "ID": 30,
+        "rewardGroupId": 7,
+        "consumeGroupTypeId": 60
+    },
+    {
+        "ID": 31,
+        "rewardGroupId": 15,
+        "consumeGroupTypeId": 52
+    },
+    {
+        "ID": 32,
+        "rewardGroupId": 38,
+        "consumeGroupTypeId": 21
+    },
+    {
+        "ID": 33,
+        "rewardGroupId": 8,
+        "consumeGroupTypeId": 56
+    },
+    {
+        "ID": 34,
+        "rewardGroupId": 26,
+        "consumeGroupTypeId": 33
+    },
+    {
+        "ID": 35,
+        "rewardGroupId": 44,
+        "consumeGroupTypeId": 15
+    },
+    {
+        "ID": 36,
+        "rewardGroupId": 1,
+        "consumeGroupTypeId": 83
+    },
+    {
+        "ID": 37,
+        "rewardGroupId": 35,
+        "consumeGroupTypeId": 29
+    },
+    {
+        "ID": 38,
+        "rewardGroupId": 2,
+        "consumeGroupTypeId": 88
+    },
+    {
+        "ID": 39,
+        "rewardGroupId": 38,
+        "consumeGroupTypeId": 20
+    },
+    {
+        "ID": 40,
+        "rewardGroupId": 4,
+        "consumeGroupTypeId": 64
+    },
+    {
+        "ID": 41,
+        "rewardGroupId": 6,
+        "consumeGroupTypeId": 74
+    },
+    {
+        "ID": 42,
+        "rewardGroupId": 14,
+        "consumeGroupTypeId": 52
+    },
+    {
+        "ID": 43,
+        "rewardGroupId": 38,
+        "consumeGroupTypeId": 21
+    },
+    {
+        "ID": 44,
+        "rewardGroupId": 3,
+        "consumeGroupTypeId": 78
+    },
+    {
+        "ID": 45,
+        "rewardGroupId": 38,
+        "consumeGroupTypeId": 20
+    },
+    {
+        "ID": 46,
+        "rewardGroupId": 5,
+        "consumeGroupTypeId": 69
+    },
+    {
+        "ID": 47,
+        "rewardGroupId": 7,
+        "consumeGroupTypeId": 60
+    },
+    {
+        "ID": 48,
+        "rewardGroupId": 17,
+        "consumeGroupTypeId": 52
+    },
+    {
+        "ID": 49,
+        "rewardGroupId": 38,
+        "consumeGroupTypeId": 21
+    },
+    {
+        "ID": 50,
+        "rewardGroupId": 8,
+        "consumeGroupTypeId": 56
+    },
+    {
+        "ID": 51,
+        "rewardGroupId": 26,
+        "consumeGroupTypeId": 34
+    },
+    {
+        "ID": 52,
+        "rewardGroupId": 39,
+        "consumeGroupTypeId": 20
+    },
+    {
+        "ID": 53,
+        "rewardGroupId": 1,
+        "consumeGroupTypeId": 83
+    },
+    {
+        "ID": 54,
+        "rewardGroupId": 41,
+        "consumeGroupTypeId": 5
+    },
+    {
+        "ID": 55,
+        "rewardGroupId": 2,
+        "consumeGroupTypeId": 88
+    },
+    {
+        "ID": 56,
+        "rewardGroupId": 28,
+        "consumeGroupTypeId": 38
+    },
+    {
+        "ID": 57,
+        "rewardGroupId": 4,
+        "consumeGroupTypeId": 64
+    },
+    {
+        "ID": 58,
+        "rewardGroupId": 6,
+        "consumeGroupTypeId": 74
+    },
+    {
+        "ID": 59,
+        "rewardGroupId": 11,
+        "consumeGroupTypeId": 52
+    },
+    {
+        "ID": 60,
+        "rewardGroupId": 30,
+        "consumeGroupTypeId": 44
+    },
+    {
+        "ID": 61,
+        "rewardGroupId": 3,
+        "consumeGroupTypeId": 78
+    },
+    {
+        "ID": 62,
+        "rewardGroupId": 29,
+        "consumeGroupTypeId": 41
+    },
+    {
+        "ID": 63,
+        "rewardGroupId": 5,
+        "consumeGroupTypeId": 69
+    },
+    {
+        "ID": 64,
+        "rewardGroupId": 7,
+        "consumeGroupTypeId": 60
+    },
+    {
+        "ID": 65,
+        "rewardGroupId": 12,
+        "consumeGroupTypeId": 52
+    },
+    {
+        "ID": 66,
+        "rewardGroupId": 31,
+        "consumeGroupTypeId": 47
+    },
+    {
+        "ID": 67,
+        "rewardGroupId": 8,
+        "consumeGroupTypeId": 56
+    },
+    {
+        "ID": 68,
+        "rewardGroupId": 43,
+        "consumeGroupTypeId": 12
+    },
+    {
+        "ID": 69,
+        "rewardGroupId": 42,
+        "consumeGroupTypeId": 9
+    },
+    {
+        "ID": 70,
+        "rewardGroupId": 1,
+        "consumeGroupTypeId": 84
+    },
+    {
+        "ID": 71,
+        "rewardGroupId": 33,
+        "consumeGroupTypeId": 2
+    },
+    {
+        "ID": 72,
+        "rewardGroupId": 2,
+        "consumeGroupTypeId": 89
+    },
+    {
+        "ID": 73,
+        "rewardGroupId": 38,
+        "consumeGroupTypeId": 22
+    },
+    {
+        "ID": 74,
+        "rewardGroupId": 4,
+        "consumeGroupTypeId": 65
+    },
+    {
+        "ID": 75,
+        "rewardGroupId": 6,
+        "consumeGroupTypeId": 75
+    },
+    {
+        "ID": 76,
+        "rewardGroupId": 38,
+        "consumeGroupTypeId": 23
+    },
+    {
+        "ID": 77,
+        "rewardGroupId": 38,
+        "consumeGroupTypeId": 23
+    },
+    {
+        "ID": 78,
+        "rewardGroupId": 3,
+        "consumeGroupTypeId": 79
+    },
+    {
+        "ID": 79,
+        "rewardGroupId": 38,
+        "consumeGroupTypeId": 22
+    },
+    {
+        "ID": 80,
+        "rewardGroupId": 5,
+        "consumeGroupTypeId": 70
+    },
+    {
+        "ID": 81,
+        "rewardGroupId": 7,
+        "consumeGroupTypeId": 61
+    },
+    {
+        "ID": 82,
+        "rewardGroupId": 21,
+        "consumeGroupTypeId": 53
+    },
+    {
+        "ID": 83,
+        "rewardGroupId": 38,
+        "consumeGroupTypeId": 23
+    },
+    {
+        "ID": 84,
+        "rewardGroupId": 8,
+        "consumeGroupTypeId": 57
+    },
+    {
+        "ID": 85,
+        "rewardGroupId": 43,
+        "consumeGroupTypeId": 13
+    },
+    {
+        "ID": 86,
+        "rewardGroupId": 44,
+        "consumeGroupTypeId": 16
+    },
+    {
+        "ID": 87,
+        "rewardGroupId": 1,
+        "consumeGroupTypeId": 84
+    },
+    {
+        "ID": 88,
+        "rewardGroupId": 36,
+        "consumeGroupTypeId": 30
+    },
+    {
+        "ID": 89,
+        "rewardGroupId": 2,
+        "consumeGroupTypeId": 89
+    },
+    {
+        "ID": 90,
+        "rewardGroupId": 38,
+        "consumeGroupTypeId": 22
+    },
+    {
+        "ID": 91,
+        "rewardGroupId": 4,
+        "consumeGroupTypeId": 65
+    },
+    {
+        "ID": 92,
+        "rewardGroupId": 6,
+        "consumeGroupTypeId": 75
+    },
+    {
+        "ID": 93,
+        "rewardGroupId": 38,
+        "consumeGroupTypeId": 23
+    },
+    {
+        "ID": 94,
+        "rewardGroupId": 38,
+        "consumeGroupTypeId": 23
+    },
+    {
+        "ID": 95,
+        "rewardGroupId": 3,
+        "consumeGroupTypeId": 79
+    },
+    {
+        "ID": 96,
+        "rewardGroupId": 38,
+        "consumeGroupTypeId": 22
+    },
+    {
+        "ID": 97,
+        "rewardGroupId": 5,
+        "consumeGroupTypeId": 70
+    },
+    {
+        "ID": 98,
+        "rewardGroupId": 7,
+        "consumeGroupTypeId": 61
+    },
+    {
+        "ID": 99,
+        "rewardGroupId": 22,
+        "consumeGroupTypeId": 53
+    },
+    {
+        "ID": 100,
+        "rewardGroupId": 38,
+        "consumeGroupTypeId": 23
+    },
+    {
+        "ID": 101,
+        "rewardGroupId": 8,
+        "consumeGroupTypeId": 57
+    },
+    {
+        "ID": 102,
+        "rewardGroupId": 43,
+        "consumeGroupTypeId": 13
+    },
+    {
+        "ID": 103,
+        "rewardGroupId": 39,
+        "consumeGroupTypeId": 22
+    },
+    {
+        "ID": 104,
+        "rewardGroupId": 1,
+        "consumeGroupTypeId": 84
+    },
+    {
+        "ID": 105,
+        "rewardGroupId": 41,
+        "consumeGroupTypeId": 6
+    },
+    {
+        "ID": 106,
+        "rewardGroupId": 2,
+        "consumeGroupTypeId": 89
+    },
+    {
+        "ID": 107,
+        "rewardGroupId": 28,
+        "consumeGroupTypeId": 39
+    },
+    {
+        "ID": 108,
+        "rewardGroupId": 4,
+        "consumeGroupTypeId": 65
+    },
+    {
+        "ID": 109,
+        "rewardGroupId": 6,
+        "consumeGroupTypeId": 75
+    },
+    {
+        "ID": 110,
+        "rewardGroupId": 20,
+        "consumeGroupTypeId": 53
+    },
+    {
+        "ID": 111,
+        "rewardGroupId": 30,
+        "consumeGroupTypeId": 45
+    },
+    {
+        "ID": 112,
+        "rewardGroupId": 3,
+        "consumeGroupTypeId": 79
+    },
+    {
+        "ID": 113,
+        "rewardGroupId": 29,
+        "consumeGroupTypeId": 42
+    },
+    {
+        "ID": 114,
+        "rewardGroupId": 5,
+        "consumeGroupTypeId": 70
+    },
+    {
+        "ID": 115,
+        "rewardGroupId": 7,
+        "consumeGroupTypeId": 61
+    },
+    {
+        "ID": 116,
+        "rewardGroupId": 19,
+        "consumeGroupTypeId": 53
+    },
+    {
+        "ID": 117,
+        "rewardGroupId": 31,
+        "consumeGroupTypeId": 48
+    },
+    {
+        "ID": 118,
+        "rewardGroupId": 8,
+        "consumeGroupTypeId": 57
+    },
+    {
+        "ID": 119,
+        "rewardGroupId": 41,
+        "consumeGroupTypeId": 6
+    },
+    {
+        "ID": 120,
+        "rewardGroupId": 42,
+        "consumeGroupTypeId": 10
+    },
+    {
+        "ID": 121,
+        "rewardGroupId": 1,
+        "consumeGroupTypeId": 85
+    },
+    {
+        "ID": 122,
+        "rewardGroupId": 34,
+        "consumeGroupTypeId": 3
+    },
+    {
+        "ID": 123,
+        "rewardGroupId": 2,
+        "consumeGroupTypeId": 90
+    },
+    {
+        "ID": 124,
+        "rewardGroupId": 38,
+        "consumeGroupTypeId": 24
+    },
+    {
+        "ID": 125,
+        "rewardGroupId": 4,
+        "consumeGroupTypeId": 66
+    },
+    {
+        "ID": 126,
+        "rewardGroupId": 6,
+        "consumeGroupTypeId": 76
+    },
+    {
+        "ID": 127,
+        "rewardGroupId": 27,
+        "consumeGroupTypeId": 36
+    },
+    {
+        "ID": 128,
+        "rewardGroupId": 38,
+        "consumeGroupTypeId": 26
+    },
+    {
+        "ID": 129,
+        "rewardGroupId": 3,
+        "consumeGroupTypeId": 80
+    },
+    {
+        "ID": 130,
+        "rewardGroupId": 38,
+        "consumeGroupTypeId": 24
+    },
+    {
+        "ID": 131,
+        "rewardGroupId": 5,
+        "consumeGroupTypeId": 71
+    },
+    {
+        "ID": 132,
+        "rewardGroupId": 7,
+        "consumeGroupTypeId": 62
+    },
+    {
+        "ID": 133,
+        "rewardGroupId": 24,
+        "consumeGroupTypeId": 54
+    },
+    {
+        "ID": 134,
+        "rewardGroupId": 38,
+        "consumeGroupTypeId": 27
+    },
+    {
+        "ID": 135,
+        "rewardGroupId": 8,
+        "consumeGroupTypeId": 58
+    },
+    {
+        "ID": 136,
+        "rewardGroupId": 42,
+        "consumeGroupTypeId": 11
+    },
+    {
+        "ID": 137,
+        "rewardGroupId": 44,
+        "consumeGroupTypeId": 17
+    },
+    {
+        "ID": 138,
+        "rewardGroupId": 1,
+        "consumeGroupTypeId": 85
+    },
+    {
+        "ID": 139,
+        "rewardGroupId": 37,
+        "consumeGroupTypeId": 31
+    },
+    {
+        "ID": 140,
+        "rewardGroupId": 2,
+        "consumeGroupTypeId": 90
+    },
+    {
+        "ID": 141,
+        "rewardGroupId": 38,
+        "consumeGroupTypeId": 24
+    },
+    {
+        "ID": 142,
+        "rewardGroupId": 4,
+        "consumeGroupTypeId": 67
+    },
+    {
+        "ID": 143,
+        "rewardGroupId": 6,
+        "consumeGroupTypeId": 76
+    },
+    {
+        "ID": 144,
+        "rewardGroupId": 27,
+        "consumeGroupTypeId": 37
+    },
+    {
+        "ID": 145,
+        "rewardGroupId": 38,
+        "consumeGroupTypeId": 26
+    },
+    {
+        "ID": 146,
+        "rewardGroupId": 3,
+        "consumeGroupTypeId": 80
+    },
+    {
+        "ID": 147,
+        "rewardGroupId": 38,
+        "consumeGroupTypeId": 25
+    },
+    {
+        "ID": 148,
+        "rewardGroupId": 5,
+        "consumeGroupTypeId": 72
+    },
+    {
+        "ID": 149,
+        "rewardGroupId": 7,
+        "consumeGroupTypeId": 62
+    },
+    {
+        "ID": 150,
+        "rewardGroupId": 25,
+        "consumeGroupTypeId": 54
+    },
+    {
+        "ID": 151,
+        "rewardGroupId": 38,
+        "consumeGroupTypeId": 28
+    },
+    {
+        "ID": 152,
+        "rewardGroupId": 8,
+        "consumeGroupTypeId": 58
+    },
+    {
+        "ID": 153,
+        "rewardGroupId": 44,
+        "consumeGroupTypeId": 18
+    },
+    {
+        "ID": 154,
+        "rewardGroupId": 39,
+        "consumeGroupTypeId": 24
+    },
+    {
+        "ID": 155,
+        "rewardGroupId": 1,
+        "consumeGroupTypeId": 86
+    },
+    {
+        "ID": 156,
+        "rewardGroupId": 41,
+        "consumeGroupTypeId": 7
+    },
+    {
+        "ID": 157,
+        "rewardGroupId": 2,
+        "consumeGroupTypeId": 91
+    },
+    {
+        "ID": 158,
+        "rewardGroupId": 28,
+        "consumeGroupTypeId": 40
+    },
+    {
+        "ID": 159,
+        "rewardGroupId": 4,
+        "consumeGroupTypeId": 66
+    },
+    {
+        "ID": 160,
+        "rewardGroupId": 6,
+        "consumeGroupTypeId": 76
+    },
+    {
+        "ID": 161,
+        "rewardGroupId": 39,
+        "consumeGroupTypeId": 26
+    },
+    {
+        "ID": 162,
+        "rewardGroupId": 30,
+        "consumeGroupTypeId": 46
+    },
+    {
+        "ID": 163,
+        "rewardGroupId": 3,
+        "consumeGroupTypeId": 81
+    },
+    {
+        "ID": 164,
+        "rewardGroupId": 29,
+        "consumeGroupTypeId": 43
+    },
+    {
+        "ID": 165,
+        "rewardGroupId": 5,
+        "consumeGroupTypeId": 72
+    },
+    {
+        "ID": 166,
+        "rewardGroupId": 7,
+        "consumeGroupTypeId": 62
+    },
+    {
+        "ID": 167,
+        "rewardGroupId": 23,
+        "consumeGroupTypeId": 54
+    },
+    {
+        "ID": 168,
+        "rewardGroupId": 31,
+        "consumeGroupTypeId": 49
+    },
+    {
+        "ID": 169,
+        "rewardGroupId": 8,
+        "consumeGroupTypeId": 58
+    },
+    {
+        "ID": 170,
+        "rewardGroupId": 43,
+        "consumeGroupTypeId": 14
+    },
+    {
+        "ID": 171,
+        "rewardGroupId": 10,
+        "consumeGroupTypeId": 50
+    },
+    {
+        "ID": 172,
+        "rewardGroupId": 1,
+        "consumeGroupTypeId": 82
+    },
+    {
+        "ID": 173,
+        "rewardGroupId": 40,
+        "consumeGroupTypeId": 4
+    },
+    {
+        "ID": 174,
+        "rewardGroupId": 2,
+        "consumeGroupTypeId": 87
+    },
+    {
+        "ID": 175,
+        "rewardGroupId": 39,
+        "consumeGroupTypeId": 19
+    },
+    {
+        "ID": 176,
+        "rewardGroupId": 4,
+        "consumeGroupTypeId": 63
+    },
+    {
+        "ID": 177,
+        "rewardGroupId": 6,
+        "consumeGroupTypeId": 73
+    },
+    {
+        "ID": 178,
+        "rewardGroupId": 9,
+        "consumeGroupTypeId": 51
+    },
+    {
+        "ID": 179,
+        "rewardGroupId": 27,
+        "consumeGroupTypeId": 35
+    },
+    {
+        "ID": 180,
+        "rewardGroupId": 3,
+        "consumeGroupTypeId": 77
+    },
+    {
+        "ID": 181,
+        "rewardGroupId": 39,
+        "consumeGroupTypeId": 19
+    },
+    {
+        "ID": 182,
+        "rewardGroupId": 5,
+        "consumeGroupTypeId": 68
+    },
+    {
+        "ID": 183,
+        "rewardGroupId": 7,
+        "consumeGroupTypeId": 59
+    },
+    {
+        "ID": 184,
+        "rewardGroupId": 13,
+        "consumeGroupTypeId": 51
+    },
+    {
+        "ID": 185,
+        "rewardGroupId": 26,
+        "consumeGroupTypeId": 32
+    },
+    {
+        "ID": 186,
+        "rewardGroupId": 8,
+        "consumeGroupTypeId": 55
+    },
+    {
+        "ID": 187,
+        "rewardGroupId": 18,
+        "consumeGroupTypeId": 51
+    },
+    {
+        "ID": 188,
+        "rewardGroupId": 42,
+        "consumeGroupTypeId": 8
+    },
+    {
+        "ID": 189,
+        "rewardGroupId": 1,
+        "consumeGroupTypeId": 83
+    },
+    {
+        "ID": 190,
+        "rewardGroupId": 32,
+        "consumeGroupTypeId": 1
+    },
+    {
+        "ID": 191,
+        "rewardGroupId": 2,
+        "consumeGroupTypeId": 88
+    },
+    {
+        "ID": 192,
+        "rewardGroupId": 38,
+        "consumeGroupTypeId": 20
+    },
+    {
+        "ID": 193,
+        "rewardGroupId": 4,
+        "consumeGroupTypeId": 64
+    },
+    {
+        "ID": 194,
+        "rewardGroupId": 6,
+        "consumeGroupTypeId": 74
+    },
+    {
+        "ID": 195,
+        "rewardGroupId": 16,
+        "consumeGroupTypeId": 52
+    },
+    {
+        "ID": 196,
+        "rewardGroupId": 38,
+        "consumeGroupTypeId": 21
+    },
+    {
+        "ID": 197,
+        "rewardGroupId": 3,
+        "consumeGroupTypeId": 78
+    },
+    {
+        "ID": 198,
+        "rewardGroupId": 38,
+        "consumeGroupTypeId": 20
+    },
+    {
+        "ID": 199,
+        "rewardGroupId": 5,
+        "consumeGroupTypeId": 69
+    },
+    {
+        "ID": 200,
+        "rewardGroupId": 7,
+        "consumeGroupTypeId": 60
+    },
+    {
+        "ID": 201,
+        "rewardGroupId": 15,
+        "consumeGroupTypeId": 52
+    },
+    {
+        "ID": 202,
+        "rewardGroupId": 38,
+        "consumeGroupTypeId": 21
+    },
+    {
+        "ID": 203,
+        "rewardGroupId": 8,
+        "consumeGroupTypeId": 56
+    },
+    {
+        "ID": 204,
+        "rewardGroupId": 26,
+        "consumeGroupTypeId": 33
+    },
+    {
+        "ID": 205,
+        "rewardGroupId": 44,
+        "consumeGroupTypeId": 15
+    },
+    {
+        "ID": 206,
+        "rewardGroupId": 1,
+        "consumeGroupTypeId": 83
+    },
+    {
+        "ID": 207,
+        "rewardGroupId": 35,
+        "consumeGroupTypeId": 29
+    },
+    {
+        "ID": 208,
+        "rewardGroupId": 2,
+        "consumeGroupTypeId": 88
+    },
+    {
+        "ID": 209,
+        "rewardGroupId": 38,
+        "consumeGroupTypeId": 20
+    },
+    {
+        "ID": 210,
+        "rewardGroupId": 4,
+        "consumeGroupTypeId": 64
+    },
+    {
+        "ID": 211,
+        "rewardGroupId": 6,
+        "consumeGroupTypeId": 74
+    },
+    {
+        "ID": 212,
+        "rewardGroupId": 14,
+        "consumeGroupTypeId": 52
+    },
+    {
+        "ID": 213,
+        "rewardGroupId": 38,
+        "consumeGroupTypeId": 21
+    },
+    {
+        "ID": 214,
+        "rewardGroupId": 3,
+        "consumeGroupTypeId": 78
+    },
+    {
+        "ID": 215,
+        "rewardGroupId": 38,
+        "consumeGroupTypeId": 20
+    },
+    {
+        "ID": 216,
+        "rewardGroupId": 5,
+        "consumeGroupTypeId": 69
+    },
+    {
+        "ID": 217,
+        "rewardGroupId": 7,
+        "consumeGroupTypeId": 60
+    },
+    {
+        "ID": 218,
+        "rewardGroupId": 17,
+        "consumeGroupTypeId": 52
+    },
+    {
+        "ID": 219,
+        "rewardGroupId": 38,
+        "consumeGroupTypeId": 21
+    },
+    {
+        "ID": 220,
+        "rewardGroupId": 8,
+        "consumeGroupTypeId": 56
+    },
+    {
+        "ID": 221,
+        "rewardGroupId": 26,
+        "consumeGroupTypeId": 34
+    },
+    {
+        "ID": 222,
+        "rewardGroupId": 39,
+        "consumeGroupTypeId": 20
+    },
+    {
+        "ID": 223,
+        "rewardGroupId": 1,
+        "consumeGroupTypeId": 83
+    },
+    {
+        "ID": 224,
+        "rewardGroupId": 41,
+        "consumeGroupTypeId": 5
+    },
+    {
+        "ID": 225,
+        "rewardGroupId": 2,
+        "consumeGroupTypeId": 88
+    },
+    {
+        "ID": 226,
+        "rewardGroupId": 28,
+        "consumeGroupTypeId": 38
+    },
+    {
+        "ID": 227,
+        "rewardGroupId": 4,
+        "consumeGroupTypeId": 64
+    },
+    {
+        "ID": 228,
+        "rewardGroupId": 6,
+        "consumeGroupTypeId": 74
+    },
+    {
+        "ID": 229,
+        "rewardGroupId": 11,
+        "consumeGroupTypeId": 52
+    },
+    {
+        "ID": 230,
+        "rewardGroupId": 30,
+        "consumeGroupTypeId": 44
+    },
+    {
+        "ID": 231,
+        "rewardGroupId": 3,
+        "consumeGroupTypeId": 78
+    },
+    {
+        "ID": 232,
+        "rewardGroupId": 29,
+        "consumeGroupTypeId": 41
+    },
+    {
+        "ID": 233,
+        "rewardGroupId": 5,
+        "consumeGroupTypeId": 69
+    },
+    {
+        "ID": 234,
+        "rewardGroupId": 7,
+        "consumeGroupTypeId": 60
+    },
+    {
+        "ID": 235,
+        "rewardGroupId": 12,
+        "consumeGroupTypeId": 52
+    },
+    {
+        "ID": 236,
+        "rewardGroupId": 31,
+        "consumeGroupTypeId": 47
+    },
+    {
+        "ID": 237,
+        "rewardGroupId": 8,
+        "consumeGroupTypeId": 56
+    },
+    {
+        "ID": 238,
+        "rewardGroupId": 43,
+        "consumeGroupTypeId": 12
+    },
+    {
+        "ID": 239,
+        "rewardGroupId": 42,
+        "consumeGroupTypeId": 9
+    },
+    {
+        "ID": 240,
+        "rewardGroupId": 1,
+        "consumeGroupTypeId": 84
+    },
+    {
+        "ID": 241,
+        "rewardGroupId": 33,
+        "consumeGroupTypeId": 2
+    },
+    {
+        "ID": 242,
+        "rewardGroupId": 2,
+        "consumeGroupTypeId": 89
+    },
+    {
+        "ID": 243,
+        "rewardGroupId": 38,
+        "consumeGroupTypeId": 22
+    },
+    {
+        "ID": 244,
+        "rewardGroupId": 4,
+        "consumeGroupTypeId": 65
+    },
+    {
+        "ID": 245,
+        "rewardGroupId": 6,
+        "consumeGroupTypeId": 75
+    },
+    {
+        "ID": 246,
+        "rewardGroupId": 38,
+        "consumeGroupTypeId": 23
+    },
+    {
+        "ID": 247,
+        "rewardGroupId": 38,
+        "consumeGroupTypeId": 23
+    },
+    {
+        "ID": 248,
+        "rewardGroupId": 3,
+        "consumeGroupTypeId": 79
+    },
+    {
+        "ID": 249,
+        "rewardGroupId": 38,
+        "consumeGroupTypeId": 22
+    },
+    {
+        "ID": 250,
+        "rewardGroupId": 5,
+        "consumeGroupTypeId": 70
+    },
+    {
+        "ID": 251,
+        "rewardGroupId": 7,
+        "consumeGroupTypeId": 61
+    },
+    {
+        "ID": 252,
+        "rewardGroupId": 45,
+        "consumeGroupTypeId": 92
+    },
+    {
+        "ID": 253,
+        "rewardGroupId": 38,
+        "consumeGroupTypeId": 23
+    },
+    {
+        "ID": 254,
+        "rewardGroupId": 8,
+        "consumeGroupTypeId": 57
+    },
+    {
+        "ID": 255,
+        "rewardGroupId": 43,
+        "consumeGroupTypeId": 13
+    },
+    {
+        "ID": 256,
+        "rewardGroupId": 44,
+        "consumeGroupTypeId": 16
+    },
+    {
+        "ID": 257,
+        "rewardGroupId": 1,
+        "consumeGroupTypeId": 84
+    },
+    {
+        "ID": 258,
+        "rewardGroupId": 36,
+        "consumeGroupTypeId": 30
+    },
+    {
+        "ID": 259,
+        "rewardGroupId": 2,
+        "consumeGroupTypeId": 89
+    },
+    {
+        "ID": 260,
+        "rewardGroupId": 38,
+        "consumeGroupTypeId": 22
+    },
+    {
+        "ID": 261,
+        "rewardGroupId": 4,
+        "consumeGroupTypeId": 65
+    },
+    {
+        "ID": 262,
+        "rewardGroupId": 6,
+        "consumeGroupTypeId": 75
+    },
+    {
+        "ID": 263,
+        "rewardGroupId": 38,
+        "consumeGroupTypeId": 23
+    },
+    {
+        "ID": 264,
+        "rewardGroupId": 38,
+        "consumeGroupTypeId": 23
+    },
+    {
+        "ID": 265,
+        "rewardGroupId": 3,
+        "consumeGroupTypeId": 79
+    },
+    {
+        "ID": 266,
+        "rewardGroupId": 38,
+        "consumeGroupTypeId": 22
+    },
+    {
+        "ID": 267,
+        "rewardGroupId": 5,
+        "consumeGroupTypeId": 70
+    },
+    {
+        "ID": 268,
+        "rewardGroupId": 7,
+        "consumeGroupTypeId": 61
+    },
+    {
+        "ID": 269,
+        "rewardGroupId": 46,
+        "consumeGroupTypeId": 92
+    },
+    {
+        "ID": 270,
+        "rewardGroupId": 38,
+        "consumeGroupTypeId": 23
+    },
+    {
+        "ID": 271,
+        "rewardGroupId": 8,
+        "consumeGroupTypeId": 57
+    },
+    {
+        "ID": 272,
+        "rewardGroupId": 43,
+        "consumeGroupTypeId": 13
+    },
+    {
+        "ID": 273,
+        "rewardGroupId": 39,
+        "consumeGroupTypeId": 22
+    },
+    {
+        "ID": 274,
+        "rewardGroupId": 1,
+        "consumeGroupTypeId": 84
+    },
+    {
+        "ID": 275,
+        "rewardGroupId": 41,
+        "consumeGroupTypeId": 6
+    },
+    {
+        "ID": 276,
+        "rewardGroupId": 2,
+        "consumeGroupTypeId": 89
+    },
+    {
+        "ID": 277,
+        "rewardGroupId": 28,
+        "consumeGroupTypeId": 39
+    },
+    {
+        "ID": 278,
+        "rewardGroupId": 4,
+        "consumeGroupTypeId": 65
+    },
+    {
+        "ID": 279,
+        "rewardGroupId": 6,
+        "consumeGroupTypeId": 75
+    },
+    {
+        "ID": 280,
+        "rewardGroupId": 20,
+        "consumeGroupTypeId": 53
+    },
+    {
+        "ID": 281,
+        "rewardGroupId": 30,
+        "consumeGroupTypeId": 45
+    },
+    {
+        "ID": 282,
+        "rewardGroupId": 3,
+        "consumeGroupTypeId": 79
+    },
+    {
+        "ID": 283,
+        "rewardGroupId": 29,
+        "consumeGroupTypeId": 42
+    },
+    {
+        "ID": 284,
+        "rewardGroupId": 5,
+        "consumeGroupTypeId": 70
+    },
+    {
+        "ID": 285,
+        "rewardGroupId": 7,
+        "consumeGroupTypeId": 61
+    },
+    {
+        "ID": 286,
+        "rewardGroupId": 19,
+        "consumeGroupTypeId": 53
+    },
+    {
+        "ID": 287,
+        "rewardGroupId": 31,
+        "consumeGroupTypeId": 48
+    },
+    {
+        "ID": 288,
+        "rewardGroupId": 8,
+        "consumeGroupTypeId": 57
+    },
+    {
+        "ID": 289,
+        "rewardGroupId": 41,
+        "consumeGroupTypeId": 6
+    },
+    {
+        "ID": 290,
+        "rewardGroupId": 42,
+        "consumeGroupTypeId": 10
+    },
+    {
+        "ID": 291,
+        "rewardGroupId": 1,
+        "consumeGroupTypeId": 85
+    },
+    {
+        "ID": 292,
+        "rewardGroupId": 34,
+        "consumeGroupTypeId": 3
+    },
+    {
+        "ID": 293,
+        "rewardGroupId": 2,
+        "consumeGroupTypeId": 90
+    },
+    {
+        "ID": 294,
+        "rewardGroupId": 38,
+        "consumeGroupTypeId": 24
+    },
+    {
+        "ID": 295,
+        "rewardGroupId": 4,
+        "consumeGroupTypeId": 66
+    },
+    {
+        "ID": 296,
+        "rewardGroupId": 6,
+        "consumeGroupTypeId": 76
+    },
+    {
+        "ID": 297,
+        "rewardGroupId": 27,
+        "consumeGroupTypeId": 36
+    },
+    {
+        "ID": 298,
+        "rewardGroupId": 38,
+        "consumeGroupTypeId": 26
+    },
+    {
+        "ID": 299,
+        "rewardGroupId": 3,
+        "consumeGroupTypeId": 80
+    },
+    {
+        "ID": 300,
+        "rewardGroupId": 38,
+        "consumeGroupTypeId": 24
+    },
+    {
+        "ID": 301,
+        "rewardGroupId": 5,
+        "consumeGroupTypeId": 71
+    },
+    {
+        "ID": 302,
+        "rewardGroupId": 7,
+        "consumeGroupTypeId": 62
+    },
+    {
+        "ID": 303,
+        "rewardGroupId": 47,
+        "consumeGroupTypeId": 93
+    },
+    {
+        "ID": 304,
+        "rewardGroupId": 38,
+        "consumeGroupTypeId": 27
+    },
+    {
+        "ID": 305,
+        "rewardGroupId": 8,
+        "consumeGroupTypeId": 58
+    },
+    {
+        "ID": 306,
+        "rewardGroupId": 42,
+        "consumeGroupTypeId": 11
+    },
+    {
+        "ID": 307,
+        "rewardGroupId": 44,
+        "consumeGroupTypeId": 17
+    },
+    {
+        "ID": 308,
+        "rewardGroupId": 1,
+        "consumeGroupTypeId": 85
+    },
+    {
+        "ID": 309,
+        "rewardGroupId": 37,
+        "consumeGroupTypeId": 31
+    },
+    {
+        "ID": 310,
+        "rewardGroupId": 2,
+        "consumeGroupTypeId": 90
+    },
+    {
+        "ID": 311,
+        "rewardGroupId": 38,
+        "consumeGroupTypeId": 24
+    },
+    {
+        "ID": 312,
+        "rewardGroupId": 4,
+        "consumeGroupTypeId": 67
+    },
+    {
+        "ID": 313,
+        "rewardGroupId": 6,
+        "consumeGroupTypeId": 76
+    },
+    {
+        "ID": 314,
+        "rewardGroupId": 27,
+        "consumeGroupTypeId": 37
+    },
+    {
+        "ID": 315,
+        "rewardGroupId": 38,
+        "consumeGroupTypeId": 26
+    },
+    {
+        "ID": 316,
+        "rewardGroupId": 3,
+        "consumeGroupTypeId": 80
+    },
+    {
+        "ID": 317,
+        "rewardGroupId": 38,
+        "consumeGroupTypeId": 25
+    },
+    {
+        "ID": 318,
+        "rewardGroupId": 5,
+        "consumeGroupTypeId": 72
+    },
+    {
+        "ID": 319,
+        "rewardGroupId": 7,
+        "consumeGroupTypeId": 62
+    },
+    {
+        "ID": 320,
+        "rewardGroupId": 48,
+        "consumeGroupTypeId": 93
+    },
+    {
+        "ID": 321,
+        "rewardGroupId": 38,
+        "consumeGroupTypeId": 28
+    },
+    {
+        "ID": 322,
+        "rewardGroupId": 8,
+        "consumeGroupTypeId": 58
+    },
+    {
+        "ID": 323,
+        "rewardGroupId": 44,
+        "consumeGroupTypeId": 18
+    },
+    {
+        "ID": 324,
+        "rewardGroupId": 39,
+        "consumeGroupTypeId": 24
+    },
+    {
+        "ID": 325,
+        "rewardGroupId": 1,
+        "consumeGroupTypeId": 86
+    },
+    {
+        "ID": 326,
+        "rewardGroupId": 41,
+        "consumeGroupTypeId": 7
+    },
+    {
+        "ID": 327,
+        "rewardGroupId": 2,
+        "consumeGroupTypeId": 91
+    },
+    {
+        "ID": 328,
+        "rewardGroupId": 28,
+        "consumeGroupTypeId": 40
+    },
+    {
+        "ID": 329,
+        "rewardGroupId": 4,
+        "consumeGroupTypeId": 66
+    },
+    {
+        "ID": 330,
+        "rewardGroupId": 6,
+        "consumeGroupTypeId": 76
+    },
+    {
+        "ID": 331,
+        "rewardGroupId": 39,
+        "consumeGroupTypeId": 26
+    },
+    {
+        "ID": 332,
+        "rewardGroupId": 30,
+        "consumeGroupTypeId": 46
+    },
+    {
+        "ID": 333,
+        "rewardGroupId": 3,
+        "consumeGroupTypeId": 81
+    },
+    {
+        "ID": 334,
+        "rewardGroupId": 29,
+        "consumeGroupTypeId": 43
+    },
+    {
+        "ID": 335,
+        "rewardGroupId": 5,
+        "consumeGroupTypeId": 72
+    },
+    {
+        "ID": 336,
+        "rewardGroupId": 7,
+        "consumeGroupTypeId": 62
+    },
+    {
+        "ID": 337,
+        "rewardGroupId": 23,
+        "consumeGroupTypeId": 54
+    },
+    {
+        "ID": 338,
+        "rewardGroupId": 31,
+        "consumeGroupTypeId": 49
+    },
+    {
+        "ID": 339,
+        "rewardGroupId": 8,
+        "consumeGroupTypeId": 58
+    },
+    {
+        "ID": 340,
+        "rewardGroupId": 43,
+        "consumeGroupTypeId": 14
+    }
+]

@@ -1,0 +1,132 @@
+[
+    {
+        "ID": 0,
+        "species": 1,
+        "speciesType": 1
+    },
+    {
+        "ID": 1,
+        "species": 2,
+        "speciesType": 1
+    },
+    {
+        "ID": 2,
+        "species": 2,
+        "speciesType": 2
+    },
+    {
+        "ID": 3,
+        "species": 3,
+        "speciesType": 1
+    },
+    {
+        "ID": 4,
+        "species": 3,
+        "speciesType": 3
+    },
+    {
+        "ID": 5,
+        "species": 4,
+        "speciesType": 1
+    },
+    {
+        "ID": 6,
+        "species": 4,
+        "speciesType": 5
+    },
+    {
+        "ID": 7,
+        "species": 5,
+        "speciesType": 1
+    },
+    {
+        "ID": 8,
+        "species": 5,
+        "speciesType": 6
+    },
+    {
+        "ID": 9,
+        "species": 6,
+        "speciesType": 2
+    },
+    {
+        "ID": 10,
+        "species": 7,
+        "speciesType": 2
+    },
+    {
+        "ID": 11,
+        "species": 7,
+        "speciesType": 5
+    },
+    {
+        "ID": 12,
+        "species": 8,
+        "speciesType": 2
+    },
+    {
+        "ID": 13,
+        "species": 8,
+        "speciesType": 6
+    },
+    {
+        "ID": 14,
+        "species": 9,
+        "speciesType": 3
+    },
+    {
+        "ID": 15,
+        "species": 10,
+        "speciesType": 3
+    },
+    {
+        "ID": 16,
+        "species": 10,
+        "speciesType": 5
+    },
+    {
+        "ID": 17,
+        "species": 11,
+        "speciesType": 3
+    },
+    {
+        "ID": 18,
+        "species": 11,
+        "speciesType": 6
+    },
+    {
+        "ID": 19,
+        "species": 12,
+        "speciesType": 5
+    },
+    {
+        "ID": 20,
+        "species": 13,
+        "speciesType": 6
+    },
+    {
+        "ID": 21,
+        "species": 14,
+        "speciesType": 6
+    },
+    {
+        "ID": 22,
+        "species": 14,
+        "speciesType": 5
+    },
+    {
+        "ID": 23,
+        "species": 15,
+        "speciesType": 4
+    },
+    {
+        "ID": 24,
+        "species": 16,
+        "speciesType": 4
+    },
+    {
+        "ID": 25,
+        "species": 16,
+        "speciesType": 3
+    }
+]

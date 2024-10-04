@@ -1,0 +1,86 @@
+[
+    {
+        "ID": 1,
+        "groupId": 1,
+        "difficulty": 1,
+        "baseScore": 1000,
+        "killedScore": 10
+    },
+    {
+        "ID": 2,
+        "groupId": 1,
+        "difficulty": 2,
+        "baseScore": 6000,
+        "killedScore": 50
+    },
+    {
+        "ID": 3,
+        "groupId": 1,
+        "difficulty": 3,
+        "baseScore": 9000,
+        "killedScore": 100
+    },
+    {
+        "ID": 4,
+        "groupId": 2,
+        "difficulty": 1,
+        "baseScore": 50,
+        "killedScore": 500
+    },
+    {
+        "ID": 5,
+        "groupId": 2,
+        "difficulty": 2,
+        "baseScore": 100,
+        "killedScore": 1000
+    },
+    {
+        "ID": 6,
+        "groupId": 2,
+        "difficulty": 3,
+        "baseScore": 150,
+        "killedScore": 2000
+    },
+    {
+        "ID": 7,
+        "groupId": 3,
+        "difficulty": 1,
+        "baseScore": 50,
+        "killedScore": 500
+    },
+    {
+        "ID": 8,
+        "groupId": 3,
+        "difficulty": 2,
+        "baseScore": 100,
+        "killedScore": 1000
+    },
+    {
+        "ID": 9,
+        "groupId": 3,
+        "difficulty": 3,
+        "baseScore": 150,
+        "killedScore": 2000
+    },
+    {
+        "ID": 10,
+        "groupId": 4,
+        "difficulty": 1,
+        "baseScore": 100,
+        "killedScore": 100
+    },
+    {
+        "ID": 11,
+        "groupId": 4,
+        "difficulty": 2,
+        "baseScore": 100,
+        "killedScore": 500
+    },
+    {
+        "ID": 12,
+        "groupId": 4,
+        "difficulty": 3,
+        "baseScore": 500,
+        "killedScore": 1000
+    }
+]

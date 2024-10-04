@@ -1,0 +1,26 @@
+[
+    {
+        "ID": 1,
+        "level": 1,
+        "successPercentage": 100,
+        "maxEnergy": 1
+    },
+    {
+        "ID": 2,
+        "level": 2,
+        "successPercentage": 60,
+        "maxEnergy": 3
+    },
+    {
+        "ID": 3,
+        "level": 3,
+        "successPercentage": 25,
+        "maxEnergy": 9
+    },
+    {
+        "ID": 4,
+        "level": 4,
+        "successPercentage": 15,
+        "maxEnergy": 15
+    }
+]

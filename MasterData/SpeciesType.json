@@ -1,0 +1,37 @@
+[
+    {
+        "ID": 0,
+        "name": "無",
+        "displayName": "無"
+    },
+    {
+        "ID": 1,
+        "name": "人",
+        "displayName": "人"
+    },
+    {
+        "ID": 2,
+        "name": "竜",
+        "displayName": "竜"
+    },
+    {
+        "ID": 3,
+        "name": "獣",
+        "displayName": "獣"
+    },
+    {
+        "ID": 4,
+        "name": "バルバロイ",
+        "displayName": "バルバロイ"
+    },
+    {
+        "ID": 5,
+        "name": "神",
+        "displayName": "神"
+    },
+    {
+        "ID": 6,
+        "name": "魔",
+        "displayName": "魔"
+    }
+]

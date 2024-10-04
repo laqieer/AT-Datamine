@@ -1,0 +1,58 @@
+[
+    {
+        "ID": 1,
+        "articleID": 1001,
+        "storyAbilityID": 13,
+        "StoryShopUpdateTypeID": 2,
+        "value": 2
+    },
+    {
+        "ID": 2,
+        "articleID": 1002,
+        "storyAbilityID": 13,
+        "StoryShopUpdateTypeID": 2,
+        "value": 2
+    },
+    {
+        "ID": 3,
+        "articleID": 1001,
+        "storyAbilityID": 17,
+        "StoryShopUpdateTypeID": 2,
+        "value": 3
+    },
+    {
+        "ID": 4,
+        "articleID": 1002,
+        "storyAbilityID": 17,
+        "StoryShopUpdateTypeID": 2,
+        "value": 3
+    },
+    {
+        "ID": 5,
+        "articleID": 1017,
+        "storyAbilityID": 17,
+        "StoryShopUpdateTypeID": 2,
+        "value": 2
+    },
+    {
+        "ID": 6,
+        "articleID": 1001,
+        "storyAbilityID": 23,
+        "StoryShopUpdateTypeID": 2,
+        "value": 5
+    },
+    {
+        "ID": 7,
+        "articleID": 1002,
+        "storyAbilityID": 23,
+        "StoryShopUpdateTypeID": 2,
+        "value": 5
+    },
+    {
+        "ID": 8,
+        "articleID": 1017,
+        "storyAbilityID": 23,
+        "StoryShopUpdateTypeID": 2,
+        "value": 3
+    }
+]

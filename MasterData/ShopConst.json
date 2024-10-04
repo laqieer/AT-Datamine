@@ -1,0 +1,8 @@
+[
+    {
+        "ID": 1,
+        "maxPurchaseQuantity": 999,
+        "maxSaleCategoryCount": 10,
+        "maxSaleQuantity": 999
+    }
+]

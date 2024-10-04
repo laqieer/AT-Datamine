@@ -1,0 +1,234 @@
+[
+    {
+        "ID": 10000,
+        "type": 1,
+        "context1": 0,
+        "context2": 0,
+        "context3": 0,
+        "context4": 0
+    },
+    {
+        "ID": 11000,
+        "type": 2,
+        "context1": 20,
+        "context2": 0,
+        "context3": 0,
+        "context4": 0
+    },
+    {
+        "ID": 12000,
+        "type": 3,
+        "context1": 10,
+        "context2": 0,
+        "context3": 0,
+        "context4": 0
+    },
+    {
+        "ID": 13000,
+        "type": 4,
+        "context1": 0,
+        "context2": 0,
+        "context3": 0,
+        "context4": 0
+    },
+    {
+        "ID": 14000,
+        "type": 5,
+        "context1": 30,
+        "context2": 0,
+        "context3": 0,
+        "context4": 0
+    },
+    {
+        "ID": 15020,
+        "type": 6,
+        "context1": 20,
+        "context2": 0,
+        "context3": 0,
+        "context4": 0
+    },
+    {
+        "ID": 15040,
+        "type": 6,
+        "context1": 40,
+        "context2": 0,
+        "context3": 0,
+        "context4": 0
+    },
+    {
+        "ID": 15060,
+        "type": 6,
+        "context1": 60,
+        "context2": 0,
+        "context3": 0,
+        "context4": 0
+    },
+    {
+        "ID": 15070,
+        "type": 6,
+        "context1": 70,
+        "context2": 0,
+        "context3": 0,
+        "context4": 0
+    },
+    {
+        "ID": 15080,
+        "type": 6,
+        "context1": 80,
+        "context2": 0,
+        "context3": 0,
+        "context4": 0
+    },
+    {
+        "ID": 15090,
+        "type": 6,
+        "context1": 90,
+        "context2": 0,
+        "context3": 0,
+        "context4": 0
+    },
+    {
+        "ID": 15100,
+        "type": 6,
+        "context1": 100,
+        "context2": 0,
+        "context3": 0,
+        "context4": 0
+    },
+    {
+        "ID": 16000,
+        "type": 7,
+        "context1": 0,
+        "context2": 0,
+        "context3": 0,
+        "context4": 0
+    },
+    {
+        "ID": 17000,
+        "type": 8,
+        "context1": 0,
+        "context2": 0,
+        "context3": 0,
+        "context4": 0
+    },
+    {
+        "ID": 17001,
+        "type": 8,
+        "context1": 0,
+        "context2": 0,
+        "context3": 0,
+        "context4": 0
+    },
+    {
+        "ID": 18000,
+        "type": 9,
+        "context1": 25,
+        "context2": 0,
+        "context3": 0,
+        "context4": 0
+    },
+    {
+        "ID": 18001,
+        "type": 9,
+        "context1": 35,
+        "context2": 0,
+        "context3": 0,
+        "context4": 0
+    },
+    {
+        "ID": 19000,
+        "type": 10,
+        "context1": 2,
+        "context2": 0,
+        "context3": 0,
+        "context4": 0
+    },
+    {
+        "ID": 19001,
+        "type": 10,
+        "context1": 10,
+        "context2": 0,
+        "context3": 0,
+        "context4": 0
+    },
+    {
+        "ID": 20000,
+        "type": 11,
+        "context1": 0,
+        "context2": 0,
+        "context3": 0,
+        "context4": 0
+    },
+    {
+        "ID": 21000,
+        "type": 12,
+        "context1": 0,
+        "context2": 0,
+        "context3": 0,
+        "context4": 0
+    },
+    {
+        "ID": 22000,
+        "type": 13,
+        "context1": 0,
+        "context2": 0,
+        "context3": 0,
+        "context4": 0
+    },
+    {
+        "ID": 23000,
+        "type": 14,
+        "context1": 0,
+        "context2": 0,
+        "context3": 0,
+        "context4": 0
+    },
+    {
+        "ID": 24000,
+        "type": 15,
+        "context1": 0,
+        "context2": 0,
+        "context3": 0,
+        "context4": 0
+    },
+    {
+        "ID": 25000,
+        "type": 16,
+        "context1": 0,
+        "context2": 0,
+        "context3": 0,
+        "context4": 0
+    },
+    {
+        "ID": 26000,
+        "type": 17,
+        "context1": 0,
+        "context2": 0,
+        "context3": 0,
+        "context4": 0
+    },
+    {
+        "ID": 27000,
+        "type": 18,
+        "context1": 0,
+        "context2": 0,
+        "context3": 0,
+        "context4": 0
+    },
+    {
+        "ID": 28000,
+        "type": 19,
+        "context1": 0,
+        "context2": 0,
+        "context3": 0,
+        "context4": 0
+    },
+    {
+        "ID": 29000,
+        "type": 20,
+        "context1": 0,
+        "context2": 0,
+        "context3": 0,
+        "context4": 0
+    }
+]

@@ -1,0 +1,8 @@
+[
+    {
+        "ID": 0,
+        "maxLp": 3,
+        "lostComebackTime": 1200,
+        "shorteningLostComebackTimeByCoin": 12
+    }
+]

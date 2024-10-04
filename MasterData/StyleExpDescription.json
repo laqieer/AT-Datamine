@@ -1,0 +1,1787 @@
+[
+    {
+        "ID": 1,
+        "styleExp": 1,
+        "level": 1,
+        "from": 0,
+        "to": 120
+    },
+    {
+        "ID": 2,
+        "styleExp": 1,
+        "level": 2,
+        "from": 121,
+        "to": 295
+    },
+    {
+        "ID": 3,
+        "styleExp": 1,
+        "level": 3,
+        "from": 296,
+        "to": 536
+    },
+    {
+        "ID": 4,
+        "styleExp": 1,
+        "level": 4,
+        "from": 537,
+        "to": 855
+    },
+    {
+        "ID": 5,
+        "styleExp": 1,
+        "level": 5,
+        "from": 856,
+        "to": 1265
+    },
+    {
+        "ID": 6,
+        "styleExp": 1,
+        "level": 6,
+        "from": 1266,
+        "to": 1782
+    },
+    {
+        "ID": 7,
+        "styleExp": 1,
+        "level": 7,
+        "from": 1783,
+        "to": 2424
+    },
+    {
+        "ID": 8,
+        "styleExp": 1,
+        "level": 8,
+        "from": 2425,
+        "to": 3210
+    },
+    {
+        "ID": 9,
+        "styleExp": 1,
+        "level": 9,
+        "from": 3211,
+        "to": 4162
+    },
+    {
+        "ID": 10,
+        "styleExp": 1,
+        "level": 10,
+        "from": 4163,
+        "to": 5303
+    },
+    {
+        "ID": 11,
+        "styleExp": 1,
+        "level": 11,
+        "from": 5304,
+        "to": 6661
+    },
+    {
+        "ID": 12,
+        "styleExp": 1,
+        "level": 12,
+        "from": 6662,
+        "to": 8265
+    },
+    {
+        "ID": 13,
+        "styleExp": 1,
+        "level": 13,
+        "from": 8266,
+        "to": 10147
+    },
+    {
+        "ID": 14,
+        "styleExp": 1,
+        "level": 14,
+        "from": 10148,
+        "to": 12343
+    },
+    {
+        "ID": 15,
+        "styleExp": 1,
+        "level": 15,
+        "from": 12344,
+        "to": 14892
+    },
+    {
+        "ID": 16,
+        "styleExp": 1,
+        "level": 16,
+        "from": 14893,
+        "to": 17836
+    },
+    {
+        "ID": 17,
+        "styleExp": 1,
+        "level": 17,
+        "from": 17837,
+        "to": 21223
+    },
+    {
+        "ID": 18,
+        "styleExp": 1,
+        "level": 18,
+        "from": 21224,
+        "to": 25103
+    },
+    {
+        "ID": 19,
+        "styleExp": 1,
+        "level": 19,
+        "from": 25104,
+        "to": 29532
+    },
+    {
+        "ID": 20,
+        "styleExp": 1,
+        "level": 20,
+        "from": 29533,
+        "to": 34570
+    },
+    {
+        "ID": 21,
+        "styleExp": 1,
+        "level": 21,
+        "from": 34571,
+        "to": 40283
+    },
+    {
+        "ID": 22,
+        "styleExp": 1,
+        "level": 22,
+        "from": 40284,
+        "to": 46742
+    },
+    {
+        "ID": 23,
+        "styleExp": 1,
+        "level": 23,
+        "from": 46743,
+        "to": 54025
+    },
+    {
+        "ID": 24,
+        "styleExp": 1,
+        "level": 24,
+        "from": 54026,
+        "to": 62215
+    },
+    {
+        "ID": 25,
+        "styleExp": 1,
+        "level": 25,
+        "from": 62216,
+        "to": 71402
+    },
+    {
+        "ID": 26,
+        "styleExp": 1,
+        "level": 26,
+        "from": 71403,
+        "to": 81684
+    },
+    {
+        "ID": 27,
+        "styleExp": 1,
+        "level": 27,
+        "from": 81685,
+        "to": 93166
+    },
+    {
+        "ID": 28,
+        "styleExp": 1,
+        "level": 28,
+        "from": 93167,
+        "to": 105962
+    },
+    {
+        "ID": 29,
+        "styleExp": 1,
+        "level": 29,
+        "from": 105963,
+        "to": 120194
+    },
+    {
+        "ID": 30,
+        "styleExp": 1,
+        "level": 30,
+        "from": 120195,
+        "to": 135993
+    },
+    {
+        "ID": 31,
+        "styleExp": 1,
+        "level": 31,
+        "from": 135994,
+        "to": 153501
+    },
+    {
+        "ID": 32,
+        "styleExp": 1,
+        "level": 32,
+        "from": 153502,
+        "to": 172869
+    },
+    {
+        "ID": 33,
+        "styleExp": 1,
+        "level": 33,
+        "from": 172870,
+        "to": 194259
+    },
+    {
+        "ID": 34,
+        "styleExp": 1,
+        "level": 34,
+        "from": 194260,
+        "to": 217846
+    },
+    {
+        "ID": 35,
+        "styleExp": 1,
+        "level": 35,
+        "from": 217847,
+        "to": 243817
+    },
+    {
+        "ID": 36,
+        "styleExp": 1,
+        "level": 36,
+        "from": 243818,
+        "to": 272372
+    },
+    {
+        "ID": 37,
+        "styleExp": 1,
+        "level": 37,
+        "from": 272373,
+        "to": 303724
+    },
+    {
+        "ID": 38,
+        "styleExp": 1,
+        "level": 38,
+        "from": 303725,
+        "to": 338102
+    },
+    {
+        "ID": 39,
+        "styleExp": 1,
+        "level": 39,
+        "from": 338103,
+        "to": 375750
+    },
+    {
+        "ID": 40,
+        "styleExp": 1,
+        "level": 40,
+        "from": 375751,
+        "to": 416928
+    },
+    {
+        "ID": 41,
+        "styleExp": 1,
+        "level": 41,
+        "from": 416929,
+        "to": 461913
+    },
+    {
+        "ID": 42,
+        "styleExp": 1,
+        "level": 42,
+        "from": 461914,
+        "to": 511002
+    },
+    {
+        "ID": 43,
+        "styleExp": 1,
+        "level": 43,
+        "from": 511003,
+        "to": 564509
+    },
+    {
+        "ID": 44,
+        "styleExp": 1,
+        "level": 44,
+        "from": 564510,
+        "to": 622769
+    },
+    {
+        "ID": 45,
+        "styleExp": 1,
+        "level": 45,
+        "from": 622770,
+        "to": 686140
+    },
+    {
+        "ID": 46,
+        "styleExp": 1,
+        "level": 46,
+        "from": 686141,
+        "to": 755000
+    },
+    {
+        "ID": 47,
+        "styleExp": 1,
+        "level": 47,
+        "from": 755001,
+        "to": 829752
+    },
+    {
+        "ID": 48,
+        "styleExp": 1,
+        "level": 48,
+        "from": 829753,
+        "to": 910824
+    },
+    {
+        "ID": 49,
+        "styleExp": 1,
+        "level": 49,
+        "from": 910825,
+        "to": 998670
+    },
+    {
+        "ID": 50,
+        "styleExp": 1,
+        "level": 50,
+        "from": 998671,
+        "to": 1093772
+    },
+    {
+        "ID": 51,
+        "styleExp": 1,
+        "level": 51,
+        "from": 1093773,
+        "to": 9999999
+    },
+    {
+        "ID": 52,
+        "styleExp": 2,
+        "level": 1,
+        "from": 0,
+        "to": 120
+    },
+    {
+        "ID": 53,
+        "styleExp": 2,
+        "level": 2,
+        "from": 121,
+        "to": 295
+    },
+    {
+        "ID": 54,
+        "styleExp": 2,
+        "level": 3,
+        "from": 296,
+        "to": 536
+    },
+    {
+        "ID": 55,
+        "styleExp": 2,
+        "level": 4,
+        "from": 537,
+        "to": 855
+    },
+    {
+        "ID": 56,
+        "styleExp": 2,
+        "level": 5,
+        "from": 856,
+        "to": 1265
+    },
+    {
+        "ID": 57,
+        "styleExp": 2,
+        "level": 6,
+        "from": 1266,
+        "to": 1782
+    },
+    {
+        "ID": 58,
+        "styleExp": 2,
+        "level": 7,
+        "from": 1783,
+        "to": 2424
+    },
+    {
+        "ID": 59,
+        "styleExp": 2,
+        "level": 8,
+        "from": 2425,
+        "to": 3210
+    },
+    {
+        "ID": 60,
+        "styleExp": 2,
+        "level": 9,
+        "from": 3211,
+        "to": 4162
+    },
+    {
+        "ID": 61,
+        "styleExp": 2,
+        "level": 10,
+        "from": 4163,
+        "to": 5303
+    },
+    {
+        "ID": 62,
+        "styleExp": 2,
+        "level": 11,
+        "from": 5304,
+        "to": 6661
+    },
+    {
+        "ID": 63,
+        "styleExp": 2,
+        "level": 12,
+        "from": 6662,
+        "to": 8265
+    },
+    {
+        "ID": 64,
+        "styleExp": 2,
+        "level": 13,
+        "from": 8266,
+        "to": 10147
+    },
+    {
+        "ID": 65,
+        "styleExp": 2,
+        "level": 14,
+        "from": 10148,
+        "to": 12343
+    },
+    {
+        "ID": 66,
+        "styleExp": 2,
+        "level": 15,
+        "from": 12344,
+        "to": 14892
+    },
+    {
+        "ID": 67,
+        "styleExp": 2,
+        "level": 16,
+        "from": 14893,
+        "to": 17836
+    },
+    {
+        "ID": 68,
+        "styleExp": 2,
+        "level": 17,
+        "from": 17837,
+        "to": 21223
+    },
+    {
+        "ID": 69,
+        "styleExp": 2,
+        "level": 18,
+        "from": 21224,
+        "to": 25103
+    },
+    {
+        "ID": 70,
+        "styleExp": 2,
+        "level": 19,
+        "from": 25104,
+        "to": 29532
+    },
+    {
+        "ID": 71,
+        "styleExp": 2,
+        "level": 20,
+        "from": 29533,
+        "to": 34570
+    },
+    {
+        "ID": 72,
+        "styleExp": 2,
+        "level": 21,
+        "from": 34571,
+        "to": 40283
+    },
+    {
+        "ID": 73,
+        "styleExp": 2,
+        "level": 22,
+        "from": 40284,
+        "to": 46742
+    },
+    {
+        "ID": 74,
+        "styleExp": 2,
+        "level": 23,
+        "from": 46743,
+        "to": 54025
+    },
+    {
+        "ID": 75,
+        "styleExp": 2,
+        "level": 24,
+        "from": 54026,
+        "to": 62215
+    },
+    {
+        "ID": 76,
+        "styleExp": 2,
+        "level": 25,
+        "from": 62216,
+        "to": 71402
+    },
+    {
+        "ID": 77,
+        "styleExp": 2,
+        "level": 26,
+        "from": 71403,
+        "to": 81684
+    },
+    {
+        "ID": 78,
+        "styleExp": 2,
+        "level": 27,
+        "from": 81685,
+        "to": 93166
+    },
+    {
+        "ID": 79,
+        "styleExp": 2,
+        "level": 28,
+        "from": 93167,
+        "to": 105962
+    },
+    {
+        "ID": 80,
+        "styleExp": 2,
+        "level": 29,
+        "from": 105963,
+        "to": 120194
+    },
+    {
+        "ID": 81,
+        "styleExp": 2,
+        "level": 30,
+        "from": 120195,
+        "to": 135993
+    },
+    {
+        "ID": 82,
+        "styleExp": 2,
+        "level": 31,
+        "from": 135994,
+        "to": 153501
+    },
+    {
+        "ID": 83,
+        "styleExp": 2,
+        "level": 32,
+        "from": 153502,
+        "to": 172869
+    },
+    {
+        "ID": 84,
+        "styleExp": 2,
+        "level": 33,
+        "from": 172870,
+        "to": 194259
+    },
+    {
+        "ID": 85,
+        "styleExp": 2,
+        "level": 34,
+        "from": 194260,
+        "to": 217846
+    },
+    {
+        "ID": 86,
+        "styleExp": 2,
+        "level": 35,
+        "from": 217847,
+        "to": 243817
+    },
+    {
+        "ID": 87,
+        "styleExp": 2,
+        "level": 36,
+        "from": 243818,
+        "to": 272372
+    },
+    {
+        "ID": 88,
+        "styleExp": 2,
+        "level": 37,
+        "from": 272373,
+        "to": 303724
+    },
+    {
+        "ID": 89,
+        "styleExp": 2,
+        "level": 38,
+        "from": 303725,
+        "to": 338102
+    },
+    {
+        "ID": 90,
+        "styleExp": 2,
+        "level": 39,
+        "from": 338103,
+        "to": 375750
+    },
+    {
+        "ID": 91,
+        "styleExp": 2,
+        "level": 40,
+        "from": 375751,
+        "to": 416928
+    },
+    {
+        "ID": 92,
+        "styleExp": 2,
+        "level": 41,
+        "from": 416929,
+        "to": 461913
+    },
+    {
+        "ID": 93,
+        "styleExp": 2,
+        "level": 42,
+        "from": 461914,
+        "to": 511002
+    },
+    {
+        "ID": 94,
+        "styleExp": 2,
+        "level": 43,
+        "from": 511003,
+        "to": 564509
+    },
+    {
+        "ID": 95,
+        "styleExp": 2,
+        "level": 44,
+        "from": 564510,
+        "to": 622769
+    },
+    {
+        "ID": 96,
+        "styleExp": 2,
+        "level": 45,
+        "from": 622770,
+        "to": 686140
+    },
+    {
+        "ID": 97,
+        "styleExp": 2,
+        "level": 46,
+        "from": 686141,
+        "to": 755000
+    },
+    {
+        "ID": 98,
+        "styleExp": 2,
+        "level": 47,
+        "from": 755001,
+        "to": 829752
+    },
+    {
+        "ID": 99,
+        "styleExp": 2,
+        "level": 48,
+        "from": 829753,
+        "to": 910824
+    },
+    {
+        "ID": 100,
+        "styleExp": 2,
+        "level": 49,
+        "from": 910825,
+        "to": 998670
+    },
+    {
+        "ID": 101,
+        "styleExp": 2,
+        "level": 50,
+        "from": 998671,
+        "to": 1093772
+    },
+    {
+        "ID": 102,
+        "styleExp": 2,
+        "level": 51,
+        "from": 1093773,
+        "to": 9999999
+    },
+    {
+        "ID": 103,
+        "styleExp": 3,
+        "level": 1,
+        "from": 0,
+        "to": 120
+    },
+    {
+        "ID": 104,
+        "styleExp": 3,
+        "level": 2,
+        "from": 121,
+        "to": 295
+    },
+    {
+        "ID": 105,
+        "styleExp": 3,
+        "level": 3,
+        "from": 296,
+        "to": 536
+    },
+    {
+        "ID": 106,
+        "styleExp": 3,
+        "level": 4,
+        "from": 537,
+        "to": 855
+    },
+    {
+        "ID": 107,
+        "styleExp": 3,
+        "level": 5,
+        "from": 856,
+        "to": 1265
+    },
+    {
+        "ID": 108,
+        "styleExp": 3,
+        "level": 6,
+        "from": 1266,
+        "to": 1782
+    },
+    {
+        "ID": 109,
+        "styleExp": 3,
+        "level": 7,
+        "from": 1783,
+        "to": 2424
+    },
+    {
+        "ID": 110,
+        "styleExp": 3,
+        "level": 8,
+        "from": 2425,
+        "to": 3210
+    },
+    {
+        "ID": 111,
+        "styleExp": 3,
+        "level": 9,
+        "from": 3211,
+        "to": 4162
+    },
+    {
+        "ID": 112,
+        "styleExp": 3,
+        "level": 10,
+        "from": 4163,
+        "to": 5303
+    },
+    {
+        "ID": 113,
+        "styleExp": 3,
+        "level": 11,
+        "from": 5304,
+        "to": 6661
+    },
+    {
+        "ID": 114,
+        "styleExp": 3,
+        "level": 12,
+        "from": 6662,
+        "to": 8265
+    },
+    {
+        "ID": 115,
+        "styleExp": 3,
+        "level": 13,
+        "from": 8266,
+        "to": 10147
+    },
+    {
+        "ID": 116,
+        "styleExp": 3,
+        "level": 14,
+        "from": 10148,
+        "to": 12343
+    },
+    {
+        "ID": 117,
+        "styleExp": 3,
+        "level": 15,
+        "from": 12344,
+        "to": 14892
+    },
+    {
+        "ID": 118,
+        "styleExp": 3,
+        "level": 16,
+        "from": 14893,
+        "to": 17836
+    },
+    {
+        "ID": 119,
+        "styleExp": 3,
+        "level": 17,
+        "from": 17837,
+        "to": 21223
+    },
+    {
+        "ID": 120,
+        "styleExp": 3,
+        "level": 18,
+        "from": 21224,
+        "to": 25103
+    },
+    {
+        "ID": 121,
+        "styleExp": 3,
+        "level": 19,
+        "from": 25104,
+        "to": 29532
+    },
+    {
+        "ID": 122,
+        "styleExp": 3,
+        "level": 20,
+        "from": 29533,
+        "to": 34570
+    },
+    {
+        "ID": 123,
+        "styleExp": 3,
+        "level": 21,
+        "from": 34571,
+        "to": 40283
+    },
+    {
+        "ID": 124,
+        "styleExp": 3,
+        "level": 22,
+        "from": 40284,
+        "to": 46742
+    },
+    {
+        "ID": 125,
+        "styleExp": 3,
+        "level": 23,
+        "from": 46743,
+        "to": 54025
+    },
+    {
+        "ID": 126,
+        "styleExp": 3,
+        "level": 24,
+        "from": 54026,
+        "to": 62215
+    },
+    {
+        "ID": 127,
+        "styleExp": 3,
+        "level": 25,
+        "from": 62216,
+        "to": 71402
+    },
+    {
+        "ID": 128,
+        "styleExp": 3,
+        "level": 26,
+        "from": 71403,
+        "to": 81684
+    },
+    {
+        "ID": 129,
+        "styleExp": 3,
+        "level": 27,
+        "from": 81685,
+        "to": 93166
+    },
+    {
+        "ID": 130,
+        "styleExp": 3,
+        "level": 28,
+        "from": 93167,
+        "to": 105962
+    },
+    {
+        "ID": 131,
+        "styleExp": 3,
+        "level": 29,
+        "from": 105963,
+        "to": 120194
+    },
+    {
+        "ID": 132,
+        "styleExp": 3,
+        "level": 30,
+        "from": 120195,
+        "to": 135993
+    },
+    {
+        "ID": 133,
+        "styleExp": 3,
+        "level": 31,
+        "from": 135994,
+        "to": 153501
+    },
+    {
+        "ID": 134,
+        "styleExp": 3,
+        "level": 32,
+        "from": 153502,
+        "to": 172869
+    },
+    {
+        "ID": 135,
+        "styleExp": 3,
+        "level": 33,
+        "from": 172870,
+        "to": 194259
+    },
+    {
+        "ID": 136,
+        "styleExp": 3,
+        "level": 34,
+        "from": 194260,
+        "to": 217846
+    },
+    {
+        "ID": 137,
+        "styleExp": 3,
+        "level": 35,
+        "from": 217847,
+        "to": 243817
+    },
+    {
+        "ID": 138,
+        "styleExp": 3,
+        "level": 36,
+        "from": 243818,
+        "to": 272372
+    },
+    {
+        "ID": 139,
+        "styleExp": 3,
+        "level": 37,
+        "from": 272373,
+        "to": 303724
+    },
+    {
+        "ID": 140,
+        "styleExp": 3,
+        "level": 38,
+        "from": 303725,
+        "to": 338102
+    },
+    {
+        "ID": 141,
+        "styleExp": 3,
+        "level": 39,
+        "from": 338103,
+        "to": 375750
+    },
+    {
+        "ID": 142,
+        "styleExp": 3,
+        "level": 40,
+        "from": 375751,
+        "to": 416928
+    },
+    {
+        "ID": 143,
+        "styleExp": 3,
+        "level": 41,
+        "from": 416929,
+        "to": 461913
+    },
+    {
+        "ID": 144,
+        "styleExp": 3,
+        "level": 42,
+        "from": 461914,
+        "to": 511002
+    },
+    {
+        "ID": 145,
+        "styleExp": 3,
+        "level": 43,
+        "from": 511003,
+        "to": 564509
+    },
+    {
+        "ID": 146,
+        "styleExp": 3,
+        "level": 44,
+        "from": 564510,
+        "to": 622769
+    },
+    {
+        "ID": 147,
+        "styleExp": 3,
+        "level": 45,
+        "from": 622770,
+        "to": 686140
+    },
+    {
+        "ID": 148,
+        "styleExp": 3,
+        "level": 46,
+        "from": 686141,
+        "to": 755000
+    },
+    {
+        "ID": 149,
+        "styleExp": 3,
+        "level": 47,
+        "from": 755001,
+        "to": 829752
+    },
+    {
+        "ID": 150,
+        "styleExp": 3,
+        "level": 48,
+        "from": 829753,
+        "to": 910824
+    },
+    {
+        "ID": 151,
+        "styleExp": 3,
+        "level": 49,
+        "from": 910825,
+        "to": 998670
+    },
+    {
+        "ID": 152,
+        "styleExp": 3,
+        "level": 50,
+        "from": 998671,
+        "to": 1093772
+    },
+    {
+        "ID": 153,
+        "styleExp": 3,
+        "level": 51,
+        "from": 1093773,
+        "to": 9999999
+    },
+    {
+        "ID": 154,
+        "styleExp": 4,
+        "level": 1,
+        "from": 0,
+        "to": 120
+    },
+    {
+        "ID": 155,
+        "styleExp": 4,
+        "level": 2,
+        "from": 121,
+        "to": 295
+    },
+    {
+        "ID": 156,
+        "styleExp": 4,
+        "level": 3,
+        "from": 296,
+        "to": 536
+    },
+    {
+        "ID": 157,
+        "styleExp": 4,
+        "level": 4,
+        "from": 537,
+        "to": 855
+    },
+    {
+        "ID": 158,
+        "styleExp": 4,
+        "level": 5,
+        "from": 856,
+        "to": 1265
+    },
+    {
+        "ID": 159,
+        "styleExp": 4,
+        "level": 6,
+        "from": 1266,
+        "to": 1782
+    },
+    {
+        "ID": 160,
+        "styleExp": 4,
+        "level": 7,
+        "from": 1783,
+        "to": 2424
+    },
+    {
+        "ID": 161,
+        "styleExp": 4,
+        "level": 8,
+        "from": 2425,
+        "to": 3210
+    },
+    {
+        "ID": 162,
+        "styleExp": 4,
+        "level": 9,
+        "from": 3211,
+        "to": 4162
+    },
+    {
+        "ID": 163,
+        "styleExp": 4,
+        "level": 10,
+        "from": 4163,
+        "to": 5303
+    },
+    {
+        "ID": 164,
+        "styleExp": 4,
+        "level": 11,
+        "from": 5304,
+        "to": 6661
+    },
+    {
+        "ID": 165,
+        "styleExp": 4,
+        "level": 12,
+        "from": 6662,
+        "to": 8265
+    },
+    {
+        "ID": 166,
+        "styleExp": 4,
+        "level": 13,
+        "from": 8266,
+        "to": 10147
+    },
+    {
+        "ID": 167,
+        "styleExp": 4,
+        "level": 14,
+        "from": 10148,
+        "to": 12343
+    },
+    {
+        "ID": 168,
+        "styleExp": 4,
+        "level": 15,
+        "from": 12344,
+        "to": 14892
+    },
+    {
+        "ID": 169,
+        "styleExp": 4,
+        "level": 16,
+        "from": 14893,
+        "to": 17836
+    },
+    {
+        "ID": 170,
+        "styleExp": 4,
+        "level": 17,
+        "from": 17837,
+        "to": 21223
+    },
+    {
+        "ID": 171,
+        "styleExp": 4,
+        "level": 18,
+        "from": 21224,
+        "to": 25103
+    },
+    {
+        "ID": 172,
+        "styleExp": 4,
+        "level": 19,
+        "from": 25104,
+        "to": 29532
+    },
+    {
+        "ID": 173,
+        "styleExp": 4,
+        "level": 20,
+        "from": 29533,
+        "to": 34570
+    },
+    {
+        "ID": 174,
+        "styleExp": 4,
+        "level": 21,
+        "from": 34571,
+        "to": 40283
+    },
+    {
+        "ID": 175,
+        "styleExp": 4,
+        "level": 22,
+        "from": 40284,
+        "to": 46742
+    },
+    {
+        "ID": 176,
+        "styleExp": 4,
+        "level": 23,
+        "from": 46743,
+        "to": 54025
+    },
+    {
+        "ID": 177,
+        "styleExp": 4,
+        "level": 24,
+        "from": 54026,
+        "to": 62215
+    },
+    {
+        "ID": 178,
+        "styleExp": 4,
+        "level": 25,
+        "from": 62216,
+        "to": 71402
+    },
+    {
+        "ID": 179,
+        "styleExp": 4,
+        "level": 26,
+        "from": 71403,
+        "to": 81684
+    },
+    {
+        "ID": 180,
+        "styleExp": 4,
+        "level": 27,
+        "from": 81685,
+        "to": 93166
+    },
+    {
+        "ID": 181,
+        "styleExp": 4,
+        "level": 28,
+        "from": 93167,
+        "to": 105962
+    },
+    {
+        "ID": 182,
+        "styleExp": 4,
+        "level": 29,
+        "from": 105963,
+        "to": 120194
+    },
+    {
+        "ID": 183,
+        "styleExp": 4,
+        "level": 30,
+        "from": 120195,
+        "to": 135993
+    },
+    {
+        "ID": 184,
+        "styleExp": 4,
+        "level": 31,
+        "from": 135994,
+        "to": 153501
+    },
+    {
+        "ID": 185,
+        "styleExp": 4,
+        "level": 32,
+        "from": 153502,
+        "to": 172869
+    },
+    {
+        "ID": 186,
+        "styleExp": 4,
+        "level": 33,
+        "from": 172870,
+        "to": 194259
+    },
+    {
+        "ID": 187,
+        "styleExp": 4,
+        "level": 34,
+        "from": 194260,
+        "to": 217846
+    },
+    {
+        "ID": 188,
+        "styleExp": 4,
+        "level": 35,
+        "from": 217847,
+        "to": 243817
+    },
+    {
+        "ID": 189,
+        "styleExp": 4,
+        "level": 36,
+        "from": 243818,
+        "to": 272372
+    },
+    {
+        "ID": 190,
+        "styleExp": 4,
+        "level": 37,
+        "from": 272373,
+        "to": 303724
+    },
+    {
+        "ID": 191,
+        "styleExp": 4,
+        "level": 38,
+        "from": 303725,
+        "to": 338102
+    },
+    {
+        "ID": 192,
+        "styleExp": 4,
+        "level": 39,
+        "from": 338103,
+        "to": 375750
+    },
+    {
+        "ID": 193,
+        "styleExp": 4,
+        "level": 40,
+        "from": 375751,
+        "to": 416928
+    },
+    {
+        "ID": 194,
+        "styleExp": 4,
+        "level": 41,
+        "from": 416929,
+        "to": 461913
+    },
+    {
+        "ID": 195,
+        "styleExp": 4,
+        "level": 42,
+        "from": 461914,
+        "to": 511002
+    },
+    {
+        "ID": 196,
+        "styleExp": 4,
+        "level": 43,
+        "from": 511003,
+        "to": 564509
+    },
+    {
+        "ID": 197,
+        "styleExp": 4,
+        "level": 44,
+        "from": 564510,
+        "to": 622769
+    },
+    {
+        "ID": 198,
+        "styleExp": 4,
+        "level": 45,
+        "from": 622770,
+        "to": 686140
+    },
+    {
+        "ID": 199,
+        "styleExp": 4,
+        "level": 46,
+        "from": 686141,
+        "to": 755000
+    },
+    {
+        "ID": 200,
+        "styleExp": 4,
+        "level": 47,
+        "from": 755001,
+        "to": 829752
+    },
+    {
+        "ID": 201,
+        "styleExp": 4,
+        "level": 48,
+        "from": 829753,
+        "to": 910824
+    },
+    {
+        "ID": 202,
+        "styleExp": 4,
+        "level": 49,
+        "from": 910825,
+        "to": 998670
+    },
+    {
+        "ID": 203,
+        "styleExp": 4,
+        "level": 50,
+        "from": 998671,
+        "to": 1093772
+    },
+    {
+        "ID": 204,
+        "styleExp": 4,
+        "level": 51,
+        "from": 1093773,
+        "to": 9999999
+    },
+    {
+        "ID": 205,
+        "styleExp": 5,
+        "level": 1,
+        "from": 0,
+        "to": 120
+    },
+    {
+        "ID": 206,
+        "styleExp": 5,
+        "level": 2,
+        "from": 121,
+        "to": 295
+    },
+    {
+        "ID": 207,
+        "styleExp": 5,
+        "level": 3,
+        "from": 296,
+        "to": 536
+    },
+    {
+        "ID": 208,
+        "styleExp": 5,
+        "level": 4,
+        "from": 537,
+        "to": 855
+    },
+    {
+        "ID": 209,
+        "styleExp": 5,
+        "level": 5,
+        "from": 856,
+        "to": 1265
+    },
+    {
+        "ID": 210,
+        "styleExp": 5,
+        "level": 6,
+        "from": 1266,
+        "to": 1782
+    },
+    {
+        "ID": 211,
+        "styleExp": 5,
+        "level": 7,
+        "from": 1783,
+        "to": 2424
+    },
+    {
+        "ID": 212,
+        "styleExp": 5,
+        "level": 8,
+        "from": 2425,
+        "to": 3210
+    },
+    {
+        "ID": 213,
+        "styleExp": 5,
+        "level": 9,
+        "from": 3211,
+        "to": 4162
+    },
+    {
+        "ID": 214,
+        "styleExp": 5,
+        "level": 10,
+        "from": 4163,
+        "to": 5303
+    },
+    {
+        "ID": 215,
+        "styleExp": 5,
+        "level": 11,
+        "from": 5304,
+        "to": 6661
+    },
+    {
+        "ID": 216,
+        "styleExp": 5,
+        "level": 12,
+        "from": 6662,
+        "to": 8265
+    },
+    {
+        "ID": 217,
+        "styleExp": 5,
+        "level": 13,
+        "from": 8266,
+        "to": 10147
+    },
+    {
+        "ID": 218,
+        "styleExp": 5,
+        "level": 14,
+        "from": 10148,
+        "to": 12343
+    },
+    {
+        "ID": 219,
+        "styleExp": 5,
+        "level": 15,
+        "from": 12344,
+        "to": 14892
+    },
+    {
+        "ID": 220,
+        "styleExp": 5,
+        "level": 16,
+        "from": 14893,
+        "to": 17836
+    },
+    {
+        "ID": 221,
+        "styleExp": 5,
+        "level": 17,
+        "from": 17837,
+        "to": 21223
+    },
+    {
+        "ID": 222,
+        "styleExp": 5,
+        "level": 18,
+        "from": 21224,
+        "to": 25103
+    },
+    {
+        "ID": 223,
+        "styleExp": 5,
+        "level": 19,
+        "from": 25104,
+        "to": 29532
+    },
+    {
+        "ID": 224,
+        "styleExp": 5,
+        "level": 20,
+        "from": 29533,
+        "to": 34570
+    },
+    {
+        "ID": 225,
+        "styleExp": 5,
+        "level": 21,
+        "from": 34571,
+        "to": 40283
+    },
+    {
+        "ID": 226,
+        "styleExp": 5,
+        "level": 22,
+        "from": 40284,
+        "to": 46742
+    },
+    {
+        "ID": 227,
+        "styleExp": 5,
+        "level": 23,
+        "from": 46743,
+        "to": 54025
+    },
+    {
+        "ID": 228,
+        "styleExp": 5,
+        "level": 24,
+        "from": 54026,
+        "to": 62215
+    },
+    {
+        "ID": 229,
+        "styleExp": 5,
+        "level": 25,
+        "from": 62216,
+        "to": 71402
+    },
+    {
+        "ID": 230,
+        "styleExp": 5,
+        "level": 26,
+        "from": 71403,
+        "to": 81684
+    },
+    {
+        "ID": 231,
+        "styleExp": 5,
+        "level": 27,
+        "from": 81685,
+        "to": 93166
+    },
+    {
+        "ID": 232,
+        "styleExp": 5,
+        "level": 28,
+        "from": 93167,
+        "to": 105962
+    },
+    {
+        "ID": 233,
+        "styleExp": 5,
+        "level": 29,
+        "from": 105963,
+        "to": 120194
+    },
+    {
+        "ID": 234,
+        "styleExp": 5,
+        "level": 30,
+        "from": 120195,
+        "to": 135993
+    },
+    {
+        "ID": 235,
+        "styleExp": 5,
+        "level": 31,
+        "from": 135994,
+        "to": 153501
+    },
+    {
+        "ID": 236,
+        "styleExp": 5,
+        "level": 32,
+        "from": 153502,
+        "to": 172869
+    },
+    {
+        "ID": 237,
+        "styleExp": 5,
+        "level": 33,
+        "from": 172870,
+        "to": 194259
+    },
+    {
+        "ID": 238,
+        "styleExp": 5,
+        "level": 34,
+        "from": 194260,
+        "to": 217846
+    },
+    {
+        "ID": 239,
+        "styleExp": 5,
+        "level": 35,
+        "from": 217847,
+        "to": 243817
+    },
+    {
+        "ID": 240,
+        "styleExp": 5,
+        "level": 36,
+        "from": 243818,
+        "to": 272372
+    },
+    {
+        "ID": 241,
+        "styleExp": 5,
+        "level": 37,
+        "from": 272373,
+        "to": 303724
+    },
+    {
+        "ID": 242,
+        "styleExp": 5,
+        "level": 38,
+        "from": 303725,
+        "to": 338102
+    },
+    {
+        "ID": 243,
+        "styleExp": 5,
+        "level": 39,
+        "from": 338103,
+        "to": 375750
+    },
+    {
+        "ID": 244,
+        "styleExp": 5,
+        "level": 40,
+        "from": 375751,
+        "to": 416928
+    },
+    {
+        "ID": 245,
+        "styleExp": 5,
+        "level": 41,
+        "from": 416929,
+        "to": 461913
+    },
+    {
+        "ID": 246,
+        "styleExp": 5,
+        "level": 42,
+        "from": 461914,
+        "to": 511002
+    },
+    {
+        "ID": 247,
+        "styleExp": 5,
+        "level": 43,
+        "from": 511003,
+        "to": 564509
+    },
+    {
+        "ID": 248,
+        "styleExp": 5,
+        "level": 44,
+        "from": 564510,
+        "to": 622769
+    },
+    {
+        "ID": 249,
+        "styleExp": 5,
+        "level": 45,
+        "from": 622770,
+        "to": 686140
+    },
+    {
+        "ID": 250,
+        "styleExp": 5,
+        "level": 46,
+        "from": 686141,
+        "to": 755000
+    },
+    {
+        "ID": 251,
+        "styleExp": 5,
+        "level": 47,
+        "from": 755001,
+        "to": 829752
+    },
+    {
+        "ID": 252,
+        "styleExp": 5,
+        "level": 48,
+        "from": 829753,
+        "to": 910824
+    },
+    {
+        "ID": 253,
+        "styleExp": 5,
+        "level": 49,
+        "from": 910825,
+        "to": 998670
+    },
+    {
+        "ID": 254,
+        "styleExp": 5,
+        "level": 50,
+        "from": 998671,
+        "to": 1093772
+    },
+    {
+        "ID": 255,
+        "styleExp": 5,
+        "level": 51,
+        "from": 1093773,
+        "to": 9999999
+    }
+]

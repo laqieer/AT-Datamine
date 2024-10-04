@@ -1,0 +1,42 @@
+[
+    {
+        "ID": 1,
+        "name": "剣",
+        "inscription": 1
+    },
+    {
+        "ID": 2,
+        "name": "斧",
+        "inscription": 1
+    },
+    {
+        "ID": 3,
+        "name": "槍",
+        "inscription": 1
+    },
+    {
+        "ID": 4,
+        "name": "弓",
+        "inscription": 1
+    },
+    {
+        "ID": 5,
+        "name": "銃",
+        "inscription": 1
+    },
+    {
+        "ID": 6,
+        "name": "書",
+        "inscription": 1
+    },
+    {
+        "ID": 7,
+        "name": "杖",
+        "inscription": 1
+    },
+    {
+        "ID": 8,
+        "name": "特殊",
+        "inscription": 1
+    }
+]

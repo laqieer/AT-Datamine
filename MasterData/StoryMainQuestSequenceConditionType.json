@@ -1,0 +1,14 @@
+[
+    {
+        "ID": 0,
+        "StorySequenceConditionType": "Default"
+    },
+    {
+        "ID": 1,
+        "StorySequenceConditionType": "If"
+    },
+    {
+        "ID": 2,
+        "StorySequenceConditionType": "Max"
+    }
+]

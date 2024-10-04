@@ -1,0 +1,1272 @@
+[
+    {
+        "ID": 201040001,
+        "name": "ギルドメダル",
+        "rarity": 0,
+        "pictureNumber": 1,
+        "image": "\n\n201040001",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 1
+    },
+    {
+        "ID": 201070001,
+        "name": "コロシアムメダル",
+        "rarity": 0,
+        "pictureNumber": 2,
+        "image": "\n201070001",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 1
+    },
+    {
+        "ID": 201150001,
+        "name": "継承念装メダル",
+        "rarity": 0,
+        "pictureNumber": 3,
+        "image": "201150001",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 3
+    },
+    {
+        "ID": 201150002,
+        "name": "継承念装メダル（SSR）",
+        "rarity": 0,
+        "pictureNumber": 4,
+        "image": "201150002",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 3
+    },
+    {
+        "ID": 201150003,
+        "name": "継承念装メダル（UR)",
+        "rarity": 0,
+        "pictureNumber": 5,
+        "image": "201150003",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 3
+    },
+    {
+        "ID": 201140005,
+        "name": "スタイル召喚メダル・緑",
+        "rarity": 0,
+        "pictureNumber": 6,
+        "image": "201140005",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 3
+    },
+    {
+        "ID": 201140007,
+        "name": "スタイル召喚メダル・橙",
+        "rarity": 0,
+        "pictureNumber": 7,
+        "image": "201140007",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 3
+    },
+    {
+        "ID": 201140008,
+        "name": "スタイル召喚メダル・青",
+        "rarity": 0,
+        "pictureNumber": 8,
+        "image": "201140008",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 3
+    },
+    {
+        "ID": 201140009,
+        "name": "スタイル召喚メダル・赤",
+        "rarity": 0,
+        "pictureNumber": 9,
+        "image": "201140009",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 3
+    },
+    {
+        "ID": 201140010,
+        "name": "スタイル召喚メダル・黄",
+        "rarity": 0,
+        "pictureNumber": 10,
+        "image": "201140010",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 3
+    },
+    {
+        "ID": 201140011,
+        "name": "スタイル召喚メダル・紫",
+        "rarity": 0,
+        "pictureNumber": 11,
+        "image": "201140011",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 3
+    },
+    {
+        "ID": 201140012,
+        "name": "スタイル召喚メダル・桃",
+        "rarity": 0,
+        "pictureNumber": 12,
+        "image": "201140012",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 3
+    },
+    {
+        "ID": 201140013,
+        "name": "スタイル召喚メダル・空",
+        "rarity": 0,
+        "pictureNumber": 13,
+        "image": "201140013",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 3
+    },
+    {
+        "ID": 201140006,
+        "name": "伝承復元メダル・ティルフィング",
+        "rarity": 0,
+        "pictureNumber": 14,
+        "image": "201140006",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 3
+    },
+    {
+        "ID": 201140014,
+        "name": "伝承復元メダル・ランスロット",
+        "rarity": 0,
+        "pictureNumber": 15,
+        "image": "201140006",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 3
+    },
+    {
+        "ID": 201140015,
+        "name": "伝承復元メダル・ギネヴィア",
+        "rarity": 0,
+        "pictureNumber": 16,
+        "image": "201140006",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 3
+    },
+    {
+        "ID": 201140016,
+        "name": "伝承復元メダル・ディナタン",
+        "rarity": 0,
+        "pictureNumber": 17,
+        "image": "201140006",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 3
+    },
+    {
+        "ID": 201150004,
+        "name": "継承念装召喚メダル・橙",
+        "rarity": 0,
+        "pictureNumber": 18,
+        "image": "201150004",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 3
+    },
+    {
+        "ID": 201150005,
+        "name": "継承念装召喚メダル・緑",
+        "rarity": 0,
+        "pictureNumber": 19,
+        "image": "201150005",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 3
+    },
+    {
+        "ID": 201150006,
+        "name": "継承念装召喚メダル・青",
+        "rarity": 0,
+        "pictureNumber": 20,
+        "image": "201150006",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 3
+    },
+    {
+        "ID": 201150007,
+        "name": "継承念装召喚メダル・赤",
+        "rarity": 0,
+        "pictureNumber": 21,
+        "image": "201150007",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 3
+    },
+    {
+        "ID": 201150008,
+        "name": "継承念装召喚メダル・黄",
+        "rarity": 0,
+        "pictureNumber": 22,
+        "image": "201150008",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 3
+    },
+    {
+        "ID": 201150009,
+        "name": "継承念装召喚メダル・紫",
+        "rarity": 0,
+        "pictureNumber": 23,
+        "image": "201150009",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 3
+    },
+    {
+        "ID": 201150010,
+        "name": "継承念装召喚メダル・桃",
+        "rarity": 0,
+        "pictureNumber": 24,
+        "image": "201150010",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 3
+    },
+    {
+        "ID": 201150011,
+        "name": "継承念装召喚メダル・空",
+        "rarity": 0,
+        "pictureNumber": 25,
+        "image": "201150011",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 3
+    },
+    {
+        "ID": 201050005,
+        "name": "そして。こう笑いかけたイベントメダル",
+        "rarity": 0,
+        "pictureNumber": 26,
+        "image": "201050005",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 3
+    },
+    {
+        "ID": 201140017,
+        "name": "★５スタイル交換メダル",
+        "rarity": 0,
+        "pictureNumber": 27,
+        "image": "201140017",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 3
+    },
+    {
+        "ID": 201110001,
+        "name": "オブリヴィエメダル",
+        "rarity": 0,
+        "pictureNumber": 28,
+        "image": "201110001",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 3
+    },
+    {
+        "ID": 201050007,
+        "name": "いつか思い出になる夏イベントメダル",
+        "rarity": 0,
+        "pictureNumber": 29,
+        "image": "201050007",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 3
+    },
+    {
+        "ID": 201050010,
+        "name": "強化クエストメダル",
+        "rarity": 0,
+        "pictureNumber": 30,
+        "image": "201050010",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 3
+    },
+    {
+        "ID": 201050011,
+        "name": "傭兵たちの盾メダル",
+        "rarity": 0,
+        "pictureNumber": 31,
+        "image": "201050011",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 3
+    },
+    {
+        "ID": 201050012,
+        "name": "傭兵たちの盾片メダル",
+        "rarity": 0,
+        "pictureNumber": 32,
+        "image": "201050012",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 3
+    },
+    {
+        "ID": 201170001,
+        "name": "練達者の古銭",
+        "rarity": 0,
+        "pictureNumber": 33,
+        "image": "201170001",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 2
+    },
+    {
+        "ID": 201140018,
+        "name": "スタイル召喚メダル・エクスカリバー",
+        "rarity": 0,
+        "pictureNumber": 34,
+        "image": "201140013",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 3
+    },
+    {
+        "ID": 201150012,
+        "name": "継承念装召喚メダル・コルベニック城の乙女たち",
+        "rarity": 0,
+        "pictureNumber": 35,
+        "image": "201150011",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 3
+    },
+    {
+        "ID": 201140019,
+        "name": "スタイル召喚メダル・ゲイボルグ",
+        "rarity": 0,
+        "pictureNumber": 36,
+        "image": "201140009",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 3
+    },
+    {
+        "ID": 201150013,
+        "name": "継承念装召喚メダル・優雅にして勇壮",
+        "rarity": 0,
+        "pictureNumber": 37,
+        "image": "201150007",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 3
+    },
+    {
+        "ID": 201170002,
+        "name": "伝承選択召喚メダル",
+        "rarity": 0,
+        "pictureNumber": 38,
+        "image": "201170002",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 3
+    },
+    {
+        "ID": 201140020,
+        "name": "スタイル召喚メダル・ガラティン",
+        "rarity": 0,
+        "pictureNumber": 39,
+        "image": "201140005",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 3
+    },
+    {
+        "ID": 201150014,
+        "name": "継承念装召喚メダル・いつか皆でハロウィンを",
+        "rarity": 0,
+        "pictureNumber": 40,
+        "image": "201150005",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 3
+    },
+    {
+        "ID": 201050006,
+        "name": "ドンマイ・オーバーサイズ！イベントメダル",
+        "rarity": 0,
+        "pictureNumber": 41,
+        "image": "201050006",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 3
+    },
+    {
+        "ID": 201050008,
+        "name": "その歌は彗星のようにイベントメダル",
+        "rarity": 0,
+        "pictureNumber": 34,
+        "image": "201050008",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 3
+    },
+    {
+        "ID": 201140021,
+        "name": "スタイル召喚メダル・円卓の騎士",
+        "rarity": 0,
+        "pictureNumber": 42,
+        "image": "201140007",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 3
+    },
+    {
+        "ID": 201140022,
+        "name": "スタイル召喚メダル・銀卓騎士団",
+        "rarity": 0,
+        "pictureNumber": 43,
+        "image": "201140010",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 3
+    },
+    {
+        "ID": 201140023,
+        "name": "スタイル召喚メダル・エレイン",
+        "rarity": 0,
+        "pictureNumber": 44,
+        "image": "201140012",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 3
+    },
+    {
+        "ID": 201140024,
+        "name": "継承念装召喚メダル・もう臆病な私でいたくない",
+        "rarity": 0,
+        "pictureNumber": 45,
+        "image": "201150010",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 3
+    },
+    {
+        "ID": 201140025,
+        "name": "スタイル召喚メダル・クラリス",
+        "rarity": 0,
+        "pictureNumber": 46,
+        "image": "201140011",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 3
+    },
+    {
+        "ID": 201140026,
+        "name": "継承念装召喚メダル・幸せなクリスマスを願って",
+        "rarity": 0,
+        "pictureNumber": 47,
+        "image": "201150009",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 3
+    },
+    {
+        "ID": 201050013,
+        "name": "イベントメダル・クラリス",
+        "rarity": 0,
+        "pictureNumber": 48,
+        "image": "201050013",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 3
+    },
+    {
+        "ID": 201140027,
+        "name": "スタイル召喚メダル・トリスタン",
+        "rarity": 0,
+        "pictureNumber": 49,
+        "image": "201140013",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 3
+    },
+    {
+        "ID": 201140028,
+        "name": "継承念装召喚メダル・ボクの果たすべき役目",
+        "rarity": 0,
+        "pictureNumber": 50,
+        "image": "201150011",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 3
+    },
+    {
+        "ID": 201050015,
+        "name": "カーニバルメダル",
+        "rarity": 0,
+        "pictureNumber": 51,
+        "image": "201050015",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 1
+    },
+    {
+        "ID": 201170003,
+        "name": "セレクト召喚メダル",
+        "rarity": 0,
+        "pictureNumber": 51,
+        "image": "201170003",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 3
+    },
+    {
+        "ID": 201140029,
+        "name": "スタイル召喚メダル・ディナタン",
+        "rarity": 0,
+        "pictureNumber": 51,
+        "image": "201140029",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 3
+    },
+    {
+        "ID": 201140030,
+        "name": "継承念装召喚メダル・エタニティ・フレンド",
+        "rarity": 0,
+        "pictureNumber": 52,
+        "image": "201140030",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 3
+    },
+    {
+        "ID": 201050009,
+        "name": "イベントメダル・初星ハルモニア",
+        "rarity": 0,
+        "pictureNumber": 53,
+        "image": "201050009",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 3
+    },
+    {
+        "ID": 201140031,
+        "name": "スタイル召喚メダル・ガラハッド",
+        "rarity": 0,
+        "pictureNumber": 54,
+        "image": "201140031",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 3
+    },
+    {
+        "ID": 201140032,
+        "name": "継承念装召喚メダル・足を上げて心を繋いで",
+        "rarity": 0,
+        "pictureNumber": 55,
+        "image": "201140032",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 3
+    },
+    {
+        "ID": 201140033,
+        "name": "スタイル召喚メダル・エクセリア",
+        "rarity": 0,
+        "pictureNumber": 56,
+        "image": "201140033",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 3
+    },
+    {
+        "ID": 201140034,
+        "name": "継承念装召喚メダル・暗き森にて白銀を待つ賢女",
+        "rarity": 0,
+        "pictureNumber": 57,
+        "image": "201140034",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 3
+    },
+    {
+        "ID": 201140035,
+        "name": "スタイル召喚メダル・フレン",
+        "rarity": 0,
+        "pictureNumber": 58,
+        "image": "201140035",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 3
+    },
+    {
+        "ID": 201050014,
+        "name": "イベントメダル・アオハル",
+        "rarity": 0,
+        "pictureNumber": 59,
+        "image": "201050014",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 3
+    },
+    {
+        "ID": 201050017,
+        "name": "Sweet My Heartメダル",
+        "rarity": 0,
+        "pictureNumber": 60,
+        "image": "201050017",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 3
+    },
+    {
+        "ID": 201070002,
+        "name": "コロシアムメダルA",
+        "rarity": 0,
+        "pictureNumber": 61,
+        "image": "\n201070001",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 1
+    },
+    {
+        "ID": 201140068,
+        "name": "スタイル召喚メダル・Sweet My Heart",
+        "rarity": 0,
+        "pictureNumber": 62,
+        "image": "201140012",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 3
+    },
+    {
+        "ID": 201140036,
+        "name": "継承念装召喚メダル・私の進むべき道",
+        "rarity": 0,
+        "pictureNumber": 63,
+        "image": "201140036",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 3
+    },
+    {
+        "ID": 201140037,
+        "name": "スタイル召喚メダル・レーヴァテイン",
+        "rarity": 0,
+        "pictureNumber": 64,
+        "image": "201140037",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 3
+    },
+    {
+        "ID": 201140041,
+        "name": "継承念装召喚メダル・果たされた約束",
+        "rarity": 0,
+        "pictureNumber": 65,
+        "image": "201140041",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 3
+    },
+    {
+        "ID": 201140040,
+        "name": "スタイル召喚メダル・ブルーノ",
+        "rarity": 0,
+        "pictureNumber": 66,
+        "image": "201140040",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 3
+    },
+    {
+        "ID": 201140038,
+        "name": "継承念装召喚メダル・あなたと一緒に笑いたい",
+        "rarity": 0,
+        "pictureNumber": 67,
+        "image": "201140038",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 3
+    },
+    {
+        "ID": 201140054,
+        "name": "スタイル召喚メダル・ルーシャス",
+        "rarity": 0,
+        "pictureNumber": 68,
+        "image": "201140054",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 3
+    },
+    {
+        "ID": 201140055,
+        "name": "継承念装召喚メダル・見据えるはローマの繁栄",
+        "rarity": 0,
+        "pictureNumber": 69,
+        "image": "201140055",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 3
+    },
+    {
+        "ID": 201050018,
+        "name": "Special Thanks to youメダル",
+        "rarity": 0,
+        "pictureNumber": 70,
+        "image": "201050018",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 1
+    },
+    {
+        "ID": 201140069,
+        "name": "スタイル召喚メダル・Special Thanks to you",
+        "rarity": 0,
+        "pictureNumber": 71,
+        "image": "201140069",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 3
+    },
+    {
+        "ID": 201050019,
+        "name": "鬼滅の刃コラボイベントメダル",
+        "rarity": 0,
+        "pictureNumber": 68,
+        "image": "201050019",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 1
+    },
+    {
+        "ID": 201140042,
+        "name": "スタイル召喚メダル・竈門炭治郎",
+        "rarity": 0,
+        "pictureNumber": 69,
+        "image": "201140042",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 3
+    },
+    {
+        "ID": 201140045,
+        "name": "スタイル召喚メダル・竈門禰豆子",
+        "rarity": 0,
+        "pictureNumber": 70,
+        "image": "201140045",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 3
+    },
+    {
+        "ID": 201140043,
+        "name": "スタイル召喚メダル・煉獄杏寿郎",
+        "rarity": 0,
+        "pictureNumber": 71,
+        "image": "201140043",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 3
+    },
+    {
+        "ID": 201140046,
+        "name": "スタイル召喚メダル・胡蝶しのぶ",
+        "rarity": 0,
+        "pictureNumber": 72,
+        "image": "201140046",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 3
+    },
+    {
+        "ID": 201140047,
+        "name": "スタイル召喚メダル・甘露寺蜜璃",
+        "rarity": 0,
+        "pictureNumber": 73,
+        "image": "201140047",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 3
+    },
+    {
+        "ID": 201140044,
+        "name": "スタイル召喚メダル・冨岡義勇",
+        "rarity": 0,
+        "pictureNumber": 74,
+        "image": "201140044",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 3
+    },
+    {
+        "ID": 201140048,
+        "name": "継承念装召喚メダル・遊郭に轟く戦音",
+        "rarity": 0,
+        "pictureNumber": 75,
+        "image": "201140048",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 3
+    },
+    {
+        "ID": 201140051,
+        "name": "継承念装召喚メダル・鬼に立ち向かう兄妹",
+        "rarity": 0,
+        "pictureNumber": 76,
+        "image": "201140051",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 3
+    },
+    {
+        "ID": 201140050,
+        "name": "継承念装召喚メダル・水の呼吸の使い手たち",
+        "rarity": 0,
+        "pictureNumber": 77,
+        "image": "201140050",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 3
+    },
+    {
+        "ID": 201140052,
+        "name": "継承念装召喚メダル・蝶屋敷の師範と継子",
+        "rarity": 0,
+        "pictureNumber": 78,
+        "image": "201140052",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 3
+    },
+    {
+        "ID": 201140049,
+        "name": "継承念装召喚メダル・心に宿る炎を燃やして",
+        "rarity": 0,
+        "pictureNumber": 79,
+        "image": "201140049",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 3
+    },
+    {
+        "ID": 201140053,
+        "name": "継承念装召喚メダル・無限の力、希望の光",
+        "rarity": 0,
+        "pictureNumber": 80,
+        "image": "201140053",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 3
+    },
+    {
+        "ID": 201140058,
+        "name": "スタイル召喚メダル・ガレス",
+        "rarity": 0,
+        "pictureNumber": 81,
+        "image": "201140058",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 3
+    },
+    {
+        "ID": 202060034,
+        "name": "継承念装召喚メダル・円卓の騎士ガレスの初任務",
+        "rarity": 0,
+        "pictureNumber": 82,
+        "image": "201140059",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 3
+    },
+    {
+        "ID": 201050020,
+        "name": "イベントメダル・花散る春",
+        "rarity": 0,
+        "pictureNumber": 83,
+        "image": "201050020",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 3
+    },
+    {
+        "ID": 201050022,
+        "name": "イベントメダル・鬼殺隊士",
+        "rarity": 0,
+        "pictureNumber": 84,
+        "image": "201050022",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 1
+    },
+    {
+        "ID": 201050023,
+        "name": "イベントメダル・炎柱",
+        "rarity": 0,
+        "pictureNumber": 85,
+        "image": "201050023",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 1
+    },
+    {
+        "ID": 201050025,
+        "name": "イベントメダル・鬼の少女",
+        "rarity": 0,
+        "pictureNumber": 86,
+        "image": "201050025",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 1
+    },
+    {
+        "ID": 201050027,
+        "name": "イベントメダル・恋柱",
+        "rarity": 0,
+        "pictureNumber": 87,
+        "image": "201050027",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 1
+    },
+    {
+        "ID": 201050024,
+        "name": "イベントメダル・水柱",
+        "rarity": 0,
+        "pictureNumber": 88,
+        "image": "201050024",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 1
+    },
+    {
+        "ID": 201050026,
+        "name": "イベントメダル・蟲柱",
+        "rarity": 0,
+        "pictureNumber": 89,
+        "image": "201050026",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 1
+    },
+    {
+        "ID": 201140086,
+        "name": "スタイル召喚メダル・300万DL記念",
+        "rarity": 0,
+        "pictureNumber": 90,
+        "image": "201140005",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 3
+    },
+    {
+        "ID": 201140087,
+        "name": "継承念装召喚メダル・300万DL記念",
+        "rarity": 0,
+        "pictureNumber": 91,
+        "image": "201150005",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 3
+    },
+    {
+        "ID": 201140056,
+        "name": "スタイル召喚メダル・ローラ",
+        "rarity": 0,
+        "pictureNumber": 92,
+        "image": "201140056",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 3
+    },
+    {
+        "ID": 201140057,
+        "name": "継承念装召喚メダル・堅固な覚悟は安寧のために",
+        "rarity": 0,
+        "pictureNumber": 93,
+        "image": "201140057",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 3
+    },
+    {
+        "ID": 201050028,
+        "name": "GWメダル",
+        "rarity": 0,
+        "pictureNumber": 94,
+        "image": "201050028",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 3
+    },
+    {
+        "ID": 201140066,
+        "name": "スタイル召喚メダル・フライクーゲル",
+        "rarity": 0,
+        "pictureNumber": 95,
+        "image": "201140066",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 3
+    },
+    {
+        "ID": 201140067,
+        "name": "継承念装召喚メダル・わたしにとってのきみは",
+        "rarity": 0,
+        "pictureNumber": 96,
+        "image": "201140067",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 3
+    },
+    {
+        "ID": 201140061,
+        "name": "継承念装召喚メダル・若き者を見守る温柔なる眼",
+        "rarity": 0,
+        "pictureNumber": 97,
+        "image": "201140061",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 3
+    },
+    {
+        "ID": 201140060,
+        "name": "スタイル召喚メダル・ヴェルナルス",
+        "rarity": 0,
+        "pictureNumber": 98,
+        "image": "201140060",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 3
+    },
+    {
+        "ID": 201140063,
+        "name": "継承念装召喚メダル・盾となり矛となりて",
+        "rarity": 0,
+        "pictureNumber": 99,
+        "image": "201140063",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 3
+    },
+    {
+        "ID": 201140062,
+        "name": "スタイル召喚メダル・ガウェイン",
+        "rarity": 0,
+        "pictureNumber": 100,
+        "image": "201140062",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 3
+    },
+    {
+        "ID": 201050021,
+        "name": "イベントメダル・メランコリック・ヒーロー",
+        "rarity": 0,
+        "pictureNumber": 101,
+        "image": "201050021",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 3
+    },
+    {
+        "ID": 201140088,
+        "name": "スタイル召喚メダル・モルガン",
+        "rarity": 0,
+        "pictureNumber": 102,
+        "image": "201140088",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 3
+    },
+    {
+        "ID": 201140089,
+        "name": "継承念装召喚メダル・貴方を救いたかったの",
+        "rarity": 0,
+        "pictureNumber": 103,
+        "image": "201140089",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 3
+    },
+    {
+        "ID": 201140064,
+        "name": "スタイル召喚メダル・リオネス",
+        "rarity": 0,
+        "pictureNumber": 104,
+        "image": "201140064",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 3
+    },
+    {
+        "ID": 201140065,
+        "name": "継承念装召喚メダル・マジカルハッピーパワー！",
+        "rarity": 0,
+        "pictureNumber": 105,
+        "image": "201140065",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 3
+    },
+    {
+        "ID": 201140090,
+        "name": "スタイル召喚メダル・ペレス",
+        "rarity": 0,
+        "pictureNumber": 106,
+        "image": "201140090",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 3
+    },
+    {
+        "ID": 201140091,
+        "name": "スタイル召喚メダル・ライエンス",
+        "rarity": 0,
+        "pictureNumber": 107,
+        "image": "201140091",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 3
+    },
+    {
+        "ID": 201140070,
+        "name": "スタイル召喚メダル・クレア",
+        "rarity": 0,
+        "pictureNumber": 108,
+        "image": "201140070",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 3
+    },
+    {
+        "ID": 201140071,
+        "name": "継承念装召喚メダル・渚で暴れるメイタンテイ",
+        "rarity": 0,
+        "pictureNumber": 109,
+        "image": "201140071",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 3
+    },
+    {
+        "ID": 201050029,
+        "name": "イベントメダル・アフター・レジェンド",
+        "rarity": 0,
+        "pictureNumber": 110,
+        "image": "201050029",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 3
+    },
+    {
+        "ID": 201140073,
+        "name": "継承念装召喚メダル・俺は仲間を守り抜く",
+        "rarity": 0,
+        "pictureNumber": 111,
+        "image": "201140073",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 3
+    },
+    {
+        "ID": 201140072,
+        "name": "スタイル召喚メダル・ヴォ―ルス",
+        "rarity": 0,
+        "pictureNumber": 112,
+        "image": "201140072",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 3
+    },
+    {
+        "ID": 201140075,
+        "name": "継承念装召喚メダル・必ず見つけてみせますから",
+        "rarity": 0,
+        "pictureNumber": 113,
+        "image": "201140075",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 3
+    },
+    {
+        "ID": 201140074,
+        "name": "スタイル召喚メダル・マーリン",
+        "rarity": 0,
+        "pictureNumber": 114,
+        "image": "201140074",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 3
+    },
+    {
+        "ID": 201140077,
+        "name": "継承念装召喚メダル・世話が焼ける妹なんだから",
+        "rarity": 0,
+        "pictureNumber": 115,
+        "image": "201140077",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 3
+    },
+    {
+        "ID": 201140076,
+        "name": "スタイル召喚メダル・ギネマウア",
+        "rarity": 0,
+        "pictureNumber": 116,
+        "image": "201140076",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 3
+    },
+    {
+        "ID": 201050030,
+        "name": "イベントメダル・Graceful Summer",
+        "rarity": 0,
+        "pictureNumber": 117,
+        "image": "201050030",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 3
+    },
+    {
+        "ID": 201140092,
+        "name": "スタイル召喚メダル",
+        "rarity": 0,
+        "pictureNumber": 118,
+        "image": "201140009",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 3
+    },
+    {
+        "ID": 201140093,
+        "name": "継承念装召喚メダル",
+        "rarity": 0,
+        "pictureNumber": 119,
+        "image": "201150007",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 3
+    },
+    {
+        "ID": 201050031,
+        "name": "イベントメダル・フラージル・クローズ：edG",
+        "rarity": 0,
+        "pictureNumber": 120,
+        "image": "201050031",
+        "itemType": 23,
+        "isSellable": false,
+        "medalType": 3
+    }
+]

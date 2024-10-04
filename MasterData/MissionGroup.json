@@ -1,0 +1,303 @@
+[
+    {
+        "ID": 1,
+        "name": "デイリー",
+        "panelMission": 0,
+        "bannerId": 0,
+        "pageIndex": 0
+    },
+    {
+        "ID": 2,
+        "name": "ウィークリー",
+        "panelMission": 0,
+        "bannerId": 0,
+        "pageIndex": 0
+    },
+    {
+        "ID": 3,
+        "name": "イベント",
+        "panelMission": 0,
+        "bannerId": 0,
+        "pageIndex": 0
+    },
+    {
+        "ID": 4,
+        "name": "メイン",
+        "panelMission": 0,
+        "bannerId": 0,
+        "pageIndex": 0
+    },
+    {
+        "ID": 5,
+        "name": "初心者パネルミッションページ１",
+        "panelMission": 1,
+        "bannerId": 100000011,
+        "pageIndex": 1
+    },
+    {
+        "ID": 6,
+        "name": "初心者パネルミッションページ2",
+        "panelMission": 1,
+        "bannerId": 100000012,
+        "pageIndex": 2
+    },
+    {
+        "ID": 7,
+        "name": "初心者パネルミッションページ3",
+        "panelMission": 1,
+        "bannerId": 100000013,
+        "pageIndex": 3
+    },
+    {
+        "ID": 8,
+        "name": "初心者パネルミッションページ4",
+        "panelMission": 1,
+        "bannerId": 100000014,
+        "pageIndex": 4
+    },
+    {
+        "ID": 9,
+        "name": "初心者パネルミッションページ5",
+        "panelMission": 1,
+        "bannerId": 100000015,
+        "pageIndex": 5
+    },
+    {
+        "ID": 10,
+        "name": "ホットディール",
+        "panelMission": 0,
+        "bannerId": 0,
+        "pageIndex": 0
+    },
+    {
+        "ID": 11,
+        "name": "アプリ内レビュー",
+        "panelMission": 0,
+        "bannerId": 0,
+        "pageIndex": 0
+    },
+    {
+        "ID": 12,
+        "name": "FGGIDミッション",
+        "panelMission": 0,
+        "bannerId": 0,
+        "pageIndex": 0
+    },
+    {
+        "ID": 13,
+        "name": "FGGIDコインミッション",
+        "panelMission": 0,
+        "bannerId": 0,
+        "pageIndex": 0
+    },
+    {
+        "ID": 14,
+        "name": "そして。こう笑いかけた前半",
+        "panelMission": 0,
+        "bannerId": 0,
+        "pageIndex": 0
+    },
+    {
+        "ID": 15,
+        "name": "そして。こう笑いかけた後半",
+        "panelMission": 0,
+        "bannerId": 0,
+        "pageIndex": 0
+    },
+    {
+        "ID": 16,
+        "name": "いつか思い出になる夏前半",
+        "panelMission": 0,
+        "bannerId": 0,
+        "pageIndex": 0
+    },
+    {
+        "ID": 17,
+        "name": "ディンドラン育成応援パネルミッションページ1",
+        "panelMission": 2,
+        "bannerId": 100000021,
+        "pageIndex": 1
+    },
+    {
+        "ID": 10003,
+        "name": "ドンマイ・オーバーサイズ！",
+        "panelMission": 0,
+        "bannerId": 0,
+        "pageIndex": 0
+    },
+    {
+        "ID": 20002,
+        "name": "その歌は彗星のように前半",
+        "panelMission": 0,
+        "bannerId": 0,
+        "pageIndex": 0
+    },
+    {
+        "ID": 18,
+        "name": "ラグネル育成応援パネルミッションページ1",
+        "panelMission": 3,
+        "bannerId": 100000031,
+        "pageIndex": 1
+    },
+    {
+        "ID": 19,
+        "name": "その歌は彗星のようにパネルミッションページ1",
+        "panelMission": 4,
+        "bannerId": 100000041,
+        "pageIndex": 1
+    },
+    {
+        "ID": 99999,
+        "name": "欠番",
+        "panelMission": 0,
+        "bannerId": 0,
+        "pageIndex": 0
+    },
+    {
+        "ID": 20,
+        "name": "エレイン育成応援パネルミッションページ1",
+        "panelMission": 5,
+        "bannerId": 100000051,
+        "pageIndex": 1
+    },
+    {
+        "ID": 10004,
+        "name": "キャンドルライト・マイ・ファイア",
+        "panelMission": 0,
+        "bannerId": 0,
+        "pageIndex": 0
+    },
+    {
+        "ID": 10005,
+        "name": "初星ハルモニア",
+        "panelMission": 0,
+        "bannerId": 0,
+        "pageIndex": 0
+    },
+    {
+        "ID": 21,
+        "name": "2024年正月パネルミッションページ1",
+        "panelMission": 6,
+        "bannerId": 100000121,
+        "pageIndex": 1
+    },
+    {
+        "ID": 10006,
+        "name": "アカシックアーク：闇",
+        "panelMission": 0,
+        "bannerId": 0,
+        "pageIndex": 0
+    },
+    {
+        "ID": 10007,
+        "name": "机上の空論、あるいはアオハル",
+        "panelMission": 0,
+        "bannerId": 0,
+        "pageIndex": 0
+    },
+    {
+        "ID": 10008,
+        "name": "アカシックアーク：風",
+        "panelMission": 0,
+        "bannerId": 0,
+        "pageIndex": 0
+    },
+    {
+        "ID": 1999999,
+        "name": "イベント関連ミッションテスト",
+        "panelMission": 0,
+        "bannerId": 0,
+        "pageIndex": 0
+    },
+    {
+        "ID": 900001,
+        "name": "鬼滅の刃コラボ",
+        "panelMission": 0,
+        "bannerId": 0,
+        "pageIndex": 0
+    },
+    {
+        "ID": 22,
+        "name": "鬼滅の刃コラボパネルミッションページ1",
+        "panelMission": 7,
+        "bannerId": 100000131,
+        "pageIndex": 1
+    },
+    {
+        "ID": 23,
+        "name": "鬼滅の刃コラボパネルミッションページ2",
+        "panelMission": 7,
+        "bannerId": 100000132,
+        "pageIndex": 2
+    },
+    {
+        "ID": 24,
+        "name": "鬼滅の刃コラボパネルミッションページ3",
+        "panelMission": 7,
+        "bannerId": 100000133,
+        "pageIndex": 3
+    },
+    {
+        "ID": 25,
+        "name": "鬼滅の刃コラボパネルミッションページ4",
+        "panelMission": 7,
+        "bannerId": 100000134,
+        "pageIndex": 4
+    },
+    {
+        "ID": 10009,
+        "name": "花散る春に英雄譚を",
+        "panelMission": 0,
+        "bannerId": 0,
+        "pageIndex": 0
+    },
+    {
+        "ID": 10010,
+        "name": "アカシックアーク：雷",
+        "panelMission": 0,
+        "bannerId": 0,
+        "pageIndex": 0
+    },
+    {
+        "ID": 10015,
+        "name": "メランコリック・ヒーロー",
+        "panelMission": 0,
+        "bannerId": 0,
+        "pageIndex": 0
+    },
+    {
+        "ID": 90014,
+        "name": "アカシックアーク：炎",
+        "panelMission": 0,
+        "bannerId": 0,
+        "pageIndex": 0
+    },
+    {
+        "ID": 10013,
+        "name": "アフター・レジェンド",
+        "panelMission": 0,
+        "bannerId": 0,
+        "pageIndex": 0
+    },
+    {
+        "ID": 90013,
+        "name": "アカシックアーク：氷",
+        "panelMission": 0,
+        "bannerId": 0,
+        "pageIndex": 0
+    },
+    {
+        "ID": 10014,
+        "name": "Graceful Summer",
+        "panelMission": 0,
+        "bannerId": 0,
+        "pageIndex": 0
+    },
+    {
+        "ID": 10017,
+        "name": "フラージル・クローズ：edG",
+        "panelMission": 0,
+        "bannerId": 0,
+        "pageIndex": 0
+    }
+]

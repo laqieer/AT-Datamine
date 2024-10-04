@@ -1,0 +1,72 @@
+[
+    {
+        "ID": 1,
+        "name": "GvG設定Lv1",
+        "attackMemberMax": 15,
+        "attackTeamMax": 4,
+        "defenseMemberMax": 15
+    },
+    {
+        "ID": 2,
+        "name": "GvG設定Lv2",
+        "attackMemberMax": 16,
+        "attackTeamMax": 4,
+        "defenseMemberMax": 16
+    },
+    {
+        "ID": 3,
+        "name": "GvG設定Lv3",
+        "attackMemberMax": 17,
+        "attackTeamMax": 4,
+        "defenseMemberMax": 17
+    },
+    {
+        "ID": 4,
+        "name": "GvG設定Lv4",
+        "attackMemberMax": 18,
+        "attackTeamMax": 5,
+        "defenseMemberMax": 18
+    },
+    {
+        "ID": 5,
+        "name": "GvG設定Lv5",
+        "attackMemberMax": 19,
+        "attackTeamMax": 5,
+        "defenseMemberMax": 19
+    },
+    {
+        "ID": 6,
+        "name": "GvG設定Lv6",
+        "attackMemberMax": 20,
+        "attackTeamMax": 5,
+        "defenseMemberMax": 20
+    },
+    {
+        "ID": 7,
+        "name": "GvG設定Lv7",
+        "attackMemberMax": 21,
+        "attackTeamMax": 5,
+        "defenseMemberMax": 21
+    },
+    {
+        "ID": 8,
+        "name": "GvG設定Lv8",
+        "attackMemberMax": 22,
+        "attackTeamMax": 5,
+        "defenseMemberMax": 22
+    },
+    {
+        "ID": 9,
+        "name": "GvG設定Lv9",
+        "attackMemberMax": 23,
+        "attackTeamMax": 5,
+        "defenseMemberMax": 23
+    },
+    {
+        "ID": 10,
+        "name": "GvG設定Lv10",
+        "attackMemberMax": 24,
+        "attackTeamMax": 5,
+        "defenseMemberMax": 24
+    }
+]

@@ -1,0 +1,3222 @@
+[
+    {
+        "ID": 1,
+        "name": "通貨アリーナウィークリー報酬1",
+        "ArenaWeeklyRewardTerm": 1,
+        "fromRanking": 1,
+        "toRanking": 10
+    },
+    {
+        "ID": 2,
+        "name": "通貨アリーナウィークリー報酬2",
+        "ArenaWeeklyRewardTerm": 1,
+        "fromRanking": 11,
+        "toRanking": 30
+    },
+    {
+        "ID": 3,
+        "name": "通貨アリーナウィークリー報酬3",
+        "ArenaWeeklyRewardTerm": 1,
+        "fromRanking": 31,
+        "toRanking": 80
+    },
+    {
+        "ID": 4,
+        "name": "通貨アリーナウィークリー報酬4",
+        "ArenaWeeklyRewardTerm": 1,
+        "fromRanking": 81,
+        "toRanking": 150
+    },
+    {
+        "ID": 5,
+        "name": "育成ボードアリーナウィークリー報酬1",
+        "ArenaWeeklyRewardTerm": 2,
+        "fromRanking": 1,
+        "toRanking": 20
+    },
+    {
+        "ID": 6,
+        "name": "育成ボードアリーナウィークリー報酬2",
+        "ArenaWeeklyRewardTerm": 2,
+        "fromRanking": 21,
+        "toRanking": 50
+    },
+    {
+        "ID": 7,
+        "name": "育成ボードアリーナウィークリー報酬3",
+        "ArenaWeeklyRewardTerm": 2,
+        "fromRanking": 51,
+        "toRanking": 100
+    },
+    {
+        "ID": 8,
+        "name": "育成ボードアリーナウィークリー報酬4",
+        "ArenaWeeklyRewardTerm": 2,
+        "fromRanking": 101,
+        "toRanking": 150
+    },
+    {
+        "ID": 9,
+        "name": "強化スキルアリーナウィークリー報酬1",
+        "ArenaWeeklyRewardTerm": 3,
+        "fromRanking": 1,
+        "toRanking": 20
+    },
+    {
+        "ID": 10,
+        "name": "強化スキルアリーナウィークリー報酬2",
+        "ArenaWeeklyRewardTerm": 3,
+        "fromRanking": 21,
+        "toRanking": 50
+    },
+    {
+        "ID": 11,
+        "name": "強化スキルアリーナウィークリー報酬3",
+        "ArenaWeeklyRewardTerm": 3,
+        "fromRanking": 51,
+        "toRanking": 100
+    },
+    {
+        "ID": 12,
+        "name": "強化スキルアリーナウィークリー報酬4",
+        "ArenaWeeklyRewardTerm": 3,
+        "fromRanking": 101,
+        "toRanking": 150
+    },
+    {
+        "ID": 13,
+        "name": "β報酬1_1",
+        "ArenaWeeklyRewardTerm": 4,
+        "fromRanking": 1,
+        "toRanking": 10
+    },
+    {
+        "ID": 14,
+        "name": "β報酬1_2",
+        "ArenaWeeklyRewardTerm": 4,
+        "fromRanking": 11,
+        "toRanking": 20
+    },
+    {
+        "ID": 15,
+        "name": "β報酬1_3",
+        "ArenaWeeklyRewardTerm": 4,
+        "fromRanking": 21,
+        "toRanking": 30
+    },
+    {
+        "ID": 16,
+        "name": "β報酬1_4",
+        "ArenaWeeklyRewardTerm": 4,
+        "fromRanking": 31,
+        "toRanking": 50
+    },
+    {
+        "ID": 17,
+        "name": "β報酬1_5",
+        "ArenaWeeklyRewardTerm": 4,
+        "fromRanking": 51,
+        "toRanking": 75
+    },
+    {
+        "ID": 18,
+        "name": "β報酬1_6",
+        "ArenaWeeklyRewardTerm": 4,
+        "fromRanking": 76,
+        "toRanking": 100
+    },
+    {
+        "ID": 19,
+        "name": "β報酬1_7",
+        "ArenaWeeklyRewardTerm": 4,
+        "fromRanking": 101,
+        "toRanking": 200
+    },
+    {
+        "ID": 20,
+        "name": "β報酬1_8",
+        "ArenaWeeklyRewardTerm": 4,
+        "fromRanking": 201,
+        "toRanking": 300
+    },
+    {
+        "ID": 21,
+        "name": "β報酬1_9",
+        "ArenaWeeklyRewardTerm": 4,
+        "fromRanking": 301,
+        "toRanking": 400
+    },
+    {
+        "ID": 22,
+        "name": "β報酬1_10",
+        "ArenaWeeklyRewardTerm": 4,
+        "fromRanking": 401,
+        "toRanking": 500
+    },
+    {
+        "ID": 23,
+        "name": "β報酬1_11",
+        "ArenaWeeklyRewardTerm": 4,
+        "fromRanking": 501,
+        "toRanking": 750
+    },
+    {
+        "ID": 24,
+        "name": "β報酬1_12",
+        "ArenaWeeklyRewardTerm": 4,
+        "fromRanking": 751,
+        "toRanking": 1000
+    },
+    {
+        "ID": 25,
+        "name": "β報酬1_13",
+        "ArenaWeeklyRewardTerm": 4,
+        "fromRanking": 1001,
+        "toRanking": 2000
+    },
+    {
+        "ID": 26,
+        "name": "β報酬1_14",
+        "ArenaWeeklyRewardTerm": 4,
+        "fromRanking": 2001,
+        "toRanking": 5000
+    },
+    {
+        "ID": 27,
+        "name": "β報酬2_1",
+        "ArenaWeeklyRewardTerm": 5,
+        "fromRanking": 1,
+        "toRanking": 10
+    },
+    {
+        "ID": 28,
+        "name": "β報酬2_2",
+        "ArenaWeeklyRewardTerm": 5,
+        "fromRanking": 11,
+        "toRanking": 20
+    },
+    {
+        "ID": 29,
+        "name": "β報酬2_3",
+        "ArenaWeeklyRewardTerm": 5,
+        "fromRanking": 21,
+        "toRanking": 30
+    },
+    {
+        "ID": 30,
+        "name": "β報酬2_4",
+        "ArenaWeeklyRewardTerm": 5,
+        "fromRanking": 31,
+        "toRanking": 50
+    },
+    {
+        "ID": 31,
+        "name": "β報酬2_5",
+        "ArenaWeeklyRewardTerm": 5,
+        "fromRanking": 51,
+        "toRanking": 75
+    },
+    {
+        "ID": 32,
+        "name": "β報酬2_6",
+        "ArenaWeeklyRewardTerm": 5,
+        "fromRanking": 76,
+        "toRanking": 100
+    },
+    {
+        "ID": 33,
+        "name": "β報酬2_7",
+        "ArenaWeeklyRewardTerm": 5,
+        "fromRanking": 101,
+        "toRanking": 200
+    },
+    {
+        "ID": 34,
+        "name": "β報酬2_8",
+        "ArenaWeeklyRewardTerm": 5,
+        "fromRanking": 201,
+        "toRanking": 300
+    },
+    {
+        "ID": 35,
+        "name": "β報酬2_9",
+        "ArenaWeeklyRewardTerm": 5,
+        "fromRanking": 301,
+        "toRanking": 400
+    },
+    {
+        "ID": 36,
+        "name": "β報酬2_10",
+        "ArenaWeeklyRewardTerm": 5,
+        "fromRanking": 401,
+        "toRanking": 500
+    },
+    {
+        "ID": 37,
+        "name": "β報酬2_11",
+        "ArenaWeeklyRewardTerm": 5,
+        "fromRanking": 501,
+        "toRanking": 750
+    },
+    {
+        "ID": 38,
+        "name": "β報酬2_12",
+        "ArenaWeeklyRewardTerm": 5,
+        "fromRanking": 751,
+        "toRanking": 1000
+    },
+    {
+        "ID": 39,
+        "name": "β報酬2_13",
+        "ArenaWeeklyRewardTerm": 5,
+        "fromRanking": 1001,
+        "toRanking": 2000
+    },
+    {
+        "ID": 40,
+        "name": "β報酬2_14",
+        "ArenaWeeklyRewardTerm": 5,
+        "fromRanking": 2001,
+        "toRanking": 5000
+    },
+    {
+        "ID": 41,
+        "name": "γ報酬1_1",
+        "ArenaWeeklyRewardTerm": 6,
+        "fromRanking": 1,
+        "toRanking": 5
+    },
+    {
+        "ID": 42,
+        "name": "γ報酬1_2",
+        "ArenaWeeklyRewardTerm": 6,
+        "fromRanking": 6,
+        "toRanking": 10
+    },
+    {
+        "ID": 43,
+        "name": "γ報酬1_3",
+        "ArenaWeeklyRewardTerm": 6,
+        "fromRanking": 11,
+        "toRanking": 20
+    },
+    {
+        "ID": 44,
+        "name": "γ報酬1_4",
+        "ArenaWeeklyRewardTerm": 6,
+        "fromRanking": 21,
+        "toRanking": 30
+    },
+    {
+        "ID": 45,
+        "name": "γ報酬1_5",
+        "ArenaWeeklyRewardTerm": 6,
+        "fromRanking": 31,
+        "toRanking": 50
+    },
+    {
+        "ID": 46,
+        "name": "γ報酬1_6",
+        "ArenaWeeklyRewardTerm": 6,
+        "fromRanking": 51,
+        "toRanking": 75
+    },
+    {
+        "ID": 47,
+        "name": "γ報酬1_7",
+        "ArenaWeeklyRewardTerm": 6,
+        "fromRanking": 76,
+        "toRanking": 100
+    },
+    {
+        "ID": 48,
+        "name": "γ報酬1_8",
+        "ArenaWeeklyRewardTerm": 6,
+        "fromRanking": 101,
+        "toRanking": 200
+    },
+    {
+        "ID": 49,
+        "name": "γ報酬1_9",
+        "ArenaWeeklyRewardTerm": 6,
+        "fromRanking": 201,
+        "toRanking": 300
+    },
+    {
+        "ID": 50,
+        "name": "γ報酬1_10",
+        "ArenaWeeklyRewardTerm": 6,
+        "fromRanking": 301,
+        "toRanking": 400
+    },
+    {
+        "ID": 51,
+        "name": "γ報酬1_11",
+        "ArenaWeeklyRewardTerm": 6,
+        "fromRanking": 401,
+        "toRanking": 500
+    },
+    {
+        "ID": 52,
+        "name": "γ報酬1_12",
+        "ArenaWeeklyRewardTerm": 6,
+        "fromRanking": 501,
+        "toRanking": 750
+    },
+    {
+        "ID": 53,
+        "name": "γ報酬1_13",
+        "ArenaWeeklyRewardTerm": 6,
+        "fromRanking": 751,
+        "toRanking": 1000
+    },
+    {
+        "ID": 54,
+        "name": "γ報酬1_14",
+        "ArenaWeeklyRewardTerm": 6,
+        "fromRanking": 1001,
+        "toRanking": 2000
+    },
+    {
+        "ID": 55,
+        "name": "γ報酬1_15",
+        "ArenaWeeklyRewardTerm": 6,
+        "fromRanking": 2001,
+        "toRanking": 5000
+    },
+    {
+        "ID": 56,
+        "name": "γ報酬2_1",
+        "ArenaWeeklyRewardTerm": 7,
+        "fromRanking": 1,
+        "toRanking": 5
+    },
+    {
+        "ID": 57,
+        "name": "γ報酬2_2",
+        "ArenaWeeklyRewardTerm": 7,
+        "fromRanking": 6,
+        "toRanking": 10
+    },
+    {
+        "ID": 58,
+        "name": "γ報酬2_3",
+        "ArenaWeeklyRewardTerm": 7,
+        "fromRanking": 11,
+        "toRanking": 20
+    },
+    {
+        "ID": 59,
+        "name": "γ報酬2_4",
+        "ArenaWeeklyRewardTerm": 7,
+        "fromRanking": 21,
+        "toRanking": 30
+    },
+    {
+        "ID": 60,
+        "name": "γ報酬2_5",
+        "ArenaWeeklyRewardTerm": 7,
+        "fromRanking": 31,
+        "toRanking": 50
+    },
+    {
+        "ID": 61,
+        "name": "γ報酬2_6",
+        "ArenaWeeklyRewardTerm": 7,
+        "fromRanking": 51,
+        "toRanking": 75
+    },
+    {
+        "ID": 62,
+        "name": "γ報酬2_7",
+        "ArenaWeeklyRewardTerm": 7,
+        "fromRanking": 76,
+        "toRanking": 100
+    },
+    {
+        "ID": 63,
+        "name": "γ報酬2_8",
+        "ArenaWeeklyRewardTerm": 7,
+        "fromRanking": 101,
+        "toRanking": 200
+    },
+    {
+        "ID": 64,
+        "name": "γ報酬2_9",
+        "ArenaWeeklyRewardTerm": 7,
+        "fromRanking": 201,
+        "toRanking": 300
+    },
+    {
+        "ID": 65,
+        "name": "γ報酬2_10",
+        "ArenaWeeklyRewardTerm": 7,
+        "fromRanking": 301,
+        "toRanking": 400
+    },
+    {
+        "ID": 66,
+        "name": "γ報酬2_11",
+        "ArenaWeeklyRewardTerm": 7,
+        "fromRanking": 401,
+        "toRanking": 500
+    },
+    {
+        "ID": 67,
+        "name": "γ報酬2_12",
+        "ArenaWeeklyRewardTerm": 7,
+        "fromRanking": 501,
+        "toRanking": 750
+    },
+    {
+        "ID": 68,
+        "name": "γ報酬2_13",
+        "ArenaWeeklyRewardTerm": 7,
+        "fromRanking": 751,
+        "toRanking": 1000
+    },
+    {
+        "ID": 69,
+        "name": "γ報酬2_14",
+        "ArenaWeeklyRewardTerm": 7,
+        "fromRanking": 1001,
+        "toRanking": 2000
+    },
+    {
+        "ID": 70,
+        "name": "γ報酬2_15",
+        "ArenaWeeklyRewardTerm": 7,
+        "fromRanking": 2001,
+        "toRanking": 5000
+    },
+    {
+        "ID": 71,
+        "name": "コロシアムδ_ウィークリーその1報酬1_1",
+        "ArenaWeeklyRewardTerm": 8,
+        "fromRanking": 1,
+        "toRanking": 5
+    },
+    {
+        "ID": 72,
+        "name": "コロシアムδ_ウィークリーその1報酬1_2",
+        "ArenaWeeklyRewardTerm": 8,
+        "fromRanking": 6,
+        "toRanking": 10
+    },
+    {
+        "ID": 73,
+        "name": "コロシアムδ_ウィークリーその1報酬1_3",
+        "ArenaWeeklyRewardTerm": 8,
+        "fromRanking": 11,
+        "toRanking": 20
+    },
+    {
+        "ID": 74,
+        "name": "コロシアムδ_ウィークリーその1報酬1_4",
+        "ArenaWeeklyRewardTerm": 8,
+        "fromRanking": 21,
+        "toRanking": 30
+    },
+    {
+        "ID": 75,
+        "name": "コロシアムδ_ウィークリーその1報酬1_5",
+        "ArenaWeeklyRewardTerm": 8,
+        "fromRanking": 31,
+        "toRanking": 50
+    },
+    {
+        "ID": 76,
+        "name": "コロシアムδ_ウィークリーその1報酬1_6",
+        "ArenaWeeklyRewardTerm": 8,
+        "fromRanking": 51,
+        "toRanking": 75
+    },
+    {
+        "ID": 77,
+        "name": "コロシアムδ_ウィークリーその1報酬1_7",
+        "ArenaWeeklyRewardTerm": 8,
+        "fromRanking": 76,
+        "toRanking": 100
+    },
+    {
+        "ID": 78,
+        "name": "コロシアムδ_ウィークリーその1報酬1_8",
+        "ArenaWeeklyRewardTerm": 8,
+        "fromRanking": 101,
+        "toRanking": 200
+    },
+    {
+        "ID": 79,
+        "name": "コロシアムδ_ウィークリーその1報酬1_9",
+        "ArenaWeeklyRewardTerm": 8,
+        "fromRanking": 201,
+        "toRanking": 300
+    },
+    {
+        "ID": 80,
+        "name": "コロシアムδ_ウィークリーその1報酬1_10",
+        "ArenaWeeklyRewardTerm": 8,
+        "fromRanking": 301,
+        "toRanking": 400
+    },
+    {
+        "ID": 81,
+        "name": "コロシアムδ_ウィークリーその1報酬1_11",
+        "ArenaWeeklyRewardTerm": 8,
+        "fromRanking": 401,
+        "toRanking": 500
+    },
+    {
+        "ID": 82,
+        "name": "コロシアムδ_ウィークリーその1報酬1_12",
+        "ArenaWeeklyRewardTerm": 8,
+        "fromRanking": 501,
+        "toRanking": 750
+    },
+    {
+        "ID": 83,
+        "name": "コロシアムδ_ウィークリーその1報酬1_13",
+        "ArenaWeeklyRewardTerm": 8,
+        "fromRanking": 751,
+        "toRanking": 1000
+    },
+    {
+        "ID": 84,
+        "name": "コロシアムδ_ウィークリーその1報酬1_14",
+        "ArenaWeeklyRewardTerm": 8,
+        "fromRanking": 1001,
+        "toRanking": 2000
+    },
+    {
+        "ID": 85,
+        "name": "コロシアムδ_ウィークリーその1報酬1_15",
+        "ArenaWeeklyRewardTerm": 8,
+        "fromRanking": 2001,
+        "toRanking": 5000
+    },
+    {
+        "ID": 86,
+        "name": "コロシアムδ_ウィークリーその2報酬1_1",
+        "ArenaWeeklyRewardTerm": 9,
+        "fromRanking": 1,
+        "toRanking": 5
+    },
+    {
+        "ID": 87,
+        "name": "コロシアムδ_ウィークリーその2報酬1_2",
+        "ArenaWeeklyRewardTerm": 9,
+        "fromRanking": 6,
+        "toRanking": 10
+    },
+    {
+        "ID": 88,
+        "name": "コロシアムδ_ウィークリーその2報酬1_3",
+        "ArenaWeeklyRewardTerm": 9,
+        "fromRanking": 11,
+        "toRanking": 20
+    },
+    {
+        "ID": 89,
+        "name": "コロシアムδ_ウィークリーその2報酬1_4",
+        "ArenaWeeklyRewardTerm": 9,
+        "fromRanking": 21,
+        "toRanking": 30
+    },
+    {
+        "ID": 90,
+        "name": "コロシアムδ_ウィークリーその2報酬1_5",
+        "ArenaWeeklyRewardTerm": 9,
+        "fromRanking": 31,
+        "toRanking": 50
+    },
+    {
+        "ID": 91,
+        "name": "コロシアムδ_ウィークリーその2報酬1_6",
+        "ArenaWeeklyRewardTerm": 9,
+        "fromRanking": 51,
+        "toRanking": 75
+    },
+    {
+        "ID": 92,
+        "name": "コロシアムδ_ウィークリーその2報酬1_7",
+        "ArenaWeeklyRewardTerm": 9,
+        "fromRanking": 76,
+        "toRanking": 100
+    },
+    {
+        "ID": 93,
+        "name": "コロシアムδ_ウィークリーその2報酬1_8",
+        "ArenaWeeklyRewardTerm": 9,
+        "fromRanking": 101,
+        "toRanking": 200
+    },
+    {
+        "ID": 94,
+        "name": "コロシアムδ_ウィークリーその2報酬1_9",
+        "ArenaWeeklyRewardTerm": 9,
+        "fromRanking": 201,
+        "toRanking": 300
+    },
+    {
+        "ID": 95,
+        "name": "コロシアムδ_ウィークリーその2報酬1_10",
+        "ArenaWeeklyRewardTerm": 9,
+        "fromRanking": 301,
+        "toRanking": 400
+    },
+    {
+        "ID": 96,
+        "name": "コロシアムδ_ウィークリーその2報酬1_11",
+        "ArenaWeeklyRewardTerm": 9,
+        "fromRanking": 401,
+        "toRanking": 500
+    },
+    {
+        "ID": 97,
+        "name": "コロシアムδ_ウィークリーその2報酬1_12",
+        "ArenaWeeklyRewardTerm": 9,
+        "fromRanking": 501,
+        "toRanking": 750
+    },
+    {
+        "ID": 98,
+        "name": "コロシアムδ_ウィークリーその2報酬1_13",
+        "ArenaWeeklyRewardTerm": 9,
+        "fromRanking": 751,
+        "toRanking": 1000
+    },
+    {
+        "ID": 99,
+        "name": "コロシアムδ_ウィークリーその2報酬1_14",
+        "ArenaWeeklyRewardTerm": 9,
+        "fromRanking": 1001,
+        "toRanking": 2000
+    },
+    {
+        "ID": 100,
+        "name": "コロシアムδ_ウィークリーその2報酬1_15",
+        "ArenaWeeklyRewardTerm": 9,
+        "fromRanking": 2001,
+        "toRanking": 5000
+    },
+    {
+        "ID": 101,
+        "name": "コロシアムδ_ウィークリーその3報酬1_1",
+        "ArenaWeeklyRewardTerm": 10,
+        "fromRanking": 1,
+        "toRanking": 5
+    },
+    {
+        "ID": 102,
+        "name": "コロシアムδ_ウィークリーその3報酬1_2",
+        "ArenaWeeklyRewardTerm": 10,
+        "fromRanking": 6,
+        "toRanking": 10
+    },
+    {
+        "ID": 103,
+        "name": "コロシアムδ_ウィークリーその3報酬1_3",
+        "ArenaWeeklyRewardTerm": 10,
+        "fromRanking": 11,
+        "toRanking": 20
+    },
+    {
+        "ID": 104,
+        "name": "コロシアムδ_ウィークリーその3報酬1_4",
+        "ArenaWeeklyRewardTerm": 10,
+        "fromRanking": 21,
+        "toRanking": 30
+    },
+    {
+        "ID": 105,
+        "name": "コロシアムδ_ウィークリーその3報酬1_5",
+        "ArenaWeeklyRewardTerm": 10,
+        "fromRanking": 31,
+        "toRanking": 50
+    },
+    {
+        "ID": 106,
+        "name": "コロシアムδ_ウィークリーその3報酬1_6",
+        "ArenaWeeklyRewardTerm": 10,
+        "fromRanking": 51,
+        "toRanking": 75
+    },
+    {
+        "ID": 107,
+        "name": "コロシアムδ_ウィークリーその3報酬1_7",
+        "ArenaWeeklyRewardTerm": 10,
+        "fromRanking": 76,
+        "toRanking": 100
+    },
+    {
+        "ID": 108,
+        "name": "コロシアムδ_ウィークリーその3報酬1_8",
+        "ArenaWeeklyRewardTerm": 10,
+        "fromRanking": 101,
+        "toRanking": 200
+    },
+    {
+        "ID": 109,
+        "name": "コロシアムδ_ウィークリーその3報酬1_9",
+        "ArenaWeeklyRewardTerm": 10,
+        "fromRanking": 201,
+        "toRanking": 300
+    },
+    {
+        "ID": 110,
+        "name": "コロシアムδ_ウィークリーその3報酬1_10",
+        "ArenaWeeklyRewardTerm": 10,
+        "fromRanking": 301,
+        "toRanking": 400
+    },
+    {
+        "ID": 111,
+        "name": "コロシアムδ_ウィークリーその3報酬1_11",
+        "ArenaWeeklyRewardTerm": 10,
+        "fromRanking": 401,
+        "toRanking": 500
+    },
+    {
+        "ID": 112,
+        "name": "コロシアムδ_ウィークリーその3報酬1_12",
+        "ArenaWeeklyRewardTerm": 10,
+        "fromRanking": 501,
+        "toRanking": 750
+    },
+    {
+        "ID": 113,
+        "name": "コロシアムδ_ウィークリーその3報酬1_13",
+        "ArenaWeeklyRewardTerm": 10,
+        "fromRanking": 751,
+        "toRanking": 1000
+    },
+    {
+        "ID": 114,
+        "name": "コロシアムδ_ウィークリーその3報酬1_14",
+        "ArenaWeeklyRewardTerm": 10,
+        "fromRanking": 1001,
+        "toRanking": 2000
+    },
+    {
+        "ID": 115,
+        "name": "コロシアムδ_ウィークリーその3報酬1_15",
+        "ArenaWeeklyRewardTerm": 10,
+        "fromRanking": 2001,
+        "toRanking": 5000
+    },
+    {
+        "ID": 116,
+        "name": "コロシアムδ_ウィークリーその4報酬1_1",
+        "ArenaWeeklyRewardTerm": 11,
+        "fromRanking": 1,
+        "toRanking": 5
+    },
+    {
+        "ID": 117,
+        "name": "コロシアムδ_ウィークリーその4報酬1_2",
+        "ArenaWeeklyRewardTerm": 11,
+        "fromRanking": 6,
+        "toRanking": 10
+    },
+    {
+        "ID": 118,
+        "name": "コロシアムδ_ウィークリーその4報酬1_3",
+        "ArenaWeeklyRewardTerm": 11,
+        "fromRanking": 11,
+        "toRanking": 20
+    },
+    {
+        "ID": 119,
+        "name": "コロシアムδ_ウィークリーその4報酬1_4",
+        "ArenaWeeklyRewardTerm": 11,
+        "fromRanking": 21,
+        "toRanking": 30
+    },
+    {
+        "ID": 120,
+        "name": "コロシアムδ_ウィークリーその4報酬1_5",
+        "ArenaWeeklyRewardTerm": 11,
+        "fromRanking": 31,
+        "toRanking": 50
+    },
+    {
+        "ID": 121,
+        "name": "コロシアムδ_ウィークリーその4報酬1_6",
+        "ArenaWeeklyRewardTerm": 11,
+        "fromRanking": 51,
+        "toRanking": 75
+    },
+    {
+        "ID": 122,
+        "name": "コロシアムδ_ウィークリーその4報酬1_7",
+        "ArenaWeeklyRewardTerm": 11,
+        "fromRanking": 76,
+        "toRanking": 100
+    },
+    {
+        "ID": 123,
+        "name": "コロシアムδ_ウィークリーその4報酬1_8",
+        "ArenaWeeklyRewardTerm": 11,
+        "fromRanking": 101,
+        "toRanking": 200
+    },
+    {
+        "ID": 124,
+        "name": "コロシアムδ_ウィークリーその4報酬1_9",
+        "ArenaWeeklyRewardTerm": 11,
+        "fromRanking": 201,
+        "toRanking": 300
+    },
+    {
+        "ID": 125,
+        "name": "コロシアムδ_ウィークリーその4報酬1_10",
+        "ArenaWeeklyRewardTerm": 11,
+        "fromRanking": 301,
+        "toRanking": 400
+    },
+    {
+        "ID": 126,
+        "name": "コロシアムδ_ウィークリーその4報酬1_11",
+        "ArenaWeeklyRewardTerm": 11,
+        "fromRanking": 401,
+        "toRanking": 500
+    },
+    {
+        "ID": 127,
+        "name": "コロシアムδ_ウィークリーその4報酬1_12",
+        "ArenaWeeklyRewardTerm": 11,
+        "fromRanking": 501,
+        "toRanking": 750
+    },
+    {
+        "ID": 128,
+        "name": "コロシアムδ_ウィークリーその4報酬1_13",
+        "ArenaWeeklyRewardTerm": 11,
+        "fromRanking": 751,
+        "toRanking": 1000
+    },
+    {
+        "ID": 129,
+        "name": "コロシアムδ_ウィークリーその4報酬1_14",
+        "ArenaWeeklyRewardTerm": 11,
+        "fromRanking": 1001,
+        "toRanking": 2000
+    },
+    {
+        "ID": 130,
+        "name": "コロシアムδ_ウィークリーその4報酬1_15",
+        "ArenaWeeklyRewardTerm": 11,
+        "fromRanking": 2001,
+        "toRanking": 5000
+    },
+    {
+        "ID": 131,
+        "name": "コロシアム鬼滅_ウィークリーその1報酬1_1",
+        "ArenaWeeklyRewardTerm": 12,
+        "fromRanking": 1,
+        "toRanking": 5
+    },
+    {
+        "ID": 132,
+        "name": "コロシアム鬼滅_ウィークリーその1報酬1_2",
+        "ArenaWeeklyRewardTerm": 12,
+        "fromRanking": 6,
+        "toRanking": 10
+    },
+    {
+        "ID": 133,
+        "name": "コロシアム鬼滅_ウィークリーその1報酬1_3",
+        "ArenaWeeklyRewardTerm": 12,
+        "fromRanking": 11,
+        "toRanking": 20
+    },
+    {
+        "ID": 134,
+        "name": "コロシアム鬼滅_ウィークリーその1報酬1_4",
+        "ArenaWeeklyRewardTerm": 12,
+        "fromRanking": 21,
+        "toRanking": 30
+    },
+    {
+        "ID": 135,
+        "name": "コロシアム鬼滅_ウィークリーその1報酬1_5",
+        "ArenaWeeklyRewardTerm": 12,
+        "fromRanking": 31,
+        "toRanking": 50
+    },
+    {
+        "ID": 136,
+        "name": "コロシアム鬼滅_ウィークリーその1報酬1_6",
+        "ArenaWeeklyRewardTerm": 12,
+        "fromRanking": 51,
+        "toRanking": 75
+    },
+    {
+        "ID": 137,
+        "name": "コロシアム鬼滅_ウィークリーその1報酬1_7",
+        "ArenaWeeklyRewardTerm": 12,
+        "fromRanking": 76,
+        "toRanking": 100
+    },
+    {
+        "ID": 138,
+        "name": "コロシアム鬼滅_ウィークリーその1報酬1_8",
+        "ArenaWeeklyRewardTerm": 12,
+        "fromRanking": 101,
+        "toRanking": 200
+    },
+    {
+        "ID": 139,
+        "name": "コロシアム鬼滅_ウィークリーその1報酬1_9",
+        "ArenaWeeklyRewardTerm": 12,
+        "fromRanking": 201,
+        "toRanking": 300
+    },
+    {
+        "ID": 140,
+        "name": "コロシアム鬼滅_ウィークリーその1報酬1_10",
+        "ArenaWeeklyRewardTerm": 12,
+        "fromRanking": 301,
+        "toRanking": 400
+    },
+    {
+        "ID": 141,
+        "name": "コロシアム鬼滅_ウィークリーその1報酬1_11",
+        "ArenaWeeklyRewardTerm": 12,
+        "fromRanking": 401,
+        "toRanking": 500
+    },
+    {
+        "ID": 142,
+        "name": "コロシアム鬼滅_ウィークリーその1報酬1_12",
+        "ArenaWeeklyRewardTerm": 12,
+        "fromRanking": 501,
+        "toRanking": 750
+    },
+    {
+        "ID": 143,
+        "name": "コロシアム鬼滅_ウィークリーその1報酬1_13",
+        "ArenaWeeklyRewardTerm": 12,
+        "fromRanking": 751,
+        "toRanking": 1000
+    },
+    {
+        "ID": 144,
+        "name": "コロシアム鬼滅_ウィークリーその1報酬1_14",
+        "ArenaWeeklyRewardTerm": 12,
+        "fromRanking": 1001,
+        "toRanking": 2000
+    },
+    {
+        "ID": 145,
+        "name": "コロシアム鬼滅_ウィークリーその1報酬1_15",
+        "ArenaWeeklyRewardTerm": 12,
+        "fromRanking": 2001,
+        "toRanking": 5000
+    },
+    {
+        "ID": 146,
+        "name": "コロシアム鬼滅_ウィークリーその2報酬1_1",
+        "ArenaWeeklyRewardTerm": 13,
+        "fromRanking": 1,
+        "toRanking": 5
+    },
+    {
+        "ID": 147,
+        "name": "コロシアム鬼滅_ウィークリーその2報酬1_2",
+        "ArenaWeeklyRewardTerm": 13,
+        "fromRanking": 6,
+        "toRanking": 10
+    },
+    {
+        "ID": 148,
+        "name": "コロシアム鬼滅_ウィークリーその2報酬1_3",
+        "ArenaWeeklyRewardTerm": 13,
+        "fromRanking": 11,
+        "toRanking": 20
+    },
+    {
+        "ID": 149,
+        "name": "コロシアム鬼滅_ウィークリーその2報酬1_4",
+        "ArenaWeeklyRewardTerm": 13,
+        "fromRanking": 21,
+        "toRanking": 30
+    },
+    {
+        "ID": 150,
+        "name": "コロシアム鬼滅_ウィークリーその2報酬1_5",
+        "ArenaWeeklyRewardTerm": 13,
+        "fromRanking": 31,
+        "toRanking": 50
+    },
+    {
+        "ID": 151,
+        "name": "コロシアム鬼滅_ウィークリーその2報酬1_6",
+        "ArenaWeeklyRewardTerm": 13,
+        "fromRanking": 51,
+        "toRanking": 75
+    },
+    {
+        "ID": 152,
+        "name": "コロシアム鬼滅_ウィークリーその2報酬1_7",
+        "ArenaWeeklyRewardTerm": 13,
+        "fromRanking": 76,
+        "toRanking": 100
+    },
+    {
+        "ID": 153,
+        "name": "コロシアム鬼滅_ウィークリーその2報酬1_8",
+        "ArenaWeeklyRewardTerm": 13,
+        "fromRanking": 101,
+        "toRanking": 200
+    },
+    {
+        "ID": 154,
+        "name": "コロシアム鬼滅_ウィークリーその2報酬1_9",
+        "ArenaWeeklyRewardTerm": 13,
+        "fromRanking": 201,
+        "toRanking": 300
+    },
+    {
+        "ID": 155,
+        "name": "コロシアム鬼滅_ウィークリーその2報酬1_10",
+        "ArenaWeeklyRewardTerm": 13,
+        "fromRanking": 301,
+        "toRanking": 400
+    },
+    {
+        "ID": 156,
+        "name": "コロシアム鬼滅_ウィークリーその2報酬1_11",
+        "ArenaWeeklyRewardTerm": 13,
+        "fromRanking": 401,
+        "toRanking": 500
+    },
+    {
+        "ID": 157,
+        "name": "コロシアム鬼滅_ウィークリーその2報酬1_12",
+        "ArenaWeeklyRewardTerm": 13,
+        "fromRanking": 501,
+        "toRanking": 750
+    },
+    {
+        "ID": 158,
+        "name": "コロシアム鬼滅_ウィークリーその2報酬1_13",
+        "ArenaWeeklyRewardTerm": 13,
+        "fromRanking": 751,
+        "toRanking": 1000
+    },
+    {
+        "ID": 159,
+        "name": "コロシアム鬼滅_ウィークリーその2報酬1_14",
+        "ArenaWeeklyRewardTerm": 13,
+        "fromRanking": 1001,
+        "toRanking": 2000
+    },
+    {
+        "ID": 160,
+        "name": "コロシアム鬼滅_ウィークリーその2報酬1_15",
+        "ArenaWeeklyRewardTerm": 13,
+        "fromRanking": 2001,
+        "toRanking": 5000
+    },
+    {
+        "ID": 161,
+        "name": "コロシアムδ_ウィークリーその5報酬1_1",
+        "ArenaWeeklyRewardTerm": 14,
+        "fromRanking": 1,
+        "toRanking": 5
+    },
+    {
+        "ID": 162,
+        "name": "コロシアムδ_ウィークリーその5報酬1_2",
+        "ArenaWeeklyRewardTerm": 14,
+        "fromRanking": 6,
+        "toRanking": 10
+    },
+    {
+        "ID": 163,
+        "name": "コロシアムδ_ウィークリーその5報酬1_3",
+        "ArenaWeeklyRewardTerm": 14,
+        "fromRanking": 11,
+        "toRanking": 20
+    },
+    {
+        "ID": 164,
+        "name": "コロシアムδ_ウィークリーその5報酬1_4",
+        "ArenaWeeklyRewardTerm": 14,
+        "fromRanking": 21,
+        "toRanking": 30
+    },
+    {
+        "ID": 165,
+        "name": "コロシアムδ_ウィークリーその5報酬1_5",
+        "ArenaWeeklyRewardTerm": 14,
+        "fromRanking": 31,
+        "toRanking": 50
+    },
+    {
+        "ID": 166,
+        "name": "コロシアムδ_ウィークリーその5報酬1_6",
+        "ArenaWeeklyRewardTerm": 14,
+        "fromRanking": 51,
+        "toRanking": 75
+    },
+    {
+        "ID": 167,
+        "name": "コロシアムδ_ウィークリーその5報酬1_7",
+        "ArenaWeeklyRewardTerm": 14,
+        "fromRanking": 76,
+        "toRanking": 100
+    },
+    {
+        "ID": 168,
+        "name": "コロシアムδ_ウィークリーその5報酬1_8",
+        "ArenaWeeklyRewardTerm": 14,
+        "fromRanking": 101,
+        "toRanking": 200
+    },
+    {
+        "ID": 169,
+        "name": "コロシアムδ_ウィークリーその5報酬1_9",
+        "ArenaWeeklyRewardTerm": 14,
+        "fromRanking": 201,
+        "toRanking": 300
+    },
+    {
+        "ID": 170,
+        "name": "コロシアムδ_ウィークリーその5報酬1_10",
+        "ArenaWeeklyRewardTerm": 14,
+        "fromRanking": 301,
+        "toRanking": 400
+    },
+    {
+        "ID": 171,
+        "name": "コロシアムδ_ウィークリーその5報酬1_11",
+        "ArenaWeeklyRewardTerm": 14,
+        "fromRanking": 401,
+        "toRanking": 500
+    },
+    {
+        "ID": 172,
+        "name": "コロシアムδ_ウィークリーその5報酬1_12",
+        "ArenaWeeklyRewardTerm": 14,
+        "fromRanking": 501,
+        "toRanking": 750
+    },
+    {
+        "ID": 173,
+        "name": "コロシアムδ_ウィークリーその5報酬1_13",
+        "ArenaWeeklyRewardTerm": 14,
+        "fromRanking": 751,
+        "toRanking": 1000
+    },
+    {
+        "ID": 174,
+        "name": "コロシアムδ_ウィークリーその5報酬1_14",
+        "ArenaWeeklyRewardTerm": 14,
+        "fromRanking": 1001,
+        "toRanking": 2000
+    },
+    {
+        "ID": 175,
+        "name": "コロシアムδ_ウィークリーその5報酬1_15",
+        "ArenaWeeklyRewardTerm": 14,
+        "fromRanking": 2001,
+        "toRanking": 5000
+    },
+    {
+        "ID": 176,
+        "name": "コロシアムδ_ウィークリーその6報酬1_1",
+        "ArenaWeeklyRewardTerm": 15,
+        "fromRanking": 1,
+        "toRanking": 5
+    },
+    {
+        "ID": 177,
+        "name": "コロシアムδ_ウィークリーその6報酬1_2",
+        "ArenaWeeklyRewardTerm": 15,
+        "fromRanking": 6,
+        "toRanking": 10
+    },
+    {
+        "ID": 178,
+        "name": "コロシアムδ_ウィークリーその6報酬1_3",
+        "ArenaWeeklyRewardTerm": 15,
+        "fromRanking": 11,
+        "toRanking": 20
+    },
+    {
+        "ID": 179,
+        "name": "コロシアムδ_ウィークリーその6報酬1_4",
+        "ArenaWeeklyRewardTerm": 15,
+        "fromRanking": 21,
+        "toRanking": 30
+    },
+    {
+        "ID": 180,
+        "name": "コロシアムδ_ウィークリーその6報酬1_5",
+        "ArenaWeeklyRewardTerm": 15,
+        "fromRanking": 31,
+        "toRanking": 50
+    },
+    {
+        "ID": 181,
+        "name": "コロシアムδ_ウィークリーその6報酬1_6",
+        "ArenaWeeklyRewardTerm": 15,
+        "fromRanking": 51,
+        "toRanking": 75
+    },
+    {
+        "ID": 182,
+        "name": "コロシアムδ_ウィークリーその6報酬1_7",
+        "ArenaWeeklyRewardTerm": 15,
+        "fromRanking": 76,
+        "toRanking": 100
+    },
+    {
+        "ID": 183,
+        "name": "コロシアムδ_ウィークリーその6報酬1_8",
+        "ArenaWeeklyRewardTerm": 15,
+        "fromRanking": 101,
+        "toRanking": 200
+    },
+    {
+        "ID": 184,
+        "name": "コロシアムδ_ウィークリーその6報酬1_9",
+        "ArenaWeeklyRewardTerm": 15,
+        "fromRanking": 201,
+        "toRanking": 300
+    },
+    {
+        "ID": 185,
+        "name": "コロシアムδ_ウィークリーその6報酬1_10",
+        "ArenaWeeklyRewardTerm": 15,
+        "fromRanking": 301,
+        "toRanking": 400
+    },
+    {
+        "ID": 186,
+        "name": "コロシアムδ_ウィークリーその6報酬1_11",
+        "ArenaWeeklyRewardTerm": 15,
+        "fromRanking": 401,
+        "toRanking": 500
+    },
+    {
+        "ID": 187,
+        "name": "コロシアムδ_ウィークリーその6報酬1_12",
+        "ArenaWeeklyRewardTerm": 15,
+        "fromRanking": 501,
+        "toRanking": 750
+    },
+    {
+        "ID": 188,
+        "name": "コロシアムδ_ウィークリーその6報酬1_13",
+        "ArenaWeeklyRewardTerm": 15,
+        "fromRanking": 751,
+        "toRanking": 1000
+    },
+    {
+        "ID": 189,
+        "name": "コロシアムδ_ウィークリーその6報酬1_14",
+        "ArenaWeeklyRewardTerm": 15,
+        "fromRanking": 1001,
+        "toRanking": 2000
+    },
+    {
+        "ID": 190,
+        "name": "コロシアムδ_ウィークリーその6報酬1_15",
+        "ArenaWeeklyRewardTerm": 15,
+        "fromRanking": 2001,
+        "toRanking": 5000
+    },
+    {
+        "ID": 191,
+        "name": "コロシアムδ_ウィークリーその7報酬1_1",
+        "ArenaWeeklyRewardTerm": 16,
+        "fromRanking": 1,
+        "toRanking": 5
+    },
+    {
+        "ID": 192,
+        "name": "コロシアムδ_ウィークリーその7報酬1_2",
+        "ArenaWeeklyRewardTerm": 16,
+        "fromRanking": 6,
+        "toRanking": 10
+    },
+    {
+        "ID": 193,
+        "name": "コロシアムδ_ウィークリーその7報酬1_3",
+        "ArenaWeeklyRewardTerm": 16,
+        "fromRanking": 11,
+        "toRanking": 20
+    },
+    {
+        "ID": 194,
+        "name": "コロシアムδ_ウィークリーその7報酬1_4",
+        "ArenaWeeklyRewardTerm": 16,
+        "fromRanking": 21,
+        "toRanking": 30
+    },
+    {
+        "ID": 195,
+        "name": "コロシアムδ_ウィークリーその7報酬1_5",
+        "ArenaWeeklyRewardTerm": 16,
+        "fromRanking": 31,
+        "toRanking": 50
+    },
+    {
+        "ID": 196,
+        "name": "コロシアムδ_ウィークリーその7報酬1_6",
+        "ArenaWeeklyRewardTerm": 16,
+        "fromRanking": 51,
+        "toRanking": 75
+    },
+    {
+        "ID": 197,
+        "name": "コロシアムδ_ウィークリーその7報酬1_7",
+        "ArenaWeeklyRewardTerm": 16,
+        "fromRanking": 76,
+        "toRanking": 100
+    },
+    {
+        "ID": 198,
+        "name": "コロシアムδ_ウィークリーその7報酬1_8",
+        "ArenaWeeklyRewardTerm": 16,
+        "fromRanking": 101,
+        "toRanking": 200
+    },
+    {
+        "ID": 199,
+        "name": "コロシアムδ_ウィークリーその7報酬1_9",
+        "ArenaWeeklyRewardTerm": 16,
+        "fromRanking": 201,
+        "toRanking": 300
+    },
+    {
+        "ID": 200,
+        "name": "コロシアムδ_ウィークリーその7報酬1_10",
+        "ArenaWeeklyRewardTerm": 16,
+        "fromRanking": 301,
+        "toRanking": 400
+    },
+    {
+        "ID": 201,
+        "name": "コロシアムδ_ウィークリーその7報酬1_11",
+        "ArenaWeeklyRewardTerm": 16,
+        "fromRanking": 401,
+        "toRanking": 500
+    },
+    {
+        "ID": 202,
+        "name": "コロシアムδ_ウィークリーその7報酬1_12",
+        "ArenaWeeklyRewardTerm": 16,
+        "fromRanking": 501,
+        "toRanking": 750
+    },
+    {
+        "ID": 203,
+        "name": "コロシアムδ_ウィークリーその7報酬1_13",
+        "ArenaWeeklyRewardTerm": 16,
+        "fromRanking": 751,
+        "toRanking": 1000
+    },
+    {
+        "ID": 204,
+        "name": "コロシアムδ_ウィークリーその7報酬1_14",
+        "ArenaWeeklyRewardTerm": 16,
+        "fromRanking": 1001,
+        "toRanking": 2000
+    },
+    {
+        "ID": 205,
+        "name": "コロシアムδ_ウィークリーその7報酬1_15",
+        "ArenaWeeklyRewardTerm": 16,
+        "fromRanking": 2001,
+        "toRanking": 5000
+    },
+    {
+        "ID": 206,
+        "name": "コロシアムδ_ウィークリーその8報酬1_1",
+        "ArenaWeeklyRewardTerm": 17,
+        "fromRanking": 1,
+        "toRanking": 5
+    },
+    {
+        "ID": 207,
+        "name": "コロシアムδ_ウィークリーその8報酬1_2",
+        "ArenaWeeklyRewardTerm": 17,
+        "fromRanking": 6,
+        "toRanking": 10
+    },
+    {
+        "ID": 208,
+        "name": "コロシアムδ_ウィークリーその8報酬1_3",
+        "ArenaWeeklyRewardTerm": 17,
+        "fromRanking": 11,
+        "toRanking": 20
+    },
+    {
+        "ID": 209,
+        "name": "コロシアムδ_ウィークリーその8報酬1_4",
+        "ArenaWeeklyRewardTerm": 17,
+        "fromRanking": 21,
+        "toRanking": 30
+    },
+    {
+        "ID": 210,
+        "name": "コロシアムδ_ウィークリーその8報酬1_5",
+        "ArenaWeeklyRewardTerm": 17,
+        "fromRanking": 31,
+        "toRanking": 50
+    },
+    {
+        "ID": 211,
+        "name": "コロシアムδ_ウィークリーその8報酬1_6",
+        "ArenaWeeklyRewardTerm": 17,
+        "fromRanking": 51,
+        "toRanking": 75
+    },
+    {
+        "ID": 212,
+        "name": "コロシアムδ_ウィークリーその8報酬1_7",
+        "ArenaWeeklyRewardTerm": 17,
+        "fromRanking": 76,
+        "toRanking": 100
+    },
+    {
+        "ID": 213,
+        "name": "コロシアムδ_ウィークリーその8報酬1_8",
+        "ArenaWeeklyRewardTerm": 17,
+        "fromRanking": 101,
+        "toRanking": 200
+    },
+    {
+        "ID": 214,
+        "name": "コロシアムδ_ウィークリーその8報酬1_9",
+        "ArenaWeeklyRewardTerm": 17,
+        "fromRanking": 201,
+        "toRanking": 300
+    },
+    {
+        "ID": 215,
+        "name": "コロシアムδ_ウィークリーその8報酬1_10",
+        "ArenaWeeklyRewardTerm": 17,
+        "fromRanking": 301,
+        "toRanking": 400
+    },
+    {
+        "ID": 216,
+        "name": "コロシアムδ_ウィークリーその8報酬1_11",
+        "ArenaWeeklyRewardTerm": 17,
+        "fromRanking": 401,
+        "toRanking": 500
+    },
+    {
+        "ID": 217,
+        "name": "コロシアムδ_ウィークリーその8報酬1_12",
+        "ArenaWeeklyRewardTerm": 17,
+        "fromRanking": 501,
+        "toRanking": 750
+    },
+    {
+        "ID": 218,
+        "name": "コロシアムδ_ウィークリーその8報酬1_13",
+        "ArenaWeeklyRewardTerm": 17,
+        "fromRanking": 751,
+        "toRanking": 1000
+    },
+    {
+        "ID": 219,
+        "name": "コロシアムδ_ウィークリーその8報酬1_14",
+        "ArenaWeeklyRewardTerm": 17,
+        "fromRanking": 1001,
+        "toRanking": 2000
+    },
+    {
+        "ID": 220,
+        "name": "コロシアムδ_ウィークリーその8報酬1_15",
+        "ArenaWeeklyRewardTerm": 17,
+        "fromRanking": 2001,
+        "toRanking": 5000
+    },
+    {
+        "ID": 221,
+        "name": "コロシアムδ_ウィークリーその9報酬1_1",
+        "ArenaWeeklyRewardTerm": 18,
+        "fromRanking": 1,
+        "toRanking": 5
+    },
+    {
+        "ID": 222,
+        "name": "コロシアムδ_ウィークリーその9報酬1_2",
+        "ArenaWeeklyRewardTerm": 18,
+        "fromRanking": 6,
+        "toRanking": 10
+    },
+    {
+        "ID": 223,
+        "name": "コロシアムδ_ウィークリーその9報酬1_3",
+        "ArenaWeeklyRewardTerm": 18,
+        "fromRanking": 11,
+        "toRanking": 20
+    },
+    {
+        "ID": 224,
+        "name": "コロシアムδ_ウィークリーその9報酬1_4",
+        "ArenaWeeklyRewardTerm": 18,
+        "fromRanking": 21,
+        "toRanking": 30
+    },
+    {
+        "ID": 225,
+        "name": "コロシアムδ_ウィークリーその9報酬1_5",
+        "ArenaWeeklyRewardTerm": 18,
+        "fromRanking": 31,
+        "toRanking": 50
+    },
+    {
+        "ID": 226,
+        "name": "コロシアムδ_ウィークリーその9報酬1_6",
+        "ArenaWeeklyRewardTerm": 18,
+        "fromRanking": 51,
+        "toRanking": 75
+    },
+    {
+        "ID": 227,
+        "name": "コロシアムδ_ウィークリーその9報酬1_7",
+        "ArenaWeeklyRewardTerm": 18,
+        "fromRanking": 76,
+        "toRanking": 100
+    },
+    {
+        "ID": 228,
+        "name": "コロシアムδ_ウィークリーその9報酬1_8",
+        "ArenaWeeklyRewardTerm": 18,
+        "fromRanking": 101,
+        "toRanking": 200
+    },
+    {
+        "ID": 229,
+        "name": "コロシアムδ_ウィークリーその9報酬1_9",
+        "ArenaWeeklyRewardTerm": 18,
+        "fromRanking": 201,
+        "toRanking": 300
+    },
+    {
+        "ID": 230,
+        "name": "コロシアムδ_ウィークリーその9報酬1_10",
+        "ArenaWeeklyRewardTerm": 18,
+        "fromRanking": 301,
+        "toRanking": 400
+    },
+    {
+        "ID": 231,
+        "name": "コロシアムδ_ウィークリーその9報酬1_11",
+        "ArenaWeeklyRewardTerm": 18,
+        "fromRanking": 401,
+        "toRanking": 500
+    },
+    {
+        "ID": 232,
+        "name": "コロシアムδ_ウィークリーその9報酬1_12",
+        "ArenaWeeklyRewardTerm": 18,
+        "fromRanking": 501,
+        "toRanking": 750
+    },
+    {
+        "ID": 233,
+        "name": "コロシアムδ_ウィークリーその9報酬1_13",
+        "ArenaWeeklyRewardTerm": 18,
+        "fromRanking": 751,
+        "toRanking": 1000
+    },
+    {
+        "ID": 234,
+        "name": "コロシアムδ_ウィークリーその9報酬1_14",
+        "ArenaWeeklyRewardTerm": 18,
+        "fromRanking": 1001,
+        "toRanking": 2000
+    },
+    {
+        "ID": 235,
+        "name": "コロシアムδ_ウィークリーその9報酬1_15",
+        "ArenaWeeklyRewardTerm": 18,
+        "fromRanking": 2001,
+        "toRanking": 5000
+    },
+    {
+        "ID": 236,
+        "name": "コロシアムδ_ウィークリーその10報酬1_1",
+        "ArenaWeeklyRewardTerm": 19,
+        "fromRanking": 1,
+        "toRanking": 5
+    },
+    {
+        "ID": 237,
+        "name": "コロシアムδ_ウィークリーその10報酬1_2",
+        "ArenaWeeklyRewardTerm": 19,
+        "fromRanking": 6,
+        "toRanking": 10
+    },
+    {
+        "ID": 238,
+        "name": "コロシアムδ_ウィークリーその10報酬1_3",
+        "ArenaWeeklyRewardTerm": 19,
+        "fromRanking": 11,
+        "toRanking": 20
+    },
+    {
+        "ID": 239,
+        "name": "コロシアムδ_ウィークリーその10報酬1_4",
+        "ArenaWeeklyRewardTerm": 19,
+        "fromRanking": 21,
+        "toRanking": 30
+    },
+    {
+        "ID": 240,
+        "name": "コロシアムδ_ウィークリーその10報酬1_5",
+        "ArenaWeeklyRewardTerm": 19,
+        "fromRanking": 31,
+        "toRanking": 50
+    },
+    {
+        "ID": 241,
+        "name": "コロシアムδ_ウィークリーその10報酬1_6",
+        "ArenaWeeklyRewardTerm": 19,
+        "fromRanking": 51,
+        "toRanking": 75
+    },
+    {
+        "ID": 242,
+        "name": "コロシアムδ_ウィークリーその10報酬1_7",
+        "ArenaWeeklyRewardTerm": 19,
+        "fromRanking": 76,
+        "toRanking": 100
+    },
+    {
+        "ID": 243,
+        "name": "コロシアムδ_ウィークリーその10報酬1_8",
+        "ArenaWeeklyRewardTerm": 19,
+        "fromRanking": 101,
+        "toRanking": 200
+    },
+    {
+        "ID": 244,
+        "name": "コロシアムδ_ウィークリーその10報酬1_9",
+        "ArenaWeeklyRewardTerm": 19,
+        "fromRanking": 201,
+        "toRanking": 300
+    },
+    {
+        "ID": 245,
+        "name": "コロシアムδ_ウィークリーその10報酬1_10",
+        "ArenaWeeklyRewardTerm": 19,
+        "fromRanking": 301,
+        "toRanking": 400
+    },
+    {
+        "ID": 246,
+        "name": "コロシアムδ_ウィークリーその10報酬1_11",
+        "ArenaWeeklyRewardTerm": 19,
+        "fromRanking": 401,
+        "toRanking": 500
+    },
+    {
+        "ID": 247,
+        "name": "コロシアムδ_ウィークリーその10報酬1_12",
+        "ArenaWeeklyRewardTerm": 19,
+        "fromRanking": 501,
+        "toRanking": 750
+    },
+    {
+        "ID": 248,
+        "name": "コロシアムδ_ウィークリーその10報酬1_13",
+        "ArenaWeeklyRewardTerm": 19,
+        "fromRanking": 751,
+        "toRanking": 1000
+    },
+    {
+        "ID": 249,
+        "name": "コロシアムδ_ウィークリーその10報酬1_14",
+        "ArenaWeeklyRewardTerm": 19,
+        "fromRanking": 1001,
+        "toRanking": 2000
+    },
+    {
+        "ID": 250,
+        "name": "コロシアムδ_ウィークリーその10報酬1_15",
+        "ArenaWeeklyRewardTerm": 19,
+        "fromRanking": 2001,
+        "toRanking": 5000
+    },
+    {
+        "ID": 251,
+        "name": "コロシアムδ_ウィークリーその11報酬1_1",
+        "ArenaWeeklyRewardTerm": 20,
+        "fromRanking": 1,
+        "toRanking": 5
+    },
+    {
+        "ID": 252,
+        "name": "コロシアムδ_ウィークリーその11報酬1_2",
+        "ArenaWeeklyRewardTerm": 20,
+        "fromRanking": 6,
+        "toRanking": 10
+    },
+    {
+        "ID": 253,
+        "name": "コロシアムδ_ウィークリーその11報酬1_3",
+        "ArenaWeeklyRewardTerm": 20,
+        "fromRanking": 11,
+        "toRanking": 20
+    },
+    {
+        "ID": 254,
+        "name": "コロシアムδ_ウィークリーその11報酬1_4",
+        "ArenaWeeklyRewardTerm": 20,
+        "fromRanking": 21,
+        "toRanking": 30
+    },
+    {
+        "ID": 255,
+        "name": "コロシアムδ_ウィークリーその11報酬1_5",
+        "ArenaWeeklyRewardTerm": 20,
+        "fromRanking": 31,
+        "toRanking": 50
+    },
+    {
+        "ID": 256,
+        "name": "コロシアムδ_ウィークリーその11報酬1_6",
+        "ArenaWeeklyRewardTerm": 20,
+        "fromRanking": 51,
+        "toRanking": 75
+    },
+    {
+        "ID": 257,
+        "name": "コロシアムδ_ウィークリーその11報酬1_7",
+        "ArenaWeeklyRewardTerm": 20,
+        "fromRanking": 76,
+        "toRanking": 100
+    },
+    {
+        "ID": 258,
+        "name": "コロシアムδ_ウィークリーその11報酬1_8",
+        "ArenaWeeklyRewardTerm": 20,
+        "fromRanking": 101,
+        "toRanking": 200
+    },
+    {
+        "ID": 259,
+        "name": "コロシアムδ_ウィークリーその11報酬1_9",
+        "ArenaWeeklyRewardTerm": 20,
+        "fromRanking": 201,
+        "toRanking": 300
+    },
+    {
+        "ID": 260,
+        "name": "コロシアムδ_ウィークリーその11報酬1_10",
+        "ArenaWeeklyRewardTerm": 20,
+        "fromRanking": 301,
+        "toRanking": 400
+    },
+    {
+        "ID": 261,
+        "name": "コロシアムδ_ウィークリーその11報酬1_11",
+        "ArenaWeeklyRewardTerm": 20,
+        "fromRanking": 401,
+        "toRanking": 500
+    },
+    {
+        "ID": 262,
+        "name": "コロシアムδ_ウィークリーその11報酬1_12",
+        "ArenaWeeklyRewardTerm": 20,
+        "fromRanking": 501,
+        "toRanking": 750
+    },
+    {
+        "ID": 263,
+        "name": "コロシアムδ_ウィークリーその11報酬1_13",
+        "ArenaWeeklyRewardTerm": 20,
+        "fromRanking": 751,
+        "toRanking": 1000
+    },
+    {
+        "ID": 264,
+        "name": "コロシアムδ_ウィークリーその11報酬1_14",
+        "ArenaWeeklyRewardTerm": 20,
+        "fromRanking": 1001,
+        "toRanking": 2000
+    },
+    {
+        "ID": 265,
+        "name": "コロシアムδ_ウィークリーその11報酬1_15",
+        "ArenaWeeklyRewardTerm": 20,
+        "fromRanking": 2001,
+        "toRanking": 5000
+    },
+    {
+        "ID": 266,
+        "name": "コロシアムδ_ウィークリーその12報酬1_1",
+        "ArenaWeeklyRewardTerm": 21,
+        "fromRanking": 1,
+        "toRanking": 5
+    },
+    {
+        "ID": 267,
+        "name": "コロシアムδ_ウィークリーその12報酬1_2",
+        "ArenaWeeklyRewardTerm": 21,
+        "fromRanking": 6,
+        "toRanking": 10
+    },
+    {
+        "ID": 268,
+        "name": "コロシアムδ_ウィークリーその12報酬1_3",
+        "ArenaWeeklyRewardTerm": 21,
+        "fromRanking": 11,
+        "toRanking": 20
+    },
+    {
+        "ID": 269,
+        "name": "コロシアムδ_ウィークリーその12報酬1_4",
+        "ArenaWeeklyRewardTerm": 21,
+        "fromRanking": 21,
+        "toRanking": 30
+    },
+    {
+        "ID": 270,
+        "name": "コロシアムδ_ウィークリーその12報酬1_5",
+        "ArenaWeeklyRewardTerm": 21,
+        "fromRanking": 31,
+        "toRanking": 50
+    },
+    {
+        "ID": 271,
+        "name": "コロシアムδ_ウィークリーその12報酬1_6",
+        "ArenaWeeklyRewardTerm": 21,
+        "fromRanking": 51,
+        "toRanking": 75
+    },
+    {
+        "ID": 272,
+        "name": "コロシアムδ_ウィークリーその12報酬1_7",
+        "ArenaWeeklyRewardTerm": 21,
+        "fromRanking": 76,
+        "toRanking": 100
+    },
+    {
+        "ID": 273,
+        "name": "コロシアムδ_ウィークリーその12報酬1_8",
+        "ArenaWeeklyRewardTerm": 21,
+        "fromRanking": 101,
+        "toRanking": 200
+    },
+    {
+        "ID": 274,
+        "name": "コロシアムδ_ウィークリーその12報酬1_9",
+        "ArenaWeeklyRewardTerm": 21,
+        "fromRanking": 201,
+        "toRanking": 300
+    },
+    {
+        "ID": 275,
+        "name": "コロシアムδ_ウィークリーその12報酬1_10",
+        "ArenaWeeklyRewardTerm": 21,
+        "fromRanking": 301,
+        "toRanking": 400
+    },
+    {
+        "ID": 276,
+        "name": "コロシアムδ_ウィークリーその12報酬1_11",
+        "ArenaWeeklyRewardTerm": 21,
+        "fromRanking": 401,
+        "toRanking": 500
+    },
+    {
+        "ID": 277,
+        "name": "コロシアムδ_ウィークリーその12報酬1_12",
+        "ArenaWeeklyRewardTerm": 21,
+        "fromRanking": 501,
+        "toRanking": 750
+    },
+    {
+        "ID": 278,
+        "name": "コロシアムδ_ウィークリーその12報酬1_13",
+        "ArenaWeeklyRewardTerm": 21,
+        "fromRanking": 751,
+        "toRanking": 1000
+    },
+    {
+        "ID": 279,
+        "name": "コロシアムδ_ウィークリーその12報酬1_14",
+        "ArenaWeeklyRewardTerm": 21,
+        "fromRanking": 1001,
+        "toRanking": 2000
+    },
+    {
+        "ID": 280,
+        "name": "コロシアムδ_ウィークリーその12報酬1_15",
+        "ArenaWeeklyRewardTerm": 21,
+        "fromRanking": 2001,
+        "toRanking": 5000
+    },
+    {
+        "ID": 281,
+        "name": "コロシアムδ_ウィークリーその13報酬1_1",
+        "ArenaWeeklyRewardTerm": 22,
+        "fromRanking": 1,
+        "toRanking": 5
+    },
+    {
+        "ID": 282,
+        "name": "コロシアムδ_ウィークリーその13報酬1_2",
+        "ArenaWeeklyRewardTerm": 22,
+        "fromRanking": 6,
+        "toRanking": 10
+    },
+    {
+        "ID": 283,
+        "name": "コロシアムδ_ウィークリーその13報酬1_3",
+        "ArenaWeeklyRewardTerm": 22,
+        "fromRanking": 11,
+        "toRanking": 20
+    },
+    {
+        "ID": 284,
+        "name": "コロシアムδ_ウィークリーその13報酬1_4",
+        "ArenaWeeklyRewardTerm": 22,
+        "fromRanking": 21,
+        "toRanking": 30
+    },
+    {
+        "ID": 285,
+        "name": "コロシアムδ_ウィークリーその13報酬1_5",
+        "ArenaWeeklyRewardTerm": 22,
+        "fromRanking": 31,
+        "toRanking": 50
+    },
+    {
+        "ID": 286,
+        "name": "コロシアムδ_ウィークリーその13報酬1_6",
+        "ArenaWeeklyRewardTerm": 22,
+        "fromRanking": 51,
+        "toRanking": 75
+    },
+    {
+        "ID": 287,
+        "name": "コロシアムδ_ウィークリーその13報酬1_7",
+        "ArenaWeeklyRewardTerm": 22,
+        "fromRanking": 76,
+        "toRanking": 100
+    },
+    {
+        "ID": 288,
+        "name": "コロシアムδ_ウィークリーその13報酬1_8",
+        "ArenaWeeklyRewardTerm": 22,
+        "fromRanking": 101,
+        "toRanking": 200
+    },
+    {
+        "ID": 289,
+        "name": "コロシアムδ_ウィークリーその13報酬1_9",
+        "ArenaWeeklyRewardTerm": 22,
+        "fromRanking": 201,
+        "toRanking": 300
+    },
+    {
+        "ID": 290,
+        "name": "コロシアムδ_ウィークリーその13報酬1_10",
+        "ArenaWeeklyRewardTerm": 22,
+        "fromRanking": 301,
+        "toRanking": 400
+    },
+    {
+        "ID": 291,
+        "name": "コロシアムδ_ウィークリーその13報酬1_11",
+        "ArenaWeeklyRewardTerm": 22,
+        "fromRanking": 401,
+        "toRanking": 500
+    },
+    {
+        "ID": 292,
+        "name": "コロシアムδ_ウィークリーその13報酬1_12",
+        "ArenaWeeklyRewardTerm": 22,
+        "fromRanking": 501,
+        "toRanking": 750
+    },
+    {
+        "ID": 293,
+        "name": "コロシアムδ_ウィークリーその13報酬1_13",
+        "ArenaWeeklyRewardTerm": 22,
+        "fromRanking": 751,
+        "toRanking": 1000
+    },
+    {
+        "ID": 294,
+        "name": "コロシアムδ_ウィークリーその13報酬1_14",
+        "ArenaWeeklyRewardTerm": 22,
+        "fromRanking": 1001,
+        "toRanking": 2000
+    },
+    {
+        "ID": 295,
+        "name": "コロシアムδ_ウィークリーその13報酬1_15",
+        "ArenaWeeklyRewardTerm": 22,
+        "fromRanking": 2001,
+        "toRanking": 5000
+    },
+    {
+        "ID": 296,
+        "name": "コロシアムδ_ウィークリーその14報酬1_1",
+        "ArenaWeeklyRewardTerm": 23,
+        "fromRanking": 1,
+        "toRanking": 5
+    },
+    {
+        "ID": 297,
+        "name": "コロシアムδ_ウィークリーその14報酬1_2",
+        "ArenaWeeklyRewardTerm": 23,
+        "fromRanking": 6,
+        "toRanking": 10
+    },
+    {
+        "ID": 298,
+        "name": "コロシアムδ_ウィークリーその14報酬1_3",
+        "ArenaWeeklyRewardTerm": 23,
+        "fromRanking": 11,
+        "toRanking": 20
+    },
+    {
+        "ID": 299,
+        "name": "コロシアムδ_ウィークリーその14報酬1_4",
+        "ArenaWeeklyRewardTerm": 23,
+        "fromRanking": 21,
+        "toRanking": 30
+    },
+    {
+        "ID": 300,
+        "name": "コロシアムδ_ウィークリーその14報酬1_5",
+        "ArenaWeeklyRewardTerm": 23,
+        "fromRanking": 31,
+        "toRanking": 50
+    },
+    {
+        "ID": 301,
+        "name": "コロシアムδ_ウィークリーその14報酬1_6",
+        "ArenaWeeklyRewardTerm": 23,
+        "fromRanking": 51,
+        "toRanking": 75
+    },
+    {
+        "ID": 302,
+        "name": "コロシアムδ_ウィークリーその14報酬1_7",
+        "ArenaWeeklyRewardTerm": 23,
+        "fromRanking": 76,
+        "toRanking": 100
+    },
+    {
+        "ID": 303,
+        "name": "コロシアムδ_ウィークリーその14報酬1_8",
+        "ArenaWeeklyRewardTerm": 23,
+        "fromRanking": 101,
+        "toRanking": 200
+    },
+    {
+        "ID": 304,
+        "name": "コロシアムδ_ウィークリーその14報酬1_9",
+        "ArenaWeeklyRewardTerm": 23,
+        "fromRanking": 201,
+        "toRanking": 300
+    },
+    {
+        "ID": 305,
+        "name": "コロシアムδ_ウィークリーその14報酬1_10",
+        "ArenaWeeklyRewardTerm": 23,
+        "fromRanking": 301,
+        "toRanking": 400
+    },
+    {
+        "ID": 306,
+        "name": "コロシアムδ_ウィークリーその14報酬1_11",
+        "ArenaWeeklyRewardTerm": 23,
+        "fromRanking": 401,
+        "toRanking": 500
+    },
+    {
+        "ID": 307,
+        "name": "コロシアムδ_ウィークリーその14報酬1_12",
+        "ArenaWeeklyRewardTerm": 23,
+        "fromRanking": 501,
+        "toRanking": 750
+    },
+    {
+        "ID": 308,
+        "name": "コロシアムδ_ウィークリーその14報酬1_13",
+        "ArenaWeeklyRewardTerm": 23,
+        "fromRanking": 751,
+        "toRanking": 1000
+    },
+    {
+        "ID": 309,
+        "name": "コロシアムδ_ウィークリーその14報酬1_14",
+        "ArenaWeeklyRewardTerm": 23,
+        "fromRanking": 1001,
+        "toRanking": 2000
+    },
+    {
+        "ID": 310,
+        "name": "コロシアムδ_ウィークリーその14報酬1_15",
+        "ArenaWeeklyRewardTerm": 23,
+        "fromRanking": 2001,
+        "toRanking": 5000
+    },
+    {
+        "ID": 311,
+        "name": "コロシアムδ_ウィークリーその15報酬1_1",
+        "ArenaWeeklyRewardTerm": 24,
+        "fromRanking": 1,
+        "toRanking": 5
+    },
+    {
+        "ID": 312,
+        "name": "コロシアムδ_ウィークリーその15報酬1_2",
+        "ArenaWeeklyRewardTerm": 24,
+        "fromRanking": 6,
+        "toRanking": 10
+    },
+    {
+        "ID": 313,
+        "name": "コロシアムδ_ウィークリーその15報酬1_3",
+        "ArenaWeeklyRewardTerm": 24,
+        "fromRanking": 11,
+        "toRanking": 20
+    },
+    {
+        "ID": 314,
+        "name": "コロシアムδ_ウィークリーその15報酬1_4",
+        "ArenaWeeklyRewardTerm": 24,
+        "fromRanking": 21,
+        "toRanking": 30
+    },
+    {
+        "ID": 315,
+        "name": "コロシアムδ_ウィークリーその15報酬1_5",
+        "ArenaWeeklyRewardTerm": 24,
+        "fromRanking": 31,
+        "toRanking": 50
+    },
+    {
+        "ID": 316,
+        "name": "コロシアムδ_ウィークリーその15報酬1_6",
+        "ArenaWeeklyRewardTerm": 24,
+        "fromRanking": 51,
+        "toRanking": 75
+    },
+    {
+        "ID": 317,
+        "name": "コロシアムδ_ウィークリーその15報酬1_7",
+        "ArenaWeeklyRewardTerm": 24,
+        "fromRanking": 76,
+        "toRanking": 100
+    },
+    {
+        "ID": 318,
+        "name": "コロシアムδ_ウィークリーその15報酬1_8",
+        "ArenaWeeklyRewardTerm": 24,
+        "fromRanking": 101,
+        "toRanking": 200
+    },
+    {
+        "ID": 319,
+        "name": "コロシアムδ_ウィークリーその15報酬1_9",
+        "ArenaWeeklyRewardTerm": 24,
+        "fromRanking": 201,
+        "toRanking": 300
+    },
+    {
+        "ID": 320,
+        "name": "コロシアムδ_ウィークリーその15報酬1_10",
+        "ArenaWeeklyRewardTerm": 24,
+        "fromRanking": 301,
+        "toRanking": 400
+    },
+    {
+        "ID": 321,
+        "name": "コロシアムδ_ウィークリーその15報酬1_11",
+        "ArenaWeeklyRewardTerm": 24,
+        "fromRanking": 401,
+        "toRanking": 500
+    },
+    {
+        "ID": 322,
+        "name": "コロシアムδ_ウィークリーその15報酬1_12",
+        "ArenaWeeklyRewardTerm": 24,
+        "fromRanking": 501,
+        "toRanking": 750
+    },
+    {
+        "ID": 323,
+        "name": "コロシアムδ_ウィークリーその15報酬1_13",
+        "ArenaWeeklyRewardTerm": 24,
+        "fromRanking": 751,
+        "toRanking": 1000
+    },
+    {
+        "ID": 324,
+        "name": "コロシアムδ_ウィークリーその15報酬1_14",
+        "ArenaWeeklyRewardTerm": 24,
+        "fromRanking": 1001,
+        "toRanking": 2000
+    },
+    {
+        "ID": 325,
+        "name": "コロシアムδ_ウィークリーその15報酬1_15",
+        "ArenaWeeklyRewardTerm": 24,
+        "fromRanking": 2001,
+        "toRanking": 5000
+    },
+    {
+        "ID": 326,
+        "name": "コロシアムδ_ウィークリーその16報酬1_1",
+        "ArenaWeeklyRewardTerm": 25,
+        "fromRanking": 1,
+        "toRanking": 5
+    },
+    {
+        "ID": 327,
+        "name": "コロシアムδ_ウィークリーその16報酬1_2",
+        "ArenaWeeklyRewardTerm": 25,
+        "fromRanking": 6,
+        "toRanking": 10
+    },
+    {
+        "ID": 328,
+        "name": "コロシアムδ_ウィークリーその16報酬1_3",
+        "ArenaWeeklyRewardTerm": 25,
+        "fromRanking": 11,
+        "toRanking": 20
+    },
+    {
+        "ID": 329,
+        "name": "コロシアムδ_ウィークリーその16報酬1_4",
+        "ArenaWeeklyRewardTerm": 25,
+        "fromRanking": 21,
+        "toRanking": 30
+    },
+    {
+        "ID": 330,
+        "name": "コロシアムδ_ウィークリーその16報酬1_5",
+        "ArenaWeeklyRewardTerm": 25,
+        "fromRanking": 31,
+        "toRanking": 50
+    },
+    {
+        "ID": 331,
+        "name": "コロシアムδ_ウィークリーその16報酬1_6",
+        "ArenaWeeklyRewardTerm": 25,
+        "fromRanking": 51,
+        "toRanking": 75
+    },
+    {
+        "ID": 332,
+        "name": "コロシアムδ_ウィークリーその16報酬1_7",
+        "ArenaWeeklyRewardTerm": 25,
+        "fromRanking": 76,
+        "toRanking": 100
+    },
+    {
+        "ID": 333,
+        "name": "コロシアムδ_ウィークリーその16報酬1_8",
+        "ArenaWeeklyRewardTerm": 25,
+        "fromRanking": 101,
+        "toRanking": 200
+    },
+    {
+        "ID": 334,
+        "name": "コロシアムδ_ウィークリーその16報酬1_9",
+        "ArenaWeeklyRewardTerm": 25,
+        "fromRanking": 201,
+        "toRanking": 300
+    },
+    {
+        "ID": 335,
+        "name": "コロシアムδ_ウィークリーその16報酬1_10",
+        "ArenaWeeklyRewardTerm": 25,
+        "fromRanking": 301,
+        "toRanking": 400
+    },
+    {
+        "ID": 336,
+        "name": "コロシアムδ_ウィークリーその16報酬1_11",
+        "ArenaWeeklyRewardTerm": 25,
+        "fromRanking": 401,
+        "toRanking": 500
+    },
+    {
+        "ID": 337,
+        "name": "コロシアムδ_ウィークリーその16報酬1_12",
+        "ArenaWeeklyRewardTerm": 25,
+        "fromRanking": 501,
+        "toRanking": 750
+    },
+    {
+        "ID": 338,
+        "name": "コロシアムδ_ウィークリーその16報酬1_13",
+        "ArenaWeeklyRewardTerm": 25,
+        "fromRanking": 751,
+        "toRanking": 1000
+    },
+    {
+        "ID": 339,
+        "name": "コロシアムδ_ウィークリーその16報酬1_14",
+        "ArenaWeeklyRewardTerm": 25,
+        "fromRanking": 1001,
+        "toRanking": 2000
+    },
+    {
+        "ID": 340,
+        "name": "コロシアムδ_ウィークリーその16報酬1_15",
+        "ArenaWeeklyRewardTerm": 25,
+        "fromRanking": 2001,
+        "toRanking": 5000
+    },
+    {
+        "ID": 341,
+        "name": "コロシアムδ_ウィークリーその17報酬1_1",
+        "ArenaWeeklyRewardTerm": 26,
+        "fromRanking": 1,
+        "toRanking": 5
+    },
+    {
+        "ID": 342,
+        "name": "コロシアムδ_ウィークリーその17報酬1_2",
+        "ArenaWeeklyRewardTerm": 26,
+        "fromRanking": 6,
+        "toRanking": 10
+    },
+    {
+        "ID": 343,
+        "name": "コロシアムδ_ウィークリーその17報酬1_3",
+        "ArenaWeeklyRewardTerm": 26,
+        "fromRanking": 11,
+        "toRanking": 20
+    },
+    {
+        "ID": 344,
+        "name": "コロシアムδ_ウィークリーその17報酬1_4",
+        "ArenaWeeklyRewardTerm": 26,
+        "fromRanking": 21,
+        "toRanking": 30
+    },
+    {
+        "ID": 345,
+        "name": "コロシアムδ_ウィークリーその17報酬1_5",
+        "ArenaWeeklyRewardTerm": 26,
+        "fromRanking": 31,
+        "toRanking": 50
+    },
+    {
+        "ID": 346,
+        "name": "コロシアムδ_ウィークリーその17報酬1_6",
+        "ArenaWeeklyRewardTerm": 26,
+        "fromRanking": 51,
+        "toRanking": 75
+    },
+    {
+        "ID": 347,
+        "name": "コロシアムδ_ウィークリーその17報酬1_7",
+        "ArenaWeeklyRewardTerm": 26,
+        "fromRanking": 76,
+        "toRanking": 100
+    },
+    {
+        "ID": 348,
+        "name": "コロシアムδ_ウィークリーその17報酬1_8",
+        "ArenaWeeklyRewardTerm": 26,
+        "fromRanking": 101,
+        "toRanking": 200
+    },
+    {
+        "ID": 349,
+        "name": "コロシアムδ_ウィークリーその17報酬1_9",
+        "ArenaWeeklyRewardTerm": 26,
+        "fromRanking": 201,
+        "toRanking": 300
+    },
+    {
+        "ID": 350,
+        "name": "コロシアムδ_ウィークリーその17報酬1_10",
+        "ArenaWeeklyRewardTerm": 26,
+        "fromRanking": 301,
+        "toRanking": 400
+    },
+    {
+        "ID": 351,
+        "name": "コロシアムδ_ウィークリーその17報酬1_11",
+        "ArenaWeeklyRewardTerm": 26,
+        "fromRanking": 401,
+        "toRanking": 500
+    },
+    {
+        "ID": 352,
+        "name": "コロシアムδ_ウィークリーその17報酬1_12",
+        "ArenaWeeklyRewardTerm": 26,
+        "fromRanking": 501,
+        "toRanking": 750
+    },
+    {
+        "ID": 353,
+        "name": "コロシアムδ_ウィークリーその17報酬1_13",
+        "ArenaWeeklyRewardTerm": 26,
+        "fromRanking": 751,
+        "toRanking": 1000
+    },
+    {
+        "ID": 354,
+        "name": "コロシアムδ_ウィークリーその17報酬1_14",
+        "ArenaWeeklyRewardTerm": 26,
+        "fromRanking": 1001,
+        "toRanking": 2000
+    },
+    {
+        "ID": 355,
+        "name": "コロシアムδ_ウィークリーその17報酬1_15",
+        "ArenaWeeklyRewardTerm": 26,
+        "fromRanking": 2001,
+        "toRanking": 5000
+    },
+    {
+        "ID": 356,
+        "name": "コロシアムδ_ウィークリーその18報酬1_1",
+        "ArenaWeeklyRewardTerm": 27,
+        "fromRanking": 1,
+        "toRanking": 5
+    },
+    {
+        "ID": 357,
+        "name": "コロシアムδ_ウィークリーその18報酬1_2",
+        "ArenaWeeklyRewardTerm": 27,
+        "fromRanking": 6,
+        "toRanking": 10
+    },
+    {
+        "ID": 358,
+        "name": "コロシアムδ_ウィークリーその18報酬1_3",
+        "ArenaWeeklyRewardTerm": 27,
+        "fromRanking": 11,
+        "toRanking": 20
+    },
+    {
+        "ID": 359,
+        "name": "コロシアムδ_ウィークリーその18報酬1_4",
+        "ArenaWeeklyRewardTerm": 27,
+        "fromRanking": 21,
+        "toRanking": 30
+    },
+    {
+        "ID": 360,
+        "name": "コロシアムδ_ウィークリーその18報酬1_5",
+        "ArenaWeeklyRewardTerm": 27,
+        "fromRanking": 31,
+        "toRanking": 50
+    },
+    {
+        "ID": 361,
+        "name": "コロシアムδ_ウィークリーその18報酬1_6",
+        "ArenaWeeklyRewardTerm": 27,
+        "fromRanking": 51,
+        "toRanking": 75
+    },
+    {
+        "ID": 362,
+        "name": "コロシアムδ_ウィークリーその18報酬1_7",
+        "ArenaWeeklyRewardTerm": 27,
+        "fromRanking": 76,
+        "toRanking": 100
+    },
+    {
+        "ID": 363,
+        "name": "コロシアムδ_ウィークリーその18報酬1_8",
+        "ArenaWeeklyRewardTerm": 27,
+        "fromRanking": 101,
+        "toRanking": 200
+    },
+    {
+        "ID": 364,
+        "name": "コロシアムδ_ウィークリーその18報酬1_9",
+        "ArenaWeeklyRewardTerm": 27,
+        "fromRanking": 201,
+        "toRanking": 300
+    },
+    {
+        "ID": 365,
+        "name": "コロシアムδ_ウィークリーその18報酬1_10",
+        "ArenaWeeklyRewardTerm": 27,
+        "fromRanking": 301,
+        "toRanking": 400
+    },
+    {
+        "ID": 366,
+        "name": "コロシアムδ_ウィークリーその18報酬1_11",
+        "ArenaWeeklyRewardTerm": 27,
+        "fromRanking": 401,
+        "toRanking": 500
+    },
+    {
+        "ID": 367,
+        "name": "コロシアムδ_ウィークリーその18報酬1_12",
+        "ArenaWeeklyRewardTerm": 27,
+        "fromRanking": 501,
+        "toRanking": 750
+    },
+    {
+        "ID": 368,
+        "name": "コロシアムδ_ウィークリーその18報酬1_13",
+        "ArenaWeeklyRewardTerm": 27,
+        "fromRanking": 751,
+        "toRanking": 1000
+    },
+    {
+        "ID": 369,
+        "name": "コロシアムδ_ウィークリーその18報酬1_14",
+        "ArenaWeeklyRewardTerm": 27,
+        "fromRanking": 1001,
+        "toRanking": 2000
+    },
+    {
+        "ID": 370,
+        "name": "コロシアムδ_ウィークリーその18報酬1_15",
+        "ArenaWeeklyRewardTerm": 27,
+        "fromRanking": 2001,
+        "toRanking": 5000
+    },
+    {
+        "ID": 371,
+        "name": "コロシアムδ_ウィークリーその19報酬1_1",
+        "ArenaWeeklyRewardTerm": 28,
+        "fromRanking": 1,
+        "toRanking": 5
+    },
+    {
+        "ID": 372,
+        "name": "コロシアムδ_ウィークリーその19報酬1_2",
+        "ArenaWeeklyRewardTerm": 28,
+        "fromRanking": 6,
+        "toRanking": 10
+    },
+    {
+        "ID": 373,
+        "name": "コロシアムδ_ウィークリーその19報酬1_3",
+        "ArenaWeeklyRewardTerm": 28,
+        "fromRanking": 11,
+        "toRanking": 20
+    },
+    {
+        "ID": 374,
+        "name": "コロシアムδ_ウィークリーその19報酬1_4",
+        "ArenaWeeklyRewardTerm": 28,
+        "fromRanking": 21,
+        "toRanking": 30
+    },
+    {
+        "ID": 375,
+        "name": "コロシアムδ_ウィークリーその19報酬1_5",
+        "ArenaWeeklyRewardTerm": 28,
+        "fromRanking": 31,
+        "toRanking": 50
+    },
+    {
+        "ID": 376,
+        "name": "コロシアムδ_ウィークリーその19報酬1_6",
+        "ArenaWeeklyRewardTerm": 28,
+        "fromRanking": 51,
+        "toRanking": 75
+    },
+    {
+        "ID": 377,
+        "name": "コロシアムδ_ウィークリーその19報酬1_7",
+        "ArenaWeeklyRewardTerm": 28,
+        "fromRanking": 76,
+        "toRanking": 100
+    },
+    {
+        "ID": 378,
+        "name": "コロシアムδ_ウィークリーその19報酬1_8",
+        "ArenaWeeklyRewardTerm": 28,
+        "fromRanking": 101,
+        "toRanking": 200
+    },
+    {
+        "ID": 379,
+        "name": "コロシアムδ_ウィークリーその19報酬1_9",
+        "ArenaWeeklyRewardTerm": 28,
+        "fromRanking": 201,
+        "toRanking": 300
+    },
+    {
+        "ID": 380,
+        "name": "コロシアムδ_ウィークリーその19報酬1_10",
+        "ArenaWeeklyRewardTerm": 28,
+        "fromRanking": 301,
+        "toRanking": 400
+    },
+    {
+        "ID": 381,
+        "name": "コロシアムδ_ウィークリーその19報酬1_11",
+        "ArenaWeeklyRewardTerm": 28,
+        "fromRanking": 401,
+        "toRanking": 500
+    },
+    {
+        "ID": 382,
+        "name": "コロシアムδ_ウィークリーその19報酬1_12",
+        "ArenaWeeklyRewardTerm": 28,
+        "fromRanking": 501,
+        "toRanking": 750
+    },
+    {
+        "ID": 383,
+        "name": "コロシアムδ_ウィークリーその19報酬1_13",
+        "ArenaWeeklyRewardTerm": 28,
+        "fromRanking": 751,
+        "toRanking": 1000
+    },
+    {
+        "ID": 384,
+        "name": "コロシアムδ_ウィークリーその19報酬1_14",
+        "ArenaWeeklyRewardTerm": 28,
+        "fromRanking": 1001,
+        "toRanking": 2000
+    },
+    {
+        "ID": 385,
+        "name": "コロシアムδ_ウィークリーその19報酬1_15",
+        "ArenaWeeklyRewardTerm": 28,
+        "fromRanking": 2001,
+        "toRanking": 5000
+    },
+    {
+        "ID": 386,
+        "name": "コロシアムδ_ウィークリーその20報酬1_1",
+        "ArenaWeeklyRewardTerm": 29,
+        "fromRanking": 1,
+        "toRanking": 5
+    },
+    {
+        "ID": 387,
+        "name": "コロシアムδ_ウィークリーその20報酬1_2",
+        "ArenaWeeklyRewardTerm": 29,
+        "fromRanking": 6,
+        "toRanking": 10
+    },
+    {
+        "ID": 388,
+        "name": "コロシアムδ_ウィークリーその20報酬1_3",
+        "ArenaWeeklyRewardTerm": 29,
+        "fromRanking": 11,
+        "toRanking": 20
+    },
+    {
+        "ID": 389,
+        "name": "コロシアムδ_ウィークリーその20報酬1_4",
+        "ArenaWeeklyRewardTerm": 29,
+        "fromRanking": 21,
+        "toRanking": 30
+    },
+    {
+        "ID": 390,
+        "name": "コロシアムδ_ウィークリーその20報酬1_5",
+        "ArenaWeeklyRewardTerm": 29,
+        "fromRanking": 31,
+        "toRanking": 50
+    },
+    {
+        "ID": 391,
+        "name": "コロシアムδ_ウィークリーその20報酬1_6",
+        "ArenaWeeklyRewardTerm": 29,
+        "fromRanking": 51,
+        "toRanking": 75
+    },
+    {
+        "ID": 392,
+        "name": "コロシアムδ_ウィークリーその20報酬1_7",
+        "ArenaWeeklyRewardTerm": 29,
+        "fromRanking": 76,
+        "toRanking": 100
+    },
+    {
+        "ID": 393,
+        "name": "コロシアムδ_ウィークリーその20報酬1_8",
+        "ArenaWeeklyRewardTerm": 29,
+        "fromRanking": 101,
+        "toRanking": 200
+    },
+    {
+        "ID": 394,
+        "name": "コロシアムδ_ウィークリーその20報酬1_9",
+        "ArenaWeeklyRewardTerm": 29,
+        "fromRanking": 201,
+        "toRanking": 300
+    },
+    {
+        "ID": 395,
+        "name": "コロシアムδ_ウィークリーその20報酬1_10",
+        "ArenaWeeklyRewardTerm": 29,
+        "fromRanking": 301,
+        "toRanking": 400
+    },
+    {
+        "ID": 396,
+        "name": "コロシアムδ_ウィークリーその20報酬1_11",
+        "ArenaWeeklyRewardTerm": 29,
+        "fromRanking": 401,
+        "toRanking": 500
+    },
+    {
+        "ID": 397,
+        "name": "コロシアムδ_ウィークリーその20報酬1_12",
+        "ArenaWeeklyRewardTerm": 29,
+        "fromRanking": 501,
+        "toRanking": 750
+    },
+    {
+        "ID": 398,
+        "name": "コロシアムδ_ウィークリーその20報酬1_13",
+        "ArenaWeeklyRewardTerm": 29,
+        "fromRanking": 751,
+        "toRanking": 1000
+    },
+    {
+        "ID": 399,
+        "name": "コロシアムδ_ウィークリーその20報酬1_14",
+        "ArenaWeeklyRewardTerm": 29,
+        "fromRanking": 1001,
+        "toRanking": 2000
+    },
+    {
+        "ID": 400,
+        "name": "コロシアムδ_ウィークリーその20報酬1_15",
+        "ArenaWeeklyRewardTerm": 29,
+        "fromRanking": 2001,
+        "toRanking": 5000
+    },
+    {
+        "ID": 401,
+        "name": "コロシアムδ_ウィークリーその21報酬1_1",
+        "ArenaWeeklyRewardTerm": 30,
+        "fromRanking": 1,
+        "toRanking": 5
+    },
+    {
+        "ID": 402,
+        "name": "コロシアムδ_ウィークリーその21報酬1_2",
+        "ArenaWeeklyRewardTerm": 30,
+        "fromRanking": 6,
+        "toRanking": 10
+    },
+    {
+        "ID": 403,
+        "name": "コロシアムδ_ウィークリーその21報酬1_3",
+        "ArenaWeeklyRewardTerm": 30,
+        "fromRanking": 11,
+        "toRanking": 20
+    },
+    {
+        "ID": 404,
+        "name": "コロシアムδ_ウィークリーその21報酬1_4",
+        "ArenaWeeklyRewardTerm": 30,
+        "fromRanking": 21,
+        "toRanking": 30
+    },
+    {
+        "ID": 405,
+        "name": "コロシアムδ_ウィークリーその21報酬1_5",
+        "ArenaWeeklyRewardTerm": 30,
+        "fromRanking": 31,
+        "toRanking": 50
+    },
+    {
+        "ID": 406,
+        "name": "コロシアムδ_ウィークリーその21報酬1_6",
+        "ArenaWeeklyRewardTerm": 30,
+        "fromRanking": 51,
+        "toRanking": 75
+    },
+    {
+        "ID": 407,
+        "name": "コロシアムδ_ウィークリーその21報酬1_7",
+        "ArenaWeeklyRewardTerm": 30,
+        "fromRanking": 76,
+        "toRanking": 100
+    },
+    {
+        "ID": 408,
+        "name": "コロシアムδ_ウィークリーその21報酬1_8",
+        "ArenaWeeklyRewardTerm": 30,
+        "fromRanking": 101,
+        "toRanking": 200
+    },
+    {
+        "ID": 409,
+        "name": "コロシアムδ_ウィークリーその21報酬1_9",
+        "ArenaWeeklyRewardTerm": 30,
+        "fromRanking": 201,
+        "toRanking": 300
+    },
+    {
+        "ID": 410,
+        "name": "コロシアムδ_ウィークリーその21報酬1_10",
+        "ArenaWeeklyRewardTerm": 30,
+        "fromRanking": 301,
+        "toRanking": 400
+    },
+    {
+        "ID": 411,
+        "name": "コロシアムδ_ウィークリーその21報酬1_11",
+        "ArenaWeeklyRewardTerm": 30,
+        "fromRanking": 401,
+        "toRanking": 500
+    },
+    {
+        "ID": 412,
+        "name": "コロシアムδ_ウィークリーその21報酬1_12",
+        "ArenaWeeklyRewardTerm": 30,
+        "fromRanking": 501,
+        "toRanking": 750
+    },
+    {
+        "ID": 413,
+        "name": "コロシアムδ_ウィークリーその21報酬1_13",
+        "ArenaWeeklyRewardTerm": 30,
+        "fromRanking": 751,
+        "toRanking": 1000
+    },
+    {
+        "ID": 414,
+        "name": "コロシアムδ_ウィークリーその21報酬1_14",
+        "ArenaWeeklyRewardTerm": 30,
+        "fromRanking": 1001,
+        "toRanking": 2000
+    },
+    {
+        "ID": 415,
+        "name": "コロシアムδ_ウィークリーその21報酬1_15",
+        "ArenaWeeklyRewardTerm": 30,
+        "fromRanking": 2001,
+        "toRanking": 5000
+    },
+    {
+        "ID": 416,
+        "name": "コロシアムδ_ウィークリーその22報酬1_1",
+        "ArenaWeeklyRewardTerm": 31,
+        "fromRanking": 1,
+        "toRanking": 5
+    },
+    {
+        "ID": 417,
+        "name": "コロシアムδ_ウィークリーその22報酬1_2",
+        "ArenaWeeklyRewardTerm": 31,
+        "fromRanking": 6,
+        "toRanking": 10
+    },
+    {
+        "ID": 418,
+        "name": "コロシアムδ_ウィークリーその22報酬1_3",
+        "ArenaWeeklyRewardTerm": 31,
+        "fromRanking": 11,
+        "toRanking": 20
+    },
+    {
+        "ID": 419,
+        "name": "コロシアムδ_ウィークリーその22報酬1_4",
+        "ArenaWeeklyRewardTerm": 31,
+        "fromRanking": 21,
+        "toRanking": 30
+    },
+    {
+        "ID": 420,
+        "name": "コロシアムδ_ウィークリーその22報酬1_5",
+        "ArenaWeeklyRewardTerm": 31,
+        "fromRanking": 31,
+        "toRanking": 50
+    },
+    {
+        "ID": 421,
+        "name": "コロシアムδ_ウィークリーその22報酬1_6",
+        "ArenaWeeklyRewardTerm": 31,
+        "fromRanking": 51,
+        "toRanking": 75
+    },
+    {
+        "ID": 422,
+        "name": "コロシアムδ_ウィークリーその22報酬1_7",
+        "ArenaWeeklyRewardTerm": 31,
+        "fromRanking": 76,
+        "toRanking": 100
+    },
+    {
+        "ID": 423,
+        "name": "コロシアムδ_ウィークリーその22報酬1_8",
+        "ArenaWeeklyRewardTerm": 31,
+        "fromRanking": 101,
+        "toRanking": 200
+    },
+    {
+        "ID": 424,
+        "name": "コロシアムδ_ウィークリーその22報酬1_9",
+        "ArenaWeeklyRewardTerm": 31,
+        "fromRanking": 201,
+        "toRanking": 300
+    },
+    {
+        "ID": 425,
+        "name": "コロシアムδ_ウィークリーその22報酬1_10",
+        "ArenaWeeklyRewardTerm": 31,
+        "fromRanking": 301,
+        "toRanking": 400
+    },
+    {
+        "ID": 426,
+        "name": "コロシアムδ_ウィークリーその22報酬1_11",
+        "ArenaWeeklyRewardTerm": 31,
+        "fromRanking": 401,
+        "toRanking": 500
+    },
+    {
+        "ID": 427,
+        "name": "コロシアムδ_ウィークリーその22報酬1_12",
+        "ArenaWeeklyRewardTerm": 31,
+        "fromRanking": 501,
+        "toRanking": 750
+    },
+    {
+        "ID": 428,
+        "name": "コロシアムδ_ウィークリーその22報酬1_13",
+        "ArenaWeeklyRewardTerm": 31,
+        "fromRanking": 751,
+        "toRanking": 1000
+    },
+    {
+        "ID": 429,
+        "name": "コロシアムδ_ウィークリーその22報酬1_14",
+        "ArenaWeeklyRewardTerm": 31,
+        "fromRanking": 1001,
+        "toRanking": 2000
+    },
+    {
+        "ID": 430,
+        "name": "コロシアムδ_ウィークリーその22報酬1_15",
+        "ArenaWeeklyRewardTerm": 31,
+        "fromRanking": 2001,
+        "toRanking": 5000
+    },
+    {
+        "ID": 431,
+        "name": "コロシアムδ_ウィークリーその23報酬1_1",
+        "ArenaWeeklyRewardTerm": 32,
+        "fromRanking": 1,
+        "toRanking": 5
+    },
+    {
+        "ID": 432,
+        "name": "コロシアムδ_ウィークリーその23報酬1_2",
+        "ArenaWeeklyRewardTerm": 32,
+        "fromRanking": 6,
+        "toRanking": 10
+    },
+    {
+        "ID": 433,
+        "name": "コロシアムδ_ウィークリーその23報酬1_3",
+        "ArenaWeeklyRewardTerm": 32,
+        "fromRanking": 11,
+        "toRanking": 20
+    },
+    {
+        "ID": 434,
+        "name": "コロシアムδ_ウィークリーその23報酬1_4",
+        "ArenaWeeklyRewardTerm": 32,
+        "fromRanking": 21,
+        "toRanking": 30
+    },
+    {
+        "ID": 435,
+        "name": "コロシアムδ_ウィークリーその23報酬1_5",
+        "ArenaWeeklyRewardTerm": 32,
+        "fromRanking": 31,
+        "toRanking": 50
+    },
+    {
+        "ID": 436,
+        "name": "コロシアムδ_ウィークリーその23報酬1_6",
+        "ArenaWeeklyRewardTerm": 32,
+        "fromRanking": 51,
+        "toRanking": 75
+    },
+    {
+        "ID": 437,
+        "name": "コロシアムδ_ウィークリーその23報酬1_7",
+        "ArenaWeeklyRewardTerm": 32,
+        "fromRanking": 76,
+        "toRanking": 100
+    },
+    {
+        "ID": 438,
+        "name": "コロシアムδ_ウィークリーその23報酬1_8",
+        "ArenaWeeklyRewardTerm": 32,
+        "fromRanking": 101,
+        "toRanking": 200
+    },
+    {
+        "ID": 439,
+        "name": "コロシアムδ_ウィークリーその23報酬1_9",
+        "ArenaWeeklyRewardTerm": 32,
+        "fromRanking": 201,
+        "toRanking": 300
+    },
+    {
+        "ID": 440,
+        "name": "コロシアムδ_ウィークリーその23報酬1_10",
+        "ArenaWeeklyRewardTerm": 32,
+        "fromRanking": 301,
+        "toRanking": 400
+    },
+    {
+        "ID": 441,
+        "name": "コロシアムδ_ウィークリーその23報酬1_11",
+        "ArenaWeeklyRewardTerm": 32,
+        "fromRanking": 401,
+        "toRanking": 500
+    },
+    {
+        "ID": 442,
+        "name": "コロシアムδ_ウィークリーその23報酬1_12",
+        "ArenaWeeklyRewardTerm": 32,
+        "fromRanking": 501,
+        "toRanking": 750
+    },
+    {
+        "ID": 443,
+        "name": "コロシアムδ_ウィークリーその23報酬1_13",
+        "ArenaWeeklyRewardTerm": 32,
+        "fromRanking": 751,
+        "toRanking": 1000
+    },
+    {
+        "ID": 444,
+        "name": "コロシアムδ_ウィークリーその23報酬1_14",
+        "ArenaWeeklyRewardTerm": 32,
+        "fromRanking": 1001,
+        "toRanking": 2000
+    },
+    {
+        "ID": 445,
+        "name": "コロシアムδ_ウィークリーその23報酬1_15",
+        "ArenaWeeklyRewardTerm": 32,
+        "fromRanking": 2001,
+        "toRanking": 5000
+    },
+    {
+        "ID": 446,
+        "name": "コロシアムδ_ウィークリーその24報酬1_1",
+        "ArenaWeeklyRewardTerm": 33,
+        "fromRanking": 1,
+        "toRanking": 5
+    },
+    {
+        "ID": 447,
+        "name": "コロシアムδ_ウィークリーその24報酬1_2",
+        "ArenaWeeklyRewardTerm": 33,
+        "fromRanking": 6,
+        "toRanking": 10
+    },
+    {
+        "ID": 448,
+        "name": "コロシアムδ_ウィークリーその24報酬1_3",
+        "ArenaWeeklyRewardTerm": 33,
+        "fromRanking": 11,
+        "toRanking": 20
+    },
+    {
+        "ID": 449,
+        "name": "コロシアムδ_ウィークリーその24報酬1_4",
+        "ArenaWeeklyRewardTerm": 33,
+        "fromRanking": 21,
+        "toRanking": 30
+    },
+    {
+        "ID": 450,
+        "name": "コロシアムδ_ウィークリーその24報酬1_5",
+        "ArenaWeeklyRewardTerm": 33,
+        "fromRanking": 31,
+        "toRanking": 50
+    },
+    {
+        "ID": 451,
+        "name": "コロシアムδ_ウィークリーその24報酬1_6",
+        "ArenaWeeklyRewardTerm": 33,
+        "fromRanking": 51,
+        "toRanking": 75
+    },
+    {
+        "ID": 452,
+        "name": "コロシアムδ_ウィークリーその24報酬1_7",
+        "ArenaWeeklyRewardTerm": 33,
+        "fromRanking": 76,
+        "toRanking": 100
+    },
+    {
+        "ID": 453,
+        "name": "コロシアムδ_ウィークリーその24報酬1_8",
+        "ArenaWeeklyRewardTerm": 33,
+        "fromRanking": 101,
+        "toRanking": 200
+    },
+    {
+        "ID": 454,
+        "name": "コロシアムδ_ウィークリーその24報酬1_9",
+        "ArenaWeeklyRewardTerm": 33,
+        "fromRanking": 201,
+        "toRanking": 300
+    },
+    {
+        "ID": 455,
+        "name": "コロシアムδ_ウィークリーその24報酬1_10",
+        "ArenaWeeklyRewardTerm": 33,
+        "fromRanking": 301,
+        "toRanking": 400
+    },
+    {
+        "ID": 456,
+        "name": "コロシアムδ_ウィークリーその24報酬1_11",
+        "ArenaWeeklyRewardTerm": 33,
+        "fromRanking": 401,
+        "toRanking": 500
+    },
+    {
+        "ID": 457,
+        "name": "コロシアムδ_ウィークリーその24報酬1_12",
+        "ArenaWeeklyRewardTerm": 33,
+        "fromRanking": 501,
+        "toRanking": 750
+    },
+    {
+        "ID": 458,
+        "name": "コロシアムδ_ウィークリーその24報酬1_13",
+        "ArenaWeeklyRewardTerm": 33,
+        "fromRanking": 751,
+        "toRanking": 1000
+    },
+    {
+        "ID": 459,
+        "name": "コロシアムδ_ウィークリーその24報酬1_14",
+        "ArenaWeeklyRewardTerm": 33,
+        "fromRanking": 1001,
+        "toRanking": 2000
+    },
+    {
+        "ID": 460,
+        "name": "コロシアムδ_ウィークリーその24報酬1_15",
+        "ArenaWeeklyRewardTerm": 33,
+        "fromRanking": 2001,
+        "toRanking": 5000
+    }
+]

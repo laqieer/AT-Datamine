@@ -1,0 +1,534 @@
+[
+    {
+        "ID": 1,
+        "name": "盾物理タイプ:物防",
+        "optionLotteryGroup": 1,
+        "effectType": 1,
+        "weight": 10
+    },
+    {
+        "ID": 2,
+        "name": "盾物理タイプ:必殺回避",
+        "optionLotteryGroup": 1,
+        "effectType": 3,
+        "weight": 10
+    },
+    {
+        "ID": 3,
+        "name": "盾物理タイプ:斬撃耐性",
+        "optionLotteryGroup": 1,
+        "effectType": 46,
+        "weight": 10
+    },
+    {
+        "ID": 4,
+        "name": "盾物理タイプ:打撃耐性",
+        "optionLotteryGroup": 1,
+        "effectType": 47,
+        "weight": 10
+    },
+    {
+        "ID": 5,
+        "name": "盾物理タイプ:刺突耐性",
+        "optionLotteryGroup": 1,
+        "effectType": 48,
+        "weight": 10
+    },
+    {
+        "ID": 6,
+        "name": "盾物理タイプ:射撃耐性",
+        "optionLotteryGroup": 1,
+        "effectType": 49,
+        "weight": 10
+    },
+    {
+        "ID": 7,
+        "name": "盾魔法タイプ:物防",
+        "optionLotteryGroup": 2,
+        "effectType": 1,
+        "weight": 10
+    },
+    {
+        "ID": 8,
+        "name": "盾魔法タイプ:魔防",
+        "optionLotteryGroup": 2,
+        "effectType": 2,
+        "weight": 10
+    },
+    {
+        "ID": 9,
+        "name": "盾魔法タイプ:必殺回避",
+        "optionLotteryGroup": 2,
+        "effectType": 3,
+        "weight": 10
+    },
+    {
+        "ID": 10,
+        "name": "盾魔法タイプ:射撃耐性",
+        "optionLotteryGroup": 2,
+        "effectType": 49,
+        "weight": 10
+    },
+    {
+        "ID": 11,
+        "name": "盾魔法タイプ:魔法耐性",
+        "optionLotteryGroup": 2,
+        "effectType": 50,
+        "weight": 10
+    },
+    {
+        "ID": 12,
+        "name": "装飾品特徴無しタイプ:命",
+        "optionLotteryGroup": 3,
+        "effectType": 4,
+        "weight": 10
+    },
+    {
+        "ID": 13,
+        "name": "装飾品特徴無しタイプ:力",
+        "optionLotteryGroup": 3,
+        "effectType": 5,
+        "weight": 10
+    },
+    {
+        "ID": 14,
+        "name": "装飾品特徴無しタイプ:魔",
+        "optionLotteryGroup": 3,
+        "effectType": 6,
+        "weight": 10
+    },
+    {
+        "ID": 15,
+        "name": "装飾品特徴無しタイプ:運",
+        "optionLotteryGroup": 3,
+        "effectType": 11,
+        "weight": 10
+    },
+    {
+        "ID": 16,
+        "name": "装飾品斬撃タイプ:命",
+        "optionLotteryGroup": 4,
+        "effectType": 4,
+        "weight": 10
+    },
+    {
+        "ID": 17,
+        "name": "装飾品斬撃タイプ:力",
+        "optionLotteryGroup": 4,
+        "effectType": 5,
+        "weight": 10
+    },
+    {
+        "ID": 18,
+        "name": "装飾品斬撃タイプ:魔",
+        "optionLotteryGroup": 4,
+        "effectType": 6,
+        "weight": 10
+    },
+    {
+        "ID": 19,
+        "name": "装飾品斬撃タイプ:運",
+        "optionLotteryGroup": 4,
+        "effectType": 11,
+        "weight": 10
+    },
+    {
+        "ID": 20,
+        "name": "装飾品斬撃タイプ:斬撃",
+        "optionLotteryGroup": 4,
+        "effectType": 18,
+        "weight": 10
+    },
+    {
+        "ID": 21,
+        "name": "装飾品打撃タイプ:命",
+        "optionLotteryGroup": 5,
+        "effectType": 4,
+        "weight": 10
+    },
+    {
+        "ID": 22,
+        "name": "装飾品打撃タイプ:力",
+        "optionLotteryGroup": 5,
+        "effectType": 5,
+        "weight": 10
+    },
+    {
+        "ID": 23,
+        "name": "装飾品打撃タイプ:魔",
+        "optionLotteryGroup": 5,
+        "effectType": 6,
+        "weight": 10
+    },
+    {
+        "ID": 24,
+        "name": "装飾品打撃タイプ:運",
+        "optionLotteryGroup": 5,
+        "effectType": 11,
+        "weight": 10
+    },
+    {
+        "ID": 25,
+        "name": "装飾品打撃タイプ:打撃",
+        "optionLotteryGroup": 5,
+        "effectType": 19,
+        "weight": 10
+    },
+    {
+        "ID": 26,
+        "name": "装飾品刺突タイプ:命",
+        "optionLotteryGroup": 6,
+        "effectType": 4,
+        "weight": 10
+    },
+    {
+        "ID": 27,
+        "name": "装飾品刺突タイプ:力",
+        "optionLotteryGroup": 6,
+        "effectType": 5,
+        "weight": 10
+    },
+    {
+        "ID": 28,
+        "name": "装飾品刺突タイプ:魔",
+        "optionLotteryGroup": 6,
+        "effectType": 6,
+        "weight": 10
+    },
+    {
+        "ID": 29,
+        "name": "装飾品刺突タイプ:運",
+        "optionLotteryGroup": 6,
+        "effectType": 11,
+        "weight": 10
+    },
+    {
+        "ID": 30,
+        "name": "装飾品刺突タイプ:刺突",
+        "optionLotteryGroup": 6,
+        "effectType": 20,
+        "weight": 10
+    },
+    {
+        "ID": 31,
+        "name": "装飾品射撃タイプ:命",
+        "optionLotteryGroup": 7,
+        "effectType": 4,
+        "weight": 10
+    },
+    {
+        "ID": 32,
+        "name": "装飾品射撃タイプ:力",
+        "optionLotteryGroup": 7,
+        "effectType": 5,
+        "weight": 10
+    },
+    {
+        "ID": 33,
+        "name": "装飾品射撃タイプ:魔",
+        "optionLotteryGroup": 7,
+        "effectType": 6,
+        "weight": 10
+    },
+    {
+        "ID": 34,
+        "name": "装飾品射撃タイプ:運",
+        "optionLotteryGroup": 7,
+        "effectType": 11,
+        "weight": 10
+    },
+    {
+        "ID": 35,
+        "name": "装飾品射撃タイプ:射撃",
+        "optionLotteryGroup": 7,
+        "effectType": 21,
+        "weight": 10
+    },
+    {
+        "ID": 36,
+        "name": "装飾品魔法タイプ:命",
+        "optionLotteryGroup": 8,
+        "effectType": 4,
+        "weight": 10
+    },
+    {
+        "ID": 37,
+        "name": "装飾品魔法タイプ:力",
+        "optionLotteryGroup": 8,
+        "effectType": 5,
+        "weight": 10
+    },
+    {
+        "ID": 38,
+        "name": "装飾品魔法タイプ:魔",
+        "optionLotteryGroup": 8,
+        "effectType": 6,
+        "weight": 10
+    },
+    {
+        "ID": 39,
+        "name": "装飾品魔法タイプ:運",
+        "optionLotteryGroup": 8,
+        "effectType": 11,
+        "weight": 10
+    },
+    {
+        "ID": 40,
+        "name": "装飾品魔法タイプ:魔法",
+        "optionLotteryGroup": 8,
+        "effectType": 22,
+        "weight": 10
+    },
+    {
+        "ID": 41,
+        "name": "装飾品炎タイプ:命",
+        "optionLotteryGroup": 9,
+        "effectType": 4,
+        "weight": 10
+    },
+    {
+        "ID": 42,
+        "name": "装飾品炎タイプ:力",
+        "optionLotteryGroup": 9,
+        "effectType": 5,
+        "weight": 10
+    },
+    {
+        "ID": 43,
+        "name": "装飾品炎タイプ:魔",
+        "optionLotteryGroup": 9,
+        "effectType": 6,
+        "weight": 10
+    },
+    {
+        "ID": 44,
+        "name": "装飾品炎タイプ:運",
+        "optionLotteryGroup": 9,
+        "effectType": 11,
+        "weight": 10
+    },
+    {
+        "ID": 45,
+        "name": "装飾品炎タイプ:炎",
+        "optionLotteryGroup": 9,
+        "effectType": 12,
+        "weight": 10
+    },
+    {
+        "ID": 46,
+        "name": "装飾品氷タイプ:命",
+        "optionLotteryGroup": 10,
+        "effectType": 4,
+        "weight": 10
+    },
+    {
+        "ID": 47,
+        "name": "装飾品氷タイプ:力",
+        "optionLotteryGroup": 10,
+        "effectType": 5,
+        "weight": 10
+    },
+    {
+        "ID": 48,
+        "name": "装飾品氷タイプ:魔",
+        "optionLotteryGroup": 10,
+        "effectType": 6,
+        "weight": 10
+    },
+    {
+        "ID": 49,
+        "name": "装飾品氷タイプ:運",
+        "optionLotteryGroup": 10,
+        "effectType": 11,
+        "weight": 10
+    },
+    {
+        "ID": 50,
+        "name": "装飾品氷タイプ:氷",
+        "optionLotteryGroup": 10,
+        "effectType": 13,
+        "weight": 10
+    },
+    {
+        "ID": 51,
+        "name": "装飾品風タイプ:命",
+        "optionLotteryGroup": 11,
+        "effectType": 4,
+        "weight": 10
+    },
+    {
+        "ID": 52,
+        "name": "装飾品風タイプ:力",
+        "optionLotteryGroup": 11,
+        "effectType": 5,
+        "weight": 10
+    },
+    {
+        "ID": 53,
+        "name": "装飾品風タイプ:魔",
+        "optionLotteryGroup": 11,
+        "effectType": 6,
+        "weight": 10
+    },
+    {
+        "ID": 54,
+        "name": "装飾品風タイプ:運",
+        "optionLotteryGroup": 11,
+        "effectType": 11,
+        "weight": 10
+    },
+    {
+        "ID": 55,
+        "name": "装飾品風タイプ:風",
+        "optionLotteryGroup": 11,
+        "effectType": 15,
+        "weight": 10
+    },
+    {
+        "ID": 56,
+        "name": "装飾品雷タイプ:命",
+        "optionLotteryGroup": 12,
+        "effectType": 4,
+        "weight": 10
+    },
+    {
+        "ID": 57,
+        "name": "装飾品雷タイプ:力",
+        "optionLotteryGroup": 12,
+        "effectType": 5,
+        "weight": 10
+    },
+    {
+        "ID": 58,
+        "name": "装飾品雷タイプ:魔",
+        "optionLotteryGroup": 12,
+        "effectType": 6,
+        "weight": 10
+    },
+    {
+        "ID": 59,
+        "name": "装飾品雷タイプ:運",
+        "optionLotteryGroup": 12,
+        "effectType": 11,
+        "weight": 10
+    },
+    {
+        "ID": 60,
+        "name": "装飾品雷タイプ:雷",
+        "optionLotteryGroup": 12,
+        "effectType": 14,
+        "weight": 10
+    },
+    {
+        "ID": 61,
+        "name": "装飾品光タイプ:命",
+        "optionLotteryGroup": 13,
+        "effectType": 4,
+        "weight": 10
+    },
+    {
+        "ID": 62,
+        "name": "装飾品光タイプ:力",
+        "optionLotteryGroup": 13,
+        "effectType": 5,
+        "weight": 10
+    },
+    {
+        "ID": 63,
+        "name": "装飾品光タイプ:魔",
+        "optionLotteryGroup": 13,
+        "effectType": 6,
+        "weight": 10
+    },
+    {
+        "ID": 64,
+        "name": "装飾品光タイプ:運",
+        "optionLotteryGroup": 13,
+        "effectType": 11,
+        "weight": 10
+    },
+    {
+        "ID": 65,
+        "name": "装飾品光タイプ:光",
+        "optionLotteryGroup": 13,
+        "effectType": 16,
+        "weight": 10
+    },
+    {
+        "ID": 66,
+        "name": "装飾品闇タイプ:命",
+        "optionLotteryGroup": 14,
+        "effectType": 4,
+        "weight": 10
+    },
+    {
+        "ID": 67,
+        "name": "装飾品闇タイプ:力",
+        "optionLotteryGroup": 14,
+        "effectType": 5,
+        "weight": 10
+    },
+    {
+        "ID": 68,
+        "name": "装飾品闇タイプ:魔",
+        "optionLotteryGroup": 14,
+        "effectType": 6,
+        "weight": 10
+    },
+    {
+        "ID": 69,
+        "name": "装飾品闇タイプ:運",
+        "optionLotteryGroup": 14,
+        "effectType": 11,
+        "weight": 10
+    },
+    {
+        "ID": 70,
+        "name": "装飾品闇タイプ:闇",
+        "optionLotteryGroup": 14,
+        "effectType": 17,
+        "weight": 10
+    },
+    {
+        "ID": 71,
+        "name": "装飾品毒麻痺タイプ:命",
+        "optionLotteryGroup": 15,
+        "effectType": 4,
+        "weight": 10
+    },
+    {
+        "ID": 72,
+        "name": "装飾品毒麻痺タイプ:力",
+        "optionLotteryGroup": 15,
+        "effectType": 5,
+        "weight": 10
+    },
+    {
+        "ID": 73,
+        "name": "装飾品毒麻痺タイプ:魔",
+        "optionLotteryGroup": 15,
+        "effectType": 6,
+        "weight": 10
+    },
+    {
+        "ID": 74,
+        "name": "装飾品毒麻痺タイプ:運",
+        "optionLotteryGroup": 15,
+        "effectType": 11,
+        "weight": 10
+    },
+    {
+        "ID": 75,
+        "name": "装飾品毒麻痺タイプ:麻痺",
+        "optionLotteryGroup": 15,
+        "effectType": 58,
+        "weight": 10
+    },
+    {
+        "ID": 76,
+        "name": "装飾品毒麻痺タイプ:毒",
+        "optionLotteryGroup": 15,
+        "effectType": 59,
+        "weight": 10
+    }
+]

@@ -1,0 +1,172 @@
+[
+    {
+        "ID": 1,
+        "characterID": 101012,
+        "skillID": 147000101
+    },
+    {
+        "ID": 2,
+        "characterID": 101001,
+        "skillID": 147000102
+    },
+    {
+        "ID": 3,
+        "characterID": 101011,
+        "skillID": 147000103
+    },
+    {
+        "ID": 4,
+        "characterID": 101010,
+        "skillID": 147000104
+    },
+    {
+        "ID": 5,
+        "characterID": 101014,
+        "skillID": 147000105
+    },
+    {
+        "ID": 6,
+        "characterID": 101013,
+        "skillID": 147000106
+    },
+    {
+        "ID": 7,
+        "characterID": 101028,
+        "skillID": 147000107
+    },
+    {
+        "ID": 8,
+        "characterID": 101030,
+        "skillID": 147000108
+    },
+    {
+        "ID": 9,
+        "characterID": 101032,
+        "skillID": 147000109
+    },
+    {
+        "ID": 10,
+        "characterID": 101015,
+        "skillID": 147000110
+    },
+    {
+        "ID": 11,
+        "characterID": 101022,
+        "skillID": 147000111
+    },
+    {
+        "ID": 12,
+        "characterID": 101026,
+        "skillID": 147000112
+    },
+    {
+        "ID": 13,
+        "characterID": 101025,
+        "skillID": 147000113
+    },
+    {
+        "ID": 14,
+        "characterID": 101034,
+        "skillID": 147000114
+    },
+    {
+        "ID": 15,
+        "characterID": 101035,
+        "skillID": 147000115
+    },
+    {
+        "ID": 16,
+        "characterID": 101037,
+        "skillID": 147000116
+    },
+    {
+        "ID": 17,
+        "characterID": 101039,
+        "skillID": 147000117
+    },
+    {
+        "ID": 18,
+        "characterID": 101012,
+        "skillID": 147000118
+    },
+    {
+        "ID": 19,
+        "characterID": 101001,
+        "skillID": 147000119
+    },
+    {
+        "ID": 20,
+        "characterID": 101011,
+        "skillID": 147000120
+    },
+    {
+        "ID": 21,
+        "characterID": 101010,
+        "skillID": 147000121
+    },
+    {
+        "ID": 22,
+        "characterID": 101014,
+        "skillID": 147000122
+    },
+    {
+        "ID": 23,
+        "characterID": 101013,
+        "skillID": 147000123
+    },
+    {
+        "ID": 24,
+        "characterID": 101028,
+        "skillID": 147000124
+    },
+    {
+        "ID": 25,
+        "characterID": 101030,
+        "skillID": 147000125
+    },
+    {
+        "ID": 26,
+        "characterID": 101032,
+        "skillID": 147000126
+    },
+    {
+        "ID": 27,
+        "characterID": 101015,
+        "skillID": 147000127
+    },
+    {
+        "ID": 28,
+        "characterID": 101022,
+        "skillID": 147000128
+    },
+    {
+        "ID": 29,
+        "characterID": 101026,
+        "skillID": 147000129
+    },
+    {
+        "ID": 30,
+        "characterID": 101025,
+        "skillID": 147000130
+    },
+    {
+        "ID": 31,
+        "characterID": 101034,
+        "skillID": 147000131
+    },
+    {
+        "ID": 32,
+        "characterID": 101035,
+        "skillID": 147000132
+    },
+    {
+        "ID": 33,
+        "characterID": 101037,
+        "skillID": 147000133
+    },
+    {
+        "ID": 34,
+        "characterID": 101039,
+        "skillID": 147000134
+    }
+]

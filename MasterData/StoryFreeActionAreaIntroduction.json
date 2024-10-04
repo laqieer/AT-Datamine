@@ -1,0 +1,62 @@
+[
+    {
+        "ID": 0,
+        "name": "なし",
+        "productionID": 0,
+        "chapter": 0
+    },
+    {
+        "ID": 1,
+        "name": "1章：前庭",
+        "productionID": 110071,
+        "chapter": 1
+    },
+    {
+        "ID": 2,
+        "name": "1章：エリア演出：屋上",
+        "productionID": 110041,
+        "chapter": 1
+    },
+    {
+        "ID": 3,
+        "name": "1章：エリア演出：大図書院",
+        "productionID": 110061,
+        "chapter": 1
+    },
+    {
+        "ID": 4,
+        "name": "1章：エリア演出：講堂（講演会）",
+        "productionID": 110241,
+        "chapter": 1
+    },
+    {
+        "ID": 5,
+        "name": "1章：エリア演出：講堂（武道場）",
+        "productionID": 110231,
+        "chapter": 1
+    },
+    {
+        "ID": 6,
+        "name": "1章：エリア演出：エントランス",
+        "productionID": 110021,
+        "chapter": 1
+    },
+    {
+        "ID": 7,
+        "name": "1章：エリア演出：前庭",
+        "productionID": 110071,
+        "chapter": 1
+    },
+    {
+        "ID": 8,
+        "name": "1章：エリア演出：大聖堂",
+        "productionID": 110101,
+        "chapter": 1
+    },
+    {
+        "ID": 9,
+        "name": "1章：エリア演出：ログレス城下町",
+        "productionID": 110111,
+        "chapter": 1
+    }
+]

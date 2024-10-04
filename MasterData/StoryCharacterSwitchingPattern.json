@@ -1,0 +1,986 @@
+[
+    {
+        "ID": 101009002,
+        "name": "ノワール金コート",
+        "statusStyleID": 101009002,
+        "normalCharcterBuildDataID": 101009001,
+        "killersCharcterBuildDataID": 0,
+        "outdoorRainyCharcterBuildDataID": 101009011
+    },
+    {
+        "ID": 101009003,
+        "name": "ノワール",
+        "statusStyleID": 101009002,
+        "normalCharcterBuildDataID": 101009002,
+        "killersCharcterBuildDataID": 0,
+        "outdoorRainyCharcterBuildDataID": 101009012
+    },
+    {
+        "ID": 101001001,
+        "name": "ティルフィング",
+        "statusStyleID": 101001001,
+        "normalCharcterBuildDataID": 101001001,
+        "killersCharcterBuildDataID": 101001002,
+        "outdoorRainyCharcterBuildDataID": 0
+    },
+    {
+        "ID": 101010001,
+        "name": "ランスロット",
+        "statusStyleID": 101010001,
+        "normalCharcterBuildDataID": 101010001,
+        "killersCharcterBuildDataID": 101010002,
+        "outdoorRainyCharcterBuildDataID": 0
+    },
+    {
+        "ID": 101011001,
+        "name": "ギネヴィアドレス",
+        "statusStyleID": 101011001,
+        "normalCharcterBuildDataID": 101011003,
+        "killersCharcterBuildDataID": 101011002,
+        "outdoorRainyCharcterBuildDataID": 0
+    },
+    {
+        "ID": 101011002,
+        "name": "ギネヴィア",
+        "statusStyleID": 101011001,
+        "normalCharcterBuildDataID": 101011001,
+        "killersCharcterBuildDataID": 101011002,
+        "outdoorRainyCharcterBuildDataID": 0
+    },
+    {
+        "ID": 101012001,
+        "name": "ディナタン",
+        "statusStyleID": 101012001,
+        "normalCharcterBuildDataID": 101012001,
+        "killersCharcterBuildDataID": 101012002,
+        "outdoorRainyCharcterBuildDataID": 0
+    },
+    {
+        "ID": 101013001,
+        "name": "ガウェイン",
+        "statusStyleID": 101013001,
+        "normalCharcterBuildDataID": 101013001,
+        "killersCharcterBuildDataID": 0,
+        "outdoorRainyCharcterBuildDataID": 0
+    },
+    {
+        "ID": 101014001,
+        "name": "トリスタン",
+        "statusStyleID": 101014001,
+        "normalCharcterBuildDataID": 101014001,
+        "killersCharcterBuildDataID": 0,
+        "outdoorRainyCharcterBuildDataID": 0
+    },
+    {
+        "ID": 101014002,
+        "name": "トリスタン：ハープ",
+        "statusStyleID": 101014001,
+        "normalCharcterBuildDataID": 101014021,
+        "killersCharcterBuildDataID": 0,
+        "outdoorRainyCharcterBuildDataID": 0
+    },
+    {
+        "ID": 101015001,
+        "name": "アーサー",
+        "statusStyleID": 101015001,
+        "normalCharcterBuildDataID": 101015001,
+        "killersCharcterBuildDataID": 0,
+        "outdoorRainyCharcterBuildDataID": 0
+    },
+    {
+        "ID": 101016001,
+        "name": "ギネマウア",
+        "statusStyleID": 101016001,
+        "normalCharcterBuildDataID": 101016001,
+        "killersCharcterBuildDataID": 101016002,
+        "outdoorRainyCharcterBuildDataID": 0
+    },
+    {
+        "ID": 101017001,
+        "name": "マルディサント",
+        "statusStyleID": 101017001,
+        "normalCharcterBuildDataID": 101017001,
+        "killersCharcterBuildDataID": 101017002,
+        "outdoorRainyCharcterBuildDataID": 0
+    },
+    {
+        "ID": 101017002,
+        "name": "マルディサント療養",
+        "statusStyleID": 101017001,
+        "normalCharcterBuildDataID": 101017003,
+        "killersCharcterBuildDataID": 101017002,
+        "outdoorRainyCharcterBuildDataID": 0
+    },
+    {
+        "ID": 101018001,
+        "name": "ラグネル",
+        "statusStyleID": 101018001,
+        "normalCharcterBuildDataID": 101018001,
+        "killersCharcterBuildDataID": 101018002,
+        "outdoorRainyCharcterBuildDataID": 0
+    },
+    {
+        "ID": 101019001,
+        "name": "イゾルデ",
+        "statusStyleID": 101019001,
+        "normalCharcterBuildDataID": 101019001,
+        "killersCharcterBuildDataID": 0,
+        "outdoorRainyCharcterBuildDataID": 0
+    },
+    {
+        "ID": 101020001,
+        "name": "マーリン",
+        "statusStyleID": 101020001,
+        "normalCharcterBuildDataID": 101020001,
+        "killersCharcterBuildDataID": 0,
+        "outdoorRainyCharcterBuildDataID": 0
+    },
+    {
+        "ID": 101021001,
+        "name": "ブルーノ",
+        "statusStyleID": 101021001,
+        "normalCharcterBuildDataID": 101021001,
+        "killersCharcterBuildDataID": 0,
+        "outdoorRainyCharcterBuildDataID": 0
+    },
+    {
+        "ID": 101022001,
+        "name": "モルドレッド",
+        "statusStyleID": 101022001,
+        "normalCharcterBuildDataID": 101022001,
+        "killersCharcterBuildDataID": 0,
+        "outdoorRainyCharcterBuildDataID": 0
+    },
+    {
+        "ID": 101023001,
+        "name": "クラリス",
+        "statusStyleID": 101023001,
+        "normalCharcterBuildDataID": 101023001,
+        "killersCharcterBuildDataID": 0,
+        "outdoorRainyCharcterBuildDataID": 0
+    },
+    {
+        "ID": 101024001,
+        "name": "ヴォールス",
+        "statusStyleID": 101024001,
+        "normalCharcterBuildDataID": 101024001,
+        "killersCharcterBuildDataID": 0,
+        "outdoorRainyCharcterBuildDataID": 0
+    },
+    {
+        "ID": 101025001,
+        "name": "クレア",
+        "statusStyleID": 101025001,
+        "normalCharcterBuildDataID": 101025001,
+        "killersCharcterBuildDataID": 0,
+        "outdoorRainyCharcterBuildDataID": 0
+    },
+    {
+        "ID": 101026001,
+        "name": "パーシヴァル",
+        "statusStyleID": 101026001,
+        "normalCharcterBuildDataID": 101026001,
+        "killersCharcterBuildDataID": 0,
+        "outdoorRainyCharcterBuildDataID": 0
+    },
+    {
+        "ID": 101027001,
+        "name": "ディンドラン",
+        "statusStyleID": 101027001,
+        "normalCharcterBuildDataID": 101027001,
+        "killersCharcterBuildDataID": 0,
+        "outdoorRainyCharcterBuildDataID": 0
+    },
+    {
+        "ID": 101028002,
+        "name": "ガラハッド：銀卓の騎士",
+        "statusStyleID": 101028002,
+        "normalCharcterBuildDataID": 101028002,
+        "killersCharcterBuildDataID": 0,
+        "outdoorRainyCharcterBuildDataID": 0
+    },
+    {
+        "ID": 101028001,
+        "name": "ガラハッド",
+        "statusStyleID": 101028001,
+        "normalCharcterBuildDataID": 101028001,
+        "killersCharcterBuildDataID": 0,
+        "outdoorRainyCharcterBuildDataID": 0
+    },
+    {
+        "ID": 101029001,
+        "name": "アステラ",
+        "statusStyleID": 101029001,
+        "normalCharcterBuildDataID": 101029001,
+        "killersCharcterBuildDataID": 0,
+        "outdoorRainyCharcterBuildDataID": 0
+    },
+    {
+        "ID": 101030001,
+        "name": "エレイン",
+        "statusStyleID": 101030001,
+        "normalCharcterBuildDataID": 101030001,
+        "killersCharcterBuildDataID": 0,
+        "outdoorRainyCharcterBuildDataID": 0
+    },
+    {
+        "ID": 101030002,
+        "name": "エレイン：顔傷有",
+        "statusStyleID": 101030001,
+        "normalCharcterBuildDataID": 101030002,
+        "killersCharcterBuildDataID": 0,
+        "outdoorRainyCharcterBuildDataID": 0
+    },
+    {
+        "ID": 101031001,
+        "name": "ラヴェイン",
+        "statusStyleID": 101031001,
+        "normalCharcterBuildDataID": 101031001,
+        "killersCharcterBuildDataID": 0,
+        "outdoorRainyCharcterBuildDataID": 0
+    },
+    {
+        "ID": 101032001,
+        "name": "ガレス",
+        "statusStyleID": 101032001,
+        "normalCharcterBuildDataID": 101032001,
+        "killersCharcterBuildDataID": 0,
+        "outdoorRainyCharcterBuildDataID": 0
+    },
+    {
+        "ID": 101033001,
+        "name": "リオネス",
+        "statusStyleID": 101033001,
+        "normalCharcterBuildDataID": 101033001,
+        "killersCharcterBuildDataID": 0,
+        "outdoorRainyCharcterBuildDataID": 0
+    },
+    {
+        "ID": 101034001,
+        "name": "エクセリア",
+        "statusStyleID": 101034001,
+        "normalCharcterBuildDataID": 101034001,
+        "killersCharcterBuildDataID": 0,
+        "outdoorRainyCharcterBuildDataID": 0
+    },
+    {
+        "ID": 101035001,
+        "name": "リリアーナ",
+        "statusStyleID": 101035001,
+        "normalCharcterBuildDataID": 101035001,
+        "killersCharcterBuildDataID": 0,
+        "outdoorRainyCharcterBuildDataID": 0
+    },
+    {
+        "ID": 101036001,
+        "name": "フィエナ",
+        "statusStyleID": 101036001,
+        "normalCharcterBuildDataID": 101036001,
+        "killersCharcterBuildDataID": 0,
+        "outdoorRainyCharcterBuildDataID": 0
+    },
+    {
+        "ID": 101037001,
+        "name": "ラシア",
+        "statusStyleID": 101037001,
+        "normalCharcterBuildDataID": 101037001,
+        "killersCharcterBuildDataID": 0,
+        "outdoorRainyCharcterBuildDataID": 0
+    },
+    {
+        "ID": 101038001,
+        "name": "ローラ",
+        "statusStyleID": 101038001,
+        "normalCharcterBuildDataID": 101038001,
+        "killersCharcterBuildDataID": 0,
+        "outdoorRainyCharcterBuildDataID": 0
+    },
+    {
+        "ID": 101039001,
+        "name": "フレン",
+        "statusStyleID": 101039001,
+        "normalCharcterBuildDataID": 101039001,
+        "killersCharcterBuildDataID": 0,
+        "outdoorRainyCharcterBuildDataID": 0
+    },
+    {
+        "ID": 101040001,
+        "name": "知将ケイ",
+        "statusStyleID": 101040001,
+        "normalCharcterBuildDataID": 101040001,
+        "killersCharcterBuildDataID": 0,
+        "outdoorRainyCharcterBuildDataID": 0
+    },
+    {
+        "ID": 101041001,
+        "name": "モルガン",
+        "statusStyleID": 101041001,
+        "normalCharcterBuildDataID": 101041001,
+        "killersCharcterBuildDataID": 101041002,
+        "outdoorRainyCharcterBuildDataID": 0
+    },
+    {
+        "ID": 101041003,
+        "name": "モルガン・女医車椅子",
+        "statusStyleID": 101041003,
+        "normalCharcterBuildDataID": 101041003,
+        "killersCharcterBuildDataID": 0,
+        "outdoorRainyCharcterBuildDataID": 0
+    },
+    {
+        "ID": 101051001,
+        "name": "ルーシャス",
+        "statusStyleID": 101051001,
+        "normalCharcterBuildDataID": 101051001,
+        "killersCharcterBuildDataID": 0,
+        "outdoorRainyCharcterBuildDataID": 0
+    },
+    {
+        "ID": 101052001,
+        "name": "ヴェルナルス",
+        "statusStyleID": 101052001,
+        "normalCharcterBuildDataID": 101052001,
+        "killersCharcterBuildDataID": 0,
+        "outdoorRainyCharcterBuildDataID": 0
+    },
+    {
+        "ID": 101053001,
+        "name": "マターヤ",
+        "statusStyleID": 101053001,
+        "normalCharcterBuildDataID": 101053001,
+        "killersCharcterBuildDataID": 0,
+        "outdoorRainyCharcterBuildDataID": 0
+    },
+    {
+        "ID": 101054001,
+        "name": "アダン",
+        "statusStyleID": 101054001,
+        "normalCharcterBuildDataID": 101054001,
+        "killersCharcterBuildDataID": 0,
+        "outdoorRainyCharcterBuildDataID": 0
+    },
+    {
+        "ID": 101055001,
+        "name": "オーウェン",
+        "statusStyleID": 101055001,
+        "normalCharcterBuildDataID": 101055001,
+        "killersCharcterBuildDataID": 0,
+        "outdoorRainyCharcterBuildDataID": 0
+    },
+    {
+        "ID": 101059001,
+        "name": "アルハン",
+        "statusStyleID": 101059001,
+        "normalCharcterBuildDataID": 101059001,
+        "killersCharcterBuildDataID": 0,
+        "outdoorRainyCharcterBuildDataID": 0
+    },
+    {
+        "ID": 101061001,
+        "name": "ラロゥ",
+        "statusStyleID": 101061001,
+        "normalCharcterBuildDataID": 101061001,
+        "killersCharcterBuildDataID": 0,
+        "outdoorRainyCharcterBuildDataID": 0
+    },
+    {
+        "ID": 101062001,
+        "name": "マルイル",
+        "statusStyleID": 101062001,
+        "normalCharcterBuildDataID": 101062001,
+        "killersCharcterBuildDataID": 0,
+        "outdoorRainyCharcterBuildDataID": 0
+    },
+    {
+        "ID": 101063001,
+        "name": "クリスティーナ",
+        "statusStyleID": 101063001,
+        "normalCharcterBuildDataID": 101063001,
+        "killersCharcterBuildDataID": 0,
+        "outdoorRainyCharcterBuildDataID": 0
+    },
+    {
+        "ID": 101064001,
+        "name": "リアム",
+        "statusStyleID": 101064001,
+        "normalCharcterBuildDataID": 101064001,
+        "killersCharcterBuildDataID": 0,
+        "outdoorRainyCharcterBuildDataID": 0
+    },
+    {
+        "ID": 101065001,
+        "name": "キッス",
+        "statusStyleID": 101065001,
+        "normalCharcterBuildDataID": 101065001,
+        "killersCharcterBuildDataID": 0,
+        "outdoorRainyCharcterBuildDataID": 0
+    },
+    {
+        "ID": 101066001,
+        "name": "ブレイズ",
+        "statusStyleID": 101066001,
+        "normalCharcterBuildDataID": 101066001,
+        "killersCharcterBuildDataID": 0,
+        "outdoorRainyCharcterBuildDataID": 0
+    },
+    {
+        "ID": 401005001,
+        "name": "キャメロット騎士学術院（男）",
+        "statusStyleID": 401005001,
+        "normalCharcterBuildDataID": 401005001,
+        "killersCharcterBuildDataID": 0,
+        "outdoorRainyCharcterBuildDataID": 401005003
+    },
+    {
+        "ID": 401006001,
+        "name": "キャメロット騎士学術院（女）",
+        "statusStyleID": 401006001,
+        "normalCharcterBuildDataID": 401006001,
+        "killersCharcterBuildDataID": 0,
+        "outdoorRainyCharcterBuildDataID": 401006004
+    },
+    {
+        "ID": 401007001,
+        "name": "キャメロット騎士学術院（男）②",
+        "statusStyleID": 401007001,
+        "normalCharcterBuildDataID": 401007001,
+        "killersCharcterBuildDataID": 0,
+        "outdoorRainyCharcterBuildDataID": 401007006
+    },
+    {
+        "ID": 401008001,
+        "name": "キャメロット騎士学術院（女）②",
+        "statusStyleID": 401008001,
+        "normalCharcterBuildDataID": 401008001,
+        "killersCharcterBuildDataID": 0,
+        "outdoorRainyCharcterBuildDataID": 401008006
+    },
+    {
+        "ID": 401009001,
+        "name": "キャメロット騎士学術院（男）③",
+        "statusStyleID": 401009001,
+        "normalCharcterBuildDataID": 401009001,
+        "killersCharcterBuildDataID": 0,
+        "outdoorRainyCharcterBuildDataID": 401009004
+    },
+    {
+        "ID": 401010001,
+        "name": "キャメロット騎士学術院（女）③",
+        "statusStyleID": 401010001,
+        "normalCharcterBuildDataID": 401010001,
+        "killersCharcterBuildDataID": 0,
+        "outdoorRainyCharcterBuildDataID": 401010004
+    },
+    {
+        "ID": 401005002,
+        "name": "キャメロット騎士学術院（男）②楽隊①",
+        "statusStyleID": 401005001,
+        "normalCharcterBuildDataID": 401007002,
+        "killersCharcterBuildDataID": 0,
+        "outdoorRainyCharcterBuildDataID": 0
+    },
+    {
+        "ID": 401007002,
+        "name": "キャメロット騎士学術院（男）③楽隊②",
+        "statusStyleID": 401007001,
+        "normalCharcterBuildDataID": 401009002,
+        "killersCharcterBuildDataID": 0,
+        "outdoorRainyCharcterBuildDataID": 0
+    },
+    {
+        "ID": 401008002,
+        "name": "キャメロット騎士学術院（女）②楽隊③",
+        "statusStyleID": 401008001,
+        "normalCharcterBuildDataID": 401008002,
+        "killersCharcterBuildDataID": 0,
+        "outdoorRainyCharcterBuildDataID": 0
+    },
+    {
+        "ID": 401010002,
+        "name": "キャメロット騎士学術院（女）③楽隊④",
+        "statusStyleID": 401010001,
+        "normalCharcterBuildDataID": 401010002,
+        "killersCharcterBuildDataID": 0,
+        "outdoorRainyCharcterBuildDataID": 0
+    },
+    {
+        "ID": 401007003,
+        "name": "キャメロット騎士学術院（男）②食事",
+        "statusStyleID": 401007001,
+        "normalCharcterBuildDataID": 401007003,
+        "killersCharcterBuildDataID": 0,
+        "outdoorRainyCharcterBuildDataID": 0
+    },
+    {
+        "ID": 401008003,
+        "name": "キャメロット騎士学術院（女）②食事",
+        "statusStyleID": 401008001,
+        "normalCharcterBuildDataID": 401008003,
+        "killersCharcterBuildDataID": 0,
+        "outdoorRainyCharcterBuildDataID": 0
+    },
+    {
+        "ID": 401007004,
+        "name": "キャメロット騎士学術院（男）②トレー",
+        "statusStyleID": 401007001,
+        "normalCharcterBuildDataID": 401007004,
+        "killersCharcterBuildDataID": 0,
+        "outdoorRainyCharcterBuildDataID": 0
+    },
+    {
+        "ID": 401008004,
+        "name": "キャメロット騎士学術院（女）トレー",
+        "statusStyleID": 401008001,
+        "normalCharcterBuildDataID": 401006002,
+        "killersCharcterBuildDataID": 0,
+        "outdoorRainyCharcterBuildDataID": 0
+    },
+    {
+        "ID": 401009002,
+        "name": "キャメロット騎士学術院（男）武道場",
+        "statusStyleID": 401009001,
+        "normalCharcterBuildDataID": 401005002,
+        "killersCharcterBuildDataID": 0,
+        "outdoorRainyCharcterBuildDataID": 0
+    },
+    {
+        "ID": 401009003,
+        "name": "キャメロット騎士学術院（男）③武道場",
+        "statusStyleID": 401009001,
+        "normalCharcterBuildDataID": 401009003,
+        "killersCharcterBuildDataID": 0,
+        "outdoorRainyCharcterBuildDataID": 0
+    },
+    {
+        "ID": 401010003,
+        "name": "キャメロット騎士学術院（女）②武道場",
+        "statusStyleID": 401010001,
+        "normalCharcterBuildDataID": 401008004,
+        "killersCharcterBuildDataID": 0,
+        "outdoorRainyCharcterBuildDataID": 0
+    },
+    {
+        "ID": 401010004,
+        "name": "キャメロット騎士学術院（女）③武道場",
+        "statusStyleID": 401010001,
+        "normalCharcterBuildDataID": 401010003,
+        "killersCharcterBuildDataID": 0,
+        "outdoorRainyCharcterBuildDataID": 0
+    },
+    {
+        "ID": 401006002,
+        "name": "キャメロット騎士学術院（女）勉強",
+        "statusStyleID": 401006001,
+        "normalCharcterBuildDataID": 401006003,
+        "killersCharcterBuildDataID": 0,
+        "outdoorRainyCharcterBuildDataID": 0
+    },
+    {
+        "ID": 401007005,
+        "name": "キャメロット騎士学術院（男）②勉強",
+        "statusStyleID": 401007001,
+        "normalCharcterBuildDataID": 401007005,
+        "killersCharcterBuildDataID": 0,
+        "outdoorRainyCharcterBuildDataID": 0
+    },
+    {
+        "ID": 401008005,
+        "name": "キャメロット騎士学術院（女）②勉強",
+        "statusStyleID": 401008001,
+        "normalCharcterBuildDataID": 401008005,
+        "killersCharcterBuildDataID": 0,
+        "outdoorRainyCharcterBuildDataID": 0
+    },
+    {
+        "ID": 401011001,
+        "name": "市民（男）",
+        "statusStyleID": 401011001,
+        "normalCharcterBuildDataID": 401011001,
+        "killersCharcterBuildDataID": 0,
+        "outdoorRainyCharcterBuildDataID": 401011003
+    },
+    {
+        "ID": 401012001,
+        "name": "市民（女）",
+        "statusStyleID": 401012001,
+        "normalCharcterBuildDataID": 401012001,
+        "killersCharcterBuildDataID": 0,
+        "outdoorRainyCharcterBuildDataID": 401012003
+    },
+    {
+        "ID": 401013001,
+        "name": "市民（男）②",
+        "statusStyleID": 401013001,
+        "normalCharcterBuildDataID": 401013001,
+        "killersCharcterBuildDataID": 0,
+        "outdoorRainyCharcterBuildDataID": 401013002
+    },
+    {
+        "ID": 401014001,
+        "name": "市民（女）②",
+        "statusStyleID": 401014001,
+        "normalCharcterBuildDataID": 401014001,
+        "killersCharcterBuildDataID": 0,
+        "outdoorRainyCharcterBuildDataID": 401014002
+    },
+    {
+        "ID": 401031001,
+        "name": "市民（男）③",
+        "statusStyleID": 401031001,
+        "normalCharcterBuildDataID": 401031001,
+        "killersCharcterBuildDataID": 0,
+        "outdoorRainyCharcterBuildDataID": 401031002
+    },
+    {
+        "ID": 401032001,
+        "name": "市民（女）③",
+        "statusStyleID": 401032001,
+        "normalCharcterBuildDataID": 401032001,
+        "killersCharcterBuildDataID": 0,
+        "outdoorRainyCharcterBuildDataID": 401032002
+    },
+    {
+        "ID": 401011002,
+        "name": "市民（男）ビール",
+        "statusStyleID": 401011001,
+        "normalCharcterBuildDataID": 401011002,
+        "killersCharcterBuildDataID": 0,
+        "outdoorRainyCharcterBuildDataID": 401013002
+    },
+    {
+        "ID": 401014002,
+        "name": "市民（女）②紅茶",
+        "statusStyleID": 401014001,
+        "normalCharcterBuildDataID": 401012002,
+        "killersCharcterBuildDataID": 0,
+        "outdoorRainyCharcterBuildDataID": 401014002
+    },
+    {
+        "ID": 401015001,
+        "name": "子供（男）",
+        "statusStyleID": 401015001,
+        "normalCharcterBuildDataID": 401015001,
+        "killersCharcterBuildDataID": 0,
+        "outdoorRainyCharcterBuildDataID": 0
+    },
+    {
+        "ID": 401016001,
+        "name": "子供（女）",
+        "statusStyleID": 401016001,
+        "normalCharcterBuildDataID": 401016001,
+        "killersCharcterBuildDataID": 0,
+        "outdoorRainyCharcterBuildDataID": 0
+    },
+    {
+        "ID": 401017001,
+        "name": "子供（男）②",
+        "statusStyleID": 401017001,
+        "normalCharcterBuildDataID": 401017001,
+        "killersCharcterBuildDataID": 0,
+        "outdoorRainyCharcterBuildDataID": 0
+    },
+    {
+        "ID": 401018001,
+        "name": "子供（女）②",
+        "statusStyleID": 401018001,
+        "normalCharcterBuildDataID": 401018001,
+        "killersCharcterBuildDataID": 0,
+        "outdoorRainyCharcterBuildDataID": 0
+    },
+    {
+        "ID": 401015002,
+        "name": "子供（男）ボール",
+        "statusStyleID": 401015001,
+        "normalCharcterBuildDataID": 401015002,
+        "killersCharcterBuildDataID": 0,
+        "outdoorRainyCharcterBuildDataID": 0
+    },
+    {
+        "ID": 401016002,
+        "name": "子供（女）ボール",
+        "statusStyleID": 401016001,
+        "normalCharcterBuildDataID": 401016002,
+        "killersCharcterBuildDataID": 0,
+        "outdoorRainyCharcterBuildDataID": 0
+    },
+    {
+        "ID": 401017002,
+        "name": "子供（男）②ボール",
+        "statusStyleID": 401017001,
+        "normalCharcterBuildDataID": 401017002,
+        "killersCharcterBuildDataID": 0,
+        "outdoorRainyCharcterBuildDataID": 0
+    },
+    {
+        "ID": 401018002,
+        "name": "子供（女）②ボール",
+        "statusStyleID": 401018001,
+        "normalCharcterBuildDataID": 401018002,
+        "killersCharcterBuildDataID": 0,
+        "outdoorRainyCharcterBuildDataID": 0
+    },
+    {
+        "ID": 401019001,
+        "name": "市民（中年男）",
+        "statusStyleID": 401019001,
+        "normalCharcterBuildDataID": 401019001,
+        "killersCharcterBuildDataID": 0,
+        "outdoorRainyCharcterBuildDataID": 401019003
+    },
+    {
+        "ID": 401020001,
+        "name": "市民（中年女）",
+        "statusStyleID": 401020001,
+        "normalCharcterBuildDataID": 401020001,
+        "killersCharcterBuildDataID": 0,
+        "outdoorRainyCharcterBuildDataID": 401020002
+    },
+    {
+        "ID": 401021001,
+        "name": "市民（中年男）②",
+        "statusStyleID": 401021001,
+        "normalCharcterBuildDataID": 401021001,
+        "killersCharcterBuildDataID": 0,
+        "outdoorRainyCharcterBuildDataID": 401021002
+    },
+    {
+        "ID": 401022001,
+        "name": "市民（中年女）②",
+        "statusStyleID": 401022001,
+        "normalCharcterBuildDataID": 401022001,
+        "killersCharcterBuildDataID": 0,
+        "outdoorRainyCharcterBuildDataID": 401022003
+    },
+    {
+        "ID": 401042001,
+        "name": "市民（中年男）③",
+        "statusStyleID": 401042001,
+        "normalCharcterBuildDataID": 401042001,
+        "killersCharcterBuildDataID": 0,
+        "outdoorRainyCharcterBuildDataID": 401042002
+    },
+    {
+        "ID": 401043001,
+        "name": "市民（中年女）③",
+        "statusStyleID": 401043001,
+        "normalCharcterBuildDataID": 401043001,
+        "killersCharcterBuildDataID": 0,
+        "outdoorRainyCharcterBuildDataID": 401043002
+    },
+    {
+        "ID": 401019002,
+        "name": "市民（中年男）ビール",
+        "statusStyleID": 401019001,
+        "normalCharcterBuildDataID": 401019002,
+        "killersCharcterBuildDataID": 0,
+        "outdoorRainyCharcterBuildDataID": 401021002
+    },
+    {
+        "ID": 401022002,
+        "name": "市民（中年女）②紅茶",
+        "statusStyleID": 401022001,
+        "normalCharcterBuildDataID": 401022002,
+        "killersCharcterBuildDataID": 0,
+        "outdoorRainyCharcterBuildDataID": 401022003
+    },
+    {
+        "ID": 401023001,
+        "name": "貴族（男）",
+        "statusStyleID": 401023001,
+        "normalCharcterBuildDataID": 401023001,
+        "killersCharcterBuildDataID": 0,
+        "outdoorRainyCharcterBuildDataID": 401023002
+    },
+    {
+        "ID": 401024001,
+        "name": "貴族（女）",
+        "statusStyleID": 401024001,
+        "normalCharcterBuildDataID": 401024001,
+        "killersCharcterBuildDataID": 0,
+        "outdoorRainyCharcterBuildDataID": 401024002
+    },
+    {
+        "ID": 401025001,
+        "name": "貴族（男）②",
+        "statusStyleID": 401025001,
+        "normalCharcterBuildDataID": 401025001,
+        "killersCharcterBuildDataID": 0,
+        "outdoorRainyCharcterBuildDataID": 401025002
+    },
+    {
+        "ID": 401026001,
+        "name": "貴族（女）②",
+        "statusStyleID": 401026001,
+        "normalCharcterBuildDataID": 401026001,
+        "killersCharcterBuildDataID": 0,
+        "outdoorRainyCharcterBuildDataID": 401026002
+    },
+    {
+        "ID": 401027001,
+        "name": "マスター",
+        "statusStyleID": 401027001,
+        "normalCharcterBuildDataID": 401027001,
+        "killersCharcterBuildDataID": 0,
+        "outdoorRainyCharcterBuildDataID": 0
+    },
+    {
+        "ID": 401028001,
+        "name": "おかみさん",
+        "statusStyleID": 401028001,
+        "normalCharcterBuildDataID": 401028001,
+        "killersCharcterBuildDataID": 0,
+        "outdoorRainyCharcterBuildDataID": 0
+    },
+    {
+        "ID": 401029001,
+        "name": "コック長",
+        "statusStyleID": 401029001,
+        "normalCharcterBuildDataID": 401029001,
+        "killersCharcterBuildDataID": 0,
+        "outdoorRainyCharcterBuildDataID": 0
+    },
+    {
+        "ID": 401030001,
+        "name": "汎用王様",
+        "statusStyleID": 401030001,
+        "normalCharcterBuildDataID": 401030001,
+        "killersCharcterBuildDataID": 0,
+        "outdoorRainyCharcterBuildDataID": 0
+    },
+    {
+        "ID": 402001001,
+        "name": "犬",
+        "statusStyleID": 402001001,
+        "normalCharcterBuildDataID": 402001001,
+        "killersCharcterBuildDataID": 0,
+        "outdoorRainyCharcterBuildDataID": 0
+    },
+    {
+        "ID": 402002001,
+        "name": "ネコ",
+        "statusStyleID": 402002001,
+        "normalCharcterBuildDataID": 402002001,
+        "killersCharcterBuildDataID": 0,
+        "outdoorRainyCharcterBuildDataID": 0
+    },
+    {
+        "ID": 402003001,
+        "name": "犬②",
+        "statusStyleID": 402003001,
+        "normalCharcterBuildDataID": 402003001,
+        "killersCharcterBuildDataID": 0,
+        "outdoorRainyCharcterBuildDataID": 0
+    },
+    {
+        "ID": 402004001,
+        "name": "ネコ②",
+        "statusStyleID": 402004001,
+        "normalCharcterBuildDataID": 402004001,
+        "killersCharcterBuildDataID": 0,
+        "outdoorRainyCharcterBuildDataID": 0
+    },
+    {
+        "ID": 401035001,
+        "name": "ログレス王国軍兵士①",
+        "statusStyleID": 401035001,
+        "normalCharcterBuildDataID": 401035001,
+        "killersCharcterBuildDataID": 0,
+        "outdoorRainyCharcterBuildDataID": 0
+    },
+    {
+        "ID": 401035002,
+        "name": "ログレス王国軍兵士①槍",
+        "statusStyleID": 401035001,
+        "normalCharcterBuildDataID": 401035002,
+        "killersCharcterBuildDataID": 0,
+        "outdoorRainyCharcterBuildDataID": 0
+    },
+    {
+        "ID": 401001001,
+        "name": "現代編NPC　現代編学生（男）",
+        "statusStyleID": 401001001,
+        "normalCharcterBuildDataID": 401001001,
+        "killersCharcterBuildDataID": 0,
+        "outdoorRainyCharcterBuildDataID": 0
+    },
+    {
+        "ID": 401002001,
+        "name": "現代編NPC　現代編学生（女）",
+        "statusStyleID": 401002001,
+        "normalCharcterBuildDataID": 401002001,
+        "killersCharcterBuildDataID": 0,
+        "outdoorRainyCharcterBuildDataID": 0
+    },
+    {
+        "ID": 401003001,
+        "name": "現代編NPC　現代編学生（男）②",
+        "statusStyleID": 401003001,
+        "normalCharcterBuildDataID": 401003001,
+        "killersCharcterBuildDataID": 0,
+        "outdoorRainyCharcterBuildDataID": 0
+    },
+    {
+        "ID": 401004001,
+        "name": "現代編NPC　現代編学生（女）②",
+        "statusStyleID": 401004001,
+        "normalCharcterBuildDataID": 401004001,
+        "killersCharcterBuildDataID": 0,
+        "outdoorRainyCharcterBuildDataID": 0
+    },
+    {
+        "ID": 101003001,
+        "name": "現代編主人公1（男）",
+        "statusStyleID": 101003001,
+        "normalCharcterBuildDataID": 101003001,
+        "killersCharcterBuildDataID": 0,
+        "outdoorRainyCharcterBuildDataID": 0
+    },
+    {
+        "ID": 101004001,
+        "name": "現代編主人公1（女）",
+        "statusStyleID": 101004001,
+        "normalCharcterBuildDataID": 101004001,
+        "killersCharcterBuildDataID": 0,
+        "outdoorRainyCharcterBuildDataID": 0
+    },
+    {
+        "ID": 101005001,
+        "name": "現代編主人公２（男）",
+        "statusStyleID": 101005001,
+        "normalCharcterBuildDataID": 101005001,
+        "killersCharcterBuildDataID": 0,
+        "outdoorRainyCharcterBuildDataID": 0
+    },
+    {
+        "ID": 101006001,
+        "name": "現代編主人公２（女）",
+        "statusStyleID": 101006001,
+        "normalCharcterBuildDataID": 101006001,
+        "killersCharcterBuildDataID": 0,
+        "outdoorRainyCharcterBuildDataID": 0
+    },
+    {
+        "ID": 101007001,
+        "name": "現代編主人公３（男）",
+        "statusStyleID": 101007001,
+        "normalCharcterBuildDataID": 101007001,
+        "killersCharcterBuildDataID": 0,
+        "outdoorRainyCharcterBuildDataID": 0
+    },
+    {
+        "ID": 101008001,
+        "name": "現代編主人公３（女）",
+        "statusStyleID": 101008001,
+        "normalCharcterBuildDataID": 101008001,
+        "killersCharcterBuildDataID": 0,
+        "outdoorRainyCharcterBuildDataID": 0
+    },
+    {
+        "ID": 101068001,
+        "name": "ウレリー",
+        "statusStyleID": 101068001,
+        "normalCharcterBuildDataID": 101068001,
+        "killersCharcterBuildDataID": 0,
+        "outdoorRainyCharcterBuildDataID": 0
+    }
+]

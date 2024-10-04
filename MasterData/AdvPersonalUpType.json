@@ -1,0 +1,35 @@
+[
+    {
+        "ID": 1,
+        "minValue": 1,
+        "maxValue": 49,
+        "seName": "SE_Parameter_Human_S",
+        "trackNums": [
+            1,
+            4294967295,
+            4294967295
+        ]
+    },
+    {
+        "ID": 2,
+        "minValue": 50,
+        "maxValue": 69,
+        "seName": "SE_Parameter_Human_M",
+        "trackNums": [
+            1,
+            2,
+            4294967295
+        ]
+    },
+    {
+        "ID": 3,
+        "minValue": 70,
+        "maxValue": 999,
+        "seName": "SE_Parameter_Human_L",
+        "trackNums": [
+            1,
+            2,
+            3
+        ]
+    }
+]

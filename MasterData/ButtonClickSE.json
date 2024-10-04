@@ -1,0 +1,32 @@
+[
+    {
+        "ID": 1,
+        "ButtonClickSEType": "None",
+        "SEName": ""
+    },
+    {
+        "ID": 2,
+        "ButtonClickSEType": "Default",
+        "SEName": "ClickDefaultSE"
+    },
+    {
+        "ID": 3,
+        "ButtonClickSEType": "Confirm",
+        "SEName": "SE_00000"
+    },
+    {
+        "ID": 4,
+        "ButtonClickSEType": "Cancel",
+        "SEName": "SE_00001"
+    },
+    {
+        "ID": 5,
+        "ButtonClickSEType": "Return",
+        "SEName": "ClickReturnSE"
+    },
+    {
+        "ID": 6,
+        "ButtonClickSEType": "Slide",
+        "SEName": "SE_00003"
+    }
+]

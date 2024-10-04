@@ -1,0 +1,442 @@
+[
+    {
+        "ID": 100060001,
+        "rarity": 1,
+        "pictureNumber": 1,
+        "image": "",
+        "itemType": 6,
+        "isSellable": false
+    },
+    {
+        "ID": 100060002,
+        "rarity": 1,
+        "pictureNumber": 2,
+        "image": "",
+        "itemType": 6,
+        "isSellable": false
+    },
+    {
+        "ID": 100060003,
+        "rarity": 1,
+        "pictureNumber": 3,
+        "image": "",
+        "itemType": 6,
+        "isSellable": false
+    },
+    {
+        "ID": 100060004,
+        "rarity": 1,
+        "pictureNumber": 4,
+        "image": "",
+        "itemType": 6,
+        "isSellable": false
+    },
+    {
+        "ID": 100060005,
+        "rarity": 1,
+        "pictureNumber": 5,
+        "image": "",
+        "itemType": 6,
+        "isSellable": false
+    },
+    {
+        "ID": 100060006,
+        "rarity": 1,
+        "pictureNumber": 6,
+        "image": "",
+        "itemType": 6,
+        "isSellable": false
+    },
+    {
+        "ID": 100060007,
+        "rarity": 1,
+        "pictureNumber": 7,
+        "image": "",
+        "itemType": 6,
+        "isSellable": false
+    },
+    {
+        "ID": 100060008,
+        "rarity": 2,
+        "pictureNumber": 8,
+        "image": "",
+        "itemType": 6,
+        "isSellable": false
+    },
+    {
+        "ID": 100060009,
+        "rarity": 2,
+        "pictureNumber": 9,
+        "image": "",
+        "itemType": 6,
+        "isSellable": false
+    },
+    {
+        "ID": 100060010,
+        "rarity": 2,
+        "pictureNumber": 10,
+        "image": "",
+        "itemType": 6,
+        "isSellable": false
+    },
+    {
+        "ID": 100060011,
+        "rarity": 2,
+        "pictureNumber": 11,
+        "image": "",
+        "itemType": 6,
+        "isSellable": false
+    },
+    {
+        "ID": 100060012,
+        "rarity": 2,
+        "pictureNumber": 12,
+        "image": "",
+        "itemType": 6,
+        "isSellable": false
+    },
+    {
+        "ID": 100060013,
+        "rarity": 2,
+        "pictureNumber": 13,
+        "image": "",
+        "itemType": 6,
+        "isSellable": false
+    },
+    {
+        "ID": 100060014,
+        "rarity": 2,
+        "pictureNumber": 14,
+        "image": "",
+        "itemType": 6,
+        "isSellable": false
+    },
+    {
+        "ID": 100060015,
+        "rarity": 3,
+        "pictureNumber": 15,
+        "image": "",
+        "itemType": 6,
+        "isSellable": false
+    },
+    {
+        "ID": 100060016,
+        "rarity": 3,
+        "pictureNumber": 16,
+        "image": "",
+        "itemType": 6,
+        "isSellable": false
+    },
+    {
+        "ID": 100060017,
+        "rarity": 3,
+        "pictureNumber": 17,
+        "image": "",
+        "itemType": 6,
+        "isSellable": false
+    },
+    {
+        "ID": 100060018,
+        "rarity": 3,
+        "pictureNumber": 18,
+        "image": "",
+        "itemType": 6,
+        "isSellable": false
+    },
+    {
+        "ID": 100060019,
+        "rarity": 3,
+        "pictureNumber": 19,
+        "image": "",
+        "itemType": 6,
+        "isSellable": false
+    },
+    {
+        "ID": 100060020,
+        "rarity": 3,
+        "pictureNumber": 20,
+        "image": "",
+        "itemType": 6,
+        "isSellable": false
+    },
+    {
+        "ID": 100060021,
+        "rarity": 3,
+        "pictureNumber": 21,
+        "image": "",
+        "itemType": 6,
+        "isSellable": false
+    },
+    {
+        "ID": 100060022,
+        "rarity": 4,
+        "pictureNumber": 22,
+        "image": "",
+        "itemType": 6,
+        "isSellable": false
+    },
+    {
+        "ID": 100060023,
+        "rarity": 4,
+        "pictureNumber": 23,
+        "image": "",
+        "itemType": 6,
+        "isSellable": false
+    },
+    {
+        "ID": 100060024,
+        "rarity": 4,
+        "pictureNumber": 24,
+        "image": "",
+        "itemType": 6,
+        "isSellable": false
+    },
+    {
+        "ID": 100060025,
+        "rarity": 4,
+        "pictureNumber": 25,
+        "image": "",
+        "itemType": 6,
+        "isSellable": false
+    },
+    {
+        "ID": 100060026,
+        "rarity": 4,
+        "pictureNumber": 26,
+        "image": "",
+        "itemType": 6,
+        "isSellable": false
+    },
+    {
+        "ID": 100060027,
+        "rarity": 4,
+        "pictureNumber": 27,
+        "image": "",
+        "itemType": 6,
+        "isSellable": false
+    },
+    {
+        "ID": 100060028,
+        "rarity": 4,
+        "pictureNumber": 28,
+        "image": "",
+        "itemType": 6,
+        "isSellable": false
+    },
+    {
+        "ID": 100060029,
+        "rarity": 5,
+        "pictureNumber": 29,
+        "image": "",
+        "itemType": 6,
+        "isSellable": false
+    },
+    {
+        "ID": 100060030,
+        "rarity": 5,
+        "pictureNumber": 30,
+        "image": "",
+        "itemType": 6,
+        "isSellable": false
+    },
+    {
+        "ID": 100060031,
+        "rarity": 5,
+        "pictureNumber": 31,
+        "image": "",
+        "itemType": 6,
+        "isSellable": false
+    },
+    {
+        "ID": 100060032,
+        "rarity": 5,
+        "pictureNumber": 32,
+        "image": "",
+        "itemType": 6,
+        "isSellable": false
+    },
+    {
+        "ID": 100060033,
+        "rarity": 5,
+        "pictureNumber": 33,
+        "image": "",
+        "itemType": 6,
+        "isSellable": false
+    },
+    {
+        "ID": 100060034,
+        "rarity": 5,
+        "pictureNumber": 34,
+        "image": "",
+        "itemType": 6,
+        "isSellable": false
+    },
+    {
+        "ID": 100060035,
+        "rarity": 5,
+        "pictureNumber": 35,
+        "image": "",
+        "itemType": 6,
+        "isSellable": false
+    },
+    {
+        "ID": 100060036,
+        "rarity": 5,
+        "pictureNumber": 36,
+        "image": "",
+        "itemType": 6,
+        "isSellable": false
+    },
+    {
+        "ID": 100060037,
+        "rarity": 5,
+        "pictureNumber": 37,
+        "image": "",
+        "itemType": 6,
+        "isSellable": false
+    },
+    {
+        "ID": 100060038,
+        "rarity": 5,
+        "pictureNumber": 38,
+        "image": "",
+        "itemType": 6,
+        "isSellable": false
+    },
+    {
+        "ID": 100060039,
+        "rarity": 5,
+        "pictureNumber": 39,
+        "image": "",
+        "itemType": 6,
+        "isSellable": false
+    },
+    {
+        "ID": 100060040,
+        "rarity": 5,
+        "pictureNumber": 40,
+        "image": "",
+        "itemType": 6,
+        "isSellable": false
+    },
+    {
+        "ID": 100060041,
+        "rarity": 5,
+        "pictureNumber": 41,
+        "image": "",
+        "itemType": 6,
+        "isSellable": false
+    },
+    {
+        "ID": 100060042,
+        "rarity": 5,
+        "pictureNumber": 42,
+        "image": "",
+        "itemType": 6,
+        "isSellable": false
+    },
+    {
+        "ID": 100060043,
+        "rarity": 5,
+        "pictureNumber": 43,
+        "image": "",
+        "itemType": 6,
+        "isSellable": false
+    },
+    {
+        "ID": 100060044,
+        "rarity": 5,
+        "pictureNumber": 44,
+        "image": "",
+        "itemType": 6,
+        "isSellable": false
+    },
+    {
+        "ID": 100060045,
+        "rarity": 5,
+        "pictureNumber": 45,
+        "image": "",
+        "itemType": 6,
+        "isSellable": false
+    },
+    {
+        "ID": 100060046,
+        "rarity": 5,
+        "pictureNumber": 46,
+        "image": "",
+        "itemType": 6,
+        "isSellable": false
+    },
+    {
+        "ID": 100060047,
+        "rarity": 5,
+        "pictureNumber": 47,
+        "image": "",
+        "itemType": 6,
+        "isSellable": false
+    },
+    {
+        "ID": 100060048,
+        "rarity": 5,
+        "pictureNumber": 48,
+        "image": "",
+        "itemType": 6,
+        "isSellable": false
+    },
+    {
+        "ID": 100060049,
+        "rarity": 5,
+        "pictureNumber": 49,
+        "image": "",
+        "itemType": 6,
+        "isSellable": false
+    },
+    {
+        "ID": 100060050,
+        "rarity": 5,
+        "pictureNumber": 50,
+        "image": "",
+        "itemType": 6,
+        "isSellable": false
+    },
+    {
+        "ID": 100060051,
+        "rarity": 1,
+        "pictureNumber": 51,
+        "image": "",
+        "itemType": 6,
+        "isSellable": false
+    },
+    {
+        "ID": 100060052,
+        "rarity": 2,
+        "pictureNumber": 52,
+        "image": "",
+        "itemType": 6,
+        "isSellable": false
+    },
+    {
+        "ID": 100060053,
+        "rarity": 3,
+        "pictureNumber": 53,
+        "image": "",
+        "itemType": 6,
+        "isSellable": false
+    },
+    {
+        "ID": 100060054,
+        "rarity": 4,
+        "pictureNumber": 54,
+        "image": "",
+        "itemType": 6,
+        "isSellable": false
+    },
+    {
+        "ID": 100060055,
+        "rarity": 5,
+        "pictureNumber": 55,
+        "image": "",
+        "itemType": 6,
+        "isSellable": false
+    }
+]

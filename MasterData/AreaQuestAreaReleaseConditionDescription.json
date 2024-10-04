@@ -1,0 +1,26 @@
+[
+    {
+        "ID": 1,
+        "areaReleaseConditionId": 1,
+        "booleanType": 1,
+        "areaNodeId": 1102291
+    },
+    {
+        "ID": 2,
+        "areaReleaseConditionId": 2,
+        "booleanType": 1,
+        "areaNodeId": 1102301
+    },
+    {
+        "ID": 3,
+        "areaReleaseConditionId": 3,
+        "booleanType": 1,
+        "areaNodeId": 1102311
+    },
+    {
+        "ID": 4,
+        "areaReleaseConditionId": 4,
+        "booleanType": 1,
+        "areaNodeId": 20601
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "ID": 1,
+        "name": "紅炎の古都",
+        "map": "298000000",
+        "expSpan": 600,
+        "itemSpan": 1200,
+        "boss": 1,
+        "element": 2
+    },
+    {
+        "ID": 2,
+        "name": "豪雪の霊峰",
+        "map": "298010000",
+        "expSpan": 600,
+        "itemSpan": 1200,
+        "boss": 2,
+        "element": 3
+    },
+    {
+        "ID": 3,
+        "name": "雷鳴の森林",
+        "map": "298030000",
+        "expSpan": 600,
+        "itemSpan": 1200,
+        "boss": 3,
+        "element": 4
+    },
+    {
+        "ID": 4,
+        "name": "暴風の平原",
+        "map": "298020000",
+        "expSpan": 600,
+        "itemSpan": 1200,
+        "boss": 4,
+        "element": 5
+    },
+    {
+        "ID": 5,
+        "name": "聖光の湖畔",
+        "map": "298040000",
+        "expSpan": 600,
+        "itemSpan": 1200,
+        "boss": 5,
+        "element": 6
+    },
+    {
+        "ID": 6,
+        "name": "暗雲の廃城",
+        "map": "298050000",
+        "expSpan": 600,
+        "itemSpan": 1200,
+        "boss": 6,
+        "element": 7
+    }
+]

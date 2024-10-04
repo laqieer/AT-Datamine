@@ -1,0 +1,2282 @@
+[
+    {
+        "ID": 1,
+        "scoreAttackScoreRewardSet": 1,
+        "rewardType": 24,
+        "rewardID": 103070045,
+        "rewardQuantity": 25,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 2,
+        "scoreAttackScoreRewardSet": 2,
+        "rewardType": 24,
+        "rewardID": 103070035,
+        "rewardQuantity": 25,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 3,
+        "scoreAttackScoreRewardSet": 3,
+        "rewardType": 24,
+        "rewardID": 103070025,
+        "rewardQuantity": 25,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 4,
+        "scoreAttackScoreRewardSet": 4,
+        "rewardType": 24,
+        "rewardID": 103070015,
+        "rewardQuantity": 25,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 5,
+        "scoreAttackScoreRewardSet": 5,
+        "rewardType": 24,
+        "rewardID": 103070005,
+        "rewardQuantity": 25,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 6,
+        "scoreAttackScoreRewardSet": 6,
+        "rewardType": 24,
+        "rewardID": 103070045,
+        "rewardQuantity": 25,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 7,
+        "scoreAttackScoreRewardSet": 7,
+        "rewardType": 24,
+        "rewardID": 103070035,
+        "rewardQuantity": 25,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 8,
+        "scoreAttackScoreRewardSet": 8,
+        "rewardType": 24,
+        "rewardID": 103060211,
+        "rewardQuantity": 1,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 9,
+        "scoreAttackScoreRewardSet": 12,
+        "rewardType": 24,
+        "rewardID": 103070025,
+        "rewardQuantity": 25,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 10,
+        "scoreAttackScoreRewardSet": 13,
+        "rewardType": 24,
+        "rewardID": 103070015,
+        "rewardQuantity": 25,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 11,
+        "scoreAttackScoreRewardSet": 14,
+        "rewardType": 24,
+        "rewardID": 103070005,
+        "rewardQuantity": 25,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 12,
+        "scoreAttackScoreRewardSet": 15,
+        "rewardType": 24,
+        "rewardID": 103060211,
+        "rewardQuantity": 1,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 13,
+        "scoreAttackScoreRewardSet": 16,
+        "rewardType": 24,
+        "rewardID": 103060111,
+        "rewardQuantity": 1,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 14,
+        "scoreAttackScoreRewardSet": 17,
+        "rewardType": 34,
+        "rewardID": 0,
+        "rewardQuantity": 100,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 15,
+        "scoreAttackScoreRewardSet": 18,
+        "rewardType": 24,
+        "rewardID": 103060111,
+        "rewardQuantity": 1,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 16,
+        "scoreAttackScoreRewardSet": 19,
+        "rewardType": 24,
+        "rewardID": 103060211,
+        "rewardQuantity": 1,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 17,
+        "scoreAttackScoreRewardSet": 20,
+        "rewardType": 24,
+        "rewardID": 103060111,
+        "rewardQuantity": 1,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 18,
+        "scoreAttackScoreRewardSet": 21,
+        "rewardType": 34,
+        "rewardID": 0,
+        "rewardQuantity": 100,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 19,
+        "scoreAttackScoreRewardSet": 22,
+        "rewardType": 24,
+        "rewardID": 103060111,
+        "rewardQuantity": 1,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 20,
+        "scoreAttackScoreRewardSet": 23,
+        "rewardType": 34,
+        "rewardID": 0,
+        "rewardQuantity": 100,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 21,
+        "scoreAttackScoreRewardSet": 24,
+        "rewardType": 24,
+        "rewardID": 103060211,
+        "rewardQuantity": 1,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 22,
+        "scoreAttackScoreRewardSet": 25,
+        "rewardType": 34,
+        "rewardID": 0,
+        "rewardQuantity": 100,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 23,
+        "scoreAttackScoreRewardSet": 26,
+        "rewardType": 24,
+        "rewardID": 103060111,
+        "rewardQuantity": 1,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 24,
+        "scoreAttackScoreRewardSet": 27,
+        "rewardType": 34,
+        "rewardID": 0,
+        "rewardQuantity": 100,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 25,
+        "scoreAttackScoreRewardSet": 28,
+        "rewardType": 24,
+        "rewardID": 103060111,
+        "rewardQuantity": 1,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 26,
+        "scoreAttackScoreRewardSet": 29,
+        "rewardType": 34,
+        "rewardID": 0,
+        "rewardQuantity": 100,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 27,
+        "scoreAttackScoreRewardSet": 30,
+        "rewardType": 24,
+        "rewardID": 103060211,
+        "rewardQuantity": 1,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 28,
+        "scoreAttackScoreRewardSet": 31,
+        "rewardType": 34,
+        "rewardID": 0,
+        "rewardQuantity": 100,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 29,
+        "scoreAttackScoreRewardSet": 32,
+        "rewardType": 24,
+        "rewardID": 103080003,
+        "rewardQuantity": 10,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 30,
+        "scoreAttackScoreRewardSet": 33,
+        "rewardType": 34,
+        "rewardID": 0,
+        "rewardQuantity": 100,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 31,
+        "scoreAttackScoreRewardSet": 34,
+        "rewardType": 24,
+        "rewardID": 103060044,
+        "rewardQuantity": 10,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 36,
+        "scoreAttackScoreRewardSet": 35,
+        "rewardType": 34,
+        "rewardID": 0,
+        "rewardQuantity": 100,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 37,
+        "scoreAttackScoreRewardSet": 36,
+        "rewardType": 24,
+        "rewardID": 103060043,
+        "rewardQuantity": 10,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 38,
+        "scoreAttackScoreRewardSet": 37,
+        "rewardType": 34,
+        "rewardID": 0,
+        "rewardQuantity": 100,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 39,
+        "scoreAttackScoreRewardSet": 38,
+        "rewardType": 37,
+        "rewardID": 1,
+        "rewardQuantity": 2,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 40,
+        "scoreAttackScoreRewardSet": 39,
+        "rewardType": 29,
+        "rewardID": 101030001,
+        "rewardQuantity": 3,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 41,
+        "scoreAttackScoreRewardSet": 40,
+        "rewardType": 38,
+        "rewardID": 3,
+        "rewardQuantity": 1,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 42,
+        "scoreAttackScoreRewardSet": 41,
+        "rewardType": 29,
+        "rewardID": 101030001,
+        "rewardQuantity": 2,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 43,
+        "scoreAttackScoreRewardSet": 42,
+        "rewardType": 37,
+        "rewardID": 1,
+        "rewardQuantity": 2,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 44,
+        "scoreAttackScoreRewardSet": 43,
+        "rewardType": 29,
+        "rewardID": 101030001,
+        "rewardQuantity": 2,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 45,
+        "scoreAttackScoreRewardSet": 44,
+        "rewardType": 38,
+        "rewardID": 3,
+        "rewardQuantity": 1,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 46,
+        "scoreAttackScoreRewardSet": 45,
+        "rewardType": 29,
+        "rewardID": 101030001,
+        "rewardQuantity": 1,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 47,
+        "scoreAttackScoreRewardSet": 46,
+        "rewardType": 37,
+        "rewardID": 1,
+        "rewardQuantity": 2,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 48,
+        "scoreAttackScoreRewardSet": 47,
+        "rewardType": 29,
+        "rewardID": 101030001,
+        "rewardQuantity": 1,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 49,
+        "scoreAttackScoreRewardSet": 48,
+        "rewardType": 38,
+        "rewardID": 3,
+        "rewardQuantity": 1,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 50,
+        "scoreAttackScoreRewardSet": 49,
+        "rewardType": 29,
+        "rewardID": 101030001,
+        "rewardQuantity": 1,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 51,
+        "scoreAttackScoreRewardSet": 50,
+        "rewardType": 38,
+        "rewardID": 2,
+        "rewardQuantity": 1,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 52,
+        "scoreAttackScoreRewardSet": 51,
+        "rewardType": 29,
+        "rewardID": 101030001,
+        "rewardQuantity": 1,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 53,
+        "scoreAttackScoreRewardSet": 52,
+        "rewardType": 38,
+        "rewardID": 2,
+        "rewardQuantity": 1,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 54,
+        "scoreAttackScoreRewardSet": 53,
+        "rewardType": 29,
+        "rewardID": 101030001,
+        "rewardQuantity": 1,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 55,
+        "scoreAttackScoreRewardSet": 54,
+        "rewardType": 38,
+        "rewardID": 2,
+        "rewardQuantity": 1,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 56,
+        "scoreAttackScoreRewardSet": 55,
+        "rewardType": 29,
+        "rewardID": 101030001,
+        "rewardQuantity": 1,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 57,
+        "scoreAttackScoreRewardSet": 56,
+        "rewardType": 38,
+        "rewardID": 1,
+        "rewardQuantity": 1,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 58,
+        "scoreAttackScoreRewardSet": 57,
+        "rewardType": 29,
+        "rewardID": 101030001,
+        "rewardQuantity": 1,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 59,
+        "scoreAttackScoreRewardSet": 58,
+        "rewardType": 38,
+        "rewardID": 1,
+        "rewardQuantity": 1,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 60,
+        "scoreAttackScoreRewardSet": 59,
+        "rewardType": 29,
+        "rewardID": 101030001,
+        "rewardQuantity": 1,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 61,
+        "scoreAttackScoreRewardSet": 60,
+        "rewardType": 38,
+        "rewardID": 1,
+        "rewardQuantity": 1,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 62,
+        "scoreAttackScoreRewardSet": 61,
+        "rewardType": 24,
+        "rewardID": 103060211,
+        "rewardQuantity": 3,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 63,
+        "scoreAttackScoreRewardSet": 62,
+        "rewardType": 24,
+        "rewardID": 103060224,
+        "rewardQuantity": 2,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 64,
+        "scoreAttackScoreRewardSet": 63,
+        "rewardType": 24,
+        "rewardID": 103060211,
+        "rewardQuantity": 1,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 65,
+        "scoreAttackScoreRewardSet": 64,
+        "rewardType": 24,
+        "rewardID": 103060224,
+        "rewardQuantity": 2,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 66,
+        "scoreAttackScoreRewardSet": 65,
+        "rewardType": 24,
+        "rewardID": 103060211,
+        "rewardQuantity": 1,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 67,
+        "scoreAttackScoreRewardSet": 66,
+        "rewardType": 24,
+        "rewardID": 103060224,
+        "rewardQuantity": 2,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 68,
+        "scoreAttackScoreRewardSet": 67,
+        "rewardType": 24,
+        "rewardID": 103060211,
+        "rewardQuantity": 1,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 69,
+        "scoreAttackScoreRewardSet": 68,
+        "rewardType": 24,
+        "rewardID": 103060224,
+        "rewardQuantity": 1,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 70,
+        "scoreAttackScoreRewardSet": 69,
+        "rewardType": 24,
+        "rewardID": 103060211,
+        "rewardQuantity": 1,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 71,
+        "scoreAttackScoreRewardSet": 70,
+        "rewardType": 24,
+        "rewardID": 103060224,
+        "rewardQuantity": 1,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 72,
+        "scoreAttackScoreRewardSet": 71,
+        "rewardType": 24,
+        "rewardID": 103070041,
+        "rewardQuantity": 25,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 73,
+        "scoreAttackScoreRewardSet": 72,
+        "rewardType": 24,
+        "rewardID": 103070031,
+        "rewardQuantity": 25,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 74,
+        "scoreAttackScoreRewardSet": 73,
+        "rewardType": 24,
+        "rewardID": 103060211,
+        "rewardQuantity": 1,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 75,
+        "scoreAttackScoreRewardSet": 74,
+        "rewardType": 24,
+        "rewardID": 103070021,
+        "rewardQuantity": 25,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 76,
+        "scoreAttackScoreRewardSet": 75,
+        "rewardType": 24,
+        "rewardID": 103070011,
+        "rewardQuantity": 25,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 77,
+        "scoreAttackScoreRewardSet": 76,
+        "rewardType": 24,
+        "rewardID": 103070001,
+        "rewardQuantity": 25,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 78,
+        "scoreAttackScoreRewardSet": 77,
+        "rewardType": 24,
+        "rewardID": 103060211,
+        "rewardQuantity": 1,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 79,
+        "scoreAttackScoreRewardSet": 78,
+        "rewardType": 24,
+        "rewardID": 103060071,
+        "rewardQuantity": 1,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 80,
+        "scoreAttackScoreRewardSet": 79,
+        "rewardType": 34,
+        "rewardID": 0,
+        "rewardQuantity": 100,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 81,
+        "scoreAttackScoreRewardSet": 80,
+        "rewardType": 24,
+        "rewardID": 103060071,
+        "rewardQuantity": 1,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 82,
+        "scoreAttackScoreRewardSet": 81,
+        "rewardType": 24,
+        "rewardID": 103060211,
+        "rewardQuantity": 1,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 83,
+        "scoreAttackScoreRewardSet": 82,
+        "rewardType": 24,
+        "rewardID": 103060071,
+        "rewardQuantity": 1,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 84,
+        "scoreAttackScoreRewardSet": 83,
+        "rewardType": 34,
+        "rewardID": 0,
+        "rewardQuantity": 100,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 85,
+        "scoreAttackScoreRewardSet": 84,
+        "rewardType": 24,
+        "rewardID": 103060071,
+        "rewardQuantity": 1,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 86,
+        "scoreAttackScoreRewardSet": 85,
+        "rewardType": 34,
+        "rewardID": 0,
+        "rewardQuantity": 100,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 87,
+        "scoreAttackScoreRewardSet": 86,
+        "rewardType": 24,
+        "rewardID": 103060211,
+        "rewardQuantity": 1,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 88,
+        "scoreAttackScoreRewardSet": 87,
+        "rewardType": 34,
+        "rewardID": 0,
+        "rewardQuantity": 100,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 89,
+        "scoreAttackScoreRewardSet": 88,
+        "rewardType": 24,
+        "rewardID": 103060071,
+        "rewardQuantity": 1,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 90,
+        "scoreAttackScoreRewardSet": 89,
+        "rewardType": 34,
+        "rewardID": 0,
+        "rewardQuantity": 100,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 91,
+        "scoreAttackScoreRewardSet": 90,
+        "rewardType": 24,
+        "rewardID": 103060004,
+        "rewardQuantity": 10,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 92,
+        "scoreAttackScoreRewardSet": 91,
+        "rewardType": 34,
+        "rewardID": 0,
+        "rewardQuantity": 100,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 93,
+        "scoreAttackScoreRewardSet": 92,
+        "rewardType": 24,
+        "rewardID": 103060004,
+        "rewardQuantity": 10,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 94,
+        "scoreAttackScoreRewardSet": 93,
+        "rewardType": 34,
+        "rewardID": 0,
+        "rewardQuantity": 100,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 95,
+        "scoreAttackScoreRewardSet": 94,
+        "rewardType": 24,
+        "rewardID": 103080003,
+        "rewardQuantity": 10,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 96,
+        "scoreAttackScoreRewardSet": 95,
+        "rewardType": 34,
+        "rewardID": 0,
+        "rewardQuantity": 100,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 97,
+        "scoreAttackScoreRewardSet": 96,
+        "rewardType": 24,
+        "rewardID": 103060003,
+        "rewardQuantity": 10,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 98,
+        "scoreAttackScoreRewardSet": 97,
+        "rewardType": 34,
+        "rewardID": 0,
+        "rewardQuantity": 100,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 99,
+        "scoreAttackScoreRewardSet": 98,
+        "rewardType": 24,
+        "rewardID": 103060003,
+        "rewardQuantity": 10,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 100,
+        "scoreAttackScoreRewardSet": 99,
+        "rewardType": 34,
+        "rewardID": 0,
+        "rewardQuantity": 100,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 101,
+        "scoreAttackScoreRewardSet": 100,
+        "rewardType": 37,
+        "rewardID": 1,
+        "rewardQuantity": 2,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 102,
+        "scoreAttackScoreRewardSet": 101,
+        "rewardType": 29,
+        "rewardID": 101030001,
+        "rewardQuantity": 3,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 103,
+        "scoreAttackScoreRewardSet": 102,
+        "rewardType": 38,
+        "rewardID": 3,
+        "rewardQuantity": 1,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 104,
+        "scoreAttackScoreRewardSet": 103,
+        "rewardType": 29,
+        "rewardID": 101030001,
+        "rewardQuantity": 2,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 105,
+        "scoreAttackScoreRewardSet": 104,
+        "rewardType": 37,
+        "rewardID": 1,
+        "rewardQuantity": 2,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 106,
+        "scoreAttackScoreRewardSet": 105,
+        "rewardType": 29,
+        "rewardID": 101030001,
+        "rewardQuantity": 2,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 107,
+        "scoreAttackScoreRewardSet": 106,
+        "rewardType": 38,
+        "rewardID": 3,
+        "rewardQuantity": 1,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 108,
+        "scoreAttackScoreRewardSet": 107,
+        "rewardType": 29,
+        "rewardID": 101030001,
+        "rewardQuantity": 1,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 109,
+        "scoreAttackScoreRewardSet": 108,
+        "rewardType": 37,
+        "rewardID": 1,
+        "rewardQuantity": 2,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 110,
+        "scoreAttackScoreRewardSet": 109,
+        "rewardType": 29,
+        "rewardID": 101030001,
+        "rewardQuantity": 1,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 111,
+        "scoreAttackScoreRewardSet": 110,
+        "rewardType": 38,
+        "rewardID": 3,
+        "rewardQuantity": 1,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 112,
+        "scoreAttackScoreRewardSet": 111,
+        "rewardType": 29,
+        "rewardID": 101030001,
+        "rewardQuantity": 1,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 113,
+        "scoreAttackScoreRewardSet": 112,
+        "rewardType": 38,
+        "rewardID": 2,
+        "rewardQuantity": 1,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 114,
+        "scoreAttackScoreRewardSet": 113,
+        "rewardType": 29,
+        "rewardID": 101030001,
+        "rewardQuantity": 1,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 115,
+        "scoreAttackScoreRewardSet": 114,
+        "rewardType": 38,
+        "rewardID": 2,
+        "rewardQuantity": 1,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 116,
+        "scoreAttackScoreRewardSet": 115,
+        "rewardType": 29,
+        "rewardID": 101030001,
+        "rewardQuantity": 1,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 117,
+        "scoreAttackScoreRewardSet": 116,
+        "rewardType": 38,
+        "rewardID": 2,
+        "rewardQuantity": 1,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 118,
+        "scoreAttackScoreRewardSet": 117,
+        "rewardType": 29,
+        "rewardID": 101030001,
+        "rewardQuantity": 1,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 119,
+        "scoreAttackScoreRewardSet": 118,
+        "rewardType": 38,
+        "rewardID": 1,
+        "rewardQuantity": 1,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 120,
+        "scoreAttackScoreRewardSet": 119,
+        "rewardType": 29,
+        "rewardID": 101030001,
+        "rewardQuantity": 1,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 121,
+        "scoreAttackScoreRewardSet": 120,
+        "rewardType": 38,
+        "rewardID": 1,
+        "rewardQuantity": 1,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 122,
+        "scoreAttackScoreRewardSet": 121,
+        "rewardType": 29,
+        "rewardID": 101030001,
+        "rewardQuantity": 1,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 123,
+        "scoreAttackScoreRewardSet": 122,
+        "rewardType": 38,
+        "rewardID": 1,
+        "rewardQuantity": 1,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 124,
+        "scoreAttackScoreRewardSet": 123,
+        "rewardType": 34,
+        "rewardID": 0,
+        "rewardQuantity": 100,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 125,
+        "scoreAttackScoreRewardSet": 124,
+        "rewardType": 24,
+        "rewardID": 103060003,
+        "rewardQuantity": 10,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 126,
+        "scoreAttackScoreRewardSet": 125,
+        "rewardType": 34,
+        "rewardID": 0,
+        "rewardQuantity": 100,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 127,
+        "scoreAttackScoreRewardSet": 126,
+        "rewardType": 24,
+        "rewardID": 103060003,
+        "rewardQuantity": 10,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 128,
+        "scoreAttackScoreRewardSet": 127,
+        "rewardType": 34,
+        "rewardID": 0,
+        "rewardQuantity": 100,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 129,
+        "scoreAttackScoreRewardSet": 128,
+        "rewardType": 24,
+        "rewardID": 103080003,
+        "rewardQuantity": 10,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 130,
+        "scoreAttackScoreRewardSet": 129,
+        "rewardType": 34,
+        "rewardID": 0,
+        "rewardQuantity": 100,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 131,
+        "scoreAttackScoreRewardSet": 130,
+        "rewardType": 24,
+        "rewardID": 103060004,
+        "rewardQuantity": 10,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 132,
+        "scoreAttackScoreRewardSet": 131,
+        "rewardType": 34,
+        "rewardID": 0,
+        "rewardQuantity": 100,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 133,
+        "scoreAttackScoreRewardSet": 132,
+        "rewardType": 24,
+        "rewardID": 103060004,
+        "rewardQuantity": 10,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 134,
+        "scoreAttackScoreRewardSet": 133,
+        "rewardType": 34,
+        "rewardID": 0,
+        "rewardQuantity": 100,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 135,
+        "scoreAttackScoreRewardSet": 134,
+        "rewardType": 24,
+        "rewardID": 103060071,
+        "rewardQuantity": 1,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 136,
+        "scoreAttackScoreRewardSet": 135,
+        "rewardType": 34,
+        "rewardID": 0,
+        "rewardQuantity": 100,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 137,
+        "scoreAttackScoreRewardSet": 136,
+        "rewardType": 24,
+        "rewardID": 103060071,
+        "rewardQuantity": 1,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 138,
+        "scoreAttackScoreRewardSet": 137,
+        "rewardType": 34,
+        "rewardID": 0,
+        "rewardQuantity": 100,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 139,
+        "scoreAttackScoreRewardSet": 138,
+        "rewardType": 24,
+        "rewardID": 103060071,
+        "rewardQuantity": 1,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 140,
+        "scoreAttackScoreRewardSet": 139,
+        "rewardType": 34,
+        "rewardID": 0,
+        "rewardQuantity": 100,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 141,
+        "scoreAttackScoreRewardSet": 140,
+        "rewardType": 24,
+        "rewardID": 103060071,
+        "rewardQuantity": 1,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 142,
+        "scoreAttackScoreRewardSet": 141,
+        "rewardType": 24,
+        "rewardID": 103060211,
+        "rewardQuantity": 1,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 143,
+        "scoreAttackScoreRewardSet": 142,
+        "rewardType": 24,
+        "rewardID": 103060071,
+        "rewardQuantity": 1,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 144,
+        "scoreAttackScoreRewardSet": 143,
+        "rewardType": 34,
+        "rewardID": 0,
+        "rewardQuantity": 100,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 145,
+        "scoreAttackScoreRewardSet": 144,
+        "rewardType": 24,
+        "rewardID": 103060071,
+        "rewardQuantity": 1,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 146,
+        "scoreAttackScoreRewardSet": 145,
+        "rewardType": 24,
+        "rewardID": 103060211,
+        "rewardQuantity": 1,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 147,
+        "scoreAttackScoreRewardSet": 146,
+        "rewardType": 24,
+        "rewardID": 103070001,
+        "rewardQuantity": 100,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 148,
+        "scoreAttackScoreRewardSet": 147,
+        "rewardType": 24,
+        "rewardID": 103070011,
+        "rewardQuantity": 100,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 149,
+        "scoreAttackScoreRewardSet": 148,
+        "rewardType": 24,
+        "rewardID": 103070021,
+        "rewardQuantity": 100,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 150,
+        "scoreAttackScoreRewardSet": 149,
+        "rewardType": 24,
+        "rewardID": 103060211,
+        "rewardQuantity": 1,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 151,
+        "scoreAttackScoreRewardSet": 150,
+        "rewardType": 24,
+        "rewardID": 103070031,
+        "rewardQuantity": 100,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 152,
+        "scoreAttackScoreRewardSet": 151,
+        "rewardType": 24,
+        "rewardID": 103070041,
+        "rewardQuantity": 100,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 153,
+        "scoreAttackScoreRewardSet": 152,
+        "rewardType": 24,
+        "rewardID": 103060224,
+        "rewardQuantity": 1,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 154,
+        "scoreAttackScoreRewardSet": 153,
+        "rewardType": 24,
+        "rewardID": 103060211,
+        "rewardQuantity": 1,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 155,
+        "scoreAttackScoreRewardSet": 154,
+        "rewardType": 24,
+        "rewardID": 103060224,
+        "rewardQuantity": 1,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 156,
+        "scoreAttackScoreRewardSet": 155,
+        "rewardType": 24,
+        "rewardID": 103060211,
+        "rewardQuantity": 1,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 157,
+        "scoreAttackScoreRewardSet": 156,
+        "rewardType": 24,
+        "rewardID": 103060224,
+        "rewardQuantity": 2,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 158,
+        "scoreAttackScoreRewardSet": 157,
+        "rewardType": 24,
+        "rewardID": 103060211,
+        "rewardQuantity": 1,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 159,
+        "scoreAttackScoreRewardSet": 158,
+        "rewardType": 24,
+        "rewardID": 103060224,
+        "rewardQuantity": 2,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 160,
+        "scoreAttackScoreRewardSet": 159,
+        "rewardType": 24,
+        "rewardID": 103060211,
+        "rewardQuantity": 1,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 161,
+        "scoreAttackScoreRewardSet": 160,
+        "rewardType": 24,
+        "rewardID": 103060224,
+        "rewardQuantity": 2,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 162,
+        "scoreAttackScoreRewardSet": 161,
+        "rewardType": 24,
+        "rewardID": 103060211,
+        "rewardQuantity": 3,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 163,
+        "scoreAttackScoreRewardSet": 162,
+        "rewardType": 34,
+        "rewardID": 0,
+        "rewardQuantity": 500,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 164,
+        "scoreAttackScoreRewardSet": 163,
+        "rewardType": 38,
+        "rewardID": 1,
+        "rewardQuantity": 1,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 165,
+        "scoreAttackScoreRewardSet": 164,
+        "rewardType": 29,
+        "rewardID": 101030001,
+        "rewardQuantity": 1,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 166,
+        "scoreAttackScoreRewardSet": 165,
+        "rewardType": 38,
+        "rewardID": 1,
+        "rewardQuantity": 1,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 167,
+        "scoreAttackScoreRewardSet": 166,
+        "rewardType": 29,
+        "rewardID": 101030001,
+        "rewardQuantity": 1,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 168,
+        "scoreAttackScoreRewardSet": 167,
+        "rewardType": 38,
+        "rewardID": 1,
+        "rewardQuantity": 1,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 169,
+        "scoreAttackScoreRewardSet": 168,
+        "rewardType": 29,
+        "rewardID": 101030001,
+        "rewardQuantity": 1,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 170,
+        "scoreAttackScoreRewardSet": 169,
+        "rewardType": 38,
+        "rewardID": 2,
+        "rewardQuantity": 1,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 171,
+        "scoreAttackScoreRewardSet": 170,
+        "rewardType": 29,
+        "rewardID": 101030001,
+        "rewardQuantity": 1,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 172,
+        "scoreAttackScoreRewardSet": 171,
+        "rewardType": 38,
+        "rewardID": 2,
+        "rewardQuantity": 1,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 173,
+        "scoreAttackScoreRewardSet": 172,
+        "rewardType": 29,
+        "rewardID": 101030001,
+        "rewardQuantity": 1,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 174,
+        "scoreAttackScoreRewardSet": 173,
+        "rewardType": 38,
+        "rewardID": 2,
+        "rewardQuantity": 1,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 175,
+        "scoreAttackScoreRewardSet": 174,
+        "rewardType": 29,
+        "rewardID": 101030001,
+        "rewardQuantity": 1,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 176,
+        "scoreAttackScoreRewardSet": 175,
+        "rewardType": 38,
+        "rewardID": 3,
+        "rewardQuantity": 1,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 177,
+        "scoreAttackScoreRewardSet": 176,
+        "rewardType": 29,
+        "rewardID": 101030001,
+        "rewardQuantity": 1,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 178,
+        "scoreAttackScoreRewardSet": 177,
+        "rewardType": 37,
+        "rewardID": 1,
+        "rewardQuantity": 5,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 179,
+        "scoreAttackScoreRewardSet": 178,
+        "rewardType": 29,
+        "rewardID": 101030001,
+        "rewardQuantity": 1,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 180,
+        "scoreAttackScoreRewardSet": 179,
+        "rewardType": 38,
+        "rewardID": 3,
+        "rewardQuantity": 1,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 181,
+        "scoreAttackScoreRewardSet": 180,
+        "rewardType": 29,
+        "rewardID": 101030001,
+        "rewardQuantity": 2,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 182,
+        "scoreAttackScoreRewardSet": 181,
+        "rewardType": 37,
+        "rewardID": 1,
+        "rewardQuantity": 5,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 183,
+        "scoreAttackScoreRewardSet": 182,
+        "rewardType": 29,
+        "rewardID": 101030001,
+        "rewardQuantity": 2,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 184,
+        "scoreAttackScoreRewardSet": 183,
+        "rewardType": 38,
+        "rewardID": 3,
+        "rewardQuantity": 1,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 185,
+        "scoreAttackScoreRewardSet": 184,
+        "rewardType": 29,
+        "rewardID": 101030001,
+        "rewardQuantity": 3,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 186,
+        "scoreAttackScoreRewardSet": 185,
+        "rewardType": 37,
+        "rewardID": 1,
+        "rewardQuantity": 5,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 187,
+        "scoreAttackScoreRewardSet": 186,
+        "rewardType": 38,
+        "rewardID": 3,
+        "rewardQuantity": 1,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 188,
+        "scoreAttackScoreRewardSet": 187,
+        "rewardType": 29,
+        "rewardID": 101030001,
+        "rewardQuantity": 3,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 189,
+        "scoreAttackScoreRewardSet": 188,
+        "rewardType": 37,
+        "rewardID": 1,
+        "rewardQuantity": 5,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 190,
+        "scoreAttackScoreRewardSet": 189,
+        "rewardType": 38,
+        "rewardID": 3,
+        "rewardQuantity": 1,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 191,
+        "scoreAttackScoreRewardSet": 190,
+        "rewardType": 29,
+        "rewardID": 101030001,
+        "rewardQuantity": 3,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 192,
+        "scoreAttackScoreRewardSet": 191,
+        "rewardType": 37,
+        "rewardID": 1,
+        "rewardQuantity": 5,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 193,
+        "scoreAttackScoreRewardSet": 192,
+        "rewardType": 38,
+        "rewardID": 3,
+        "rewardQuantity": 1,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 194,
+        "scoreAttackScoreRewardSet": 193,
+        "rewardType": 29,
+        "rewardID": 101030001,
+        "rewardQuantity": 3,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 195,
+        "scoreAttackScoreRewardSet": 194,
+        "rewardType": 37,
+        "rewardID": 1,
+        "rewardQuantity": 5,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 196,
+        "scoreAttackScoreRewardSet": 195,
+        "rewardType": 38,
+        "rewardID": 3,
+        "rewardQuantity": 1,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 197,
+        "scoreAttackScoreRewardSet": 196,
+        "rewardType": 29,
+        "rewardID": 101030001,
+        "rewardQuantity": 3,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 198,
+        "scoreAttackScoreRewardSet": 197,
+        "rewardType": 37,
+        "rewardID": 1,
+        "rewardQuantity": 5,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 199,
+        "scoreAttackScoreRewardSet": 198,
+        "rewardType": 38,
+        "rewardID": 3,
+        "rewardQuantity": 1,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 200,
+        "scoreAttackScoreRewardSet": 199,
+        "rewardType": 29,
+        "rewardID": 101030001,
+        "rewardQuantity": 3,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 201,
+        "scoreAttackScoreRewardSet": 200,
+        "rewardType": 37,
+        "rewardID": 1,
+        "rewardQuantity": 5,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 202,
+        "scoreAttackScoreRewardSet": 201,
+        "rewardType": 38,
+        "rewardID": 3,
+        "rewardQuantity": 1,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 203,
+        "scoreAttackScoreRewardSet": 202,
+        "rewardType": 42,
+        "rewardID": 1,
+        "rewardQuantity": 1,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 204,
+        "scoreAttackScoreRewardSet": 203,
+        "rewardType": 24,
+        "rewardID": 103060224,
+        "rewardQuantity": 2,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 205,
+        "scoreAttackScoreRewardSet": 204,
+        "rewardType": 24,
+        "rewardID": 103060211,
+        "rewardQuantity": 1,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 206,
+        "scoreAttackScoreRewardSet": 205,
+        "rewardType": 25,
+        "rewardID": 201140017,
+        "rewardQuantity": 100,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 207,
+        "scoreAttackScoreRewardSet": 206,
+        "rewardType": 34,
+        "rewardID": 0,
+        "rewardQuantity": 100,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 208,
+        "scoreAttackScoreRewardSet": 207,
+        "rewardType": 24,
+        "rewardID": 103060033,
+        "rewardQuantity": 10,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 209,
+        "scoreAttackScoreRewardSet": 208,
+        "rewardType": 34,
+        "rewardID": 0,
+        "rewardQuantity": 100,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 210,
+        "scoreAttackScoreRewardSet": 209,
+        "rewardType": 24,
+        "rewardID": 103060033,
+        "rewardQuantity": 10,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 211,
+        "scoreAttackScoreRewardSet": 210,
+        "rewardType": 34,
+        "rewardID": 0,
+        "rewardQuantity": 100,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 212,
+        "scoreAttackScoreRewardSet": 211,
+        "rewardType": 24,
+        "rewardID": 103080003,
+        "rewardQuantity": 10,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 213,
+        "scoreAttackScoreRewardSet": 212,
+        "rewardType": 34,
+        "rewardID": 0,
+        "rewardQuantity": 100,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 214,
+        "scoreAttackScoreRewardSet": 213,
+        "rewardType": 24,
+        "rewardID": 103060034,
+        "rewardQuantity": 10,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 215,
+        "scoreAttackScoreRewardSet": 214,
+        "rewardType": 34,
+        "rewardID": 0,
+        "rewardQuantity": 100,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 216,
+        "scoreAttackScoreRewardSet": 215,
+        "rewardType": 24,
+        "rewardID": 103060034,
+        "rewardQuantity": 10,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 217,
+        "scoreAttackScoreRewardSet": 216,
+        "rewardType": 34,
+        "rewardID": 0,
+        "rewardQuantity": 100,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 218,
+        "scoreAttackScoreRewardSet": 217,
+        "rewardType": 24,
+        "rewardID": 103060101,
+        "rewardQuantity": 1,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 219,
+        "scoreAttackScoreRewardSet": 218,
+        "rewardType": 34,
+        "rewardID": 0,
+        "rewardQuantity": 100,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 220,
+        "scoreAttackScoreRewardSet": 219,
+        "rewardType": 24,
+        "rewardID": 103060101,
+        "rewardQuantity": 1,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 221,
+        "scoreAttackScoreRewardSet": 220,
+        "rewardType": 34,
+        "rewardID": 0,
+        "rewardQuantity": 100,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 222,
+        "scoreAttackScoreRewardSet": 221,
+        "rewardType": 24,
+        "rewardID": 103060101,
+        "rewardQuantity": 1,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 223,
+        "scoreAttackScoreRewardSet": 222,
+        "rewardType": 34,
+        "rewardID": 0,
+        "rewardQuantity": 100,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 224,
+        "scoreAttackScoreRewardSet": 223,
+        "rewardType": 24,
+        "rewardID": 103060101,
+        "rewardQuantity": 1,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 225,
+        "scoreAttackScoreRewardSet": 224,
+        "rewardType": 24,
+        "rewardID": 103060211,
+        "rewardQuantity": 1,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 226,
+        "scoreAttackScoreRewardSet": 225,
+        "rewardType": 24,
+        "rewardID": 103060101,
+        "rewardQuantity": 1,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 227,
+        "scoreAttackScoreRewardSet": 226,
+        "rewardType": 34,
+        "rewardID": 0,
+        "rewardQuantity": 100,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 228,
+        "scoreAttackScoreRewardSet": 227,
+        "rewardType": 24,
+        "rewardID": 103060101,
+        "rewardQuantity": 1,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 229,
+        "scoreAttackScoreRewardSet": 228,
+        "rewardType": 24,
+        "rewardID": 103060211,
+        "rewardQuantity": 1,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 230,
+        "scoreAttackScoreRewardSet": 229,
+        "rewardType": 24,
+        "rewardID": 103070004,
+        "rewardQuantity": 100,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 231,
+        "scoreAttackScoreRewardSet": 230,
+        "rewardType": 24,
+        "rewardID": 103070014,
+        "rewardQuantity": 100,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 232,
+        "scoreAttackScoreRewardSet": 231,
+        "rewardType": 24,
+        "rewardID": 103070024,
+        "rewardQuantity": 100,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 233,
+        "scoreAttackScoreRewardSet": 232,
+        "rewardType": 24,
+        "rewardID": 103060211,
+        "rewardQuantity": 1,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 234,
+        "scoreAttackScoreRewardSet": 233,
+        "rewardType": 24,
+        "rewardID": 103070034,
+        "rewardQuantity": 100,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 235,
+        "scoreAttackScoreRewardSet": 234,
+        "rewardType": 24,
+        "rewardID": 103070044,
+        "rewardQuantity": 100,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 236,
+        "scoreAttackScoreRewardSet": 235,
+        "rewardType": 24,
+        "rewardID": 103060224,
+        "rewardQuantity": 1,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 237,
+        "scoreAttackScoreRewardSet": 236,
+        "rewardType": 24,
+        "rewardID": 103060211,
+        "rewardQuantity": 1,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 238,
+        "scoreAttackScoreRewardSet": 237,
+        "rewardType": 24,
+        "rewardID": 103060224,
+        "rewardQuantity": 1,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 239,
+        "scoreAttackScoreRewardSet": 238,
+        "rewardType": 24,
+        "rewardID": 103060211,
+        "rewardQuantity": 1,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 240,
+        "scoreAttackScoreRewardSet": 239,
+        "rewardType": 24,
+        "rewardID": 103060224,
+        "rewardQuantity": 2,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 241,
+        "scoreAttackScoreRewardSet": 240,
+        "rewardType": 24,
+        "rewardID": 103060211,
+        "rewardQuantity": 1,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 242,
+        "scoreAttackScoreRewardSet": 241,
+        "rewardType": 24,
+        "rewardID": 103060224,
+        "rewardQuantity": 2,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 243,
+        "scoreAttackScoreRewardSet": 242,
+        "rewardType": 24,
+        "rewardID": 103060211,
+        "rewardQuantity": 1,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 244,
+        "scoreAttackScoreRewardSet": 243,
+        "rewardType": 24,
+        "rewardID": 103060224,
+        "rewardQuantity": 2,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 245,
+        "scoreAttackScoreRewardSet": 244,
+        "rewardType": 24,
+        "rewardID": 103060211,
+        "rewardQuantity": 3,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 246,
+        "scoreAttackScoreRewardSet": 245,
+        "rewardType": 34,
+        "rewardID": 0,
+        "rewardQuantity": 500,
+        "rewardMessage": "ハイスコアアタック報酬です。"
+    },
+    {
+        "ID": 247,
+        "scoreAttackScoreRewardSet": 246,
+        "rewardType": 38,
+        "rewardID": 1,
+        "rewardQuantity": 1,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 248,
+        "scoreAttackScoreRewardSet": 247,
+        "rewardType": 29,
+        "rewardID": 101030001,
+        "rewardQuantity": 1,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 249,
+        "scoreAttackScoreRewardSet": 248,
+        "rewardType": 38,
+        "rewardID": 1,
+        "rewardQuantity": 1,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 250,
+        "scoreAttackScoreRewardSet": 249,
+        "rewardType": 29,
+        "rewardID": 101030001,
+        "rewardQuantity": 1,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 251,
+        "scoreAttackScoreRewardSet": 250,
+        "rewardType": 38,
+        "rewardID": 1,
+        "rewardQuantity": 1,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 252,
+        "scoreAttackScoreRewardSet": 251,
+        "rewardType": 29,
+        "rewardID": 101030001,
+        "rewardQuantity": 1,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 253,
+        "scoreAttackScoreRewardSet": 252,
+        "rewardType": 38,
+        "rewardID": 2,
+        "rewardQuantity": 1,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 254,
+        "scoreAttackScoreRewardSet": 253,
+        "rewardType": 29,
+        "rewardID": 101030001,
+        "rewardQuantity": 1,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 255,
+        "scoreAttackScoreRewardSet": 254,
+        "rewardType": 38,
+        "rewardID": 2,
+        "rewardQuantity": 1,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 256,
+        "scoreAttackScoreRewardSet": 255,
+        "rewardType": 29,
+        "rewardID": 101030001,
+        "rewardQuantity": 1,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 257,
+        "scoreAttackScoreRewardSet": 256,
+        "rewardType": 38,
+        "rewardID": 2,
+        "rewardQuantity": 1,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 258,
+        "scoreAttackScoreRewardSet": 257,
+        "rewardType": 29,
+        "rewardID": 101030001,
+        "rewardQuantity": 1,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 259,
+        "scoreAttackScoreRewardSet": 258,
+        "rewardType": 38,
+        "rewardID": 3,
+        "rewardQuantity": 1,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 260,
+        "scoreAttackScoreRewardSet": 259,
+        "rewardType": 29,
+        "rewardID": 101030001,
+        "rewardQuantity": 1,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 261,
+        "scoreAttackScoreRewardSet": 260,
+        "rewardType": 37,
+        "rewardID": 1,
+        "rewardQuantity": 5,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 262,
+        "scoreAttackScoreRewardSet": 261,
+        "rewardType": 29,
+        "rewardID": 101030001,
+        "rewardQuantity": 1,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 263,
+        "scoreAttackScoreRewardSet": 262,
+        "rewardType": 38,
+        "rewardID": 3,
+        "rewardQuantity": 1,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 264,
+        "scoreAttackScoreRewardSet": 263,
+        "rewardType": 29,
+        "rewardID": 101030001,
+        "rewardQuantity": 2,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 265,
+        "scoreAttackScoreRewardSet": 264,
+        "rewardType": 37,
+        "rewardID": 1,
+        "rewardQuantity": 5,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 266,
+        "scoreAttackScoreRewardSet": 265,
+        "rewardType": 29,
+        "rewardID": 101030001,
+        "rewardQuantity": 2,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 267,
+        "scoreAttackScoreRewardSet": 266,
+        "rewardType": 38,
+        "rewardID": 3,
+        "rewardQuantity": 1,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 268,
+        "scoreAttackScoreRewardSet": 267,
+        "rewardType": 29,
+        "rewardID": 101030001,
+        "rewardQuantity": 3,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 269,
+        "scoreAttackScoreRewardSet": 268,
+        "rewardType": 37,
+        "rewardID": 1,
+        "rewardQuantity": 5,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 270,
+        "scoreAttackScoreRewardSet": 269,
+        "rewardType": 38,
+        "rewardID": 3,
+        "rewardQuantity": 1,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 271,
+        "scoreAttackScoreRewardSet": 270,
+        "rewardType": 29,
+        "rewardID": 101030001,
+        "rewardQuantity": 3,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 272,
+        "scoreAttackScoreRewardSet": 271,
+        "rewardType": 37,
+        "rewardID": 1,
+        "rewardQuantity": 5,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 273,
+        "scoreAttackScoreRewardSet": 272,
+        "rewardType": 38,
+        "rewardID": 3,
+        "rewardQuantity": 1,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 274,
+        "scoreAttackScoreRewardSet": 273,
+        "rewardType": 29,
+        "rewardID": 101030001,
+        "rewardQuantity": 3,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 275,
+        "scoreAttackScoreRewardSet": 274,
+        "rewardType": 37,
+        "rewardID": 1,
+        "rewardQuantity": 5,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 276,
+        "scoreAttackScoreRewardSet": 275,
+        "rewardType": 38,
+        "rewardID": 3,
+        "rewardQuantity": 1,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 277,
+        "scoreAttackScoreRewardSet": 276,
+        "rewardType": 29,
+        "rewardID": 101030001,
+        "rewardQuantity": 3,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 278,
+        "scoreAttackScoreRewardSet": 277,
+        "rewardType": 37,
+        "rewardID": 1,
+        "rewardQuantity": 5,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 279,
+        "scoreAttackScoreRewardSet": 278,
+        "rewardType": 38,
+        "rewardID": 3,
+        "rewardQuantity": 1,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 280,
+        "scoreAttackScoreRewardSet": 279,
+        "rewardType": 29,
+        "rewardID": 101030001,
+        "rewardQuantity": 3,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 281,
+        "scoreAttackScoreRewardSet": 280,
+        "rewardType": 37,
+        "rewardID": 1,
+        "rewardQuantity": 5,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 282,
+        "scoreAttackScoreRewardSet": 281,
+        "rewardType": 38,
+        "rewardID": 3,
+        "rewardQuantity": 1,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 283,
+        "scoreAttackScoreRewardSet": 282,
+        "rewardType": 29,
+        "rewardID": 101030001,
+        "rewardQuantity": 3,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 284,
+        "scoreAttackScoreRewardSet": 283,
+        "rewardType": 37,
+        "rewardID": 1,
+        "rewardQuantity": 5,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 285,
+        "scoreAttackScoreRewardSet": 284,
+        "rewardType": 38,
+        "rewardID": 3,
+        "rewardQuantity": 1,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 286,
+        "scoreAttackScoreRewardSet": 285,
+        "rewardType": 42,
+        "rewardID": 1,
+        "rewardQuantity": 1,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 287,
+        "scoreAttackScoreRewardSet": 286,
+        "rewardType": 24,
+        "rewardID": 103060224,
+        "rewardQuantity": 2,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 288,
+        "scoreAttackScoreRewardSet": 287,
+        "rewardType": 24,
+        "rewardID": 103060211,
+        "rewardQuantity": 1,
+        "rewardMessage": "累計スコア報酬です。"
+    },
+    {
+        "ID": 289,
+        "scoreAttackScoreRewardSet": 288,
+        "rewardType": 25,
+        "rewardID": 201140017,
+        "rewardQuantity": 100,
+        "rewardMessage": "累計スコア報酬です。"
+    }
+]

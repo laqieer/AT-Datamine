@@ -1,0 +1,102 @@
+[
+    {
+        "ID": 1,
+        "name": "商人Lv1",
+        "storyAbilityID": 34
+    },
+    {
+        "ID": 2,
+        "name": "商人Lv2",
+        "storyAbilityID": 35
+    },
+    {
+        "ID": 3,
+        "name": "商人Lv3",
+        "storyAbilityID": 36
+    },
+    {
+        "ID": 4,
+        "name": "商人Lv4",
+        "storyAbilityID": 37
+    },
+    {
+        "ID": 5,
+        "name": "商人Lv5",
+        "storyAbilityID": 38
+    },
+    {
+        "ID": 6,
+        "name": "商人Lv6",
+        "storyAbilityID": 39
+    },
+    {
+        "ID": 7,
+        "name": "商人Lv7",
+        "storyAbilityID": 40
+    },
+    {
+        "ID": 8,
+        "name": "商人Lv8",
+        "storyAbilityID": 41
+    },
+    {
+        "ID": 9,
+        "name": "商人Lv9",
+        "storyAbilityID": 42
+    },
+    {
+        "ID": 10,
+        "name": "商人Lv10",
+        "storyAbilityID": 43
+    },
+    {
+        "ID": 11,
+        "name": "盗賊Lv1",
+        "storyAbilityID": 11
+    },
+    {
+        "ID": 12,
+        "name": "盗賊Lv2",
+        "storyAbilityID": 12
+    },
+    {
+        "ID": 13,
+        "name": "盗賊Lv3",
+        "storyAbilityID": 13
+    },
+    {
+        "ID": 14,
+        "name": "盗賊Lv4",
+        "storyAbilityID": 14
+    },
+    {
+        "ID": 15,
+        "name": "盗賊Lv5",
+        "storyAbilityID": 16
+    },
+    {
+        "ID": 16,
+        "name": "盗賊Lv6",
+        "storyAbilityID": 17
+    },
+    {
+        "ID": 17,
+        "name": "盗賊Lv7",
+        "storyAbilityID": 19
+    },
+    {
+        "ID": 18,
+        "name": "盗賊Lv8",
+        "storyAbilityID": 20
+    },
+    {
+        "ID": 19,
+        "name": "盗賊Lv9",
+        "storyAbilityID": 22
+    },
+    {
+        "ID": 20,
+        "name": "盗賊Lv10",
+        "storyAbilityID": 23
+    }
+]

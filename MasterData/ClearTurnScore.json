@@ -1,0 +1,37 @@
+[
+    {
+        "ID": 1,
+        "groupId": 501,
+        "turnFrom": 0,
+        "turnTo": 6,
+        "score": 9000
+    },
+    {
+        "ID": 2,
+        "groupId": 501,
+        "turnFrom": 7,
+        "turnTo": 9999,
+        "score": 0
+    },
+    {
+        "ID": 3,
+        "groupId": 502,
+        "turnFrom": 0,
+        "turnTo": 9999,
+        "score": 0
+    },
+    {
+        "ID": 4,
+        "groupId": 503,
+        "turnFrom": 0,
+        "turnTo": 5,
+        "score": 10000
+    },
+    {
+        "ID": 5,
+        "groupId": 503,
+        "turnFrom": 6,
+        "turnTo": 9999,
+        "score": 0
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "ID": 1,
+        "customBID": 1,
+        "rotteryRewardType": 1,
+        "minValue": 4,
+        "maxMagnification": 14
+    },
+    {
+        "ID": 2,
+        "customBID": 1,
+        "rotteryRewardType": 2,
+        "minValue": 2,
+        "maxMagnification": 6
+    },
+    {
+        "ID": 3,
+        "customBID": 2,
+        "rotteryRewardType": 3,
+        "minValue": 3,
+        "maxMagnification": 10
+    },
+    {
+        "ID": 4,
+        "customBID": 2,
+        "rotteryRewardType": 4,
+        "minValue": 3,
+        "maxMagnification": 10
+    },
+    {
+        "ID": 5,
+        "customBID": 3,
+        "rotteryRewardType": 5,
+        "minValue": 3,
+        "maxMagnification": 12
+    },
+    {
+        "ID": 6,
+        "customBID": 3,
+        "rotteryRewardType": 6,
+        "minValue": 2,
+        "maxMagnification": 8
+    }
+]

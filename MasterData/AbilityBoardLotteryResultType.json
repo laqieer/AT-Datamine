@@ -1,0 +1,32 @@
+[
+    {
+        "ID": 1,
+        "name": "[得意属性]の属性耐性",
+        "allocationType": 2
+    },
+    {
+        "ID": 2,
+        "name": "[自属性]の属性耐性",
+        "allocationType": 2
+    },
+    {
+        "ID": 3,
+        "name": "[メイン武器と同区分]の区分耐性",
+        "allocationType": 9
+    },
+    {
+        "ID": 4,
+        "name": "スタイル別区分耐性",
+        "allocationType": 15
+    },
+    {
+        "ID": 5,
+        "name": "[自属性]の属性強化",
+        "allocationType": 2
+    },
+    {
+        "ID": 6,
+        "name": "[メイン武器と同区分]の区分強化",
+        "allocationType": 9
+    }
+]

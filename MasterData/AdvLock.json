@@ -1,0 +1,32 @@
+[
+    {
+        "ID": 1,
+        "Name": "ED_TEST1",
+        "Operator": 1
+    },
+    {
+        "ID": 2,
+        "Name": "ROUTE_TEST1",
+        "Operator": 0
+    },
+    {
+        "ID": 3,
+        "Name": "ROUTE_TEST2",
+        "Operator": 0
+    },
+    {
+        "ID": 4,
+        "Name": "テスト用_全ルートクリア",
+        "Operator": 0
+    },
+    {
+        "ID": 5,
+        "Name": "テスト用_いずれかのルートクリア",
+        "Operator": 1
+    },
+    {
+        "ID": 6,
+        "Name": "テスト用_エレインEDクリア",
+        "Operator": 0
+    }
+]

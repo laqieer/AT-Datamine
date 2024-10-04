@@ -1,0 +1,42 @@
+[
+    {
+        "ID": 1,
+        "rankType": 1,
+        "rankThreshold": 22500
+    },
+    {
+        "ID": 2,
+        "rankType": 2,
+        "rankThreshold": 21500
+    },
+    {
+        "ID": 3,
+        "rankType": 3,
+        "rankThreshold": 18500
+    },
+    {
+        "ID": 4,
+        "rankType": 4,
+        "rankThreshold": 15500
+    },
+    {
+        "ID": 5,
+        "rankType": 5,
+        "rankThreshold": 12000
+    },
+    {
+        "ID": 6,
+        "rankType": 6,
+        "rankThreshold": 8500
+    },
+    {
+        "ID": 7,
+        "rankType": 7,
+        "rankThreshold": 4700
+    },
+    {
+        "ID": 8,
+        "rankType": 8,
+        "rankThreshold": 0
+    }
+]

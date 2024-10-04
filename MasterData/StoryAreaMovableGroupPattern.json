@@ -1,0 +1,170 @@
+[
+    {
+        "ID": 0,
+        "groupPattern": "なし",
+        "mobSetting_1": 0,
+        "mobSetting_2": 0
+    },
+    {
+        "ID": 100,
+        "groupPattern": "キャメロット生徒グループ_女１",
+        "mobSetting_1": 1,
+        "mobSetting_2": 0
+    },
+    {
+        "ID": 101,
+        "groupPattern": "キャメロット生徒グループ_女２",
+        "mobSetting_1": 2,
+        "mobSetting_2": 0
+    },
+    {
+        "ID": 102,
+        "groupPattern": "キャメロット生徒グループ_男１",
+        "mobSetting_1": 6,
+        "mobSetting_2": 0
+    },
+    {
+        "ID": 103,
+        "groupPattern": "キャメロット生徒グループ_男２",
+        "mobSetting_1": 7,
+        "mobSetting_2": 0
+    },
+    {
+        "ID": 104,
+        "groupPattern": "キャメロット生徒グループ_女３",
+        "mobSetting_1": 3,
+        "mobSetting_2": 0
+    },
+    {
+        "ID": 105,
+        "groupPattern": "キャメロット生徒グループ_ペア女３男３",
+        "mobSetting_1": 11,
+        "mobSetting_2": 14
+    },
+    {
+        "ID": 106,
+        "groupPattern": "キャメロット生徒グループ_ペア女４男４",
+        "mobSetting_1": 12,
+        "mobSetting_2": 15
+    },
+    {
+        "ID": 107,
+        "groupPattern": "キャメロット生徒グループ_ペア女４女５",
+        "mobSetting_1": 12,
+        "mobSetting_2": 13
+    },
+    {
+        "ID": 108,
+        "groupPattern": "村人グループ_生徒（女４）",
+        "mobSetting_1": 4,
+        "mobSetting_2": 0
+    },
+    {
+        "ID": 109,
+        "groupPattern": "村人グループ_生徒（男３）",
+        "mobSetting_1": 8,
+        "mobSetting_2": 0
+    },
+    {
+        "ID": 110,
+        "groupPattern": "村人グループ_子供（女１）",
+        "mobSetting_1": 20,
+        "mobSetting_2": 0
+    },
+    {
+        "ID": 111,
+        "groupPattern": "村人グループ_子供（男１）",
+        "mobSetting_1": 29,
+        "mobSetting_2": 0
+    },
+    {
+        "ID": 112,
+        "groupPattern": "村人グループ_中年（男１）",
+        "mobSetting_1": 32,
+        "mobSetting_2": 0
+    },
+    {
+        "ID": 113,
+        "groupPattern": "村人グループ_中年（女１）",
+        "mobSetting_1": 23,
+        "mobSetting_2": 0
+    },
+    {
+        "ID": 114,
+        "groupPattern": "村人グループ_ペア女２男２",
+        "mobSetting_1": 36,
+        "mobSetting_2": 39
+    },
+    {
+        "ID": 115,
+        "groupPattern": "村人グループ_ペア女１女３",
+        "mobSetting_1": 35,
+        "mobSetting_2": 37
+    },
+    {
+        "ID": 123,
+        "groupPattern": "村人グループ_若者（女１）",
+        "mobSetting_1": 17,
+        "mobSetting_2": 0
+    },
+    {
+        "ID": 124,
+        "groupPattern": "村人グループ_若者（男１）",
+        "mobSetting_1": 26,
+        "mobSetting_2": 0
+    },
+    {
+        "ID": 125,
+        "groupPattern": "村人グループ_若者（女２）",
+        "mobSetting_1": 18,
+        "mobSetting_2": 0
+    },
+    {
+        "ID": 126,
+        "groupPattern": "村人グループ_若者（男２）",
+        "mobSetting_1": 27,
+        "mobSetting_2": 0
+    },
+    {
+        "ID": 127,
+        "groupPattern": "村人グループ_中年（女２）",
+        "mobSetting_1": 24,
+        "mobSetting_2": 0
+    },
+    {
+        "ID": 129,
+        "groupPattern": "村人グループ_中年（男２）",
+        "mobSetting_1": 33,
+        "mobSetting_2": 0
+    },
+    {
+        "ID": 130,
+        "groupPattern": "村人グループ_ペア女１男３",
+        "mobSetting_1": 35,
+        "mobSetting_2": 40
+    },
+    {
+        "ID": 200,
+        "groupPattern": "村人グループ_子供（女２）",
+        "mobSetting_1": 20,
+        "mobSetting_2": 0
+    },
+    {
+        "ID": 201,
+        "groupPattern": "村人グループ_子供（男２）",
+        "mobSetting_1": 29,
+        "mobSetting_2": 0
+    },
+    {
+        "ID": 202,
+        "groupPattern": "キャメロット生徒グループ_ペア男１男３",
+        "mobSetting_1": 11,
+        "mobSetting_2": 14
+    },
+    {
+        "ID": 203,
+        "groupPattern": "村人グループ_ペア男１男２",
+        "mobSetting_1": 36,
+        "mobSetting_2": 39
+    }
+]

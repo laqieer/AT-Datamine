@@ -1,0 +1,826 @@
+[
+    {
+        "ID": 1,
+        "rewardGroupId": 1,
+        "rewardType": 3,
+        "rewardID": 201010001,
+        "amount": 120,
+        "numberOfAttendees": 1
+    },
+    {
+        "ID": 2,
+        "rewardGroupId": 1,
+        "rewardType": 25,
+        "rewardID": 201040001,
+        "amount": 25,
+        "numberOfAttendees": 1
+    },
+    {
+        "ID": 3,
+        "rewardGroupId": 1,
+        "rewardType": 3,
+        "rewardID": 201010001,
+        "amount": 140,
+        "numberOfAttendees": 5
+    },
+    {
+        "ID": 4,
+        "rewardGroupId": 1,
+        "rewardType": 25,
+        "rewardID": 201040001,
+        "amount": 30,
+        "numberOfAttendees": 5
+    },
+    {
+        "ID": 5,
+        "rewardGroupId": 1,
+        "rewardType": 3,
+        "rewardID": 201010001,
+        "amount": 160,
+        "numberOfAttendees": 10
+    },
+    {
+        "ID": 6,
+        "rewardGroupId": 1,
+        "rewardType": 25,
+        "rewardID": 201040001,
+        "amount": 35,
+        "numberOfAttendees": 10
+    },
+    {
+        "ID": 7,
+        "rewardGroupId": 1,
+        "rewardType": 3,
+        "rewardID": 201010001,
+        "amount": 180,
+        "numberOfAttendees": 15
+    },
+    {
+        "ID": 8,
+        "rewardGroupId": 1,
+        "rewardType": 25,
+        "rewardID": 201040001,
+        "amount": 40,
+        "numberOfAttendees": 15
+    },
+    {
+        "ID": 9,
+        "rewardGroupId": 1,
+        "rewardType": 38,
+        "rewardID": 1,
+        "amount": 1,
+        "numberOfAttendees": 15
+    },
+    {
+        "ID": 10,
+        "rewardGroupId": 1,
+        "rewardType": 34,
+        "rewardID": 1,
+        "amount": 10,
+        "numberOfAttendees": 15
+    },
+    {
+        "ID": 11,
+        "rewardGroupId": 1,
+        "rewardType": 3,
+        "rewardID": 201010001,
+        "amount": 200,
+        "numberOfAttendees": 20
+    },
+    {
+        "ID": 12,
+        "rewardGroupId": 1,
+        "rewardType": 25,
+        "rewardID": 201040001,
+        "amount": 45,
+        "numberOfAttendees": 20
+    },
+    {
+        "ID": 13,
+        "rewardGroupId": 1,
+        "rewardType": 38,
+        "rewardID": 1,
+        "amount": 2,
+        "numberOfAttendees": 20
+    },
+    {
+        "ID": 14,
+        "rewardGroupId": 1,
+        "rewardType": 34,
+        "rewardID": 1,
+        "amount": 15,
+        "numberOfAttendees": 20
+    },
+    {
+        "ID": 15,
+        "rewardGroupId": 2,
+        "rewardType": 3,
+        "rewardID": 201010001,
+        "amount": 220,
+        "numberOfAttendees": 1
+    },
+    {
+        "ID": 16,
+        "rewardGroupId": 2,
+        "rewardType": 25,
+        "rewardID": 201040001,
+        "amount": 50,
+        "numberOfAttendees": 1
+    },
+    {
+        "ID": 17,
+        "rewardGroupId": 2,
+        "rewardType": 3,
+        "rewardID": 201010001,
+        "amount": 240,
+        "numberOfAttendees": 5
+    },
+    {
+        "ID": 18,
+        "rewardGroupId": 2,
+        "rewardType": 25,
+        "rewardID": 201040001,
+        "amount": 60,
+        "numberOfAttendees": 5
+    },
+    {
+        "ID": 19,
+        "rewardGroupId": 2,
+        "rewardType": 3,
+        "rewardID": 201010001,
+        "amount": 260,
+        "numberOfAttendees": 10
+    },
+    {
+        "ID": 20,
+        "rewardGroupId": 2,
+        "rewardType": 25,
+        "rewardID": 201040001,
+        "amount": 70,
+        "numberOfAttendees": 10
+    },
+    {
+        "ID": 21,
+        "rewardGroupId": 2,
+        "rewardType": 3,
+        "rewardID": 201010001,
+        "amount": 280,
+        "numberOfAttendees": 15
+    },
+    {
+        "ID": 22,
+        "rewardGroupId": 2,
+        "rewardType": 25,
+        "rewardID": 201040001,
+        "amount": 80,
+        "numberOfAttendees": 15
+    },
+    {
+        "ID": 23,
+        "rewardGroupId": 2,
+        "rewardType": 38,
+        "rewardID": 1,
+        "amount": 2,
+        "numberOfAttendees": 15
+    },
+    {
+        "ID": 24,
+        "rewardGroupId": 2,
+        "rewardType": 34,
+        "rewardID": 1,
+        "amount": 15,
+        "numberOfAttendees": 15
+    },
+    {
+        "ID": 25,
+        "rewardGroupId": 2,
+        "rewardType": 3,
+        "rewardID": 201010001,
+        "amount": 300,
+        "numberOfAttendees": 20
+    },
+    {
+        "ID": 26,
+        "rewardGroupId": 2,
+        "rewardType": 25,
+        "rewardID": 201040001,
+        "amount": 90,
+        "numberOfAttendees": 20
+    },
+    {
+        "ID": 27,
+        "rewardGroupId": 2,
+        "rewardType": 38,
+        "rewardID": 1,
+        "amount": 3,
+        "numberOfAttendees": 20
+    },
+    {
+        "ID": 28,
+        "rewardGroupId": 2,
+        "rewardType": 34,
+        "rewardID": 1,
+        "amount": 20,
+        "numberOfAttendees": 20
+    },
+    {
+        "ID": 29,
+        "rewardGroupId": 3,
+        "rewardType": 3,
+        "rewardID": 201010001,
+        "amount": 320,
+        "numberOfAttendees": 1
+    },
+    {
+        "ID": 30,
+        "rewardGroupId": 3,
+        "rewardType": 25,
+        "rewardID": 201040001,
+        "amount": 100,
+        "numberOfAttendees": 1
+    },
+    {
+        "ID": 31,
+        "rewardGroupId": 3,
+        "rewardType": 3,
+        "rewardID": 201010001,
+        "amount": 340,
+        "numberOfAttendees": 5
+    },
+    {
+        "ID": 32,
+        "rewardGroupId": 3,
+        "rewardType": 25,
+        "rewardID": 201040001,
+        "amount": 110,
+        "numberOfAttendees": 5
+    },
+    {
+        "ID": 33,
+        "rewardGroupId": 3,
+        "rewardType": 3,
+        "rewardID": 201010001,
+        "amount": 360,
+        "numberOfAttendees": 10
+    },
+    {
+        "ID": 34,
+        "rewardGroupId": 3,
+        "rewardType": 25,
+        "rewardID": 201040001,
+        "amount": 120,
+        "numberOfAttendees": 10
+    },
+    {
+        "ID": 35,
+        "rewardGroupId": 3,
+        "rewardType": 3,
+        "rewardID": 201010001,
+        "amount": 380,
+        "numberOfAttendees": 15
+    },
+    {
+        "ID": 36,
+        "rewardGroupId": 3,
+        "rewardType": 25,
+        "rewardID": 201040001,
+        "amount": 130,
+        "numberOfAttendees": 15
+    },
+    {
+        "ID": 37,
+        "rewardGroupId": 3,
+        "rewardType": 38,
+        "rewardID": 1,
+        "amount": 3,
+        "numberOfAttendees": 15
+    },
+    {
+        "ID": 38,
+        "rewardGroupId": 3,
+        "rewardType": 34,
+        "rewardID": 1,
+        "amount": 20,
+        "numberOfAttendees": 15
+    },
+    {
+        "ID": 39,
+        "rewardGroupId": 3,
+        "rewardType": 3,
+        "rewardID": 201010001,
+        "amount": 400,
+        "numberOfAttendees": 20
+    },
+    {
+        "ID": 40,
+        "rewardGroupId": 3,
+        "rewardType": 25,
+        "rewardID": 201040001,
+        "amount": 140,
+        "numberOfAttendees": 20
+    },
+    {
+        "ID": 41,
+        "rewardGroupId": 3,
+        "rewardType": 38,
+        "rewardID": 1,
+        "amount": 4,
+        "numberOfAttendees": 20
+    },
+    {
+        "ID": 42,
+        "rewardGroupId": 3,
+        "rewardType": 34,
+        "rewardID": 1,
+        "amount": 25,
+        "numberOfAttendees": 20
+    },
+    {
+        "ID": 43,
+        "rewardGroupId": 3,
+        "rewardType": 3,
+        "rewardID": 201010001,
+        "amount": 450,
+        "numberOfAttendees": 25
+    },
+    {
+        "ID": 44,
+        "rewardGroupId": 3,
+        "rewardType": 25,
+        "rewardID": 201040001,
+        "amount": 150,
+        "numberOfAttendees": 25
+    },
+    {
+        "ID": 45,
+        "rewardGroupId": 3,
+        "rewardType": 38,
+        "rewardID": 1,
+        "amount": 5,
+        "numberOfAttendees": 25
+    },
+    {
+        "ID": 46,
+        "rewardGroupId": 3,
+        "rewardType": 34,
+        "rewardID": 1,
+        "amount": 30,
+        "numberOfAttendees": 25
+    },
+    {
+        "ID": 47,
+        "rewardGroupId": 4,
+        "rewardType": 3,
+        "rewardID": 201010001,
+        "amount": 460,
+        "numberOfAttendees": 1
+    },
+    {
+        "ID": 48,
+        "rewardGroupId": 4,
+        "rewardType": 25,
+        "rewardID": 201040001,
+        "amount": 160,
+        "numberOfAttendees": 1
+    },
+    {
+        "ID": 49,
+        "rewardGroupId": 4,
+        "rewardType": 3,
+        "rewardID": 201010001,
+        "amount": 480,
+        "numberOfAttendees": 5
+    },
+    {
+        "ID": 50,
+        "rewardGroupId": 4,
+        "rewardType": 25,
+        "rewardID": 201040001,
+        "amount": 170,
+        "numberOfAttendees": 5
+    },
+    {
+        "ID": 51,
+        "rewardGroupId": 4,
+        "rewardType": 3,
+        "rewardID": 201010001,
+        "amount": 500,
+        "numberOfAttendees": 10
+    },
+    {
+        "ID": 52,
+        "rewardGroupId": 4,
+        "rewardType": 25,
+        "rewardID": 201040001,
+        "amount": 180,
+        "numberOfAttendees": 10
+    },
+    {
+        "ID": 53,
+        "rewardGroupId": 4,
+        "rewardType": 3,
+        "rewardID": 201010001,
+        "amount": 520,
+        "numberOfAttendees": 15
+    },
+    {
+        "ID": 54,
+        "rewardGroupId": 4,
+        "rewardType": 25,
+        "rewardID": 201040001,
+        "amount": 200,
+        "numberOfAttendees": 15
+    },
+    {
+        "ID": 55,
+        "rewardGroupId": 4,
+        "rewardType": 38,
+        "rewardID": 1,
+        "amount": 1,
+        "numberOfAttendees": 15
+    },
+    {
+        "ID": 56,
+        "rewardGroupId": 4,
+        "rewardType": 38,
+        "rewardID": 2,
+        "amount": 1,
+        "numberOfAttendees": 15
+    },
+    {
+        "ID": 57,
+        "rewardGroupId": 4,
+        "rewardType": 34,
+        "rewardID": 1,
+        "amount": 25,
+        "numberOfAttendees": 15
+    },
+    {
+        "ID": 58,
+        "rewardGroupId": 4,
+        "rewardType": 3,
+        "rewardID": 201010001,
+        "amount": 540,
+        "numberOfAttendees": 20
+    },
+    {
+        "ID": 59,
+        "rewardGroupId": 4,
+        "rewardType": 25,
+        "rewardID": 201040001,
+        "amount": 210,
+        "numberOfAttendees": 20
+    },
+    {
+        "ID": 60,
+        "rewardGroupId": 4,
+        "rewardType": 38,
+        "rewardID": 1,
+        "amount": 2,
+        "numberOfAttendees": 20
+    },
+    {
+        "ID": 61,
+        "rewardGroupId": 4,
+        "rewardType": 38,
+        "rewardID": 2,
+        "amount": 2,
+        "numberOfAttendees": 20
+    },
+    {
+        "ID": 62,
+        "rewardGroupId": 4,
+        "rewardType": 34,
+        "rewardID": 1,
+        "amount": 30,
+        "numberOfAttendees": 20
+    },
+    {
+        "ID": 63,
+        "rewardGroupId": 4,
+        "rewardType": 3,
+        "rewardID": 201010001,
+        "amount": 600,
+        "numberOfAttendees": 25
+    },
+    {
+        "ID": 64,
+        "rewardGroupId": 4,
+        "rewardType": 25,
+        "rewardID": 201040001,
+        "amount": 220,
+        "numberOfAttendees": 25
+    },
+    {
+        "ID": 65,
+        "rewardGroupId": 4,
+        "rewardType": 38,
+        "rewardID": 1,
+        "amount": 3,
+        "numberOfAttendees": 25
+    },
+    {
+        "ID": 66,
+        "rewardGroupId": 4,
+        "rewardType": 38,
+        "rewardID": 2,
+        "amount": 3,
+        "numberOfAttendees": 25
+    },
+    {
+        "ID": 67,
+        "rewardGroupId": 4,
+        "rewardType": 34,
+        "rewardID": 1,
+        "amount": 35,
+        "numberOfAttendees": 25
+    },
+    {
+        "ID": 68,
+        "rewardGroupId": 5,
+        "rewardType": 3,
+        "rewardID": 201010001,
+        "amount": 620,
+        "numberOfAttendees": 1
+    },
+    {
+        "ID": 69,
+        "rewardGroupId": 5,
+        "rewardType": 25,
+        "rewardID": 201040001,
+        "amount": 230,
+        "numberOfAttendees": 1
+    },
+    {
+        "ID": 70,
+        "rewardGroupId": 5,
+        "rewardType": 3,
+        "rewardID": 201010001,
+        "amount": 640,
+        "numberOfAttendees": 5
+    },
+    {
+        "ID": 71,
+        "rewardGroupId": 5,
+        "rewardType": 25,
+        "rewardID": 201040001,
+        "amount": 240,
+        "numberOfAttendees": 5
+    },
+    {
+        "ID": 72,
+        "rewardGroupId": 5,
+        "rewardType": 3,
+        "rewardID": 201010001,
+        "amount": 660,
+        "numberOfAttendees": 10
+    },
+    {
+        "ID": 73,
+        "rewardGroupId": 5,
+        "rewardType": 25,
+        "rewardID": 201040001,
+        "amount": 250,
+        "numberOfAttendees": 10
+    },
+    {
+        "ID": 74,
+        "rewardGroupId": 5,
+        "rewardType": 3,
+        "rewardID": 201010001,
+        "amount": 680,
+        "numberOfAttendees": 15
+    },
+    {
+        "ID": 75,
+        "rewardGroupId": 5,
+        "rewardType": 25,
+        "rewardID": 201040001,
+        "amount": 260,
+        "numberOfAttendees": 15
+    },
+    {
+        "ID": 76,
+        "rewardGroupId": 5,
+        "rewardType": 38,
+        "rewardID": 3,
+        "amount": 1,
+        "numberOfAttendees": 15
+    },
+    {
+        "ID": 77,
+        "rewardGroupId": 5,
+        "rewardType": 34,
+        "rewardID": 1,
+        "amount": 30,
+        "numberOfAttendees": 15
+    },
+    {
+        "ID": 78,
+        "rewardGroupId": 5,
+        "rewardType": 3,
+        "rewardID": 201010001,
+        "amount": 700,
+        "numberOfAttendees": 20
+    },
+    {
+        "ID": 79,
+        "rewardGroupId": 5,
+        "rewardType": 25,
+        "rewardID": 201040001,
+        "amount": 270,
+        "numberOfAttendees": 20
+    },
+    {
+        "ID": 80,
+        "rewardGroupId": 5,
+        "rewardType": 38,
+        "rewardID": 3,
+        "amount": 2,
+        "numberOfAttendees": 20
+    },
+    {
+        "ID": 81,
+        "rewardGroupId": 5,
+        "rewardType": 34,
+        "rewardID": 1,
+        "amount": 35,
+        "numberOfAttendees": 20
+    },
+    {
+        "ID": 82,
+        "rewardGroupId": 5,
+        "rewardType": 3,
+        "rewardID": 201010001,
+        "amount": 750,
+        "numberOfAttendees": 25
+    },
+    {
+        "ID": 83,
+        "rewardGroupId": 5,
+        "rewardType": 25,
+        "rewardID": 201040001,
+        "amount": 280,
+        "numberOfAttendees": 25
+    },
+    {
+        "ID": 84,
+        "rewardGroupId": 5,
+        "rewardType": 38,
+        "rewardID": 3,
+        "amount": 3,
+        "numberOfAttendees": 25
+    },
+    {
+        "ID": 85,
+        "rewardGroupId": 5,
+        "rewardType": 34,
+        "rewardID": 1,
+        "amount": 40,
+        "numberOfAttendees": 25
+    },
+    {
+        "ID": 86,
+        "rewardGroupId": 6,
+        "rewardType": 3,
+        "rewardID": 201010001,
+        "amount": 770,
+        "numberOfAttendees": 1
+    },
+    {
+        "ID": 87,
+        "rewardGroupId": 6,
+        "rewardType": 25,
+        "rewardID": 201040001,
+        "amount": 290,
+        "numberOfAttendees": 1
+    },
+    {
+        "ID": 88,
+        "rewardGroupId": 6,
+        "rewardType": 3,
+        "rewardID": 201010001,
+        "amount": 790,
+        "numberOfAttendees": 5
+    },
+    {
+        "ID": 89,
+        "rewardGroupId": 6,
+        "rewardType": 25,
+        "rewardID": 201040001,
+        "amount": 300,
+        "numberOfAttendees": 5
+    },
+    {
+        "ID": 90,
+        "rewardGroupId": 6,
+        "rewardType": 3,
+        "rewardID": 201010001,
+        "amount": 810,
+        "numberOfAttendees": 10
+    },
+    {
+        "ID": 91,
+        "rewardGroupId": 6,
+        "rewardType": 25,
+        "rewardID": 201040001,
+        "amount": 310,
+        "numberOfAttendees": 10
+    },
+    {
+        "ID": 92,
+        "rewardGroupId": 6,
+        "rewardType": 3,
+        "rewardID": 201010001,
+        "amount": 830,
+        "numberOfAttendees": 15
+    },
+    {
+        "ID": 93,
+        "rewardGroupId": 6,
+        "rewardType": 25,
+        "rewardID": 201040001,
+        "amount": 320,
+        "numberOfAttendees": 15
+    },
+    {
+        "ID": 94,
+        "rewardGroupId": 6,
+        "rewardType": 38,
+        "rewardID": 3,
+        "amount": 2,
+        "numberOfAttendees": 15
+    },
+    {
+        "ID": 95,
+        "rewardGroupId": 6,
+        "rewardType": 34,
+        "rewardID": 1,
+        "amount": 35,
+        "numberOfAttendees": 15
+    },
+    {
+        "ID": 96,
+        "rewardGroupId": 6,
+        "rewardType": 3,
+        "rewardID": 201010001,
+        "amount": 850,
+        "numberOfAttendees": 20
+    },
+    {
+        "ID": 97,
+        "rewardGroupId": 6,
+        "rewardType": 25,
+        "rewardID": 201040001,
+        "amount": 330,
+        "numberOfAttendees": 20
+    },
+    {
+        "ID": 98,
+        "rewardGroupId": 6,
+        "rewardType": 38,
+        "rewardID": 3,
+        "amount": 3,
+        "numberOfAttendees": 20
+    },
+    {
+        "ID": 99,
+        "rewardGroupId": 6,
+        "rewardType": 34,
+        "rewardID": 1,
+        "amount": 40,
+        "numberOfAttendees": 20
+    },
+    {
+        "ID": 100,
+        "rewardGroupId": 6,
+        "rewardType": 3,
+        "rewardID": 201010001,
+        "amount": 900,
+        "numberOfAttendees": 25
+    },
+    {
+        "ID": 101,
+        "rewardGroupId": 6,
+        "rewardType": 25,
+        "rewardID": 201040001,
+        "amount": 340,
+        "numberOfAttendees": 25
+    },
+    {
+        "ID": 102,
+        "rewardGroupId": 6,
+        "rewardType": 38,
+        "rewardID": 3,
+        "amount": 4,
+        "numberOfAttendees": 25
+    },
+    {
+        "ID": 103,
+        "rewardGroupId": 6,
+        "rewardType": 34,
+        "rewardID": 1,
+        "amount": 45,
+        "numberOfAttendees": 25
+    }
+]

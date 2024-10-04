@@ -1,0 +1,27 @@
+[
+    {
+        "ID": 1,
+        "equipmentRarity": 1,
+        "itemRarity": 3
+    },
+    {
+        "ID": 2,
+        "equipmentRarity": 2,
+        "itemRarity": 3
+    },
+    {
+        "ID": 3,
+        "equipmentRarity": 3,
+        "itemRarity": 3
+    },
+    {
+        "ID": 4,
+        "equipmentRarity": 4,
+        "itemRarity": 4
+    },
+    {
+        "ID": 5,
+        "equipmentRarity": 5,
+        "itemRarity": 5
+    }
+]

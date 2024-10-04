@@ -1,0 +1,12 @@
+[
+    {
+        "ID": 0,
+        "AdvType": "SceneChange",
+        "Name": "場面転換"
+    },
+    {
+        "ID": 1,
+        "AdvType": "Seamless",
+        "Name": "シームレス"
+    }
+]

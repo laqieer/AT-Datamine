@@ -1,0 +1,10 @@
+[
+    {
+        "ID": 0,
+        "maxAp": 5,
+        "apAutoHealingSec": 720,
+        "maxDayRecoveryCountItem": 99,
+        "maxDayRecoveryCountCoin": 99,
+        "nameChangeCoolTimeDays": 10
+    }
+]

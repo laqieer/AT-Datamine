@@ -1,0 +1,507 @@
+[
+    {
+        "ID": 100001,
+        "battleEffectType": 100001,
+        "buffDebuffType": 0
+    },
+    {
+        "ID": 100002,
+        "battleEffectType": 100002,
+        "buffDebuffType": 0
+    },
+    {
+        "ID": 100003,
+        "battleEffectType": 100003,
+        "buffDebuffType": 0
+    },
+    {
+        "ID": 100004,
+        "battleEffectType": 100004,
+        "buffDebuffType": 0
+    },
+    {
+        "ID": 110001,
+        "battleEffectType": 110001,
+        "buffDebuffType": 1
+    },
+    {
+        "ID": 110002,
+        "battleEffectType": 110002,
+        "buffDebuffType": 1
+    },
+    {
+        "ID": 110003,
+        "battleEffectType": 110003,
+        "buffDebuffType": 0
+    },
+    {
+        "ID": 110004,
+        "battleEffectType": 110004,
+        "buffDebuffType": 0
+    },
+    {
+        "ID": 110005,
+        "battleEffectType": 110005,
+        "buffDebuffType": 0
+    },
+    {
+        "ID": 110006,
+        "battleEffectType": 110006,
+        "buffDebuffType": 0
+    },
+    {
+        "ID": 110007,
+        "battleEffectType": 110007,
+        "buffDebuffType": 1
+    },
+    {
+        "ID": 120001,
+        "battleEffectType": 120001,
+        "buffDebuffType": 0
+    },
+    {
+        "ID": 120002,
+        "battleEffectType": 120002,
+        "buffDebuffType": 0
+    },
+    {
+        "ID": 130001,
+        "battleEffectType": 130001,
+        "buffDebuffType": 1
+    },
+    {
+        "ID": 130002,
+        "battleEffectType": 130002,
+        "buffDebuffType": 1
+    },
+    {
+        "ID": 130003,
+        "battleEffectType": 130003,
+        "buffDebuffType": 1
+    },
+    {
+        "ID": 130004,
+        "battleEffectType": 130004,
+        "buffDebuffType": 1
+    },
+    {
+        "ID": 130005,
+        "battleEffectType": 130005,
+        "buffDebuffType": 1
+    },
+    {
+        "ID": 130006,
+        "battleEffectType": 130006,
+        "buffDebuffType": 1
+    },
+    {
+        "ID": 130007,
+        "battleEffectType": 130007,
+        "buffDebuffType": 1
+    },
+    {
+        "ID": 130008,
+        "battleEffectType": 130008,
+        "buffDebuffType": 1
+    },
+    {
+        "ID": 130009,
+        "battleEffectType": 130009,
+        "buffDebuffType": 1
+    },
+    {
+        "ID": 130010,
+        "battleEffectType": 130010,
+        "buffDebuffType": 1
+    },
+    {
+        "ID": 130011,
+        "battleEffectType": 130011,
+        "buffDebuffType": 1
+    },
+    {
+        "ID": 130012,
+        "battleEffectType": 130012,
+        "buffDebuffType": 1
+    },
+    {
+        "ID": 130013,
+        "battleEffectType": 130013,
+        "buffDebuffType": 1
+    },
+    {
+        "ID": 140001,
+        "battleEffectType": 140001,
+        "buffDebuffType": 2
+    },
+    {
+        "ID": 140002,
+        "battleEffectType": 140002,
+        "buffDebuffType": 2
+    },
+    {
+        "ID": 140003,
+        "battleEffectType": 140003,
+        "buffDebuffType": 2
+    },
+    {
+        "ID": 140004,
+        "battleEffectType": 140004,
+        "buffDebuffType": 2
+    },
+    {
+        "ID": 140005,
+        "battleEffectType": 140005,
+        "buffDebuffType": 2
+    },
+    {
+        "ID": 140006,
+        "battleEffectType": 140006,
+        "buffDebuffType": 2
+    },
+    {
+        "ID": 140007,
+        "battleEffectType": 140007,
+        "buffDebuffType": 2
+    },
+    {
+        "ID": 140008,
+        "battleEffectType": 140008,
+        "buffDebuffType": 2
+    },
+    {
+        "ID": 140009,
+        "battleEffectType": 140009,
+        "buffDebuffType": 2
+    },
+    {
+        "ID": 140010,
+        "battleEffectType": 140010,
+        "buffDebuffType": 2
+    },
+    {
+        "ID": 140011,
+        "battleEffectType": 140011,
+        "buffDebuffType": 2
+    },
+    {
+        "ID": 150001,
+        "battleEffectType": 150001,
+        "buffDebuffType": 0
+    },
+    {
+        "ID": 150002,
+        "battleEffectType": 150002,
+        "buffDebuffType": 1
+    },
+    {
+        "ID": 150003,
+        "battleEffectType": 150003,
+        "buffDebuffType": 1
+    },
+    {
+        "ID": 150004,
+        "battleEffectType": 150004,
+        "buffDebuffType": 1
+    },
+    {
+        "ID": 150005,
+        "battleEffectType": 150005,
+        "buffDebuffType": 2
+    },
+    {
+        "ID": 150006,
+        "battleEffectType": 150006,
+        "buffDebuffType": 2
+    },
+    {
+        "ID": 150007,
+        "battleEffectType": 150007,
+        "buffDebuffType": 0
+    },
+    {
+        "ID": 160001,
+        "battleEffectType": 160001,
+        "buffDebuffType": 1
+    },
+    {
+        "ID": 160002,
+        "battleEffectType": 160002,
+        "buffDebuffType": 2
+    },
+    {
+        "ID": 160003,
+        "battleEffectType": 160003,
+        "buffDebuffType": 1
+    },
+    {
+        "ID": 160004,
+        "battleEffectType": 160004,
+        "buffDebuffType": 2
+    },
+    {
+        "ID": 170001,
+        "battleEffectType": 170001,
+        "buffDebuffType": 1
+    },
+    {
+        "ID": 170002,
+        "battleEffectType": 170002,
+        "buffDebuffType": 2
+    },
+    {
+        "ID": 170003,
+        "battleEffectType": 170003,
+        "buffDebuffType": 1
+    },
+    {
+        "ID": 170004,
+        "battleEffectType": 170004,
+        "buffDebuffType": 2
+    },
+    {
+        "ID": 180001,
+        "battleEffectType": 180001,
+        "buffDebuffType": 1
+    },
+    {
+        "ID": 180002,
+        "battleEffectType": 180002,
+        "buffDebuffType": 1
+    },
+    {
+        "ID": 180003,
+        "battleEffectType": 180003,
+        "buffDebuffType": 1
+    },
+    {
+        "ID": 180004,
+        "battleEffectType": 180004,
+        "buffDebuffType": 1
+    },
+    {
+        "ID": 180005,
+        "battleEffectType": 180005,
+        "buffDebuffType": 1
+    },
+    {
+        "ID": 180006,
+        "battleEffectType": 180006,
+        "buffDebuffType": 1
+    },
+    {
+        "ID": 190001,
+        "battleEffectType": 190001,
+        "buffDebuffType": 1
+    },
+    {
+        "ID": 190002,
+        "battleEffectType": 190002,
+        "buffDebuffType": 1
+    },
+    {
+        "ID": 190003,
+        "battleEffectType": 190003,
+        "buffDebuffType": 1
+    },
+    {
+        "ID": 190004,
+        "battleEffectType": 190004,
+        "buffDebuffType": 1
+    },
+    {
+        "ID": 190005,
+        "battleEffectType": 190005,
+        "buffDebuffType": 1
+    },
+    {
+        "ID": 190006,
+        "battleEffectType": 190006,
+        "buffDebuffType": 1
+    },
+    {
+        "ID": 200001,
+        "battleEffectType": 200001,
+        "buffDebuffType": 0
+    },
+    {
+        "ID": 200002,
+        "battleEffectType": 200002,
+        "buffDebuffType": 0
+    },
+    {
+        "ID": 210001,
+        "battleEffectType": 210001,
+        "buffDebuffType": 1
+    },
+    {
+        "ID": 210002,
+        "battleEffectType": 210002,
+        "buffDebuffType": 1
+    },
+    {
+        "ID": 210003,
+        "battleEffectType": 210003,
+        "buffDebuffType": 1
+    },
+    {
+        "ID": 210004,
+        "battleEffectType": 210004,
+        "buffDebuffType": 1
+    },
+    {
+        "ID": 210005,
+        "battleEffectType": 210005,
+        "buffDebuffType": 1
+    },
+    {
+        "ID": 210006,
+        "battleEffectType": 210006,
+        "buffDebuffType": 1
+    },
+    {
+        "ID": 210007,
+        "battleEffectType": 210007,
+        "buffDebuffType": 1
+    },
+    {
+        "ID": 220001,
+        "battleEffectType": 220001,
+        "buffDebuffType": 0
+    },
+    {
+        "ID": 220002,
+        "battleEffectType": 220002,
+        "buffDebuffType": 0
+    },
+    {
+        "ID": 220003,
+        "battleEffectType": 220003,
+        "buffDebuffType": 0
+    },
+    {
+        "ID": 220004,
+        "battleEffectType": 220004,
+        "buffDebuffType": 0
+    },
+    {
+        "ID": 220005,
+        "battleEffectType": 220005,
+        "buffDebuffType": 0
+    },
+    {
+        "ID": 230001,
+        "battleEffectType": 230001,
+        "buffDebuffType": 1
+    },
+    {
+        "ID": 230002,
+        "battleEffectType": 230002,
+        "buffDebuffType": 1
+    },
+    {
+        "ID": 230003,
+        "battleEffectType": 230003,
+        "buffDebuffType": 1
+    },
+    {
+        "ID": 230004,
+        "battleEffectType": 230004,
+        "buffDebuffType": 1
+    },
+    {
+        "ID": 230005,
+        "battleEffectType": 230005,
+        "buffDebuffType": 2
+    },
+    {
+        "ID": 230006,
+        "battleEffectType": 230006,
+        "buffDebuffType": 2
+    },
+    {
+        "ID": 230007,
+        "battleEffectType": 230007,
+        "buffDebuffType": 1
+    },
+    {
+        "ID": 230008,
+        "battleEffectType": 230008,
+        "buffDebuffType": 0
+    },
+    {
+        "ID": 230009,
+        "battleEffectType": 230009,
+        "buffDebuffType": 0
+    },
+    {
+        "ID": 230010,
+        "battleEffectType": 230010,
+        "buffDebuffType": 0
+    },
+    {
+        "ID": 230011,
+        "battleEffectType": 230011,
+        "buffDebuffType": 1
+    },
+    {
+        "ID": 230012,
+        "battleEffectType": 230012,
+        "buffDebuffType": 0
+    },
+    {
+        "ID": 230013,
+        "battleEffectType": 230013,
+        "buffDebuffType": 0
+    },
+    {
+        "ID": 230014,
+        "battleEffectType": 230014,
+        "buffDebuffType": 1
+    },
+    {
+        "ID": 230015,
+        "battleEffectType": 230015,
+        "buffDebuffType": 1
+    },
+    {
+        "ID": 230016,
+        "battleEffectType": 230016,
+        "buffDebuffType": 0
+    },
+    {
+        "ID": 230017,
+        "battleEffectType": 230017,
+        "buffDebuffType": 0
+    },
+    {
+        "ID": 230018,
+        "battleEffectType": 230018,
+        "buffDebuffType": 0
+    },
+    {
+        "ID": 230019,
+        "battleEffectType": 230019,
+        "buffDebuffType": 0
+    },
+    {
+        "ID": 230020,
+        "battleEffectType": 230020,
+        "buffDebuffType": 0
+    },
+    {
+        "ID": 230021,
+        "battleEffectType": 230021,
+        "buffDebuffType": 0
+    },
+    {
+        "ID": 230022,
+        "battleEffectType": 230022,
+        "buffDebuffType": 0
+    },
+    {
+        "ID": 240000,
+        "battleEffectType": 240000,
+        "buffDebuffType": 1
+    }
+]

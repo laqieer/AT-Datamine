@@ -1,0 +1,9 @@
+[
+    {
+        "ID": 1,
+        "dailyGroupId": 1,
+        "weeklyGroupId": 2,
+        "eventGroupId": 3,
+        "mainGroupId": 4
+    }
+]

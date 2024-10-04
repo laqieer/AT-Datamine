@@ -1,0 +1,17 @@
+[
+    {
+        "ID": 0,
+        "name": "無",
+        "displayName": "無"
+    },
+    {
+        "ID": 1,
+        "name": "男",
+        "displayName": "男"
+    },
+    {
+        "ID": 2,
+        "name": "女",
+        "displayName": "女"
+    }
+]

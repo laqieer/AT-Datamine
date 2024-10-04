@@ -1,0 +1,87 @@
+[
+    {
+        "ID": 1,
+        "name": "短剣",
+        "classification": 1
+    },
+    {
+        "ID": 2,
+        "name": "片手剣",
+        "classification": 2
+    },
+    {
+        "ID": 3,
+        "name": "両手剣",
+        "classification": 3
+    },
+    {
+        "ID": 4,
+        "name": "片手斧",
+        "classification": 4
+    },
+    {
+        "ID": 5,
+        "name": "大斧",
+        "classification": 5
+    },
+    {
+        "ID": 6,
+        "name": "両手ハンマー",
+        "classification": 6
+    },
+    {
+        "ID": 7,
+        "name": "槍",
+        "classification": 7
+    },
+    {
+        "ID": 8,
+        "name": "ランス",
+        "classification": 8
+    },
+    {
+        "ID": 9,
+        "name": "弓",
+        "classification": 9
+    },
+    {
+        "ID": 10,
+        "name": "ボウガン",
+        "classification": 10
+    },
+    {
+        "ID": 11,
+        "name": "ハンドガン",
+        "classification": 11
+    },
+    {
+        "ID": 12,
+        "name": "ライフル",
+        "classification": 12
+    },
+    {
+        "ID": 13,
+        "name": "魔導書",
+        "classification": 13
+    },
+    {
+        "ID": 14,
+        "name": "杖",
+        "classification": 14
+    },
+    {
+        "ID": 22,
+        "name": "刀",
+        "classification": 22
+    },
+    {
+        "ID": 23,
+        "name": "格闘",
+        "classification": 23
+    },
+    {
+        "ID": 24,
+        "name": "二挺拳銃",
+        "classification": 24
+    }
+]

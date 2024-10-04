@@ -1,0 +1,23 @@
+[
+    {
+        "ID": 1,
+        "name": "ギネヴィアオブリヴィエ",
+        "obliviaeId": 1,
+        "styleID": 101011001,
+        "releaseStoryAbility": 0
+    },
+    {
+        "ID": 2,
+        "name": "ディナタンオブリヴィエ",
+        "obliviaeId": 1,
+        "styleID": 101012001,
+        "releaseStoryAbility": 0
+    },
+    {
+        "ID": 3,
+        "name": "ランスロットオブリヴィエ",
+        "obliviaeId": 1,
+        "styleID": 101010001,
+        "releaseStoryAbility": 0
+    }
+]
