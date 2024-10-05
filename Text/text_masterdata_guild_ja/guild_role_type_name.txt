@@ -1,0 +1,6 @@
+guild__guild_role_type__name__0
+一般メンバー
+guild__guild_role_type__name__1
+サブマスター
+guild__guild_role_type__name__2
+ギルドマスター

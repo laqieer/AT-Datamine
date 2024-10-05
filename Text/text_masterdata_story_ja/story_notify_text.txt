@@ -1,0 +1,4 @@
+story__story_notify__text__3
+{0}のキズナクエストが解放されました
+story__story_notify__text__4
+召喚「伝承復元」で{0}がひけるようになりました。

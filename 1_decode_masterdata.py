@@ -4,6 +4,8 @@ import json
 import struct
 import warnings
 
+from utils import read_bytes
+
 raw_folder = 'AssetBundles/'
 json_folder = 'MasterData/'
 code_folder = 'Assembly-CSharp/GameCore/MasterData/'
@@ -72,14 +74,6 @@ def scan_code():
                     continue
                 assert data_name in file and data_name not in decode_info
                 decode_info[data_name] = serializable_fields
-
-def read_bytes(binary_file, count):
-    if count == 0:
-        return b''
-    s = binary_file.read(count)
-    if len(s) < count:
-        raise EOFError
-    return s
 
 def decode(data_name):
     binary_file_path = raw_files[data_name.lower()]

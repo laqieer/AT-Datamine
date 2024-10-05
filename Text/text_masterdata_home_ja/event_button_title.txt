@@ -1,0 +1,12 @@
+home__event_button__title__0
+
+home__event_button__title__1
+MVを再生
+home__event_button__title__2
+シナリオイベント
+home__event_button__title__3
+動画を再生
+home__event_button__title__4
+イベント特設ページ
+home__event_button__title__5
+ギルド

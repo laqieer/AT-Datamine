@@ -1,0 +1,12 @@
+expedition__stage__name__1
+紅炎の古都
+expedition__stage__name__2
+豪雪の霊峰
+expedition__stage__name__3
+雷鳴の森林
+expedition__stage__name__4
+暴風の平原
+expedition__stage__name__5
+聖光の湖畔
+expedition__stage__name__6
+暗雲の廃城

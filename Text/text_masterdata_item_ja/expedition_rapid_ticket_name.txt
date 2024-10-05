@@ -1,0 +1,6 @@
+item__expedition_rapid_ticket__name__1
+高速遠征チケット・2時間
+item__expedition_rapid_ticket__name__2
+高速遠征チケット・5時間
+item__expedition_rapid_ticket__name__3
+高速遠征チケット・10時間

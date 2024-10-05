@@ -1,0 +1,6 @@
+enum__weapon_attack_type__displayName__1
+物理
+enum__weapon_attack_type__displayName__2
+魔法
+enum__weapon_attack_type__displayName__3
+参照

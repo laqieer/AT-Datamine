@@ -1,0 +1,6 @@
+mission__total_mission__tab_name__1
+バトルクリア数
+mission__total_mission__tab_name__2
+フラグメント消費数
+mission__total_mission__tab_name__3
+デイリーミッション達成回数

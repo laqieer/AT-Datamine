@@ -1,0 +1,6 @@
+story__mainquest__story_mainquest_year__text__901
+名称：西暦499年
+story__mainquest__story_mainquest_year__text__1001
+名称：西暦500年
+story__mainquest__story_mainquest_year__text__1002
+名称：西暦501年

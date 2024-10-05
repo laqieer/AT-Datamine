@@ -1,0 +1,8 @@
+item__exchange__name__102010001
+アイアンインゴット
+item__exchange__name__102010002
+ブロンズインゴット
+item__exchange__name__102010003
+シルバーインゴット
+item__exchange__name__102010004
+ゴールドインゴット

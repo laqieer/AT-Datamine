@@ -1,0 +1,8 @@
+enum__battle_buff_tag__displayName__1
+攻撃
+enum__battle_buff_tag__displayName__2
+防御
+enum__battle_buff_tag__displayName__3
+回復
+enum__battle_buff_tag__displayName__4
+補助

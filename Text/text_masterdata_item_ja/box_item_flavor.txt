@@ -1,0 +1,104 @@
+item__box_item__flavor__1
+　特定のアイテムの中から、任意で1種類を選択して手に入れることができるBOX。
+item__box_item__flavor__2
+　特定のアイテムの中から、任意で1種類を選択して手に入れることができるBOX。
+item__box_item__flavor__3
+　特定のアイテムの中から、任意で1種類を選択して手に入れることができるBOX。
+item__box_item__flavor__4
+　特定のアイテムの中から、任意で1種類を選択して手に入れることができるBOX。
+item__box_item__flavor__5
+　特定のアイテムの中から、任意で1種類を選択して手に入れることができるBOX。
+item__box_item__flavor__6
+　特定のアイテムの中から、任意で1種類を選択して手に入れることができるBOX。
+item__box_item__flavor__7
+　特定のアイテムの中から、任意で1種類を選択して手に入れることができるBOX。
+item__box_item__flavor__8
+　特定のアイテムの中から、任意で1種類を選択して手に入れることができるBOX。
+item__box_item__flavor__9
+　特定のアイテムの中から、任意で1種類を選択して手に入れることができるBOX。
+item__box_item__flavor__10
+　特定のアイテムの中から、任意で1種類を選択して手に入れることができるBOX。
+item__box_item__flavor__11
+　特定のアイテムの中から、任意で1種類を選択して手に入れることができるBOX。
+item__box_item__flavor__12
+　特定のアイテムの中から、任意で1種類を選択して手に入れることができるBOX。
+item__box_item__flavor__13
+　特定のアイテムの中から、ランダムで1種類手に入れることができるBOX。
+item__box_item__flavor__14
+　特定のアイテムの中から、ランダムで1種類手に入れることができるBOX。
+item__box_item__flavor__15
+　特定のアイテムの中から、ランダムで1種類手に入れることができるBOX。
+item__box_item__flavor__16
+　特定のアイテムの中から、ランダムで1種類手に入れることができるBOX。
+item__box_item__flavor__17
+　特定のアイテムの中から、ランダムで1種類手に入れることができるBOX。
+item__box_item__flavor__18
+　特定のアイテムの中から、ランダムで1種類手に入れることができるBOX。
+item__box_item__flavor__19
+　特定のアイテムの中から、ランダムで1種類手に入れることができるBOX。
+item__box_item__flavor__20
+　特定のアイテムの中から、ランダムで1種類手に入れることができるBOX。
+item__box_item__flavor__21
+　特定のアイテムの中から、ランダムで1種類手に入れることができるBOX。
+item__box_item__flavor__22
+　特定のアイテムの中から、ランダムで1種類手に入れることができるBOX。
+item__box_item__flavor__23
+　特定のアイテムの中から、ランダムで1種類手に入れることができるBOX。
+item__box_item__flavor__24
+　特定のアイテムの中から、ランダムで1種類手に入れることができるBOX。
+item__box_item__flavor__25
+　特定のアイテムの中から、ランダムで1種類手に入れることができるBOX。
+item__box_item__flavor__26
+　特定のアイテムの中から、ランダムで1種類手に入れることができるBOX。
+item__box_item__flavor__27
+　特定のアイテムの中から、ランダムで1種類手に入れることができるBOX。
+item__box_item__flavor__28
+　特定のアイテムの中から、ランダムで1種類手に入れることができるBOX。
+item__box_item__flavor__29
+　特定のアイテムの中から、ランダムで1種類手に入れることができるBOX。
+item__box_item__flavor__30
+　特定のアイテムの中から、ランダムで1種類手に入れることができるBOX。
+item__box_item__flavor__31
+　特定のアイテムの中から、ランダムで1種類手に入れることができるBOX。
+item__box_item__flavor__32
+　特定のアイテムの中から、ランダムで1種類手に入れることができるBOX。
+item__box_item__flavor__33
+　特定のアイテムの中から、ランダムで1種類手に入れることができるBOX。
+item__box_item__flavor__34
+　特定のアイテムの中から、ランダムで1種類手に入れることができるBOX。
+item__box_item__flavor__35
+　特定のアイテムの中から、任意で1種類を選択して手に入れることができるBOX。
+item__box_item__flavor__36
+　特定のアイテムの中から、任意で1種類を選択して手に入れることができるBOX。
+item__box_item__flavor__37
+　特定のアイテムの中から、任意で1種類を選択して手に入れることができるBOX。
+item__box_item__flavor__38
+　特定のアイテムの中から、任意で1種類を選択して手に入れることができるBOX。
+item__box_item__flavor__39
+　特定のアイテムの中から、ランダムで1種類手に入れることができるBOX。
+item__box_item__flavor__40
+　特定のアイテムの中から、ランダムで1種類手に入れることができるBOX。
+item__box_item__flavor__41
+　特定のアイテムの中から、任意で1種類を選択して手に入れることができるBOX。
+item__box_item__flavor__42
+　特定のアイテムの中から、ランダムで1種類手に入れることができるBOX。
+item__box_item__flavor__43
+　特定のアイテムの中から、ランダムで1種類手に入れることができるBOX。
+item__box_item__flavor__44
+　特定のアイテムの中から、ランダムで1種類手に入れることができるBOX。
+item__box_item__flavor__45
+　特定のアイテムの中から、任意で1種類を選択して手に入れることができるBOX。
+item__box_item__flavor__46
+　特定のアイテムの中から、ランダムで1種類手に入れることができるBOX。
+item__box_item__flavor__47
+　特定のアイテムの中から、任意で1種類を選択して手に入れることができるBOX。
+item__box_item__flavor__48
+　特定のアイテムの中から、ランダムで1種類手に入れることができるBOX。
+item__box_item__flavor__49
+　特定のアイテムの中から、任意で1種類を選択して手に入れることができるBOX。
+item__box_item__flavor__50
+　特定のアイテムの中から、ランダムで1種類手に入れることができるBOX。
+item__box_item__flavor__51
+　特定のアイテムの中から、ランダムで1種類手に入れることができるBOX。
+item__box_item__flavor__52
+　特定のアイテムの中から、ランダムで1種類手に入れることができるBOX。

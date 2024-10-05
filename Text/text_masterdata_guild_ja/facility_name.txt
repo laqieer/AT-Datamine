@@ -1,0 +1,8 @@
+guild__facility__name__101
+繁栄を司る者の像
+guild__facility__name__102
+勇猛を司る者の像
+guild__facility__name__103
+堅牢を司る者の像
+guild__facility__name__104
+神速を司る者の像

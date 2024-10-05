@@ -1,0 +1,4 @@
+item__currency__name__201010001
+ゼニー
+item__currency__name__201020001
+ブリテンコイン

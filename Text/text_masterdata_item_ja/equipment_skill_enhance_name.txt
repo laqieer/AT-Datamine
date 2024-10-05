@@ -1,0 +1,6 @@
+item__equipment_skill_enhance__name__104080001
+淡きメモリーコア
+item__equipment_skill_enhance__name__104080002
+眩しきメモリーコア
+item__equipment_skill_enhance__name__104080003
+虹色のメモリーコア

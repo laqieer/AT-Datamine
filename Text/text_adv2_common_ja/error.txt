@@ -1,0 +1,6 @@
+gdlc.ApplicationVersionError
+新しいバージョンの\nアプリケーションが存在します
+gdlc.DlcVersionError
+新しいDLCが存在します
+NetworkConnectionFailed
+通信エラー

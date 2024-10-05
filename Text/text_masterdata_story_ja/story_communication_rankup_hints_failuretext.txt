@@ -1,0 +1,8 @@
+story__communication__story_communication_rankup_hints__failuretext__1
+まだ{0}との絆は深まりそうにない。
+story__communication__story_communication_rankup_hints__failuretext__3
+まだ{0}との絆は深まりそうにない。時期を改めれば、絆を深められそうだ。
+story__communication__story_communication_rankup_hints__failuretext__4
+{0}との絆は深まりそうにない。絆を深める機会を逃してしまったようだ。
+story__communication__story_communication_rankup_hints__failuretext__5
+まだ{0}との絆は深まりそうにない。{1}が{2}ならば、絆を深められそうだ。

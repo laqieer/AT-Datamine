@@ -1,0 +1,2 @@
+battle__story_battle_mission__name__1
+10ターン以内にクリア

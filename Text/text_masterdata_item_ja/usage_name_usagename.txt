@@ -1,0 +1,16 @@
+item__usage_name__usagename__0
+空扱い
+item__usage_name__usagename__1
+レベルアップ
+item__usage_name__usagename__2
+スタイルボード
+item__usage_name__usagename__3
+潜在能力の抽選
+item__usage_name__usagename__4
+スキルLvアップ
+item__usage_name__usagename__5
+FP回復
+item__usage_name__usagename__6
+限界突破
+item__usage_name__usagename__7
+特別転生

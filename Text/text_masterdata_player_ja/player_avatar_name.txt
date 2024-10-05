@@ -1,0 +1,12 @@
+player__player_avatar__name__1
+男性1
+player__player_avatar__name__2
+女性1
+player__player_avatar__name__3
+男性2
+player__player_avatar__name__4
+女性2
+player__player_avatar__name__5
+男性3
+player__player_avatar__name__6
+女性3

@@ -1,0 +1,12 @@
+item__resource_item__name__201120001
+アズールフラグメント
+item__resource_item__name__201130001
+クリムゾンフラグメント
+item__resource_item__name__101060001
+EXPフラグメント
+item__resource_item__name__101030003
+APフラグメント
+item__resource_item__name__1
+伝晶石
+item__resource_item__name__2
+伝晶石(有償)

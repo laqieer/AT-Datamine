@@ -1,0 +1,10 @@
+story__story_human_parameter__text__1
+知性
+story__story_human_parameter__text__2
+メンタル
+story__story_human_parameter__text__3
+器用さ
+story__story_human_parameter__text__4
+優しさ
+story__story_human_parameter__text__5
+センス

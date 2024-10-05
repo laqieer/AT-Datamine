@@ -1,0 +1,4 @@
+guild__guild_settings_auto_kick_type__name__0
+OFF
+guild__guild_settings_auto_kick_type__name__1
+ON
