@@ -1,0 +1,11 @@
+-- いちいちマスターに登録するのが面倒な場合に使う
+--Include("content_luascript__sample", "WindowTest")
+--Include("content_luascript__sample", "CameraTest")
+--Include("content_luascript__sample", "LookatTest")
+--Include("content_luascript__sample", "CameraTest")
+--Include("content_luascript__sample", "GetObjectTest")
+--Include("content_luascript__sample", "GroundMoveTest")
+--Include("content_luascript__sample", "CameraLookAtDebug")
+--Include("content_luascript__sample", "TimelineTest")
+--Include("content_luascript__sample", "ObjMotTest")
+Include("content_luascript__sample", "ModelViewer7")

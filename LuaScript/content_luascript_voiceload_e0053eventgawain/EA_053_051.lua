@@ -1,0 +1,16 @@
+function PreloadVoicePack()
+preload_sound("VO_101009")
+preload_sound("VO_401012")
+preload_sound("VO_101013")
+preload_sound("VO_101013004")
+preload_sound("VO_101033")
+preload_sound("VO_101033003")
+end
+function LoadVoicePack()
+load_sound("VO_101009")
+load_sound("VO_401012")
+load_sound("VO_101013")
+load_sound("VO_101013004")
+load_sound("VO_101033")
+load_sound("VO_101033003")
+end
