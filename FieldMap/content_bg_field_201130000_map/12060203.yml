@@ -1,0 +1,3436 @@
+root_path: "..\\.."
+field_name: "Bgf_S0113_00_00"
+width: 42
+height: 42
+movable_width: 42
+movable_height: 42
+map_chip_scale: false
+ground:
+ - x : 0
+   y : 0
+   name : Bgf_S0113_00_00
+   full_name : Field/Bgf_S0113_00_00/fbx/Bgf_S0113_00_00.fbx/Bgf_S0113_00_00
+   height : 0
+
+objects:
+ - x : 40
+   y : 34
+   rotate : 0
+   name : Bgf_ShareL01_Uobj_Scaffold
+   full_name : Uobj/Large/ShareL01/Scaffold/fbx/Bgf_ShareL01_Uobj_Scaffold.fbx/Bgf_ShareL01_Uobj_Scaffold
+ - x : 3
+   y : 25
+   rotate : 0
+   name : Bgf_ShareL01_Uobj_Scaffold
+   full_name : Uobj/Large/ShareL01/Scaffold/fbx/Bgf_ShareL01_Uobj_Scaffold.fbx/Bgf_ShareL01_Uobj_Scaffold
+ - x : 8
+   y : 18
+   rotate : 0
+   name : Bgf_ShareL01_Uobj_Scaffold
+   full_name : Uobj/Large/ShareL01/Scaffold/fbx/Bgf_ShareL01_Uobj_Scaffold.fbx/Bgf_ShareL01_Uobj_Scaffold
+ - x : 13
+   y : 24
+   rotate : 0
+   name : Bgf_ShareL01_Uobj_Scaffold
+   full_name : Uobj/Large/ShareL01/Scaffold/fbx/Bgf_ShareL01_Uobj_Scaffold.fbx/Bgf_ShareL01_Uobj_Scaffold
+ - x : 18
+   y : 22
+   rotate : 0
+   name : Bgf_ShareL01_Uobj_Scaffold
+   full_name : Uobj/Large/ShareL01/Scaffold/fbx/Bgf_ShareL01_Uobj_Scaffold.fbx/Bgf_ShareL01_Uobj_Scaffold
+ - x : 24
+   y : 22
+   rotate : 0
+   name : Bgf_ShareL01_Uobj_Scaffold
+   full_name : Uobj/Large/ShareL01/Scaffold/fbx/Bgf_ShareL01_Uobj_Scaffold.fbx/Bgf_ShareL01_Uobj_Scaffold
+ - x : 29
+   y : 24
+   rotate : 0
+   name : Bgf_ShareL01_Uobj_Scaffold
+   full_name : Uobj/Large/ShareL01/Scaffold/fbx/Bgf_ShareL01_Uobj_Scaffold.fbx/Bgf_ShareL01_Uobj_Scaffold
+ - x : 31
+   y : 28
+   rotate : 0
+   name : Bgf_ShareL01_Uobj_Scaffold
+   full_name : Uobj/Large/ShareL01/Scaffold/fbx/Bgf_ShareL01_Uobj_Scaffold.fbx/Bgf_ShareL01_Uobj_Scaffold
+ - x : 32
+   y : 32
+   rotate : 0
+   name : Bgf_ShareL01_Uobj_Scaffold
+   full_name : Uobj/Large/ShareL01/Scaffold/fbx/Bgf_ShareL01_Uobj_Scaffold.fbx/Bgf_ShareL01_Uobj_Scaffold
+ - x : 36
+   y : 34
+   rotate : 0
+   name : Bgf_ShareL01_Uobj_Scaffold
+   full_name : Uobj/Large/ShareL01/Scaffold/fbx/Bgf_ShareL01_Uobj_Scaffold.fbx/Bgf_ShareL01_Uobj_Scaffold
+ - x : 38
+   y : 34
+   rotate : 0
+   name : Bgf_ShareL01_Uobj_Scaffold
+   full_name : Uobj/Large/ShareL01/Scaffold/fbx/Bgf_ShareL01_Uobj_Scaffold.fbx/Bgf_ShareL01_Uobj_Scaffold
+ - x : 36
+   y : 13
+   rotate : 0
+   name : Bgf_ShareL01_Uobj_FortHP
+   full_name : Uobj/Large/ShareL01/FortHP/fbx/Bgf_ShareL01_Uobj_FortHP.fbx/Bgf_ShareL01_Uobj_FortHP
+ - x : 38
+   y : 7
+   rotate : 0
+   name : Bgf_ShareL01_Uobj_FortHP
+   full_name : Uobj/Large/ShareL01/FortHP/fbx/Bgf_ShareL01_Uobj_FortHP.fbx/Bgf_ShareL01_Uobj_FortHP
+ - x : 34
+   y : 2
+   rotate : 0
+   name : Bgf_ShareL01_Uobj_FortHP
+   full_name : Uobj/Large/ShareL01/FortHP/fbx/Bgf_ShareL01_Uobj_FortHP.fbx/Bgf_ShareL01_Uobj_FortHP
+ - x : 37
+   y : 20
+   rotate : 0
+   name : Bgf_ShareL01_Uobj_FortHP
+   full_name : Uobj/Large/ShareL01/FortHP/fbx/Bgf_ShareL01_Uobj_FortHP.fbx/Bgf_ShareL01_Uobj_FortHP
+ - x : 39
+   y : 24
+   rotate : 0
+   name : Bgf_ShareL01_Uobj_FortHP
+   full_name : Uobj/Large/ShareL01/FortHP/fbx/Bgf_ShareL01_Uobj_FortHP.fbx/Bgf_ShareL01_Uobj_FortHP
+ - x : 37
+   y : 29
+   rotate : 0
+   name : Bgf_ShareL01_Uobj_FortHP
+   full_name : Uobj/Large/ShareL01/FortHP/fbx/Bgf_ShareL01_Uobj_FortHP.fbx/Bgf_ShareL01_Uobj_FortHP
+ - x : 33
+   y : 20
+   rotate : 0
+   name : Bgf_ShareL01_Uobj_FortHP
+   full_name : Uobj/Large/ShareL01/FortHP/fbx/Bgf_ShareL01_Uobj_FortHP.fbx/Bgf_ShareL01_Uobj_FortHP
+ - x : 27
+   y : 20
+   rotate : 0
+   name : Bgf_ShareL01_Uobj_FortHP
+   full_name : Uobj/Large/ShareL01/FortHP/fbx/Bgf_ShareL01_Uobj_FortHP.fbx/Bgf_ShareL01_Uobj_FortHP
+ - x : 36
+   y : 36
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Tree_A01
+   full_name : Uobj/Large/Bgf_S0102_00/Tree/fbx/Bgf_S0102_00_Uobj_Tree.fbx/Bgf_S0102_00_Uobj_Tree_A01
+ - x : 25
+   y : 36
+   rotate : 0
+   name : Bgf_ShareL01_Uobj_Bonfire_A
+   full_name : Uobj/Large/ShareL01/Bonfire/fbx/Bgf_ShareL01_Uobj_Bonfire.fbx/Bgf_ShareL01_Uobj_Bonfire_A
+ - x : 17
+   y : 36
+   rotate : 0
+   name : Bgf_ShareL01_Uobj_Bonfire_A
+   full_name : Uobj/Large/ShareL01/Bonfire/fbx/Bgf_ShareL01_Uobj_Bonfire.fbx/Bgf_ShareL01_Uobj_Bonfire_A
+ - x : 37
+   y : 35
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Tree_A02
+   full_name : Uobj/Large/Bgf_S0102_00/Tree/fbx/Bgf_S0102_00_Uobj_Tree.fbx/Bgf_S0102_00_Uobj_Tree_A02
+ - x : 24
+   y : 32
+   rotate : 0
+   name : Bgf_ShareL01_Uobj_Bonfire_A
+   full_name : Uobj/Large/ShareL01/Bonfire/fbx/Bgf_ShareL01_Uobj_Bonfire.fbx/Bgf_ShareL01_Uobj_Bonfire_A
+ - x : 18
+   y : 32
+   rotate : 0
+   name : Bgf_ShareL01_Uobj_Bonfire_A
+   full_name : Uobj/Large/ShareL01/Bonfire/fbx/Bgf_ShareL01_Uobj_Bonfire.fbx/Bgf_ShareL01_Uobj_Bonfire_A
+ - x : 19
+   y : 28
+   rotate : 0
+   name : Bgf_ShareL01_Uobj_Bonfire_A
+   full_name : Uobj/Large/ShareL01/Bonfire/fbx/Bgf_ShareL01_Uobj_Bonfire.fbx/Bgf_ShareL01_Uobj_Bonfire_A
+ - x : 23
+   y : 28
+   rotate : 0
+   name : Bgf_ShareL01_Uobj_Bonfire_A
+   full_name : Uobj/Large/ShareL01/Bonfire/fbx/Bgf_ShareL01_Uobj_Bonfire.fbx/Bgf_ShareL01_Uobj_Bonfire_A
+ - x : 23
+   y : 24
+   rotate : 0
+   name : Bgf_ShareL01_Uobj_Bonfire_A
+   full_name : Uobj/Large/ShareL01/Bonfire/fbx/Bgf_ShareL01_Uobj_Bonfire.fbx/Bgf_ShareL01_Uobj_Bonfire_A
+ - x : 19
+   y : 24
+   rotate : 0
+   name : Bgf_ShareL01_Uobj_Bonfire_A
+   full_name : Uobj/Large/ShareL01/Bonfire/fbx/Bgf_ShareL01_Uobj_Bonfire.fbx/Bgf_ShareL01_Uobj_Bonfire_A
+ - x : 19
+   y : 20
+   rotate : 0
+   name : Bgf_ShareL01_Uobj_Bonfire_A
+   full_name : Uobj/Large/ShareL01/Bonfire/fbx/Bgf_ShareL01_Uobj_Bonfire.fbx/Bgf_ShareL01_Uobj_Bonfire_A
+ - x : 23
+   y : 20
+   rotate : 0
+   name : Bgf_ShareL01_Uobj_Bonfire_A
+   full_name : Uobj/Large/ShareL01/Bonfire/fbx/Bgf_ShareL01_Uobj_Bonfire.fbx/Bgf_ShareL01_Uobj_Bonfire_A
+ - x : 19
+   y : 16
+   rotate : 0
+   name : Bgf_ShareL01_Uobj_Bonfire_A
+   full_name : Uobj/Large/ShareL01/Bonfire/fbx/Bgf_ShareL01_Uobj_Bonfire.fbx/Bgf_ShareL01_Uobj_Bonfire_A
+ - x : 23
+   y : 16
+   rotate : 0
+   name : Bgf_ShareL01_Uobj_Bonfire_A
+   full_name : Uobj/Large/ShareL01/Bonfire/fbx/Bgf_ShareL01_Uobj_Bonfire.fbx/Bgf_ShareL01_Uobj_Bonfire_A
+ - x : 15
+   y : 23
+   rotate : 2
+   name : Bgf_ShareA01_Uobj_FenceHorse
+   full_name : Uobj/Share/ShareA01/Fence/fbx/Bgf_ShareA01_Uobj_Fence.fbx/Bgf_ShareA01_Uobj_FenceHorse
+ - x : 16
+   y : 23
+   rotate : 2
+   name : Bgf_ShareA01_Uobj_FenceHorse
+   full_name : Uobj/Share/ShareA01/Fence/fbx/Bgf_ShareA01_Uobj_Fence.fbx/Bgf_ShareA01_Uobj_FenceHorse
+ - x : 14
+   y : 20
+   rotate : 2
+   name : Bgf_ShareA01_Uobj_FenceHorse
+   full_name : Uobj/Share/ShareA01/Fence/fbx/Bgf_ShareA01_Uobj_Fence.fbx/Bgf_ShareA01_Uobj_FenceHorse
+ - x : 13
+   y : 20
+   rotate : 2
+   name : Bgf_ShareA01_Uobj_FenceHorse
+   full_name : Uobj/Share/ShareA01/Fence/fbx/Bgf_ShareA01_Uobj_Fence.fbx/Bgf_ShareA01_Uobj_FenceHorse
+ - x : 15
+   y : 18
+   rotate : 2
+   name : Bgf_ShareA01_Uobj_FenceHorse
+   full_name : Uobj/Share/ShareA01/Fence/fbx/Bgf_ShareA01_Uobj_Fence.fbx/Bgf_ShareA01_Uobj_FenceHorse
+ - x : 16
+   y : 18
+   rotate : 2
+   name : Bgf_ShareA01_Uobj_FenceHorse
+   full_name : Uobj/Share/ShareA01/Fence/fbx/Bgf_ShareA01_Uobj_Fence.fbx/Bgf_ShareA01_Uobj_FenceHorse
+ - x : 18
+   y : 17
+   rotate : 2
+   name : Bgf_ShareA01_Uobj_FenceHorse
+   full_name : Uobj/Share/ShareA01/Fence/fbx/Bgf_ShareA01_Uobj_Fence.fbx/Bgf_ShareA01_Uobj_FenceHorse
+ - x : 19
+   y : 17
+   rotate : 2
+   name : Bgf_ShareA01_Uobj_FenceHorse
+   full_name : Uobj/Share/ShareA01/Fence/fbx/Bgf_ShareA01_Uobj_Fence.fbx/Bgf_ShareA01_Uobj_FenceHorse
+ - x : 26
+   y : 18
+   rotate : 2
+   name : Bgf_ShareA01_Uobj_FenceHorse
+   full_name : Uobj/Share/ShareA01/Fence/fbx/Bgf_ShareA01_Uobj_Fence.fbx/Bgf_ShareA01_Uobj_FenceHorse
+ - x : 27
+   y : 18
+   rotate : 2
+   name : Bgf_ShareA01_Uobj_FenceHorse
+   full_name : Uobj/Share/ShareA01/Fence/fbx/Bgf_ShareA01_Uobj_Fence.fbx/Bgf_ShareA01_Uobj_FenceHorse
+ - x : 28
+   y : 18
+   rotate : 2
+   name : Bgf_ShareA01_Uobj_FenceHorse
+   full_name : Uobj/Share/ShareA01/Fence/fbx/Bgf_ShareA01_Uobj_Fence.fbx/Bgf_ShareA01_Uobj_FenceHorse
+ - x : 27
+   y : 23
+   rotate : 2
+   name : Bgf_ShareA01_Uobj_FenceHorse
+   full_name : Uobj/Share/ShareA01/Fence/fbx/Bgf_ShareA01_Uobj_Fence.fbx/Bgf_ShareA01_Uobj_FenceHorse
+ - x : 26
+   y : 23
+   rotate : 2
+   name : Bgf_ShareA01_Uobj_FenceHorse
+   full_name : Uobj/Share/ShareA01/Fence/fbx/Bgf_ShareA01_Uobj_Fence.fbx/Bgf_ShareA01_Uobj_FenceHorse
+ - x : 29
+   y : 26
+   rotate : 2
+   name : Bgf_ShareA01_Uobj_FenceHorse
+   full_name : Uobj/Share/ShareA01/Fence/fbx/Bgf_ShareA01_Uobj_Fence.fbx/Bgf_ShareA01_Uobj_FenceHorse
+ - x : 30
+   y : 26
+   rotate : 2
+   name : Bgf_ShareA01_Uobj_FenceHorse
+   full_name : Uobj/Share/ShareA01/Fence/fbx/Bgf_ShareA01_Uobj_Fence.fbx/Bgf_ShareA01_Uobj_FenceHorse
+ - x : 32
+   y : 30
+   rotate : 2
+   name : Bgf_ShareA01_Uobj_FenceHorse
+   full_name : Uobj/Share/ShareA01/Fence/fbx/Bgf_ShareA01_Uobj_Fence.fbx/Bgf_ShareA01_Uobj_FenceHorse
+ - x : 33
+   y : 30
+   rotate : 2
+   name : Bgf_ShareA01_Uobj_FenceHorse
+   full_name : Uobj/Share/ShareA01/Fence/fbx/Bgf_ShareA01_Uobj_Fence.fbx/Bgf_ShareA01_Uobj_FenceHorse
+ - x : 33
+   y : 18
+   rotate : 2
+   name : Bgf_ShareA01_Uobj_FenceHorse
+   full_name : Uobj/Share/ShareA01/Fence/fbx/Bgf_ShareA01_Uobj_Fence.fbx/Bgf_ShareA01_Uobj_FenceHorse
+ - x : 34
+   y : 18
+   rotate : 2
+   name : Bgf_ShareA01_Uobj_FenceHorse
+   full_name : Uobj/Share/ShareA01/Fence/fbx/Bgf_ShareA01_Uobj_Fence.fbx/Bgf_ShareA01_Uobj_FenceHorse
+ - x : 32
+   y : 18
+   rotate : 2
+   name : Bgf_ShareA01_Uobj_FenceHorse
+   full_name : Uobj/Share/ShareA01/Fence/fbx/Bgf_ShareA01_Uobj_Fence.fbx/Bgf_ShareA01_Uobj_FenceHorse
+ - x : 38
+   y : 18
+   rotate : 2
+   name : Bgf_ShareA01_Uobj_FenceHorse
+   full_name : Uobj/Share/ShareA01/Fence/fbx/Bgf_ShareA01_Uobj_Fence.fbx/Bgf_ShareA01_Uobj_FenceHorse
+ - x : 39
+   y : 19
+   rotate : 1
+   name : Bgf_ShareA01_Uobj_FenceHorse
+   full_name : Uobj/Share/ShareA01/Fence/fbx/Bgf_ShareA01_Uobj_Fence.fbx/Bgf_ShareA01_Uobj_FenceHorse
+ - x : 39
+   y : 18
+   rotate : 1
+   name : Bgf_ShareA01_Uobj_FenceHorse
+   full_name : Uobj/Share/ShareA01/Fence/fbx/Bgf_ShareA01_Uobj_Fence.fbx/Bgf_ShareA01_Uobj_FenceHorse
+ - x : 39
+   y : 20
+   rotate : 1
+   name : Bgf_ShareA01_Uobj_FenceHorse
+   full_name : Uobj/Share/ShareA01/Fence/fbx/Bgf_ShareA01_Uobj_Fence.fbx/Bgf_ShareA01_Uobj_FenceHorse
+ - x : 39
+   y : 28
+   rotate : 1
+   name : Bgf_ShareA01_Uobj_FenceHorse
+   full_name : Uobj/Share/ShareA01/Fence/fbx/Bgf_ShareA01_Uobj_Fence.fbx/Bgf_ShareA01_Uobj_FenceHorse
+ - x : 39
+   y : 29
+   rotate : 1
+   name : Bgf_ShareA01_Uobj_FenceHorse
+   full_name : Uobj/Share/ShareA01/Fence/fbx/Bgf_ShareA01_Uobj_Fence.fbx/Bgf_ShareA01_Uobj_FenceHorse
+ - x : 39
+   y : 30
+   rotate : 1
+   name : Bgf_ShareA01_Uobj_FenceHorse
+   full_name : Uobj/Share/ShareA01/Fence/fbx/Bgf_ShareA01_Uobj_Fence.fbx/Bgf_ShareA01_Uobj_FenceHorse
+ - x : 37
+   y : 25
+   rotate : 1
+   name : Bgf_ShareA01_Uobj_FenceHorse
+   full_name : Uobj/Share/ShareA01/Fence/fbx/Bgf_ShareA01_Uobj_Fence.fbx/Bgf_ShareA01_Uobj_FenceHorse
+ - x : 37
+   y : 24
+   rotate : 1
+   name : Bgf_ShareA01_Uobj_FenceHorse
+   full_name : Uobj/Share/ShareA01/Fence/fbx/Bgf_ShareA01_Uobj_Fence.fbx/Bgf_ShareA01_Uobj_FenceHorse
+ - x : 37
+   y : 23
+   rotate : 1
+   name : Bgf_ShareA01_Uobj_FenceHorse
+   full_name : Uobj/Share/ShareA01/Fence/fbx/Bgf_ShareA01_Uobj_Fence.fbx/Bgf_ShareA01_Uobj_FenceHorse
+ - x : 32
+   y : 15
+   rotate : 1
+   name : Bgf_S0102_00_Uobj_Rock_B
+   full_name : Uobj/Large/Bgf_S0102_00/Rock/fbx/Bgf_S0102_00_Uobj_Rock.fbx/Bgf_S0102_00_Uobj_Rock_B
+ - x : 33
+   y : 12
+   rotate : 3
+   name : Bgf_S0102_00_Uobj_Rock_C
+   full_name : Uobj/Large/Bgf_S0102_00/Rock/fbx/Bgf_S0102_00_Uobj_Rock.fbx/Bgf_S0102_00_Uobj_Rock_C
+ - x : 31
+   y : 12
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Rock_A
+   full_name : Uobj/Large/Bgf_S0102_00/Rock/fbx/Bgf_S0102_00_Uobj_Rock.fbx/Bgf_S0102_00_Uobj_Rock_A
+ - x : 32
+   y : 11
+   rotate : 2
+   name : Bgf_S0102_00_Uobj_Rock_B
+   full_name : Uobj/Large/Bgf_S0102_00/Rock/fbx/Bgf_S0102_00_Uobj_Rock.fbx/Bgf_S0102_00_Uobj_Rock_B
+ - x : 30
+   y : 10
+   rotate : 1
+   name : Bgf_S0102_00_Uobj_Rock_C
+   full_name : Uobj/Large/Bgf_S0102_00/Rock/fbx/Bgf_S0102_00_Uobj_Rock.fbx/Bgf_S0102_00_Uobj_Rock_C
+ - x : 30
+   y : 14
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Rock_C
+   full_name : Uobj/Large/Bgf_S0102_00/Rock/fbx/Bgf_S0102_00_Uobj_Rock.fbx/Bgf_S0102_00_Uobj_Rock_C
+ - x : 29
+   y : 14
+   rotate : 1
+   name : Bgf_S0102_00_Uobj_Rock_B
+   full_name : Uobj/Large/Bgf_S0102_00/Rock/fbx/Bgf_S0102_00_Uobj_Rock.fbx/Bgf_S0102_00_Uobj_Rock_B
+ - x : 27
+   y : 13
+   rotate : 3
+   name : Bgf_S0102_00_Uobj_Rock_B
+   full_name : Uobj/Large/Bgf_S0102_00/Rock/fbx/Bgf_S0102_00_Uobj_Rock.fbx/Bgf_S0102_00_Uobj_Rock_B
+ - x : 27
+   y : 11
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Rock_A
+   full_name : Uobj/Large/Bgf_S0102_00/Rock/fbx/Bgf_S0102_00_Uobj_Rock.fbx/Bgf_S0102_00_Uobj_Rock_A
+ - x : 29
+   y : 11
+   rotate : 3
+   name : Bgf_S0102_00_Uobj_Rock_B
+   full_name : Uobj/Large/Bgf_S0102_00/Rock/fbx/Bgf_S0102_00_Uobj_Rock.fbx/Bgf_S0102_00_Uobj_Rock_B
+ - x : 29
+   y : 9
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Rock_A
+   full_name : Uobj/Large/Bgf_S0102_00/Rock/fbx/Bgf_S0102_00_Uobj_Rock.fbx/Bgf_S0102_00_Uobj_Rock_A
+ - x : 32
+   y : 9
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Rock_A
+   full_name : Uobj/Large/Bgf_S0102_00/Rock/fbx/Bgf_S0102_00_Uobj_Rock.fbx/Bgf_S0102_00_Uobj_Rock_A
+ - x : 31
+   y : 8
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Rock_B
+   full_name : Uobj/Large/Bgf_S0102_00/Rock/fbx/Bgf_S0102_00_Uobj_Rock.fbx/Bgf_S0102_00_Uobj_Rock_B
+ - x : 30
+   y : 7
+   rotate : 3
+   name : Bgf_S0102_00_Uobj_Rock_C
+   full_name : Uobj/Large/Bgf_S0102_00/Rock/fbx/Bgf_S0102_00_Uobj_Rock.fbx/Bgf_S0102_00_Uobj_Rock_C
+ - x : 32
+   y : 6
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Rock_B
+   full_name : Uobj/Large/Bgf_S0102_00/Rock/fbx/Bgf_S0102_00_Uobj_Rock.fbx/Bgf_S0102_00_Uobj_Rock_B
+ - x : 30
+   y : 5
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Rock_A
+   full_name : Uobj/Large/Bgf_S0102_00/Rock/fbx/Bgf_S0102_00_Uobj_Rock.fbx/Bgf_S0102_00_Uobj_Rock_A
+ - x : 34
+   y : 5
+   rotate : 2
+   name : Bgf_S0102_00_Uobj_Rock_C
+   full_name : Uobj/Large/Bgf_S0102_00/Rock/fbx/Bgf_S0102_00_Uobj_Rock.fbx/Bgf_S0102_00_Uobj_Rock_C
+ - x : 9
+   y : 26
+   rotate : 2
+   name : Bgf_S0102_00_Uobj_Rock_B
+   full_name : Uobj/Large/Bgf_S0102_00/Rock/fbx/Bgf_S0102_00_Uobj_Rock.fbx/Bgf_S0102_00_Uobj_Rock_B
+ - x : 6
+   y : 28
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Rock_A
+   full_name : Uobj/Large/Bgf_S0102_00/Rock/fbx/Bgf_S0102_00_Uobj_Rock.fbx/Bgf_S0102_00_Uobj_Rock_A
+ - x : 5
+   y : 26
+   rotate : 2
+   name : Bgf_S0102_00_Uobj_Rock_C
+   full_name : Uobj/Large/Bgf_S0102_00/Rock/fbx/Bgf_S0102_00_Uobj_Rock.fbx/Bgf_S0102_00_Uobj_Rock_C
+ - x : 7
+   y : 25
+   rotate : 3
+   name : Bgf_S0102_00_Uobj_Rock_B
+   full_name : Uobj/Large/Bgf_S0102_00/Rock/fbx/Bgf_S0102_00_Uobj_Rock.fbx/Bgf_S0102_00_Uobj_Rock_B
+ - x : 6
+   y : 23
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Rock_A
+   full_name : Uobj/Large/Bgf_S0102_00/Rock/fbx/Bgf_S0102_00_Uobj_Rock.fbx/Bgf_S0102_00_Uobj_Rock_A
+ - x : 3
+   y : 27
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Rock_B
+   full_name : Uobj/Large/Bgf_S0102_00/Rock/fbx/Bgf_S0102_00_Uobj_Rock.fbx/Bgf_S0102_00_Uobj_Rock_B
+ - x : 5
+   y : 6
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Tree_A01
+   full_name : Uobj/Large/Bgf_S0102_00/Tree/fbx/Bgf_S0102_00_Uobj_Tree.fbx/Bgf_S0102_00_Uobj_Tree_A01
+ - x : 1
+   y : 8
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Tree_A03
+   full_name : Uobj/Large/Bgf_S0102_00/Tree/fbx/Bgf_S0102_00_Uobj_Tree.fbx/Bgf_S0102_00_Uobj_Tree_A03
+ - x : 2
+   y : 3
+   rotate : 1
+   name : Bgf_S0102_00_Uobj_Tree_A01
+   full_name : Uobj/Large/Bgf_S0102_00/Tree/fbx/Bgf_S0102_00_Uobj_Tree.fbx/Bgf_S0102_00_Uobj_Tree_A01
+ - x : 6
+   y : 2
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Tree_A02
+   full_name : Uobj/Large/Bgf_S0102_00/Tree/fbx/Bgf_S0102_00_Uobj_Tree.fbx/Bgf_S0102_00_Uobj_Tree_A02
+ - x : 9
+   y : 4
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Tree_A03
+   full_name : Uobj/Large/Bgf_S0102_00/Tree/fbx/Bgf_S0102_00_Uobj_Tree.fbx/Bgf_S0102_00_Uobj_Tree_A03
+ - x : 14
+   y : 1
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Tree_A03
+   full_name : Uobj/Large/Bgf_S0102_00/Tree/fbx/Bgf_S0102_00_Uobj_Tree.fbx/Bgf_S0102_00_Uobj_Tree_A03
+ - x : 13
+   y : 5
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Tree_A01
+   full_name : Uobj/Large/Bgf_S0102_00/Tree/fbx/Bgf_S0102_00_Uobj_Tree.fbx/Bgf_S0102_00_Uobj_Tree_A01
+ - x : 12
+   y : 7
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Tree_A02
+   full_name : Uobj/Large/Bgf_S0102_00/Tree/fbx/Bgf_S0102_00_Uobj_Tree.fbx/Bgf_S0102_00_Uobj_Tree_A02
+ - x : 15
+   y : 4
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Tree_A02
+   full_name : Uobj/Large/Bgf_S0102_00/Tree/fbx/Bgf_S0102_00_Uobj_Tree.fbx/Bgf_S0102_00_Uobj_Tree_A02
+ - x : 25
+   y : 10
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Tree_A03
+   full_name : Uobj/Large/Bgf_S0102_00/Tree/fbx/Bgf_S0102_00_Uobj_Tree.fbx/Bgf_S0102_00_Uobj_Tree_A03
+ - x : 25
+   y : 9
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Tree_A02
+   full_name : Uobj/Large/Bgf_S0102_00/Tree/fbx/Bgf_S0102_00_Uobj_Tree.fbx/Bgf_S0102_00_Uobj_Tree_A02
+ - x : 24
+   y : 9
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Tree_A01
+   full_name : Uobj/Large/Bgf_S0102_00/Tree/fbx/Bgf_S0102_00_Uobj_Tree.fbx/Bgf_S0102_00_Uobj_Tree_A01
+ - x : 24
+   y : 8
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Tree_A02
+   full_name : Uobj/Large/Bgf_S0102_00/Tree/fbx/Bgf_S0102_00_Uobj_Tree.fbx/Bgf_S0102_00_Uobj_Tree_A02
+ - x : 24
+   y : 7
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Tree_A03
+   full_name : Uobj/Large/Bgf_S0102_00/Tree/fbx/Bgf_S0102_00_Uobj_Tree.fbx/Bgf_S0102_00_Uobj_Tree_A03
+ - x : 23
+   y : 7
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Tree_A02
+   full_name : Uobj/Large/Bgf_S0102_00/Tree/fbx/Bgf_S0102_00_Uobj_Tree.fbx/Bgf_S0102_00_Uobj_Tree_A02
+ - x : 23
+   y : 11
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Tree_A02
+   full_name : Uobj/Large/Bgf_S0102_00/Tree/fbx/Bgf_S0102_00_Uobj_Tree.fbx/Bgf_S0102_00_Uobj_Tree_A02
+ - x : 22
+   y : 13
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Tree_A01
+   full_name : Uobj/Large/Bgf_S0102_00/Tree/fbx/Bgf_S0102_00_Uobj_Tree.fbx/Bgf_S0102_00_Uobj_Tree_A01
+ - x : 25
+   y : 6
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Tree_A01
+   full_name : Uobj/Large/Bgf_S0102_00/Tree/fbx/Bgf_S0102_00_Uobj_Tree.fbx/Bgf_S0102_00_Uobj_Tree_A01
+ - x : 24
+   y : 5
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Tree_A01
+   full_name : Uobj/Large/Bgf_S0102_00/Tree/fbx/Bgf_S0102_00_Uobj_Tree.fbx/Bgf_S0102_00_Uobj_Tree_A01
+ - x : 27
+   y : 3
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Tree_A03
+   full_name : Uobj/Large/Bgf_S0102_00/Tree/fbx/Bgf_S0102_00_Uobj_Tree.fbx/Bgf_S0102_00_Uobj_Tree_A03
+ - x : 27
+   y : 4
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Tree_A01
+   full_name : Uobj/Large/Bgf_S0102_00/Tree/fbx/Bgf_S0102_00_Uobj_Tree.fbx/Bgf_S0102_00_Uobj_Tree_A01
+ - x : 26
+   y : 3
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Tree_A02
+   full_name : Uobj/Large/Bgf_S0102_00/Tree/fbx/Bgf_S0102_00_Uobj_Tree.fbx/Bgf_S0102_00_Uobj_Tree_A02
+ - x : 27
+   y : 1
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Tree_A02
+   full_name : Uobj/Large/Bgf_S0102_00/Tree/fbx/Bgf_S0102_00_Uobj_Tree.fbx/Bgf_S0102_00_Uobj_Tree_A02
+ - x : 26
+   y : 0
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Tree_A01
+   full_name : Uobj/Large/Bgf_S0102_00/Tree/fbx/Bgf_S0102_00_Uobj_Tree.fbx/Bgf_S0102_00_Uobj_Tree_A01
+ - x : 25
+   y : 1
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Tree_A02
+   full_name : Uobj/Large/Bgf_S0102_00/Tree/fbx/Bgf_S0102_00_Uobj_Tree.fbx/Bgf_S0102_00_Uobj_Tree_A02
+ - x : 32
+   y : 1
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Tree_A02
+   full_name : Uobj/Large/Bgf_S0102_00/Tree/fbx/Bgf_S0102_00_Uobj_Tree.fbx/Bgf_S0102_00_Uobj_Tree_A02
+ - x : 33
+   y : 1
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Tree_A01
+   full_name : Uobj/Large/Bgf_S0102_00/Tree/fbx/Bgf_S0102_00_Uobj_Tree.fbx/Bgf_S0102_00_Uobj_Tree_A01
+ - x : 34
+   y : 3
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Tree_A02
+   full_name : Uobj/Large/Bgf_S0102_00/Tree/fbx/Bgf_S0102_00_Uobj_Tree.fbx/Bgf_S0102_00_Uobj_Tree_A02
+ - x : 32
+   y : 4
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Tree_A02
+   full_name : Uobj/Large/Bgf_S0102_00/Tree/fbx/Bgf_S0102_00_Uobj_Tree.fbx/Bgf_S0102_00_Uobj_Tree_A02
+ - x : 31
+   y : 4
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Tree_A01
+   full_name : Uobj/Large/Bgf_S0102_00/Tree/fbx/Bgf_S0102_00_Uobj_Tree.fbx/Bgf_S0102_00_Uobj_Tree_A01
+ - x : 31
+   y : 3
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Tree_A02
+   full_name : Uobj/Large/Bgf_S0102_00/Tree/fbx/Bgf_S0102_00_Uobj_Tree.fbx/Bgf_S0102_00_Uobj_Tree_A02
+ - x : 30
+   y : 3
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Tree_A03
+   full_name : Uobj/Large/Bgf_S0102_00/Tree/fbx/Bgf_S0102_00_Uobj_Tree.fbx/Bgf_S0102_00_Uobj_Tree_A03
+ - x : 36
+   y : 3
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Tree_A01
+   full_name : Uobj/Large/Bgf_S0102_00/Tree/fbx/Bgf_S0102_00_Uobj_Tree.fbx/Bgf_S0102_00_Uobj_Tree_A01
+ - x : 36
+   y : 1
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Tree_A01
+   full_name : Uobj/Large/Bgf_S0102_00/Tree/fbx/Bgf_S0102_00_Uobj_Tree.fbx/Bgf_S0102_00_Uobj_Tree_A01
+ - x : 37
+   y : 1
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Tree_A02
+   full_name : Uobj/Large/Bgf_S0102_00/Tree/fbx/Bgf_S0102_00_Uobj_Tree.fbx/Bgf_S0102_00_Uobj_Tree_A02
+ - x : 38
+   y : 1
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Tree_A01
+   full_name : Uobj/Large/Bgf_S0102_00/Tree/fbx/Bgf_S0102_00_Uobj_Tree.fbx/Bgf_S0102_00_Uobj_Tree_A01
+ - x : 38
+   y : 2
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Tree_A03
+   full_name : Uobj/Large/Bgf_S0102_00/Tree/fbx/Bgf_S0102_00_Uobj_Tree.fbx/Bgf_S0102_00_Uobj_Tree_A03
+ - x : 38
+   y : 3
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Tree_A01
+   full_name : Uobj/Large/Bgf_S0102_00/Tree/fbx/Bgf_S0102_00_Uobj_Tree.fbx/Bgf_S0102_00_Uobj_Tree_A01
+ - x : 39
+   y : 3
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Tree_A03
+   full_name : Uobj/Large/Bgf_S0102_00/Tree/fbx/Bgf_S0102_00_Uobj_Tree.fbx/Bgf_S0102_00_Uobj_Tree_A03
+ - x : 39
+   y : 2
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Tree_A02
+   full_name : Uobj/Large/Bgf_S0102_00/Tree/fbx/Bgf_S0102_00_Uobj_Tree.fbx/Bgf_S0102_00_Uobj_Tree_A02
+ - x : 41
+   y : 2
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Tree_A02
+   full_name : Uobj/Large/Bgf_S0102_00/Tree/fbx/Bgf_S0102_00_Uobj_Tree.fbx/Bgf_S0102_00_Uobj_Tree_A02
+ - x : 41
+   y : 4
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Tree_A03
+   full_name : Uobj/Large/Bgf_S0102_00/Tree/fbx/Bgf_S0102_00_Uobj_Tree.fbx/Bgf_S0102_00_Uobj_Tree_A03
+ - x : 39
+   y : 5
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Tree_A02
+   full_name : Uobj/Large/Bgf_S0102_00/Tree/fbx/Bgf_S0102_00_Uobj_Tree.fbx/Bgf_S0102_00_Uobj_Tree_A02
+ - x : 38
+   y : 5
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Tree_A01
+   full_name : Uobj/Large/Bgf_S0102_00/Tree/fbx/Bgf_S0102_00_Uobj_Tree.fbx/Bgf_S0102_00_Uobj_Tree_A01
+ - x : 38
+   y : 6
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Tree_A02
+   full_name : Uobj/Large/Bgf_S0102_00/Tree/fbx/Bgf_S0102_00_Uobj_Tree.fbx/Bgf_S0102_00_Uobj_Tree_A02
+ - x : 37
+   y : 6
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Tree_A01
+   full_name : Uobj/Large/Bgf_S0102_00/Tree/fbx/Bgf_S0102_00_Uobj_Tree.fbx/Bgf_S0102_00_Uobj_Tree_A01
+ - x : 35
+   y : 6
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Tree_A01
+   full_name : Uobj/Large/Bgf_S0102_00/Tree/fbx/Bgf_S0102_00_Uobj_Tree.fbx/Bgf_S0102_00_Uobj_Tree_A01
+ - x : 35
+   y : 8
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Tree_A02
+   full_name : Uobj/Large/Bgf_S0102_00/Tree/fbx/Bgf_S0102_00_Uobj_Tree.fbx/Bgf_S0102_00_Uobj_Tree_A02
+ - x : 34
+   y : 8
+   rotate : 1
+   name : Bgf_S0102_00_Uobj_Tree_A01
+   full_name : Uobj/Large/Bgf_S0102_00/Tree/fbx/Bgf_S0102_00_Uobj_Tree.fbx/Bgf_S0102_00_Uobj_Tree_A01
+ - x : 35
+   y : 9
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Tree_A03
+   full_name : Uobj/Large/Bgf_S0102_00/Tree/fbx/Bgf_S0102_00_Uobj_Tree.fbx/Bgf_S0102_00_Uobj_Tree_A03
+ - x : 36
+   y : 9
+   rotate : 1
+   name : Bgf_S0102_00_Uobj_Tree_A01
+   full_name : Uobj/Large/Bgf_S0102_00/Tree/fbx/Bgf_S0102_00_Uobj_Tree.fbx/Bgf_S0102_00_Uobj_Tree_A01
+ - x : 39
+   y : 6
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Tree_A03
+   full_name : Uobj/Large/Bgf_S0102_00/Tree/fbx/Bgf_S0102_00_Uobj_Tree.fbx/Bgf_S0102_00_Uobj_Tree_A03
+ - x : 39
+   y : 7
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Tree_A02
+   full_name : Uobj/Large/Bgf_S0102_00/Tree/fbx/Bgf_S0102_00_Uobj_Tree.fbx/Bgf_S0102_00_Uobj_Tree_A02
+ - x : 40
+   y : 7
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Tree_A01
+   full_name : Uobj/Large/Bgf_S0102_00/Tree/fbx/Bgf_S0102_00_Uobj_Tree.fbx/Bgf_S0102_00_Uobj_Tree_A01
+ - x : 39
+   y : 8
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Tree_A03
+   full_name : Uobj/Large/Bgf_S0102_00/Tree/fbx/Bgf_S0102_00_Uobj_Tree.fbx/Bgf_S0102_00_Uobj_Tree_A03
+ - x : 39
+   y : 10
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Tree_A02
+   full_name : Uobj/Large/Bgf_S0102_00/Tree/fbx/Bgf_S0102_00_Uobj_Tree.fbx/Bgf_S0102_00_Uobj_Tree_A02
+ - x : 38
+   y : 11
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Tree_A01
+   full_name : Uobj/Large/Bgf_S0102_00/Tree/fbx/Bgf_S0102_00_Uobj_Tree.fbx/Bgf_S0102_00_Uobj_Tree_A01
+ - x : 38
+   y : 12
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Tree_A02
+   full_name : Uobj/Large/Bgf_S0102_00/Tree/fbx/Bgf_S0102_00_Uobj_Tree.fbx/Bgf_S0102_00_Uobj_Tree_A02
+ - x : 39
+   y : 12
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Tree_A03
+   full_name : Uobj/Large/Bgf_S0102_00/Tree/fbx/Bgf_S0102_00_Uobj_Tree.fbx/Bgf_S0102_00_Uobj_Tree_A03
+ - x : 39
+   y : 14
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Tree_A01
+   full_name : Uobj/Large/Bgf_S0102_00/Tree/fbx/Bgf_S0102_00_Uobj_Tree.fbx/Bgf_S0102_00_Uobj_Tree_A01
+ - x : 40
+   y : 14
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Tree_A03
+   full_name : Uobj/Large/Bgf_S0102_00/Tree/fbx/Bgf_S0102_00_Uobj_Tree.fbx/Bgf_S0102_00_Uobj_Tree_A03
+ - x : 40
+   y : 15
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Tree_A02
+   full_name : Uobj/Large/Bgf_S0102_00/Tree/fbx/Bgf_S0102_00_Uobj_Tree.fbx/Bgf_S0102_00_Uobj_Tree_A02
+ - x : 41
+   y : 14
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Tree_A01
+   full_name : Uobj/Large/Bgf_S0102_00/Tree/fbx/Bgf_S0102_00_Uobj_Tree.fbx/Bgf_S0102_00_Uobj_Tree_A01
+ - x : 41
+   y : 13
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Tree_A02
+   full_name : Uobj/Large/Bgf_S0102_00/Tree/fbx/Bgf_S0102_00_Uobj_Tree.fbx/Bgf_S0102_00_Uobj_Tree_A02
+ - x : 36
+   y : 14
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Tree_A03
+   full_name : Uobj/Large/Bgf_S0102_00/Tree/fbx/Bgf_S0102_00_Uobj_Tree.fbx/Bgf_S0102_00_Uobj_Tree_A03
+ - x : 35
+   y : 14
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Tree_A02
+   full_name : Uobj/Large/Bgf_S0102_00/Tree/fbx/Bgf_S0102_00_Uobj_Tree.fbx/Bgf_S0102_00_Uobj_Tree_A02
+ - x : 34
+   y : 14
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Tree_A02
+   full_name : Uobj/Large/Bgf_S0102_00/Tree/fbx/Bgf_S0102_00_Uobj_Tree.fbx/Bgf_S0102_00_Uobj_Tree_A02
+ - x : 35
+   y : 15
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Tree_A01
+   full_name : Uobj/Large/Bgf_S0102_00/Tree/fbx/Bgf_S0102_00_Uobj_Tree.fbx/Bgf_S0102_00_Uobj_Tree_A01
+ - x : 35
+   y : 13
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Tree_A03
+   full_name : Uobj/Large/Bgf_S0102_00/Tree/fbx/Bgf_S0102_00_Uobj_Tree.fbx/Bgf_S0102_00_Uobj_Tree_A03
+ - x : 34
+   y : 12
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Tree_A01
+   full_name : Uobj/Large/Bgf_S0102_00/Tree/fbx/Bgf_S0102_00_Uobj_Tree.fbx/Bgf_S0102_00_Uobj_Tree_A01
+ - x : 34
+   y : 11
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Tree_A02
+   full_name : Uobj/Large/Bgf_S0102_00/Tree/fbx/Bgf_S0102_00_Uobj_Tree.fbx/Bgf_S0102_00_Uobj_Tree_A02
+ - x : 35
+   y : 11
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Tree_A03
+   full_name : Uobj/Large/Bgf_S0102_00/Tree/fbx/Bgf_S0102_00_Uobj_Tree.fbx/Bgf_S0102_00_Uobj_Tree_A03
+ - x : 0
+   y : 8
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_A
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_A
+ - x : 0
+   y : 9
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_B
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_B
+ - x : 1
+   y : 9
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_A
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_A
+ - x : 1
+   y : 7
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_C
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_C
+ - x : 0
+   y : 6
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_B
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_B
+ - x : 1
+   y : 3
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_C
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_C
+ - x : 1
+   y : 2
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_A
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_A
+ - x : 2
+   y : 2
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_B
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_B
+ - x : 2
+   y : 1
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_C
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_C
+ - x : 2
+   y : 0
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_B
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_B
+ - x : 3
+   y : 0
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_B
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_B
+ - x : 3
+   y : 1
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_A
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_A
+ - x : 5
+   y : 1
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_B
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_B
+ - x : 6
+   y : 1
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_C
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_C
+ - x : 5
+   y : 2
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_A
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_A
+ - x : 9
+   y : 3
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_B
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_B
+ - x : 8
+   y : 4
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_C
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_C
+ - x : 8
+   y : 5
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_A
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_A
+ - x : 9
+   y : 5
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_C
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_C
+ - x : 5
+   y : 5
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_A
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_A
+ - x : 6
+   y : 6
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_B
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_B
+ - x : 7
+   y : 7
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_B
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_B
+ - x : 6
+   y : 7
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_C
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_C
+ - x : 5
+   y : 7
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_A
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_A
+ - x : 4
+   y : 7
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_B
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_B
+ - x : 3
+   y : 7
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_A
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_A
+ - x : 4
+   y : 6
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_C
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_C
+ - x : 11
+   y : 3
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_C
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_C
+ - x : 10
+   y : 4
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_A
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_A
+ - x : 11
+   y : 5
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_B
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_B
+ - x : 12
+   y : 5
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_A
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_A
+ - x : 12
+   y : 4
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_C
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_C
+ - x : 13
+   y : 4
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_A
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_A
+ - x : 12
+   y : 2
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_B
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_B
+ - x : 13
+   y : 2
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_A
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_A
+ - x : 14
+   y : 2
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_B
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_B
+ - x : 12
+   y : 8
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_B
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_B
+ - x : 15
+   y : 2
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_A
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_A
+ - x : 13
+   y : 1
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_C
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_C
+ - x : 14
+   y : 0
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_B
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_B
+ - x : 11
+   y : 0
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_A
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_A
+ - x : 17
+   y : 0
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_A
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_A
+ - x : 18
+   y : 1
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_B
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_B
+ - x : 17
+   y : 4
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_B
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_B
+ - x : 16
+   y : 4
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_A
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_A
+ - x : 16
+   y : 5
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_B
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_B
+ - x : 15
+   y : 5
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_C
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_C
+ - x : 15
+   y : 6
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_A
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_A
+ - x : 14
+   y : 7
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_B
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_B
+ - x : 13
+   y : 7
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_A
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_A
+ - x : 13
+   y : 8
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_C
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_C
+ - x : 11
+   y : 8
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_A
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_A
+ - x : 11
+   y : 7
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_C
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_C
+ - x : 9
+   y : 7
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_B
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_B
+ - x : 9
+   y : 8
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_C
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_C
+ - x : 26
+   y : 4
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_A
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_A
+ - x : 25
+   y : 5
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_C
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_C
+ - x : 26
+   y : 1
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_B
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_B
+ - x : 26
+   y : 7
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_A
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_A
+ - x : 25
+   y : 8
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_B
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_B
+ - x : 24
+   y : 11
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_B
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_B
+ - x : 24
+   y : 12
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_A
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_A
+ - x : 26
+   y : 12
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_C
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_C
+ - x : 27
+   y : 12
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_B
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_B
+ - x : 27
+   y : 10
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_A
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_A
+ - x : 28
+   y : 11
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_A
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_A
+ - x : 27
+   y : 14
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_B
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_B
+ - x : 26
+   y : 14
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_A
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_A
+ - x : 27
+   y : 15
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_C
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_C
+ - x : 28
+   y : 15
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_B
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_B
+ - x : 29
+   y : 10
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_B
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_B
+ - x : 29
+   y : 8
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_A
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_A
+ - x : 32
+   y : 8
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_A
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_A
+ - x : 33
+   y : 8
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_B
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_B
+ - x : 31
+   y : 7
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_B
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_B
+ - x : 31
+   y : 11
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_B
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_B
+ - x : 32
+   y : 12
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_C
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_C
+ - x : 33
+   y : 11
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_A
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_A
+ - x : 35
+   y : 12
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_B
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_B
+ - x : 35
+   y : 10
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_C
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_C
+ - x : 34
+   y : 10
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_B
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_B
+ - x : 34
+   y : 9
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_A
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_A
+ - x : 36
+   y : 8
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_A
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_A
+ - x : 36
+   y : 6
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_B
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_B
+ - x : 32
+   y : 3
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_A
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_A
+ - x : 31
+   y : 1
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_B
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_B
+ - x : 30
+   y : 1
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_C
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_C
+ - x : 35
+   y : 0
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_B
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_B
+ - x : 36
+   y : 0
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_A
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_A
+ - x : 39
+   y : 1
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_B
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_B
+ - x : 40
+   y : 1
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_A
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_A
+ - x : 39
+   y : 4
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_C
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_C
+ - x : 40
+   y : 5
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_B
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_B
+ - x : 40
+   y : 6
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_A
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_A
+ - x : 40
+   y : 8
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_B
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_B
+ - x : 39
+   y : 9
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_A
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_A
+ - x : 40
+   y : 10
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_C
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_C
+ - x : 41
+   y : 9
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_C
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_C
+ - x : 39
+   y : 11
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_A
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_A
+ - x : 38
+   y : 10
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_B
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_B
+ - x : 39
+   y : 13
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_C
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_C
+ - x : 40
+   y : 13
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_B
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_B
+ - x : 41
+   y : 12
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_A
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_A
+ - x : 41
+   y : 15
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_B
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_B
+ - x : 10
+   y : 24
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_A
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_A
+ - x : 8
+   y : 24
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_C
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_C
+ - x : 9
+   y : 24
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_B
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_B
+ - x : 9
+   y : 23
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_A
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_A
+ - x : 9
+   y : 22
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_B
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_B
+ - x : 10
+   y : 22
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_B
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_B
+ - x : 9
+   y : 18
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_C
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_C
+ - x : 8
+   y : 19
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_B
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_B
+ - x : 6
+   y : 20
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_A
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_A
+ - x : 5
+   y : 19
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_B
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_B
+ - x : 6
+   y : 22
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_B
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_B
+ - x : 5
+   y : 22
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_C
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_C
+ - x : 5
+   y : 23
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_B
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_B
+ - x : 4
+   y : 23
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_A
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_A
+ - x : 4
+   y : 25
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_A
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_A
+ - x : 5
+   y : 25
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_C
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_C
+ - x : 5
+   y : 27
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_A
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_A
+ - x : 6
+   y : 26
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_B
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_B
+ - x : 7
+   y : 26
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_A
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_A
+ - x : 8
+   y : 27
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_B
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_B
+ - x : 9
+   y : 27
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_A
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_A
+ - x : 3
+   y : 28
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_B
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_B
+ - x : 2
+   y : 34
+   rotate : 2
+   name : Bgf_ShareA01_Uobj_FenceHorse
+   full_name : Uobj/Share/ShareA01/Fence/fbx/Bgf_ShareA01_Uobj_Fence.fbx/Bgf_ShareA01_Uobj_FenceHorse
+ - x : 1
+   y : 34
+   rotate : 2
+   name : Bgf_ShareA01_Uobj_FenceHorse
+   full_name : Uobj/Share/ShareA01/Fence/fbx/Bgf_ShareA01_Uobj_Fence.fbx/Bgf_ShareA01_Uobj_FenceHorse
+ - x : 0
+   y : 34
+   rotate : 2
+   name : Bgf_ShareA01_Uobj_FenceHorse
+   full_name : Uobj/Share/ShareA01/Fence/fbx/Bgf_ShareA01_Uobj_Fence.fbx/Bgf_ShareA01_Uobj_FenceHorse
+ - x : 5
+   y : 34
+   rotate : 2
+   name : Bgf_ShareA01_Uobj_FenceHorse
+   full_name : Uobj/Share/ShareA01/Fence/fbx/Bgf_ShareA01_Uobj_Fence.fbx/Bgf_ShareA01_Uobj_FenceHorse
+ - x : 6
+   y : 34
+   rotate : 2
+   name : Bgf_ShareA01_Uobj_FenceHorse
+   full_name : Uobj/Share/ShareA01/Fence/fbx/Bgf_ShareA01_Uobj_Fence.fbx/Bgf_ShareA01_Uobj_FenceHorse
+ - x : 7
+   y : 34
+   rotate : 2
+   name : Bgf_ShareA01_Uobj_FenceHorse
+   full_name : Uobj/Share/ShareA01/Fence/fbx/Bgf_ShareA01_Uobj_Fence.fbx/Bgf_ShareA01_Uobj_FenceHorse
+ - x : 8
+   y : 34
+   rotate : 2
+   name : Bgf_ShareA01_Uobj_FenceHorse
+   full_name : Uobj/Share/ShareA01/Fence/fbx/Bgf_ShareA01_Uobj_Fence.fbx/Bgf_ShareA01_Uobj_FenceHorse
+ - x : 5
+   y : 32
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Rock_A
+   full_name : Uobj/Large/Bgf_S0102_00/Rock/fbx/Bgf_S0102_00_Uobj_Rock.fbx/Bgf_S0102_00_Uobj_Rock_A
+ - x : 1
+   y : 31
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Rock_B
+   full_name : Uobj/Large/Bgf_S0102_00/Rock/fbx/Bgf_S0102_00_Uobj_Rock.fbx/Bgf_S0102_00_Uobj_Rock_B
+ - x : 1
+   y : 35
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_C
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_C
+ - x : 2
+   y : 36
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_A
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_A
+ - x : 2
+   y : 35
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_B
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_B
+ - x : 3
+   y : 35
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_C
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_C
+ - x : 0
+   y : 37
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_B
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_B
+ - x : 1
+   y : 38
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_A
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_A
+ - x : 4
+   y : 37
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_B
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_B
+ - x : 6
+   y : 36
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_C
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_C
+ - x : 7
+   y : 37
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_B
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_B
+ - x : 6
+   y : 32
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_A
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_A
+ - x : 5
+   y : 31
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_A
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_A
+ - x : 1
+   y : 30
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_A
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_A
+ - x : 8
+   y : 30
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_A
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_A
+ - x : 35
+   y : 36
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_A
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_A
+ - x : 36
+   y : 35
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_B
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_B
+ - x : 36
+   y : 37
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_B
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_B
+ - x : 37
+   y : 36
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_C
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_C
+ - x : 38
+   y : 35
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_A
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_A
+ - x : 40
+   y : 36
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_B
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_B
+ - x : 40
+   y : 35
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_A
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_A
+ - x : 41
+   y : 35
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_C
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_C
+ - x : 41
+   y : 34
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_B
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_B
+ - x : 41
+   y : 37
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Bushe_C
+   full_name : Uobj/Large/Bgf_S0102_00/Bushe/fbx/Bgf_S0102_00_Uobj_Bushe.fbx/Bgf_S0102_00_Uobj_Bushe_C
+ - x : 3
+   y : 34
+   rotate : 0
+   name : Bgf_ShareL01_Uobj_Scaffold
+   full_name : Uobj/Large/ShareL01/Scaffold/fbx/Bgf_ShareL01_Uobj_Scaffold.fbx/Bgf_ShareL01_Uobj_Scaffold
+ - x : 41
+   y : 36
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Tree_A03
+   full_name : Uobj/Large/Bgf_S0102_00/Tree/fbx/Bgf_S0102_00_Uobj_Tree.fbx/Bgf_S0102_00_Uobj_Tree_A03
+ - x : 39
+   y : 38
+   rotate : 0
+   name : Bgf_S0102_00_Uobj_Tree_A01
+   full_name : Uobj/Large/Bgf_S0102_00/Tree/fbx/Bgf_S0102_00_Uobj_Tree.fbx/Bgf_S0102_00_Uobj_Tree_A01
+
+commons:
+ - x : 0
+   y : 41
+   rotate : 0
+   name : FieldProp_0300_00
+   full_name : Cmobj/FieldProp_0300_00/fbx/FieldProp_0300_00.fbx/FieldProp_0300_00
+ - x : 3
+   y : 41
+   rotate : 0
+   name : FieldProp_0300_00
+   full_name : Cmobj/FieldProp_0300_00/fbx/FieldProp_0300_00.fbx/FieldProp_0300_00
+ - x : 6
+   y : 41
+   rotate : 0
+   name : FieldProp_0300_00
+   full_name : Cmobj/FieldProp_0300_00/fbx/FieldProp_0300_00.fbx/FieldProp_0300_00
+ - x : 10
+   y : 41
+   rotate : 0
+   name : FieldProp_0300_00
+   full_name : Cmobj/FieldProp_0300_00/fbx/FieldProp_0300_00.fbx/FieldProp_0300_00
+ - x : 13
+   y : 41
+   rotate : 0
+   name : FieldProp_0300_00
+   full_name : Cmobj/FieldProp_0300_00/fbx/FieldProp_0300_00.fbx/FieldProp_0300_00
+ - x : 16
+   y : 41
+   rotate : 0
+   name : FieldProp_0300_00
+   full_name : Cmobj/FieldProp_0300_00/fbx/FieldProp_0300_00.fbx/FieldProp_0300_00
+ - x : 26
+   y : 41
+   rotate : 0
+   name : FieldProp_0300_00
+   full_name : Cmobj/FieldProp_0300_00/fbx/FieldProp_0300_00.fbx/FieldProp_0300_00
+ - x : 29
+   y : 41
+   rotate : 0
+   name : FieldProp_0300_00
+   full_name : Cmobj/FieldProp_0300_00/fbx/FieldProp_0300_00.fbx/FieldProp_0300_00
+ - x : 32
+   y : 41
+   rotate : 0
+   name : FieldProp_0300_00
+   full_name : Cmobj/FieldProp_0300_00/fbx/FieldProp_0300_00.fbx/FieldProp_0300_00
+ - x : 36
+   y : 41
+   rotate : 0
+   name : FieldProp_0300_00
+   full_name : Cmobj/FieldProp_0300_00/fbx/FieldProp_0300_00.fbx/FieldProp_0300_00
+ - x : 39
+   y : 41
+   rotate : 0
+   name : FieldProp_0300_00
+   full_name : Cmobj/FieldProp_0300_00/fbx/FieldProp_0300_00.fbx/FieldProp_0300_00
+
+attributes: [ 4402001, 4402001, 1103005, 1103005, 4404001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 1103005, 4404001, 4402001, 1103005, 4402001, 4404001, 1103005, 4402001, 4402001, 4402001, 4409001, 4402001, 4402001, 4402001, 4402001, 1103002, 4402001, 4412001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 1103005, 1103005, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 1103005, 1103005, 1409001, 1103005, 1103005, 4404001, 4404001, 1409001, 4404001, 4404001, 4404001, 1103005, 1103002, 4402001, 1409001, 4402001, 1103005, 4402001, 4402001, 4409001, 4402001, 4402001, 4402001, 1103002, 1103005, 1103002, 4412001, 4402001, 1103005, 1103005, 1103002, 1103002, 4402001, 4402001, 1103002, 1103002, 1103002, 1103005, 1103005, 4402001, 4402001, 1103005, 1103005, 4402001, 4404001, 1103005, 1103002, 4404001, 4402001, 4402001, 4402001, 4402001, 1103005, 1103005, 1103005, 1103005, 4404001, 4402001, 4402001, 4402001, 4402001, 4409001, 4409001, 4409001, 4409001, 4409001, 4409001, 4409001, 4409003, 4409001, 4409001, 4409001, 4409001, 4409001, 1111001, 4402001, 4402001, 4402001, 1103002, 1103002, 4402001, 1103002, 4402001, 1103005, 1103002, 4404001, 4404001, 4404001, 4404001, 4404001, 4402001, 1103005, 4402001, 1103005, 4402001, 4402001, 4404001, 4404001, 4404001, 4402001, 4402001, 4402001, 4402001, 4409001, 4402001, 4402001, 4402001, 4402001, 1103002, 1103002, 4412001, 4402001, 1103002, 1103002, 1103005, 4409001, 1103002, 4402001, 1103002, 4402001, 1103002, 1103002, 4402001, 4402001, 4404001, 1409001, 4404001, 4404001, 4402001, 4402001, 4402001, 4402001, 1103005, 1103002, 1103005, 4402001, 1103005, 1103005, 4404001, 1103002, 1103005, 1103005, 4402001, 4402001, 4402001, 4409001, 4402001, 4402001, 4402001, 4402001, 1103005, 1103002, 4412001, 4402001, 4402001, 1103002, 1103002, 4409001, 4402001, 4402001, 4402001, 4402001, 4402001, 1103005, 4402001, 1103002, 4402001, 4402001, 4402001, 4404001, 4402001, 1103005, 4402001, 4402001, 1103005, 1103005, 4402001, 1103005, 1103005, 1103002, 4404001, 1103005, 1103005, 4402001, 4402001, 4402001, 4402001, 4409001, 4402001, 4402001, 1103002, 1103005, 4402001, 4412001, 4412001, 4402001, 1112001, 4402001, 4402001, 4409001, 1112001, 4402001, 4402001, 4402001, 1103002, 1103002, 1103005, 4402001, 1103005, 4402001, 4404001, 4404001, 1103005, 1103002, 1103005, 4402001, 4404001, 4404001, 4404001, 4404001, 4404001, 4404001, 4404001, 1103005, 4402001, 4402001, 4402001, 4402001, 4402001, 4409001, 4402001, 4402001, 4402001, 1103002, 4402001, 4412001, 4402001, 4402001, 4402001, 4402001, 1112001, 4409001, 4402001, 1103002, 1103005, 1103002, 1103002, 1103002, 1103005, 4402001, 4402001, 1103005, 1409001, 1103005, 1103005, 1103005, 1103005, 1103005, 4404001, 1103005, 4402001, 1103005, 1103002, 1103005, 1103005, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4409001, 4402001, 1103002, 1103002, 4402001, 1103005, 4412001, 4402001, 4402001, 1112001, 1103005, 4402001, 4409001, 4409001, 4409001, 4409001, 4409001, 1111001, 1103002, 1103002, 4402001, 1103005, 1103002, 4404001, 4404001, 4404001, 1409001, 4404001, 4404001, 4404001, 1103005, 4402001, 1103005, 1103005, 1103005, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4409001, 4402001, 4402001, 1103002, 1103005, 4412001, 4412001, 4402001, 1103005, 4402001, 1112001, 1103005, 1103005, 1103002, 1103002, 1103005, 4409001, 4402001, 1103002, 1103005, 4402001, 1103005, 1103005, 4404001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4409001, 4402001, 4402001, 1103002, 1103002, 4409003, 4402001, 4402001, 1112001, 4402001, 4402001, 1112001, 4402001, 1103005, 1103002, 1103002, 4409001, 4402001, 1103005, 4402001, 1103005, 4404001, 4404001, 4404001, 4402001, 4402001, 4402001, 4402001, 4409001, 4409001, 4409001, 4409001, 4409001, 4409001, 4409001, 4409001, 4409001, 4409001, 4409001, 4409001, 4409001, 4409001, 4409001, 4402001, 4402001, 4402001, 1103002, 4412001, 1103005, 4402001, 1103005, 1112001, 4402001, 4402001, 4402001, 1103005, 1103005, 4402001, 4409001, 1103005, 1103002, 1103005, 4402001, 4404001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4409001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4409001, 4402001, 1103002, 1103005, 4412001, 4412001, 1112001, 1103005, 1112001, 4402001, 1103005, 1112001, 1103005, 1103002, 1103002, 4402001, 4409001, 1103002, 1103005, 4402001, 4402001, 4404001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4409001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4409001, 4402001, 4402001, 1103005, 4412001, 1103005, 1103005, 4402001, 4402001, 4402001, 1112001, 1103005, 1112001, 1103002, 1103005, 4402001, 4409001, 1103002, 1103002, 4402001, 1103005, 4402001, 4402001, 4402001, 4402001, 4412001, 4412001, 4412001, 4409003, 4412001, 4412001, 4412001, 4412001, 4412001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4409001, 1103002, 4402001, 4412001, 4412001, 4402001, 1112001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 1103002, 1111001, 4409001, 4402001, 1103005, 1103005, 1103002, 4402001, 4402001, 4412001, 4412001, 4412001, 4402001, 4402001, 4409001, 4402001, 4402001, 4402001, 4402001, 4412001, 4412001, 4412001, 4412001, 4412001, 4412001, 4402001, 4402001, 4402001, 4409001, 4402001, 4402001, 4412001, 4402001, 1103005, 1103005, 4402001, 1112001, 1112001, 4402001, 4402001, 4402001, 1103002, 1103002, 1103002, 4409001, 4402001, 1103002, 1103002, 1103002, 4402001, 4402001, 4412001, 4402001, 4402001, 4402001, 4402001, 4409001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4412001, 4412001, 4412001, 4409003, 4409003, 4409003, 4412001, 4412001, 4402001, 4402001, 1103005, 1103005, 4402001, 4402001, 4402001, 1112001, 4402001, 4402001, 1103002, 4402001, 4409001, 4402001, 4402001, 1103002, 1103005, 4412001, 4412001, 4412001, 4402001, 4402001, 4412001, 4412001, 4409003, 4412001, 4412001, 4412001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 1412009, 4409001, 4409001, 4409001, 1412009, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4409001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4412001, 4412001, 4402001, 4409001, 4402001, 4402001, 4412001, 4412001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 1412004, 1412004, 4409001, 4409001, 4409001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4409001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4412001, 4402001, 4402001, 4409001, 1110001, 1103005, 4402001, 4412001, 4412001, 4402001, 4402001, 1412004, 1412004, 4402001, 4402001, 4402001, 4409001, 4409001, 4409001, 4402001, 4402001, 4402001, 1412004, 1412004, 1412004, 4402001, 4402001, 4402001, 1412004, 1412004, 1412004, 4402001, 4402001, 4409001, 1412004, 1412004, 4402001, 4402001, 4402001, 4402001, 4412001, 4412001, 4412001, 1103005, 4402001, 4409001, 1103005, 4402001, 4402001, 4402001, 4412001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4409001, 4409001, 4409001, 4409001, 4409001, 4409001, 4409001, 4409001, 4409001, 4409001, 4409001, 4409001, 4409001, 4409001, 4409001, 4409001, 4409001, 4409001, 4409001, 1412004, 4402001, 4402001, 4402001, 4402001, 4412001, 4402001, 4402001, 4402001, 1103005, 4409001, 4402001, 4402001, 4402001, 4412001, 4412001, 1412004, 1412004, 4402001, 4402001, 4402001, 4402001, 1412009, 4409001, 4409001, 4409001, 1412009, 4402001, 4402001, 4402001, 1111001, 4402001, 4402001, 4402001, 4402001, 4402001, 1111001, 4402001, 4402001, 4402001, 1111001, 4409001, 1412004, 4402001, 4402001, 4412001, 4412001, 4412001, 4402001, 4402001, 4402001, 4402001, 4409001, 4402001, 4402001, 4402001, 4412001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4409001, 4409001, 4409001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4409001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 1103005, 1103005, 4409001, 4402001, 1103005, 1103005, 4412001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 1110001, 4402001, 4409001, 4409001, 4409001, 4402001, 1110001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4409001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 1103005, 1103005, 1112001, 4409001, 4402001, 1103005, 4402001, 4412001, 4402001, 4402001, 4402001, 1412004, 1412004, 4402001, 4402001, 4402001, 4409001, 4409001, 4409001, 4402001, 4402001, 4402001, 1412004, 1412004, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 1412004, 4409001, 4402001, 4402001, 4402001, 4402001, 4402001, 4409001, 4409001, 4409001, 4409001, 4409001, 4409001, 1103005, 1103005, 1103005, 4412001, 4402001, 1110001, 4402001, 4402001, 4402001, 4402001, 4402001, 1412009, 4409001, 4409001, 4409001, 1412009, 4402001, 4402001, 4402001, 4402001, 4402001, 1110001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 1412004, 4409001, 1111001, 4402001, 4402001, 4402001, 4402001, 4409001, 1110001, 1103005, 1103005, 4402001, 1112001, 4402001, 4402001, 4412001, 4412001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4409001, 4409001, 4409001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 1412004, 4409001, 4402001, 4402001, 4402001, 4402001, 4402001, 4409001, 4402001, 4402001, 1112001, 1103005, 1103005, 4402001, 1112001, 4412001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4409001, 4409001, 4409001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 1412004, 1412004, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4409001, 4402001, 4402001, 4402001, 4402001, 4402001, 4409001, 1112001, 4402001, 1103005, 4402001, 4402001, 1103005, 1103005, 4412001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4409001, 4409001, 4409001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4409001, 4402001, 4402001, 4402001, 4402001, 4402001, 4409001, 1103005, 4402001, 4402001, 1112001, 4402001, 4402001, 4402001, 4412001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 1412009, 4409001, 4409001, 4409001, 1412009, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 1110001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4409001, 1412004, 4402001, 4402001, 4402001, 4402001, 4409001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4412001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4409001, 4409001, 4409001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 1111001, 4409001, 1412004, 4402001, 4402001, 4402001, 1103005, 4409001, 4402001, 4402001, 4402001, 4402001, 4402001, 1103005, 4412001, 4412001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4409001, 4409001, 4409001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 1412004, 1412004, 4402001, 4402001, 4402001, 4402001, 4409001, 1412004, 4402001, 4402001, 4402001, 1112001, 4409001, 4402001, 4402001, 1103005, 4402001, 4402001, 4402001, 4412001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4409001, 4409001, 4409001, 4409001, 4409001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4409001, 4402001, 4402001, 4402001, 4402001, 4402001, 4409001, 4402001, 4402001, 1112001, 1103005, 4402001, 4402001, 4412001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 1412009, 4409001, 4409001, 4409001, 4409001, 4409001, 1412009, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 1110001, 4402001, 4402001, 4412001, 4412001, 4412001, 4409003, 4412001, 4412001, 4412001, 4402001, 4402001, 4409001, 4409001, 4409001, 4402001, 4402001, 4402001, 4402001, 4412001, 4402001, 4402001, 4402001, 4402001, 4409001, 4409001, 4409001, 4409001, 4409001, 4409001, 4409001, 4409001, 4409001, 4409001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4412001, 4412001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 1412004, 1412004, 1412004, 1110001, 4409001, 1412004, 1412004, 1412004, 1412004, 4412001, 4402001, 4402001, 4402001, 4402001, 4409001, 4402001, 4402001, 4402001, 4402001, 4409001, 4409001, 4409001, 4409001, 4409001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4412001, 4412001, 4402001, 1110001, 4402001, 1110001, 4402001, 1110001, 1103005, 4402001, 1103005, 1103005, 1103005, 4409001, 4409001, 4409001, 4409001, 4409001, 4409003, 4409001, 4409001, 4409001, 4409001, 4409001, 4402001, 4402001, 4402001, 4402001, 4409001, 4409001, 4409001, 4409001, 4409001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4412001, 4402001, 4402001, 1103005, 1103002, 1103005, 4402001, 1103005, 1103005, 4402001, 4402001, 1103005, 4402001, 4402001, 4402001, 1103005, 4402001, 4402001, 4412001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 1412009, 4409001, 4409001, 4409001, 4409001, 4409001, 4409001, 4409001, 1412009, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4412001, 4402001, 1103005, 1103002, 1103005, 4402001, 4402001, 1103005, 1103002, 1103005, 4402001, 4402001, 4402001, 1103005, 4402001, 4402001, 1103005, 4402001, 4412001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4409001, 4409001, 4409001, 4409001, 4409001, 4409001, 4409001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4412001, 4402001, 4402001, 1103005, 4402001, 4402001, 4402001, 4402001, 1103005, 4402001, 1103005, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4412001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4409001, 4409001, 4409001, 4409001, 4409001, 4409001, 4409001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4409003, 4402001, 4402001, 4402001, 4402001, 4402001, 1103002, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4412001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4409001, 4409001, 4409001, 4409001, 4409001, 4409001, 4409001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4412001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4412001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4409001, 4409001, 4409001, 4409001, 4409001, 4409001, 4409001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4412001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 4402001, 1112015, 1112015, 1112015, 1112015, 1112015, 1112015, 1112015, 1112015, 1112015, 1112015, 1112015, 1112015, 1112015, 1112015, 1112015, 1112015, 1112015, 1112015, 1112015, 1112015, 4409001, 4409001, 4409001, 1112015, 1112015, 1112015, 1112015, 1112015, 1112015, 1112015, 1112015, 1112015, 1112015, 1112015, 1112015, 1112015, 1112015, 1112015, 1112015, 1112015, 1112015, 1112015 ]
+duel_scenes: [ 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022, 101130022 ]
+heights:
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ -0.250000, -0.250000, -0.250000, -0.250000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ -0.250000, -0.250000, -0.250000, -0.250000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ -0.250000, -0.250000, -0.250000, -0.250000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ -0.250000, -0.250000, -0.250000, -0.250000 ]
+- [ -0.250000, -0.250000, -0.250000, -0.250000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ -0.250000, -0.250000, -0.250000, -0.250000 ]
+- [ -0.250000, -0.250000, -0.250000, -0.250000 ]
+- [ -0.250000, -0.250000, -0.250000, -0.250000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ -0.250000, -0.250000, -0.250000, -0.250000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ -0.250000, -0.250000, -0.250000, -0.250000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ -0.250000, -0.250000, -0.250000, -0.250000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000001, 1.000002, 0.000001, 1.000002 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.540347, 1.540347, 1.540347, 1.540347 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ -0.250000, -0.250000, -0.250000, -0.250000 ]
+- [ -0.250000, -0.250000, -0.250000, -0.250000 ]
+- [ -0.250000, -0.250000, -0.250000, -0.250000 ]
+- [ -0.250000, -0.250000, -0.250000, -0.250000 ]
+- [ -0.250000, -0.250000, -0.250000, -0.250000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ -0.250000, -0.250000, -0.250000, -0.250000 ]
+- [ -0.250000, -0.250000, -0.250000, -0.250000 ]
+- [ -0.250000, -0.250000, -0.250000, -0.250000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ -0.250000, -0.250000, -0.250000, -0.250000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ -0.250000, -0.250000, -0.250000, -0.250000 ]
+- [ -0.250000, -0.250000, -0.250000, -0.250000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ -0.250000, -0.250000, -0.250000, -0.250000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ -0.250000, -0.250000, -0.250000, -0.250000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ -0.250000, -0.250000, -0.250000, -0.250000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ -0.250000, -0.250000, -0.250000, -0.250000 ]
+- [ -0.250000, -0.250000, -0.250000, -0.250000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ -0.250000, -0.250000, -0.250000, -0.250000 ]
+- [ -0.250000, -0.250000, -0.250000, -0.250000 ]
+- [ -0.250000, -0.250000, -0.250000, -0.250000 ]
+- [ -0.250000, -0.250000, -0.250000, -0.250000 ]
+- [ -0.250000, -0.250000, -0.250000, -0.250000 ]
+- [ -0.250000, -0.250000, -0.250000, -0.250000 ]
+- [ -0.250000, -0.250000, -0.250000, -0.250000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ -0.250000, -0.250000, -0.250000, -0.250000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.540347, 1.540347, 1.540347, 1.540347 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ -0.250000, -0.250000, -0.250000, -0.250000 ]
+- [ -0.250000, -0.250000, -0.250000, -0.250000 ]
+- [ -0.250000, -0.250000, -0.250000, -0.250000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ -0.250000, -0.250000, -0.250000, -0.250000 ]
+- [ -0.250000, -0.250000, -0.250000, -0.250000 ]
+- [ -0.250000, -0.250000, -0.250000, -0.250000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ -0.250000, -0.250000, -0.250000, -0.250000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 1.000001, 0.000000, 1.000001 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ -0.250000, -0.250000, -0.250000, -0.250000 ]
+- [ -0.250000, -0.250000, -0.250000, -0.250000 ]
+- [ -0.250000, -0.250000, -0.250000, -0.250000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ -0.250000, -0.250000, -0.250000, -0.250000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ -0.250000, -0.250000, -0.250000, -0.250000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 0.000001, 0.000001, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.540347, 1.540347, 1.540347, 1.540347 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 0.000000, 0.000000, 0.000000, 0.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ -0.000001, -0.000001, 1.000000, 1.000000 ]
+- [ -0.000001, -0.000001, 1.000000, 1.000000 ]
+- [ -0.000001, -0.000001, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 1.000000, 1.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.728408, 2.728408, 2.728408, 2.728408 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.540347, 1.540347, 1.540347, 1.540347 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.540347, 1.540347, 1.540347, 1.540347 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.540347, 1.540347, 1.540347, 1.540347 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.728408, 1.728408, 1.728408, 1.728408 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.728408, 1.728408, 1.728408, 1.728408 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.728408, 1.728408, 1.728408, 1.728408 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.728408, 1.728408, 1.728408, 1.728408 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.540347, 1.540347, 1.540347, 1.540347 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.728408, 2.728408, 2.728408, 2.728408 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.728408, 1.728408, 1.728408, 1.728408 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.540347, 1.540347, 1.540347, 1.540347 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.728408, 1.728408, 1.728408, 1.728408 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 1.000002, 1.000002, 2.000002, 2.000002 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.728408, 2.728408, 2.728408, 2.728408 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.728408, 2.728408, 2.728408, 2.728408 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.728408, 2.728408, 2.728408, 2.728408 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.728408, 2.728408, 2.728408, 2.728408 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 1.000002, 2.000000, 1.000002 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000002, 2.000002, 1.000002, 2.000002 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 4.265000, 4.265000, 4.265000, 4.265000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 4.265000, 4.265000, 4.265000, 4.265000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 4.264999, 4.264999, 4.264999, 4.264999 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 4.265000, 4.265000, 4.265000, 4.265000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 4.265000, 4.265000, 4.265000, 4.265000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 4.265000, 4.265000, 4.265000, 4.265000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 4.264999, 4.264999, 4.264999, 4.264999 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 4.265000, 4.265000, 4.265000, 4.265000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 1.000000, 1.000000, 1.000000, 1.000000 ]
+- [ 4.265000, 4.265000, 4.265000, 4.265000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 4.265000, 4.265000, 4.265000, 4.265000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 4.265000, 4.265000, 4.265000, 4.265000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+- [ 2.000000, 2.000000, 2.000000, 2.000000 ]
+
