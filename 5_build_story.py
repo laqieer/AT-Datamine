@@ -7,6 +7,8 @@ from utils import *
 
 repo_url = "https://github.com/laqieer/AT-Datamine"
 
+game_name = "『アスタータタリクス』"
+
 PlayerUnitIds = [
     "101003001", # Male 1
     "101004001", # Female 1
@@ -332,4 +334,25 @@ for info in AdvDemoInfoList:
         f_out.write("""</body>
 </html>
 """)
-        
+
+print("Building index...")
+with open("docs/story/index.html", "w", encoding="utf-8") as f:
+    f.write(f"""<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>{game_name}ストーリー</title>
+    <link rel="icon" href="../imgs/common/favicon.ico" type="image/vnd.microsoft.icon">
+</head>
+<body>
+    <h1>Index</h1>
+    <ul>
+""")
+    for info in AdvDemoInfoList:
+        if os.path.exists(f"docs/story/{info['ID']}.html"):
+            f.write(f"""        <li><a href="{info['ID']}.html">{info['ID']} {info['Name']} {info['titleText']} {info['summaryText']}</a></li>
+""")
+    f.write("""    </ul>
+</body>
+</html>
+""")
