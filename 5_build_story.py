@@ -1,4 +1,5 @@
 import os
+import re
 import shutil
 import warnings
 
@@ -164,6 +165,8 @@ Texts["Narrator"] = "(ナレーション)"
 
 def BuildText(face, talkerNameTag, text, isMind):
     text = text.replace("\r\n", "<br>").replace("\r", "<br>").replace("\n", "<br>")
+    # change <ruby=ooo>xxx</ruby> or <r=ooo>xxx</r> to <ruby>xxx<rp>(</rp><rt>ooo</rt><rp>)</rp></ruby>
+    text = re.sub(r"<(ruby|r)=(.*?)>(.*?)</\1>", r"<ruby>\3<rp>(</rp><rt>\2</rt><rp>)</rp></ruby>", text)
     talkerName = Texts.get(talkerNameTag, talkerNameTag)
     if isMind:
         talkerName += " (心の声)"
