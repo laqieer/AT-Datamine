@@ -1,10 +1,15 @@
 guild__guild_settings_policy_type__name__0
 初心者歓迎
+
 guild__guild_settings_policy_type__name__1
 みんなでまったり
+
 guild__guild_settings_policy_type__name__2
 そこそこ頑張る
+
 guild__guild_settings_policy_type__name__3
 Topを目指せ
+
 guild__guild_settings_policy_type__name__4
 毎日ログイン
+

@@ -1922,3 +1922,4 @@ story__freeaction__story_freeaction_passivetalkmessage__Message2_2__963
 
 story__freeaction__story_freeaction_passivetalkmessage__Message2_2__964
 それから大聖堂だな
+

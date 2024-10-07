@@ -1,9 +1,12 @@
 quest__area_quest_area__area_release__1
 【炭治郎・杏寿郎エリアエリア】が解放されました。
+
 quest__area_quest_area__area_release__2
 【禰豆子・蜜璃エリアエリア】が解放されました。
+
 quest__area_quest_area__area_release__3
 【義勇・しのぶエリアエリア】が解放されました。
+
 quest__area_quest_area__area_release__4
 
 quest__area_quest_area__area_release__5

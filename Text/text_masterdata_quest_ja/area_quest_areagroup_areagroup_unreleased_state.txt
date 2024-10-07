@@ -2,5 +2,6 @@ quest__area_quest_areagroup__areagroup_unreleased_state__1
 
 quest__area_quest_areagroup__areagroup_unreleased_state__2
 メインクエスト：ギネヴィア編、またはストーリーモードをクリアすると解放されます。
+
 quest__area_quest_areagroup__areagroup_unreleased_state__3
 

@@ -1,187 +1,189 @@
 story__mainquest__story_mainquest_sequence_summary__summarydescriptiontext__1
 　キャメロット騎士学術院への入学を認めてもらうため、剣の祭壇での試験に挑もう。
+
 story__mainquest__story_mainquest_sequence_summary__summarydescriptiontext__2
 　なんとか入学試験に合格できた。各所にある施設に触れたり、授業に出席したりしながら、ログレス王国や学園での生活に少しずつ慣れていこう。
+
 story__mainquest__story_mainquest_sequence_summary__summarydescriptiontext__3
 　ギネヴィアとともに、カレドニア軍に占領されたキャメリアード王城の様子を見に行くことになった。
+
 story__mainquest__story_mainquest_sequence_summary__summarydescriptiontext__4
-　先遣隊は無事帰還できた。
-　しかし、祖国の惨状にショックを受けたギネヴィアが部屋に籠もりがちになってしまったようだ。
-　ギネヴィアの様子をうかがいながら、次の作戦の指示を待とう。
+　先遣隊は無事帰還できた。\n　しかし、祖国の惨状にショックを受けたギネヴィアが部屋に籠もりがちになってしまったようだ。\n　ギネヴィアの様子をうかがいながら、次の作戦の指示を待とう。
+
 story__mainquest__story_mainquest_sequence_summary__summarydescriptiontext__5
 　キャメリアード奪還のための作戦がまとまった。決行日に向けて準備を整えよう。
+
 story__mainquest__story_mainquest_sequence_summary__summarydescriptiontext__6
-　キャメリアード奪還作戦はなんとか成功に終わった。
-　体を休めつつ、次の作戦の指示を待とう。
+　キャメリアード奪還作戦はなんとか成功に終わった。\n　体を休めつつ、次の作戦の指示を待とう。
+
 story__mainquest__story_mainquest_sequence_summary__summarydescriptiontext__7
 　キャメリアードの戦いの休暇がてら、モルガンの別荘があるグラストンベリーへピクニックへ行くことになった。
+
 story__mainquest__story_mainquest_sequence_summary__summarydescriptiontext__8
 　さらわれたモルガンの安否、そしてマルディサントの病状…。心配ごとは多いが勝手に動くわけにはいかない。作戦の指示を待とう。
+
 story__mainquest__story_mainquest_sequence_summary__summarydescriptiontext__9
 　モルガンを救い出すため、アーサーとともに魔女とブライアンが待つカーライル城に向かうことになった。
+
 story__mainquest__story_mainquest_sequence_summary__summarydescriptiontext__10
-　円卓の騎士たちとともにモルガンを救出し、ブライアンを捕らえることができた。 
-　皆の無事を祝い、ひとまずの休息だ。
+　円卓の騎士たちとともにモルガンを救出し、ブライアンを捕らえることができた。 \n　皆の無事を祝い、ひとまずの休息だ。
+
 story__mainquest__story_mainquest_sequence_summary__summarydescriptiontext__11
-　カレドニア軍には、バルバロイを使役する８人の魔女が与している。 
-　いかにログレスの騎士の練度が高くとも、この物量差を覆すのは難しい。 
-　戦いに協力してもらえるよう、ルーシャス皇太子に頼めないだろうか。
+　カレドニア軍には、バルバロイを使役する８人の魔女が与している。 \n　いかにログレスの騎士の練度が高くとも、この物量差を覆すのは難しい。 \n　戦いに協力してもらえるよう、ルーシャス皇太子に頼めないだろうか。
+
 story__mainquest__story_mainquest_sequence_summary__summarydescriptiontext__12
-　ルーシャスから出された２つのゲームを終え、いったん学園へ戻ってきた。 
-　３つ目のゲームは、カレドニアにあるノワールの故郷にルーシャスを案内することだ。
+　ルーシャスから出された２つのゲームを終え、いったん学園へ戻ってきた。 \n　３つ目のゲームは、カレドニアにあるノワールの故郷にルーシャスを案内することだ。
+
 story__mainquest__story_mainquest_sequence_summary__summarydescriptiontext__13
-　ルーシャスから出されたゲームをすべてクリアできたことで、ローマの協力を得られることになった。
-　ローマの軍備が整うまでしばらく待とう。
+　ルーシャスから出されたゲームをすべてクリアできたことで、ローマの協力を得られることになった。\n　ローマの軍備が整うまでしばらく待とう。
+
 story__mainquest__story_mainquest_sequence_summary__summarydescriptiontext__14
 　城主の病を治療する薬草を求め、コルベニック城から銀卓騎士ガラハッドがやってきた。しかし、ログレス国内には急ぎ進めなければならないいくつかの課題が存在する。手分けして「ガラハッドとともに薬草採取」「カレドニア侵攻のための港町制圧」「逃走したブライアンの追跡」という３つの任務を進めよう。
+
 story__mainquest__story_mainquest_sequence_summary__summarydescriptiontext__15
-　採取した薬草とガラハッドを送り届けるべく、コルベニック城へ向かうことになった。 
-　コルベニック城は、奇跡の器「聖杯」についての言い伝えが残る地。この先の戦いについての重要な手がかりが得られるかもしれない。
+　採取した薬草とガラハッドを送り届けるべく、コルベニック城へ向かうことになった。 \n　コルベニック城は、奇跡の器「聖杯」についての言い伝えが残る地。この先の戦いについての重要な手がかりが得られるかもしれない。
+
 story__mainquest__story_mainquest_sequence_summary__summarydescriptiontext__16
-　ノワールはギネヴィアとゲシュタルト・シフトを果たした。 
-　本当の戦いはここからだ。ルーシャスと魔女を破り、ブリテン島に平和をもたらさなければならない。
+　ノワールはギネヴィアとゲシュタルト・シフトを果たした。 \n　本当の戦いはここからだ。ルーシャスと魔女を破り、ブリテン島に平和をもたらさなければならない。
+
 story__mainquest__story_mainquest_sequence_summary__summarydescriptiontext__17
-　ギネヴィアは、ノワールのキラーズとしての使命をまっとうするべくアーサーとの婚約を解消。そしてそのうえで、狡猾な策を弄するローマ大帝国にログレスの力を思い知らせようと全校生徒に檄を飛ばした。 
-　頼れる仲間とともにロンディニウムを奪還しよう。
+　ギネヴィアは、ノワールのキラーズとしての使命をまっとうするべくアーサーとの婚約を解消。そしてそのうえで、狡猾な策を弄するローマ大帝国にログレスの力を思い知らせようと全校生徒に檄を飛ばした。 \n　頼れる仲間とともにロンディニウムを奪還しよう。
+
 story__mainquest__story_mainquest_sequence_summary__summarydescriptiontext__18
 　カレドニアとの戦い、およびロンディニウムの事件で命を落とした者たちを追悼するべく、国葬が行われることになった。
+
 story__mainquest__story_mainquest_sequence_summary__summarydescriptiontext__19
-　奪還は果たせたものの、ロンディニウム市街の被害は深刻だ。 
-　復興の状況を確認しつつ、次の作戦の指示を待とう。
+　奪還は果たせたものの、ロンディニウム市街の被害は深刻だ。 \n　復興の状況を確認しつつ、次の作戦の指示を待とう。
+
 story__mainquest__story_mainquest_sequence_summary__summarydescriptiontext__20
-　ローマがアントニヌス・ウォールと呼ばれる巨大な長城を再建して、ブリテン島を東西に分断しようとしていることが判明した。
-　ローマ対策班とともに、対処に向かおう。
+　ローマがアントニヌス・ウォールと呼ばれる巨大な長城を再建して、ブリテン島を東西に分断しようとしていることが判明した。\n　ローマ対策班とともに、対処に向かおう。
+
 story__mainquest__story_mainquest_sequence_summary__summarydescriptiontext__21
 　戦い続けるみんなの思い出作りのためにお祭りをしませんか…エレインのそんな提案を受け、学園祭を執り行うこととなった。
+
 story__mainquest__story_mainquest_sequence_summary__summarydescriptiontext__22
-　ローマ側に大きな動きはない。
-　体を休めつつ、次の作戦の指示を待とう。
+　ローマ側に大きな動きはない。\n　体を休めつつ、次の作戦の指示を待とう。
+
 story__mainquest__story_mainquest_sequence_summary__summarydescriptiontext__23
-　聖杯取得に向けて準備が進むなか、モルガンがグラストンベリーの別荘に戻ってしまった。 
-　アーサーとともに別荘に赴き、モルガンから詳しく話を聞こう。
+　聖杯取得に向けて準備が進むなか、モルガンがグラストンベリーの別荘に戻ってしまった。 \n　アーサーとともに別荘に赴き、モルガンから詳しく話を聞こう。
+
 story__mainquest__story_mainquest_sequence_summary__summarydescriptiontext__24
-　フィエナの話によれば、聖杯はスノードン山に顕現するという。 
-　ローマ対策班・聖杯探索班とともに、スノードン山へ向かおう。
+　フィエナの話によれば、聖杯はスノードン山に顕現するという。 \n　ローマ対策班・聖杯探索班とともに、スノードン山へ向かおう。
+
 story__mainquest__story_mainquest_sequence_summary__summarydescriptiontext__25
-　聖杯はルーシャスに奪われ、さらに自軍から多くの犠牲者や行方不明者を出すことになってしまった。残念ながら、スノードン山でのローマとの戦いは敗北したと言える。 
-　傷を癒しながら、次の作戦の指示を待とう
+　聖杯はルーシャスに奪われ、さらに自軍から多くの犠牲者や行方不明者を出すことになってしまった。残念ながら、スノードン山でのローマとの戦いは敗北したと言える。 \n　傷を癒しながら、次の作戦の指示を待とう
+
 story__mainquest__story_mainquest_sequence_summary__summarydescriptiontext__26
-　ローマからの亡命者を追って、ヴェルナルス率いるローマ軍がキャメリアードの地へ入ろうとしている。
-　準備を整え、キャメリアードへ向かおう。
+　ローマからの亡命者を追って、ヴェルナルス率いるローマ軍がキャメリアードの地へ入ろうとしている。\n　準備を整え、キャメリアードへ向かおう。
+
 story__mainquest__story_mainquest_sequence_summary__summarydescriptiontext__27
-　キャメリアードの戦いで、ヴェルナルスの撃破に成功した。
-　次の作戦の指示を待とう。
+　キャメリアードの戦いで、ヴェルナルスの撃破に成功した。\n　次の作戦の指示を待とう。
+
 story__mainquest__story_mainquest_sequence_summary__summarydescriptiontext__28
-　ルーシャス、そして魔女との直接対決の日が迫る。 
-　決戦の場はカレドニア城だ。
+　ルーシャス、そして魔女との直接対決の日が迫る。 \n　決戦の場はカレドニア城だ。
+
 story__mainquest__story_mainquest_sequence_summary__summarydescriptiontext__29
-　魔女を討ち、聖杯を手に入れることができた。
-　ルーシャスの動向は気になるが、聖域化の準備を進めよう。
+　魔女を討ち、聖杯を手に入れることができた。\n　ルーシャスの動向は気になるが、聖域化の準備を進めよう。
+
 story__mainquest__story_mainquest_sequence_summary__summarydescriptiontext__30
-　マーリンによれば、もうすぐサラスの都の扉が開かれるらしい。 
-　サラスの都に聖杯を安置すれば聖域化がなされるということだが、それはつまり…。
+　マーリンによれば、もうすぐサラスの都の扉が開かれるらしい。 \n　サラスの都に聖杯を安置すれば聖域化がなされるということだが、それはつまり…。
+
 story__mainquest__story_mainquest_sequence_summary__summarydescriptiontext__31
-　ノワールはランスロットとゲシュタルト・シフトを果たした。
-　先の戦いでふたりの父を喪った悲しみが消えることはないが、継承者として動き出さなければ。
+　ノワールはランスロットとゲシュタルト・シフトを果たした。\n　先の戦いでふたりの父を喪った悲しみが消えることはないが、継承者として動き出さなければ。
+
 story__mainquest__story_mainquest_sequence_summary__summarydescriptiontext__32
-　円卓の騎士は「聖杯探索班」「ローマ対策班」のふたつに分けられることになり、ノワールはランスロットとともに聖杯探索班に組み込まれた。 
-　聖杯のもとへは『聖杯城の巫女』フィエナが案内してくれるという。
+　円卓の騎士は「聖杯探索班」「ローマ対策班」のふたつに分けられることになり、ノワールはランスロットとともに聖杯探索班に組み込まれた。 \n　聖杯のもとへは『聖杯城の巫女』フィエナが案内してくれるという。
+
 story__mainquest__story_mainquest_sequence_summary__summarydescriptiontext__33
-　カーライル城で聖杯は見つからなかった。
-　フィエナからの次の連絡を待とう。
+　カーライル城で聖杯は見つからなかった。\n　フィエナからの次の連絡を待とう。
+
 story__mainquest__story_mainquest_sequence_summary__summarydescriptiontext__34
 　これまでの戦いで命を落とした者たちを追悼するべく、国葬が行われることになった。
+
 story__mainquest__story_mainquest_sequence_summary__summarydescriptiontext__35
-　フィエナから聖杯の情報を聞いたガラハッドが、その場所に向けてひとりで飛び出していってしまった。
-　聖杯探索班とともに、聖杯とガラハッドを探そう。
+　フィエナから聖杯の情報を聞いたガラハッドが、その場所に向けてひとりで飛び出していってしまった。\n　聖杯探索班とともに、聖杯とガラハッドを探そう。
+
 story__mainquest__story_mainquest_sequence_summary__summarydescriptiontext__36
-　残念ながら聖杯は見つからなかったが、探索行の末にガラハッドを見つけ、銀卓騎士のキラーズふたりを学園に連れ帰ることができた。 
-　フィエナがあらたに聖杯の場所を探知するまで、しばしの休息だ。
+　残念ながら聖杯は見つからなかったが、探索行の末にガラハッドを見つけ、銀卓騎士のキラーズふたりを学園に連れ帰ることができた。 \n　フィエナがあらたに聖杯の場所を探知するまで、しばしの休息だ。
+
 story__mainquest__story_mainquest_sequence_summary__summarydescriptiontext__37
-　ランスロットに誘われ、ロジーの里に行くことになった。 
-　ランスロットはノワールの母親の墓参りとのことだが、なにかほかにも目的がありそうだ。
+　ランスロットに誘われ、ロジーの里に行くことになった。 \n　ランスロットはノワールの母親の墓参りとのことだが、なにかほかにも目的がありそうだ。
+
 story__mainquest__story_mainquest_sequence_summary__summarydescriptiontext__38
-　反応があった地を４か所巡ったものの、聖杯はまだ手に入らない。 
-　近づけてはいるはずなのだが…。
+　反応があった地を４か所巡ったものの、聖杯はまだ手に入らない。 \n　近づけてはいるはずなのだが…。
+
 story__mainquest__story_mainquest_sequence_summary__summarydescriptiontext__39
-　フィエナの話によれば、聖杯はスノードン山に顕現するという。 
-　ローマ対策班・聖杯探索班とともに、スノードン山へ向かおう。
+　フィエナの話によれば、聖杯はスノードン山に顕現するという。 \n　ローマ対策班・聖杯探索班とともに、スノードン山へ向かおう。
+
 story__mainquest__story_mainquest_sequence_summary__summarydescriptiontext__40
-　スノードン山での戦いでローマ軍に勝利し、聖杯を手に入れることに成功したものの、銀卓騎士団によってギネヴィアとマーリンが連れ去られてしまった。 
-　ふたりを救出するための準備を整えなければ。
+　スノードン山での戦いでローマ軍に勝利し、聖杯を手に入れることに成功したものの、銀卓騎士団によってギネヴィアとマーリンが連れ去られてしまった。 \n　ふたりを救出するための準備を整えなければ。
+
 story__mainquest__story_mainquest_sequence_summary__summarydescriptiontext__41
-　これまでの無理がたたり、アーサーはモルガンの別荘での療養を余儀なくされた。 
-　ペレス王との戦いの前に、アーサーと話をしておいたほうがいいだろう。
+　これまでの無理がたたり、アーサーはモルガンの別荘での療養を余儀なくされた。 \n　ペレス王との戦いの前に、アーサーと話をしておいたほうがいいだろう。
+
 story__mainquest__story_mainquest_sequence_summary__summarydescriptiontext__42
-　アーサーがログレスへと帰還した。 
-　ギネヴィアとマーリンを救出する準備を整えよう。
+　アーサーがログレスへと帰還した。 \n　ギネヴィアとマーリンを救出する準備を整えよう。
+
 story__mainquest__story_mainquest_sequence_summary__summarydescriptiontext__43
-　ギネヴィアとマーリンを救出するための準備は整った。 
-　アーサーとともにペレス王や銀卓騎士団、そして魔女が待つコルベニック城へ向かおう。
+　ギネヴィアとマーリンを救出するための準備は整った。 \n　アーサーとともにペレス王や銀卓騎士団、そして魔女が待つコルベニック城へ向かおう。
+
 story__mainquest__story_mainquest_sequence_summary__summarydescriptiontext__44
-　コルベニック城での戦いに勝利できた。 
-　束の間の休息を満喫しよう。
+　コルベニック城での戦いに勝利できた。 \n　束の間の休息を満喫しよう。
+
 story__mainquest__story_mainquest_sequence_summary__summarydescriptiontext__45
-　ついに王殺しの日がやってきてしまった。
-　ランスロットの決断を見守ろう。
+　ついに王殺しの日がやってきてしまった。\n　ランスロットの決断を見守ろう。
+
 story__mainquest__story_mainquest_sequence_summary__summarydescriptiontext__46
-　王殺しが行われようとしたまさにそのとき、魔女モルガンが現れアーサーを連れ去ってしまった。 
-　アーサーの安否は気になるが、世界に残された時間は少ない。聖域化の準備を進める必要がある。
+　王殺しが行われようとしたまさにそのとき、魔女モルガンが現れアーサーを連れ去ってしまった。 \n　アーサーの安否は気になるが、世界に残された時間は少ない。聖域化の準備を進める必要がある。
+
 story__mainquest__story_mainquest_sequence_summary__summarydescriptiontext__47
-　世界をバルバロイの脅威から救うためには、サラスの都に聖杯を安置し、聖域化を果たさねばならない。 
-　しかし、サラスの都へ入るためには妖精の命を犠牲にする必要がある。 
-　さらに、サラスの都にはアーサーを連れ去ったモルガンが待ち構えている。 
-　今ここでとるべき、正しい選択とは…？
+　世界をバルバロイの脅威から救うためには、サラスの都に聖杯を安置し、聖域化を果たさねばならない。 \n　しかし、サラスの都へ入るためには妖精の命を犠牲にする必要がある。 \n　さらに、サラスの都にはアーサーを連れ去ったモルガンが待ち構えている。 \n　今ここでとるべき、正しい選択とは…？
+
 story__mainquest__story_mainquest_sequence_summary__summarydescriptiontext__48
-　ノワールはディナタンとゲシュタルト・シフトを果たした。 
-　しばらくぶりに穏やかな日々を過ごせそうだ。
+　ノワールはディナタンとゲシュタルト・シフトを果たした。 \n　しばらくぶりに穏やかな日々を過ごせそうだ。
+
 story__mainquest__story_mainquest_sequence_summary__summarydescriptiontext__49
-　仲間たちの助けもあり、妖精の森からの脱出に成功した。 
-　ログレスは先の事件の傷跡が完全には癒えていないが、ランスロットとギネヴィアの頑張りもあり、大事には至っていないようだ。 
-　久しぶりに学園の様子を見て回ろう。
+　仲間たちの助けもあり、妖精の森からの脱出に成功した。 \n　ログレスは先の事件の傷跡が完全には癒えていないが、ランスロットとギネヴィアの頑張りもあり、大事には至っていないようだ。 \n　久しぶりに学園の様子を見て回ろう。
+
 story__mainquest__story_mainquest_sequence_summary__summarydescriptiontext__50
-　学園や街の雰囲気を盛り上げるため、ハロウィンパーティが行われることになった。 
-　メインイベントは魔女に仮装してのパレードだ。 
-　パーティを成功させるべく準備を進めよう。
+　学園や街の雰囲気を盛り上げるため、ハロウィンパーティが行われることになった。 \n　メインイベントは魔女に仮装してのパレードだ。 \n　パーティを成功させるべく準備を進めよう。
+
 story__mainquest__story_mainquest_sequence_summary__summarydescriptiontext__51
-　ローラの話によれば、魔女はルーシャスを裏切って彼を人質に取り、ノワールがカレドニア城までやってくることを要求しているという。 
-　ルーシャスは一度敵対関係になった相手だが、ここで救出できればアーサーと戦う同志となってくれるかもしれない。
+　ローラの話によれば、魔女はルーシャスを裏切って彼を人質に取り、ノワールがカレドニア城までやってくることを要求しているという。 \n　ルーシャスは一度敵対関係になった相手だが、ここで救出できればアーサーと戦う同志となってくれるかもしれない。
+
 story__mainquest__story_mainquest_sequence_summary__summarydescriptiontext__52
-　魔女たちのいう猶予が迫ってきている。 
-　カレドニア城に向かい、ルーシャスを救出しよう。
+　魔女たちのいう猶予が迫ってきている。 \n　カレドニア城に向かい、ルーシャスを救出しよう。
+
 story__mainquest__story_mainquest_sequence_summary__summarydescriptiontext__53
-　無事、ルーシャスを救出することに成功した。 
-　次の作戦の指示を待とう。
+　無事、ルーシャスを救出することに成功した。 \n　次の作戦の指示を待とう。
+
 story__mainquest__story_mainquest_sequence_summary__summarydescriptiontext__54
-　ロンディニウムで倒した魔女は、消息を絶ったランスロットたちはスノードン山におり、ノワールが彼に会いに行かなければ再び学園が襲われるだろうと語った。 
-　魔女の戯言の可能性は否めないが、スノードン山へ向かったほうが良さそうだ。
+　ロンディニウムで倒した魔女は、消息を絶ったランスロットたちはスノードン山におり、ノワールが彼に会いに行かなければ再び学園が襲われるだろうと語った。 \n　魔女の戯言の可能性は否めないが、スノードン山へ向かったほうが良さそうだ。
+
 story__mainquest__story_mainquest_sequence_summary__summarydescriptiontext__55
-　アーサーの手によってパーシヴァルが殺害され、さらに聖杯が破壊されてしまった。 
-　もはやログレスは…いや、世界は崩壊への道を進んでいくだけなのだろうか？
+　アーサーの手によってパーシヴァルが殺害され、さらに聖杯が破壊されてしまった。 \n　もはやログレスは…いや、世界は崩壊への道を進んでいくだけなのだろうか？
+
 story__mainquest__story_mainquest_sequence_summary__summarydescriptiontext__56
-　ランスロットたちは、アーサーによって廃城アバドンに連れ去られたという。 
-　アーサーと戦うために、ランスロットたちの協力は必要不可欠だ。 
-　万が一の事態が起こる前に助け出さなくては。
+　ランスロットたちは、アーサーによって廃城アバドンに連れ去られたという。 \n　アーサーと戦うために、ランスロットたちの協力は必要不可欠だ。 \n　万が一の事態が起こる前に助け出さなくては。
+
 story__mainquest__story_mainquest_sequence_summary__summarydescriptiontext__57
-　起きてしまった万が一の事態。 
-　ログレス中を悲しみが包む。
+　起きてしまった万が一の事態。 \n　ログレス中を悲しみが包む。
+
 story__mainquest__story_mainquest_sequence_summary__summarydescriptiontext__58
-　ギネヴィアと思わしき人物がキャメリアードの地で目撃されたらしい。 
-　キャメリアードはバルバロイが跋扈する危険地帯だ。 
-　準備を整え、確認に向かおう。
+　ギネヴィアと思わしき人物がキャメリアードの地で目撃されたらしい。 \n　キャメリアードはバルバロイが跋扈する危険地帯だ。 \n　準備を整え、確認に向かおう。
+
 story__mainquest__story_mainquest_sequence_summary__summarydescriptiontext__59
-　キャメリアードで会ったギネマウアの言葉によると、ギネヴィアは「ノワールに会いに行く」と言っていたらしい。 
-　ログレスにいれば、ギネヴィアとまた会えるだろうか。
+　キャメリアードで会ったギネマウアの言葉によると、ギネヴィアは「ノワールに会いに行く」と言っていたらしい。 \n　ログレスにいれば、ギネヴィアとまた会えるだろうか。
+
 story__mainquest__story_mainquest_sequence_summary__summarydescriptiontext__60
-　なぜギネヴィアはディナタンをさらったのだろうか？
-　キャメリアードに向かい、真意を確かめよう。
+　なぜギネヴィアはディナタンをさらったのだろうか？\n　キャメリアードに向かい、真意を確かめよう。
+
 story__mainquest__story_mainquest_sequence_summary__summarydescriptiontext__61
-　ギネヴィアまでもが命を落とし、そしてディナタンの素性にまつわる驚愕の事実が判明した。 
-　しかし、落ち込んではいられない。 
-　アーサーとの決戦のときは、刻一刻と迫っている。
+　ギネヴィアまでもが命を落とし、そしてディナタンの素性にまつわる驚愕の事実が判明した。 \n　しかし、落ち込んではいられない。 \n　アーサーとの決戦のときは、刻一刻と迫っている。
+
 story__mainquest__story_mainquest_sequence_summary__summarydescriptiontext__62
-　なにが正しいのか。
-　自分の選択は合っていたのか。
-　アーサーの待つカムランの丘で、それを確かめなくてはならない。
+　なにが正しいのか。\n　自分の選択は合っていたのか。\n　アーサーの待つカムランの丘で、それを確かめなくてはならない。
+
 story__mainquest__story_mainquest_sequence_summary__summarydescriptiontext__0
 表示無し
+

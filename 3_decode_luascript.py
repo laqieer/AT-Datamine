@@ -8,7 +8,7 @@ for root, _, files in os.walk("AssetBundles/"):
         os.makedirs(dest_folder, exist_ok=True)
         for file in files:
             if file.endswith(".json"):
-                print(f"Decoding {file}...")
+                print(f"Decoding {root}/{file}...")
                 textData = []
                 with open(os.path.join(root, file), "r", encoding="utf-8") as f:
                     # read json file

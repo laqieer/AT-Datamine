@@ -7,5 +7,5 @@ for root, _, files in os.walk("AssetBundles/"):
         os.makedirs(dest_folder, exist_ok=True)
         for file in files:
             if "." not in file:
-                print(f"Decoding {file}...")
+                print(f"Decoding {root}/{file}...")
                 shutil.copy(os.path.join(root, file), os.path.join(dest_folder, file + '.yml'))

@@ -1,4 +1,6 @@
 guild__guild_settings_recruit_status_type__name__0
 募集中
+
 guild__guild_settings_recruit_status_type__name__1
 なし
+

@@ -42,6 +42,7 @@ unit__style__title__101009902
 
 unit__style__title__101010001
 円卓の騎士<size=42>三ノ座</size>
+
 unit__style__title__101010002
 
 unit__style__title__101010003
@@ -74,20 +75,25 @@ unit__style__title__101012902
 
 unit__style__title__101013001
 円卓の騎士<size=42>十ノ座</size>
+
 unit__style__title__101013002
 
 unit__style__title__101014001
 円卓の騎士<size=42>五ノ座</size>
+
 unit__style__title__101015001
 円卓の騎士<size=42>十三ノ座</size>
+
 unit__style__title__101015002
 
 unit__style__title__101015003
 
 unit__style__title__101015004
 円卓の騎士<size=42>十三ノ座</size>
+
 unit__style__title__101016001
 キラーズ<size=42>ロンゴミアント</size>
+
 unit__style__title__101016002
 
 unit__style__title__101016901
@@ -102,12 +108,14 @@ unit__style__title__101017901
 
 unit__style__title__101018001
 キラーズ<size=42>ガラティン</size>
+
 unit__style__title__101018002
 
 unit__style__title__101018003
 
 unit__style__title__101019001
 キラーズ<size=42>フェイルノート</size>
+
 unit__style__title__101019002
 
 unit__style__title__101019003
@@ -120,6 +128,7 @@ unit__style__title__101020003
 
 unit__style__title__101021001
 キラーズ<size=42>ジョワイユ</size>
+
 unit__style__title__101021002
 
 unit__style__title__101021003
@@ -130,22 +139,30 @@ unit__style__title__101021005
 
 unit__style__title__101022001
 円卓の騎士<size=42>一ノ座</size>
+
 unit__style__title__101022002
 円卓の騎士<size=42>一ノ座</size>
+
 unit__style__title__101023001
 キラーズ<size=42>クラレント</size>
+
 unit__style__title__101023002
 
 unit__style__title__101024001
 円卓の騎士<size=42>四ノ座</size>
+
 unit__style__title__101025001
 キラーズ<size=42>カシウス</size>
+
 unit__style__title__101025002
 キラーズ<size=42>カシウス</size>
+
 unit__style__title__101026001
 円卓の騎士<size=42>八ノ座</size>
+
 unit__style__title__101027001
 キラーズ<size=42>ゲイボルグ</size>
+
 unit__style__title__101027002
 
 unit__style__title__101027003
@@ -156,6 +173,7 @@ unit__style__title__101028002
 
 unit__style__title__101028003
 <ruby=シルバタブラナイツ>銀卓騎士団</ruby><size=42>四の脚</size>
+
 unit__style__title__101028004
 
 unit__style__title__101028005
@@ -164,6 +182,7 @@ unit__style__title__101029001
 
 unit__style__title__101029002
 キラーズ<size=42>カラドボルグ</size>
+
 unit__style__title__101030001
 
 unit__style__title__101030002
@@ -174,24 +193,30 @@ unit__style__title__101030004
 
 unit__style__title__101031001
 キラーズ<size=42>セクエンス</size>
+
 unit__style__title__101031002
 
 unit__style__title__101032001
 円卓の騎士<size=42>六ノ座</size>
+
 unit__style__title__101033001
 キラーズ<size=42>タスラム</size>
+
 unit__style__title__101033002
 
 unit__style__title__101034001
 
 unit__style__title__101034002
 キラーズ<size=42>ソロモン</size>
+
 unit__style__title__101035001
 
 unit__style__title__101035002
 キラーズ<size=42>ロンギヌス</size>
+
 unit__style__title__101036001
 キラーズ<size=42>カリス</size>
+
 unit__style__title__101036002
 
 unit__style__title__101037001
@@ -216,6 +241,7 @@ unit__style__title__101039003
 
 unit__style__title__101040001
 円卓の騎士<size=42>十一ノ座</size>
+
 unit__style__title__101041001
 
 unit__style__title__101041002
@@ -286,6 +312,7 @@ unit__style__title__101050001
 
 unit__style__title__101051001
 <size=42>ローマ皇太子</size>
+
 unit__style__title__101051002
 
 unit__style__title__101051003
@@ -294,6 +321,7 @@ unit__style__title__101051004
 
 unit__style__title__101052001
 <size=42>ローマ大将軍</size>
+
 unit__style__title__101053001
 
 unit__style__title__101053002
@@ -372,6 +400,7 @@ unit__style__title__101030006
 
 unit__style__title__101010006
 円卓の騎士<size=42>三ノ座</size>
+
 unit__style__title__101011006
 
 unit__style__title__101016003
@@ -380,6 +409,7 @@ unit__style__title__101018004
 
 unit__style__title__101013003
 円卓の騎士<size=42>十ノ座</size>
+
 unit__style__title__101017004
 
 unit__style__title__101015005
@@ -414,10 +444,13 @@ unit__style__title__101039006
 
 unit__style__title__101035004
 キラーズ<size=42>ロンギヌス</size>
+
 unit__style__title__101034003
 キラーズ<size=42>ソロモン</size>
+
 unit__style__title__101029003
 キラーズ<size=42>カラドボルグ</size>
+
 unit__style__title__101053005
 
 unit__style__title__101054006
@@ -432,6 +465,7 @@ unit__style__title__101012006
 
 unit__style__title__101032003
 円卓の騎士<size=42>六ノ座</size>
+
 unit__style__title__101038005
 
 unit__style__title__101039005
@@ -444,8 +478,10 @@ unit__style__title__101028007
 
 unit__style__title__101026002
 円卓の騎士<size=42>八ノ座</size>
+
 unit__style__title__101022003
 円卓の騎士<size=42>一ノ座</size>
+
 unit__style__title__101019004
 
 unit__style__title__101028006
@@ -460,6 +496,7 @@ unit__style__title__101070002
 
 unit__style__title__101035003
 キラーズ<size=42>ロンギヌス</size>
+
 unit__style__title__101010007
 
 unit__style__title__101011007
@@ -490,6 +527,7 @@ unit__style__title__101035005
 
 unit__style__title__101051006
 <size=42>ローマ皇太子</size>
+
 unit__style__title__101071002
 
 unit__style__title__101071003
@@ -514,6 +552,7 @@ unit__style__title__101013004
 
 unit__style__title__101033003
 キラーズ<size=42>タスラム</size>
+
 unit__style__title__101041008
 
 unit__style__title__101058006

@@ -20,41 +20,56 @@ story__story_book_effect__append_effect_text__10
 
 story__story_book_effect__append_effect_text__11
 『乱世の賢王～下巻～』が<br>大図書院で借りられるようになる
+
 story__story_book_effect__append_effect_text__12
 
 story__story_book_effect__append_effect_text__13
 『遥かなる理想郷～下巻～』が<br>大図書院で借りられるようになる
+
 story__story_book_effect__append_effect_text__14
 
 story__story_book_effect__append_effect_text__15
 『続・カリスマ職人伝』が<br>大図書院で借りられるようになる
+
 story__story_book_effect__append_effect_text__16
 
 story__story_book_effect__append_effect_text__17
 『光の差す教室～下巻～』が<br>大図書院で借りられるようになる
+
 story__story_book_effect__append_effect_text__18
 
 story__story_book_effect__append_effect_text__19
 『死地を駆ける医師～下巻～』が<br>大図書院で借りられるようになる
+
 story__story_book_effect__append_effect_text__20
 
 story__story_book_effect__append_effect_text__21
 キズナクエスト時に、相手を<br>『ロンディニウムの都』に誘えるようになる
+
 story__story_book_effect__append_effect_text__22
 キズナクエスト時に、相手を<br>『ロジーの里』に誘えるようになる
+
 story__story_book_effect__append_effect_text__23
 キズナクエスト時に、相手を<br>『リムニーナ村』に誘えるようになる
+
 story__story_book_effect__append_effect_text__24
 キズナクエスト時に、相手を<br>『カンタベリー』に誘えるようになる
+
 story__story_book_effect__append_effect_text__25
 キズナクエスト時に、相手を<br>『コーンウォール』に誘えるようになる
+
 story__story_book_effect__append_effect_text__26
 キズナクエスト時に、相手を<br>『アストラット郷』に誘えるようになる
+
 story__story_book_effect__append_effect_text__27
 キズナクエスト時に、相手を<br>『ローマン・バス』に誘えるようになる
+
 story__story_book_effect__append_effect_text__28
 キズナクエスト時に、相手を<br>『スノードン山』に誘えるようになる
+
 story__story_book_effect__append_effect_text__29
 キズナクエスト時に、相手を<br>『果てなき森』に誘えるようになる
+
 story__story_book_effect__append_effect_text__30
 キズナクエスト時に、相手を<br>『花畑』に誘えるようになる
+

@@ -1,6 +1,9 @@
 item__expedition_rapid_ticket__flavor__1
 　ブリテン遠征2時間高速化できるチケット。
+
 item__expedition_rapid_ticket__flavor__2
 　ブリテン遠征5時間高速化できるチケット。
+
 item__expedition_rapid_ticket__flavor__3
 　ブリテン遠征10時間高速化できるチケット。
+

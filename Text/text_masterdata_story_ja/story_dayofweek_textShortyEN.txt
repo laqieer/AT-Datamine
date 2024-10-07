@@ -2,15 +2,22 @@ story__story_dayofweek__textShortyEN__0
 
 story__story_dayofweek__textShortyEN__1
 MON
+
 story__story_dayofweek__textShortyEN__2
 TUE
+
 story__story_dayofweek__textShortyEN__3
 WED
+
 story__story_dayofweek__textShortyEN__4
 THU
+
 story__story_dayofweek__textShortyEN__5
 FRI
+
 story__story_dayofweek__textShortyEN__6
 SAT
+
 story__story_dayofweek__textShortyEN__7
 SUN
+

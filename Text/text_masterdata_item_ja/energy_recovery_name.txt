@@ -1,8 +1,12 @@
 item__energy_recovery__name__101030001
 APチャージ
+
 item__energy_recovery__name__101030002
 APチャージ・リミテッド
+
 item__energy_recovery__name__101030003
 APチャージ・リミテッド
+
 item__energy_recovery__name__101040001
 BPチャージ
+

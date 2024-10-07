@@ -1,8 +1,8 @@
 unit__style__explanation__101001001
 
 unit__style__explanation__101001002
-剣の祭壇から現れた
-ノワールの『最初の武器』。
+剣の祭壇から現れた\nノワールの『最初の武器』。
+
 unit__style__explanation__101001003
 
 unit__style__explanation__101001901
@@ -42,8 +42,8 @@ unit__style__explanation__101009901
 unit__style__explanation__101009902
 
 unit__style__explanation__101010001
-ブリテン島の内外にその名を轟かす
-「最強騎士」。
+ブリテン島の内外にその名を轟かす\n「最強騎士」。
+
 unit__style__explanation__101010002
 
 unit__style__explanation__101010003
@@ -55,8 +55,8 @@ unit__style__explanation__101010901
 unit__style__explanation__101010902
 
 unit__style__explanation__101011001
-ログレス王国国王アーサーの許嫁。
-ワガママで派手好きな性格。
+ログレス王国国王アーサーの許嫁。\nワガママで派手好きな性格。
+
 unit__style__explanation__101011002
 
 unit__style__explanation__101011003
@@ -68,8 +68,8 @@ unit__style__explanation__101012001
 unit__style__explanation__101012002
 
 unit__style__explanation__101012003
-ノワールの妹で、最大の理解者。
-趣味は兄の世話を焼くこと。
+ノワールの妹で、最大の理解者。\n趣味は兄の世話を焼くこと。
+
 unit__style__explanation__101012004
 
 unit__style__explanation__101012901
@@ -77,33 +77,33 @@ unit__style__explanation__101012901
 unit__style__explanation__101012902
 
 unit__style__explanation__101013001
-困った人を放っておけない、
-自称「太陽のヒーロー」。
+困った人を放っておけない、\n自称「太陽のヒーロー」。
+
 unit__style__explanation__101013002
 
 unit__style__explanation__101014001
-弓の腕前は王国随一。
-芸術方面も卓越したセンスを誇る。
+弓の腕前は王国随一。\n芸術方面も卓越したセンスを誇る。
+
 unit__style__explanation__101015001
-ログレス王国国王にして、
-キャメロット騎士学術院の学長。
+ログレス王国国王にして、\nキャメロット騎士学術院の学長。
+
 unit__style__explanation__101015002
 
 unit__style__explanation__101015003
 
 unit__style__explanation__101015004
-ログレス王国国王にして、
-キャメロット騎士学術院の学長。
+ログレス王国国王にして、\nキャメロット騎士学術院の学長。
+
 unit__style__explanation__101016001
-常にギネヴィアに付き添い、
-彼女の身の回りの世話をしている。
+常にギネヴィアに付き添い、\n彼女の身の回りの世話をしている。
+
 unit__style__explanation__101016002
 
 unit__style__explanation__101016901
 
 unit__style__explanation__101017001
-いつも授業をサボり、療養院や
-大図書院に入り浸る非行少女。
+いつも授業をサボり、療養院や\n大図書院に入り浸る非行少女。
+
 unit__style__explanation__101017002
 
 unit__style__explanation__101017003
@@ -111,29 +111,29 @@ unit__style__explanation__101017003
 unit__style__explanation__101017901
 
 unit__style__explanation__101018001
-ガウェインとともに
-学園を盛り上げる元気な少女。
+ガウェインとともに\n学園を盛り上げる元気な少女。
+
 unit__style__explanation__101018002
 
 unit__style__explanation__101018003
 
 unit__style__explanation__101019001
-トリスタンのキラーズ。
-薬学に関する知識が豊富。
+トリスタンのキラーズ。\n薬学に関する知識が豊富。
+
 unit__style__explanation__101019002
 
 unit__style__explanation__101019003
 
 unit__style__explanation__101020001
-類まれなる魔術の才能を活かし、
-公私にわたってアーサーを支える。
+類まれなる魔術の才能を活かし、\n公私にわたってアーサーを支える。
+
 unit__style__explanation__101020002
 
 unit__style__explanation__101020003
 
 unit__style__explanation__101021001
-ノワールとディナタンの父親。
-ランスロットのキラーズでもある。
+ノワールとディナタンの父親。\nランスロットのキラーズでもある。
+
 unit__style__explanation__101021002
 
 unit__style__explanation__101021003
@@ -143,31 +143,31 @@ unit__style__explanation__101021004
 unit__style__explanation__101021005
 
 unit__style__explanation__101022001
-アーサーの義弟。
-性格は義兄と真逆で傲慢かつ乱暴。
+アーサーの義弟。\n性格は義兄と真逆で傲慢かつ乱暴。
+
 unit__style__explanation__101022002
-アーサーの義弟。
-性格は義兄と真逆で傲慢かつ乱暴。
+アーサーの義弟。\n性格は義兄と真逆で傲慢かつ乱暴。
+
 unit__style__explanation__101023001
-モルドレッドのキラーズ。
-朗らかでのんびり屋のシスター。
+モルドレッドのキラーズ。\n朗らかでのんびり屋のシスター。
+
 unit__style__explanation__101023002
 
 unit__style__explanation__101024001
-騎士だけでなく、
-鍛冶師としての顔ももつ。
+騎士だけでなく、\n鍛冶師としての顔ももつ。
+
 unit__style__explanation__101025001
-ヴォールスのキラーズ。
-高い推理力を有し、探偵業を営む。
+ヴォールスのキラーズ。\n高い推理力を有し、探偵業を営む。
+
 unit__style__explanation__101025002
-ヴォールスのキラーズ。
-高い推理力を有し、探偵業を営む。
+ヴォールスのキラーズ。\n高い推理力を有し、探偵業を営む。
+
 unit__style__explanation__101026001
-ノブレス・オブリージュを貴ぶ、
-名家の子息。
+ノブレス・オブリージュを貴ぶ、\n名家の子息。
+
 unit__style__explanation__101027001
-パーシヴァルの義姉でキラーズ。
-学園の大図書院で司書をしている。
+パーシヴァルの義姉でキラーズ。\n学園の大図書院で司書をしている。
+
 unit__style__explanation__101027002
 
 unit__style__explanation__101027003
@@ -177,8 +177,8 @@ unit__style__explanation__101028001
 unit__style__explanation__101028002
 
 unit__style__explanation__101028003
-海を越え、コルベニック王国より
-やってきた騎士。
+海を越え、コルベニック王国より\nやってきた騎士。
+
 unit__style__explanation__101028004
 
 unit__style__explanation__101028005
@@ -186,11 +186,11 @@ unit__style__explanation__101028005
 unit__style__explanation__101029001
 
 unit__style__explanation__101029002
-ガラハッドの護衛としてやってきた
-<ruby=シルバタブラナイツ>銀卓騎士団</ruby>のキラーズ。
+ガラハッドの護衛としてやってきた\n<ruby=シルバタブラナイツ>銀卓騎士団</ruby>のキラーズ。
+
 unit__style__explanation__101030001
-ローマに留学していた優等生。
-「アストラットの美姫」とも。
+ローマに留学していた優等生。\n「アストラットの美姫」とも。
+
 unit__style__explanation__101030002
 
 unit__style__explanation__101030003
@@ -198,36 +198,36 @@ unit__style__explanation__101030003
 unit__style__explanation__101030004
 
 unit__style__explanation__101031001
-エレインの実兄でキラーズ。
-学園の生徒会長を務めている。
+エレインの実兄でキラーズ。\n学園の生徒会長を務めている。
+
 unit__style__explanation__101031002
 
 unit__style__explanation__101032001
-ガウェインの実妹。
-円卓の騎士兼食堂のコック。
+ガウェインの実妹。\n円卓の騎士兼食堂のコック。
+
 unit__style__explanation__101033001
-ガレスのキラーズ。
-食堂の配膳係兼新作の試食係。
+ガレスのキラーズ。\n食堂の配膳係兼新作の試食係。
+
 unit__style__explanation__101033002
 
 unit__style__explanation__101034001
 
 unit__style__explanation__101034002
-<ruby=シルバタブラナイツ>銀卓騎士団</ruby>のキラーズ。
-軍師としても活躍している。
+<ruby=シルバタブラナイツ>銀卓騎士団</ruby>のキラーズ。\n軍師としても活躍している。
+
 unit__style__explanation__101035001
 
 unit__style__explanation__101035002
-<ruby=シルバタブラナイツ>銀卓騎士団</ruby>のキラーズ。
-戦いを好まない、心優しい少女。
+<ruby=シルバタブラナイツ>銀卓騎士団</ruby>のキラーズ。\n戦いを好まない、心優しい少女。
+
 unit__style__explanation__101036001
-ガラハッドのキラーズ。
-コルベニック城城主ぺレスの孫娘。
+ガラハッドのキラーズ。\nコルベニック城城主ぺレスの孫娘。
+
 unit__style__explanation__101036002
 
 unit__style__explanation__101037001
-ローマ生まれの少女。
-ヴェルナルス大将軍の縁戚。
+ローマ生まれの少女。\nヴェルナルス大将軍の縁戚。
+
 unit__style__explanation__101037002
 
 unit__style__explanation__101037003
@@ -235,29 +235,29 @@ unit__style__explanation__101037003
 unit__style__explanation__101037004
 
 unit__style__explanation__101038001
-ローマ生まれの双子。
-ローラが妹で、フレンが姉。
+ローマ生まれの双子。\nローラが妹で、フレンが姉。
+
 unit__style__explanation__101038002
 
 unit__style__explanation__101038003
 
 unit__style__explanation__101039001
-ローマ生まれの双子。
-フレンが姉で、ローラが妹。
+ローマ生まれの双子。\nフレンが姉で、ローラが妹。
+
 unit__style__explanation__101039002
 
 unit__style__explanation__101039003
 
 unit__style__explanation__101040001
-アーサーの義兄であり、
-参謀であり、学園副学長でもある。
+アーサーの義兄であり、\n参謀であり、学園副学長でもある。
+
 unit__style__explanation__101041001
 
 unit__style__explanation__101041002
 
 unit__style__explanation__101041003
-アーサーの異父姉。
-優しい療養院の臨時養護教諭。
+アーサーの異父姉。\n優しい療養院の臨時養護教諭。
+
 unit__style__explanation__101041004
 
 unit__style__explanation__101041005
@@ -319,11 +319,11 @@ unit__style__explanation__101049002
 unit__style__explanation__101049901
 
 unit__style__explanation__101050001
-ノワールたちの育ての親。
-異名は「カレドニアの猟犬」。
+ノワールたちの育ての親。\n異名は「カレドニアの猟犬」。
+
 unit__style__explanation__101051001
-ローマ大帝国の皇太子。
-留学生として学園に編入。
+ローマ大帝国の皇太子。\n留学生として学園に編入。
+
 unit__style__explanation__101051002
 
 unit__style__explanation__101051003
@@ -331,8 +331,8 @@ unit__style__explanation__101051003
 unit__style__explanation__101051004
 
 unit__style__explanation__101052001
-ローマの大将軍。
-学園の臨時教師も務める。
+ローマの大将軍。\n学園の臨時教師も務める。
+
 unit__style__explanation__101053001
 
 unit__style__explanation__101053002
@@ -394,8 +394,8 @@ unit__style__explanation__101066001
 unit__style__explanation__101067001
 
 unit__style__explanation__101068001
-ノワールのクラスの学級委員長。
-学園の生徒会長代理も務めている。
+ノワールのクラスの学級委員長。\n学園の生徒会長代理も務めている。
+
 unit__style__explanation__101001004
 
 unit__style__explanation__101011005
@@ -411,18 +411,18 @@ unit__style__explanation__101014002
 unit__style__explanation__101030006
 
 unit__style__explanation__101010006
-ブリテン島の内外にその名を轟かす
-「最強騎士」。
+ブリテン島の内外にその名を轟かす\n「最強騎士」。
+
 unit__style__explanation__101011006
-ログレス王国国王アーサーの許嫁。
-ワガママで派手好きな性格。
+ログレス王国国王アーサーの許嫁。\nワガママで派手好きな性格。
+
 unit__style__explanation__101016003
 
 unit__style__explanation__101018004
 
 unit__style__explanation__101013003
-困った人を放っておけない、
-自称「太陽のヒーロー」。
+困った人を放っておけない、\n自称「太陽のヒーロー」。
+
 unit__style__explanation__101017004
 
 unit__style__explanation__101015005
@@ -456,14 +456,14 @@ unit__style__explanation__101038006
 unit__style__explanation__101039006
 
 unit__style__explanation__101035004
-<ruby=シルバタブラナイツ>銀卓騎士団</ruby>のキラーズ。
-戦いを好まない、心優しい少女。
+<ruby=シルバタブラナイツ>銀卓騎士団</ruby>のキラーズ。\n戦いを好まない、心優しい少女。
+
 unit__style__explanation__101034003
-<ruby=シルバタブラナイツ>銀卓騎士団</ruby>のキラーズ。
-軍師としても活躍している。
+<ruby=シルバタブラナイツ>銀卓騎士団</ruby>のキラーズ。\n軍師としても活躍している。
+
 unit__style__explanation__101029003
-ガラハッドの護衛としてやってきた
-<ruby=シルバタブラナイツ>銀卓騎士団</ruby>のキラーズ。
+ガラハッドの護衛としてやってきた\n<ruby=シルバタブラナイツ>銀卓騎士団</ruby>のキラーズ。
+
 unit__style__explanation__101053005
 
 unit__style__explanation__101054006
@@ -477,27 +477,27 @@ unit__style__explanation__101058004
 unit__style__explanation__101012006
 
 unit__style__explanation__101032003
-ガウェインの実妹。
-円卓の騎士兼食堂のコック。
+ガウェインの実妹。\n円卓の騎士兼食堂のコック。
+
 unit__style__explanation__101038005
-ローマ生まれの双子。
-ローラが妹で、フレンが姉。
+ローマ生まれの双子。\nローラが妹で、フレンが姉。
+
 unit__style__explanation__101039005
-ローマ生まれの双子。
-フレンが姉で、ローラが妹。
+ローマ生まれの双子。\nフレンが姉で、ローラが妹。
+
 unit__style__explanation__101020004
-類まれなる魔術の才能を活かし、
-公私にわたってアーサーを支える。
+類まれなる魔術の才能を活かし、\n公私にわたってアーサーを支える。
+
 unit__style__explanation__101012007
 
 unit__style__explanation__101028007
 
 unit__style__explanation__101026002
-ノブレス・オブリージュを貴ぶ、
-名家の子息。
+ノブレス・オブリージュを貴ぶ、\n名家の子息。
+
 unit__style__explanation__101022003
-アーサーの義弟。
-性格は義兄と真逆で傲慢かつ乱暴。
+アーサーの義弟。\n性格は義兄と真逆で傲慢かつ乱暴。
+
 unit__style__explanation__101019004
 
 unit__style__explanation__101028006
@@ -511,8 +511,8 @@ unit__style__explanation__101070001
 unit__style__explanation__101070002
 
 unit__style__explanation__101035003
-<ruby=シルバタブラナイツ>銀卓騎士団</ruby>のキラーズ。
-戦いを好まない、心優しい少女。
+<ruby=シルバタブラナイツ>銀卓騎士団</ruby>のキラーズ。\n戦いを好まない、心優しい少女。
+
 unit__style__explanation__101010007
 
 unit__style__explanation__101011007
@@ -542,8 +542,8 @@ unit__style__explanation__101076001
 unit__style__explanation__101035005
 
 unit__style__explanation__101051006
-ローマ大帝国の皇太子。
-留学生として学園に編入。
+ローマ大帝国の皇太子。\n留学生として学園に編入。
+
 unit__style__explanation__101071002
 
 unit__style__explanation__101071003
@@ -557,8 +557,8 @@ unit__style__explanation__101012010
 unit__style__explanation__101058005
 
 unit__style__explanation__101068002
-ノワールのクラスの学級委員長。
-学園の生徒会長代理も務めている。
+ノワールのクラスの学級委員長。\n学園の生徒会長代理も務めている。
+
 unit__style__explanation__101082003
 
 unit__style__explanation__101052003
@@ -568,8 +568,8 @@ unit__style__explanation__101001006
 unit__style__explanation__101013004
 
 unit__style__explanation__101033003
-ガレスのキラーズ。
-食堂の配膳係兼新作の試食係。
+ガレスのキラーズ。\n食堂の配膳係兼新作の試食係。
+
 unit__style__explanation__101041008
 
 unit__style__explanation__101058006

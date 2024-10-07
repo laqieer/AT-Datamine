@@ -54,6 +54,7 @@ unit__style__affiliation__101010902
 
 unit__style__affiliation__101011001
 所属学級『<ruby=ヴァンデル・ピーク>遥か望む剣</ruby>』
+
 unit__style__affiliation__101011002
 
 unit__style__affiliation__101011003
@@ -74,10 +75,12 @@ unit__style__affiliation__101012902
 
 unit__style__affiliation__101013001
 所属学級『<ruby=ヴァンデル・ピーク>遥か望む剣</ruby>』
+
 unit__style__affiliation__101013002
 
 unit__style__affiliation__101014001
 所属学級『<ruby=ケッテ・クロイツ>連鎖する幸運</ruby>』
+
 unit__style__affiliation__101015001
 
 unit__style__affiliation__101015002
@@ -88,12 +91,14 @@ unit__style__affiliation__101015004
 
 unit__style__affiliation__101016001
 所属学級『<ruby=レゾナンツ・カーロ>響き合う正義</ruby>』
+
 unit__style__affiliation__101016002
 
 unit__style__affiliation__101016901
 
 unit__style__affiliation__101017001
 所属学級『<ruby=エーヴィヒ・ヘルツ>永遠を謳う愛</ruby>』
+
 unit__style__affiliation__101017002
 
 unit__style__affiliation__101017003
@@ -102,18 +107,21 @@ unit__style__affiliation__101017901
 
 unit__style__affiliation__101018001
 所属学級『<ruby=ヴァンデル・ピーク>遥か望む剣</ruby>』
+
 unit__style__affiliation__101018002
 
 unit__style__affiliation__101018003
 
 unit__style__affiliation__101019001
 所属学級『<ruby=ケッテ・クロイツ>連鎖する幸運</ruby>』
+
 unit__style__affiliation__101019002
 
 unit__style__affiliation__101019003
 
 unit__style__affiliation__101020001
 ログレス王国宮廷魔術師
+
 unit__style__affiliation__101020002
 
 unit__style__affiliation__101020003
@@ -130,20 +138,27 @@ unit__style__affiliation__101021005
 
 unit__style__affiliation__101022001
 所属学級『<ruby=ラウネン・ジョーカー>気まぐれな道化師</ruby>』
+
 unit__style__affiliation__101022002
 所属学級『<ruby=ラウネン・ジョーカー>気まぐれな道化師</ruby>』
+
 unit__style__affiliation__101023001
 所属学級『<ruby=ラウネン・ジョーカー>気まぐれな道化師</ruby>』
+
 unit__style__affiliation__101023002
 
 unit__style__affiliation__101024001
 所属学級『<ruby=レゾナンツ・カーロ>響き合う正義</ruby>』
+
 unit__style__affiliation__101025001
 所属学級『<ruby=ケッテ・クロイツ>連鎖する幸運</ruby>』
+
 unit__style__affiliation__101025002
 所属学級『<ruby=ケッテ・クロイツ>連鎖する幸運</ruby>』
+
 unit__style__affiliation__101026001
 所属学級『<ruby=ケッテ・クロイツ>連鎖する幸運</ruby>』
+
 unit__style__affiliation__101027001
 
 unit__style__affiliation__101027002
@@ -164,8 +179,10 @@ unit__style__affiliation__101029001
 
 unit__style__affiliation__101029002
 銀卓騎士団
+
 unit__style__affiliation__101030001
 所属学級『<ruby=エーヴィヒ・ヘルツ>永遠を謳う愛</ruby>』
+
 unit__style__affiliation__101030002
 
 unit__style__affiliation__101030003
@@ -174,28 +191,35 @@ unit__style__affiliation__101030004
 
 unit__style__affiliation__101031001
 所属学級『<ruby=レゾナンツ・カーロ>響き合う正義</ruby>』
+
 unit__style__affiliation__101031002
 
 unit__style__affiliation__101032001
 所属学級『<ruby=エーヴィヒ・ヘルツ>永遠を謳う愛</ruby>』
+
 unit__style__affiliation__101033001
 所属学級『<ruby=エーヴィヒ・ヘルツ>永遠を謳う愛</ruby>』
+
 unit__style__affiliation__101033002
 
 unit__style__affiliation__101034001
 
 unit__style__affiliation__101034002
 銀卓騎士団
+
 unit__style__affiliation__101035001
 
 unit__style__affiliation__101035002
 銀卓騎士団
+
 unit__style__affiliation__101036001
 コルベニック王国王女
+
 unit__style__affiliation__101036002
 
 unit__style__affiliation__101037001
 所属学級『<ruby=レゾナンツ・カーロ>響き合う正義</ruby>』
+
 unit__style__affiliation__101037002
 
 unit__style__affiliation__101037003
@@ -204,24 +228,28 @@ unit__style__affiliation__101037004
 
 unit__style__affiliation__101038001
 所属学級『<ruby=レゾナンツ・カーロ>響き合う正義</ruby>』
+
 unit__style__affiliation__101038002
 
 unit__style__affiliation__101038003
 
 unit__style__affiliation__101039001
 所属学級『<ruby=レゾナンツ・カーロ>響き合う正義</ruby>』
+
 unit__style__affiliation__101039002
 
 unit__style__affiliation__101039003
 
 unit__style__affiliation__101040001
 参謀／副学長
+
 unit__style__affiliation__101041001
 
 unit__style__affiliation__101041002
 
 unit__style__affiliation__101041003
 臨時養護教諭
+
 unit__style__affiliation__101041004
 
 unit__style__affiliation__101041005
@@ -284,8 +312,10 @@ unit__style__affiliation__101049901
 
 unit__style__affiliation__101050001
 カレドニア王国軍の傭兵
+
 unit__style__affiliation__101051001
 所属学級『<ruby=レゾナンツ・カーロ>響き合う正義</ruby>』
+
 unit__style__affiliation__101051002
 
 unit__style__affiliation__101051003
@@ -356,6 +386,7 @@ unit__style__affiliation__101067001
 
 unit__style__affiliation__101068001
 所属学級『<ruby=ヴァンデル・ピーク>遥か望む剣</ruby>』
+
 unit__style__affiliation__101001004
 
 unit__style__affiliation__101011005
@@ -374,12 +405,14 @@ unit__style__affiliation__101010006
 
 unit__style__affiliation__101011006
 所属学級『<ruby=ヴァンデル・ピーク>遥か望む剣</ruby>』
+
 unit__style__affiliation__101016003
 
 unit__style__affiliation__101018004
 
 unit__style__affiliation__101013003
 所属学級『<ruby=ヴァンデル・ピーク>遥か望む剣</ruby>』
+
 unit__style__affiliation__101017004
 
 unit__style__affiliation__101015005
@@ -414,10 +447,13 @@ unit__style__affiliation__101039006
 
 unit__style__affiliation__101035004
 銀卓騎士団
+
 unit__style__affiliation__101034003
 銀卓騎士団
+
 unit__style__affiliation__101029003
 銀卓騎士団
+
 unit__style__affiliation__101053005
 
 unit__style__affiliation__101054006
@@ -432,20 +468,26 @@ unit__style__affiliation__101012006
 
 unit__style__affiliation__101032003
 所属学級『<ruby=エーヴィヒ・ヘルツ>永遠を謳う愛</ruby>』
+
 unit__style__affiliation__101038005
 所属学級『<ruby=レゾナンツ・カーロ>響き合う正義</ruby>』
+
 unit__style__affiliation__101039005
 所属学級『<ruby=レゾナンツ・カーロ>響き合う正義</ruby>』
+
 unit__style__affiliation__101020004
 ログレス王国宮廷魔術師
+
 unit__style__affiliation__101012007
 
 unit__style__affiliation__101028007
 
 unit__style__affiliation__101026002
 所属学級『<ruby=ケッテ・クロイツ>連鎖する幸運</ruby>』
+
 unit__style__affiliation__101022003
 所属学級『<ruby=ラウネン・ジョーカー>気まぐれな道化師</ruby>』
+
 unit__style__affiliation__101019004
 
 unit__style__affiliation__101028006
@@ -460,6 +502,7 @@ unit__style__affiliation__101070002
 
 unit__style__affiliation__101035003
 銀卓騎士団
+
 unit__style__affiliation__101010007
 
 unit__style__affiliation__101011007
@@ -490,6 +533,7 @@ unit__style__affiliation__101035005
 
 unit__style__affiliation__101051006
 所属学級『<ruby=レゾナンツ・カーロ>響き合う正義</ruby>』
+
 unit__style__affiliation__101071002
 
 unit__style__affiliation__101071003
@@ -504,6 +548,7 @@ unit__style__affiliation__101058005
 
 unit__style__affiliation__101068002
 所属学級『<ruby=ヴァンデル・ピーク>遥か望む剣</ruby>』
+
 unit__style__affiliation__101082003
 
 unit__style__affiliation__101052003
@@ -514,6 +559,7 @@ unit__style__affiliation__101013004
 
 unit__style__affiliation__101033003
 所属学級『<ruby=エーヴィヒ・ヘルツ>永遠を謳う愛</ruby>』
+
 unit__style__affiliation__101041008
 
 unit__style__affiliation__101058006

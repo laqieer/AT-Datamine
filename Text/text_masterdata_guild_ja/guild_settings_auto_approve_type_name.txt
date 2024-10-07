@@ -1,4 +1,6 @@
 guild__guild_settings_auto_approve_type__name__0
 自動承認
+
 guild__guild_settings_auto_approve_type__name__1
 手動承認
+

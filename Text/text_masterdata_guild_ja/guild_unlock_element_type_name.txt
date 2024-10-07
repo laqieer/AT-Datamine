@@ -1,10 +1,15 @@
 guild__guild_unlock_element_type__name__1
 役職報酬
+
 guild__guild_unlock_element_type__name__2
 ギルドショップ
+
 guild__guild_unlock_element_type__name__3
 ギルドバトル
+
 guild__guild_unlock_element_type__name__4
 ギルドレイド
+
 guild__guild_unlock_element_type__name__5
 ギルドランキング
+

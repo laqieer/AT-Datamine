@@ -120,16 +120,22 @@ unit__class__englishname__9908
 
 unit__class__englishname__2
 あーちゃー
+
 unit__class__englishname__3
 ぱらでぃん
+
 unit__class__englishname__4
 ぷりーすと
+
 unit__class__englishname__5
 らんさー
+
 unit__class__englishname__6
 ばるばろい
+
 unit__class__englishname__7
 ばるばろい
+
 unit__class__englishname__1604
 
 unit__class__englishname__1507

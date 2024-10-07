@@ -1,18 +1,25 @@
 quest__area_quest_area__area_unreleased_state__1
 エリア開放までしばらくお待ちください。
+
 quest__area_quest_area__area_unreleased_state__2
 エリア開放までしばらくお待ちください。
+
 quest__area_quest_area__area_unreleased_state__3
 エリア開放までしばらくお待ちください。
+
 quest__area_quest_area__area_unreleased_state__4
 
 quest__area_quest_area__area_unreleased_state__5
 
 quest__area_quest_area__area_unreleased_state__6
 【ギネヴィア編】メインクエストの進行で解放されます。
+
 quest__area_quest_area__area_unreleased_state__7
 【ランスロット編】メインクエストの進行で解放されます。
+
 quest__area_quest_area__area_unreleased_state__8
 【ディナタン編】メインクエストの進行で解放されます。
+
 quest__area_quest_area__area_unreleased_state__9
 【現代編1幕】クリアで解放されます。
+

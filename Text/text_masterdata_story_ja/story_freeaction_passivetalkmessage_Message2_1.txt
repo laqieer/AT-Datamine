@@ -1922,3 +1922,4 @@ story__freeaction__story_freeaction_passivetalkmessage__Message2_1__963
 
 story__freeaction__story_freeaction_passivetalkmessage__Message2_1__964
 入れるのはこの前庭と食堂…
+

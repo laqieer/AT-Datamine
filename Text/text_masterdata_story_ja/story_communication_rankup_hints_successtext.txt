@@ -1,5 +1,6 @@
 story__communication__story_communication_rankup_hints__successtext__1
 そろそろ{0}との絆が深まりそうだ。
+
 story__communication__story_communication_rankup_hints__successtext__3
 
 story__communication__story_communication_rankup_hints__successtext__4
