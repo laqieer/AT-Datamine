@@ -105,13 +105,18 @@ def GetActorByStyle(lines, style):
     return actor
 
 def FindActorByController(actors, controllerId):
+    actor = None
     if controllerId in actors:
-        return actors[controllerId]
+        actor = actors[controllerId]
     if "dot" + controllerId in actors:
-        return actors["dot" + controllerId]
+        actor = actors["dot" + controllerId]
     if "Dot" + controllerId in actors:
-        return actors["Dot" + controllerId]
-    raise ValueError(f"Controller not found: {controllerId}")
+        actor = actors["Dot" + controllerId]
+    if actor is None:
+        raise ValueError(f"Controller not found: {controllerId}")
+    if actor == "playerId":
+        actor = PlayerUnitIds[0]
+    return actor
 
 FuncsInCommonPack = {}
 
@@ -162,6 +167,7 @@ for root, _, files in os.walk("Text/"):
 
 Texts[""] = ""
 Texts["Narrator"] = "(ナレーション)"
+Texts["Select"] = "(選択肢)"
 
 def BuildText(face, talkerNameTag, text, isMind):
     text = text.replace("\r\n", "<br>").replace("\r", "<br>").replace("\n", "<br>")
@@ -227,6 +233,13 @@ for info in AdvDemoInfoList:
         for line in lines:
             if line.startswith("--"):
                 continue
+            if "::" in line or "function" in line:
+                f_out.write(f"""
+        <tr>
+            <td colspan="2" style="text-align: center;">{get_func_name(line.strip().replace("::", ""))}</td>
+        </tr>
+""")
+                continue
             if "(" in line and ")" in line:
                 func_name = get_func_name(line)
                 args = get_func_args(line)
@@ -283,6 +296,21 @@ for info in AdvDemoInfoList:
                             face = Faces[FindActorByController(actors, controllerId)]
                             text = Texts.get(textId, textId)
                             f_out.write(BuildText(face, talkerNameTag, text, isMind))
+                    case func_name if func_name.startswith("open_select_window"):
+                        isMind = False
+                        controllerId = args[0]
+                        face = Faces[FindActorByController(actors, controllerId)]
+                        buttonTexts = args[2:]
+                        talkerNameTag = "Select"
+                        text = "<ol>"
+                        for buttonText in buttonTexts:
+                            if "_direct" in buttonText:
+                                t = buttonText
+                            else:
+                                t = Texts.get(buttonText, buttonText)
+                            text += f"<li>{t}</li>"
+                        text += "</ol>"
+                        f_out.write(BuildText(face, talkerNameTag, text, isMind))
         
         f_out.write("    </table>")
 
