@@ -190,6 +190,7 @@ for info in AdvDemoInfoList:
 <head>
     <meta charset="utf-8">
     <title>{info['ScriptFilename']}</title>
+    <link rel="icon" href="../imgs/common/favicon.ico" type="image/vnd.microsoft.icon">
 </head>
 <body>
     <h1>{info['Name']}</h1>
