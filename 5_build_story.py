@@ -352,6 +352,9 @@ with open("docs/story/index.html", "w", encoding="utf-8") as f:
         if os.path.exists(f"docs/story/{info['ID']}.html"):
             f.write(f"""        <li><a href="{info['ID']}.html">{info['ID']} {info['Name']} {info['titleText']} {info['summaryText']}</a></li>
 """)
+        else:
+            f.write(f"""        <li>{info['ID']} {info['Name']} {info['titleText']} {info['summaryText']}</li>
+""")
     f.write("""    </ul>
 </body>
 </html>
