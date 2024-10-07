@@ -188,6 +188,7 @@ for info in AdvDemoInfoList:
         f_out.write(f"""<!DOCTYPE html>
 <html>
 <head>
+    <meta charset="utf-8">
     <title>{info['ScriptFilename']}</title>
 </head>
 <body>
