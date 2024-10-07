@@ -144,6 +144,7 @@ Texts = {}
 
 os.makedirs("docs/story/", exist_ok=True)
 os.makedirs("docs/imgs/UnitThumb/", exist_ok=True)
+os.makedirs("docs/imgs/StillImage/", exist_ok=True)
 
 for root, _, files in os.walk("Text/"):
     for file in files:
@@ -311,6 +312,20 @@ for info in AdvDemoInfoList:
                             text += f"<li>{t}</li>"
                         text += "</ol>"
                         f_out.write(BuildText(face, talkerNameTag, text, isMind))
+                    case "load_image":
+                        assetbundleName = args[1]
+                        fileName = args[2]
+                        dest = os.path.join("docs/imgs/StillImage/", fileName + ".png")
+                        src = os.path.join("AssetBundles", assetbundleName, fileName + ".png")
+                        if not os.path.exists(dest) and os.path.exists(src):
+                            shutil.copy(src, dest)
+                        if os.path.exists(dest):
+                            url = f"../imgs/StillImage/{fileName}.png"
+                            f_out.write(f"""
+        <tr>
+            <td colspan="2"><img src="{url}" alt="{fileName}" style="max-width:100%;"></td>
+        </tr>
+""")
         
         f_out.write("    </table>")
 
