@@ -171,6 +171,7 @@ for root, _, files in os.walk("Text/"):
 Texts[""] = ""
 Texts["Narrator"] = "(ナレーション)"
 Texts["Select"] = "(選択肢)"
+Texts["telop"] = "(テロップ)"
 
 def BuildText(face, talkerNameTag, text, isMind):
     text = text.replace("\r\n", "<br>").replace("\r", "<br>").replace("\n", "<br>")
