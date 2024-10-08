@@ -272,6 +272,15 @@ for info in AdvDemoInfoList:
                         if len(args) > 1:
                             talkerNameTag = args[0]
                         face = ""
+                    case "OpenTalkWindow":
+                        if len(args) > 2:
+                            talkerNameTag = args[0]
+                            controllerId = args[1]
+                            frameType = args[2]
+                            isMind = frameType == "mind"
+                            if frameType == "narration":
+                                talkerNameTag = "Narrator"
+                            face = Faces[FindActorByController(actors, controllerId)]
                     case "message" | "message_nowait":
                         if len(args) > 0:
                             textId = args[0]
@@ -292,9 +301,12 @@ for info in AdvDemoInfoList:
                             f_out.write(BuildText(face, talkerNameTag, text, isMind))
                     case func_name if func_name.startswith("Talk"):
                         if len(args) > 1:
-                            isMind = False
                             controllerId = args[0]
                             talkerNameTag = args[1]
+                            frameType = args[2]
+                            isMind = frameType == "mind"
+                            if frameType == "narration":
+                                talkerNameTag = "Narrator"
                             textId = args[-1]
                             face = Faces[FindActorByController(actors, controllerId)]
                             text = Texts.get(textId, textId)
