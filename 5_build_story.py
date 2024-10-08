@@ -349,7 +349,7 @@ for info in AdvDemoInfoList:
 """)
 
 print("Building index...")
-with open("docs/story/index.html", "w", encoding="utf-8") as f:
+with open("docs/story/all.html", "w", encoding="utf-8") as f:
     f.write(f"""<!DOCTYPE html>
 <html>
 <head>
@@ -358,7 +358,7 @@ with open("docs/story/index.html", "w", encoding="utf-8") as f:
     <link rel="icon" href="../imgs/common/favicon.ico" type="image/vnd.microsoft.icon">
 </head>
 <body>
-    <h1>Index</h1>
+    <h1>All</h1>
     <ul>
 """)
     for info in AdvDemoInfoList:

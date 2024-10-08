@@ -11,8 +11,8 @@ def read_bytes(binary_file, count):
 def read_json_file(file):
     with open(file, "r", encoding="utf-8") as f:
         return json.load(f)
-    
-def list_to_dict(lst, key):
+
+def list_to_dict(lst, key="ID"):
     return {item[key]: item for item in lst}
 
 def combine_dicts(*dicts):
