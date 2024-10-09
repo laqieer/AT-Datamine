@@ -52,7 +52,7 @@ with open("docs/story/chapter.html", "w", encoding="utf-8") as f:
     <link rel="icon" href="../imgs/common/favicon.ico" type="image/vnd.microsoft.icon">
 </head>
 <body>
-    <h1>Story Chapter</h1>
+    <h1>Story Chapter (章別)</h1>
 """)
     for storyChapterID, storyChapter in sorted(StoryChapter.items(), key=lambda x: x[0]):
         f.write(f"""    <h2>{storyChapter["name"]} {storyChapter.get("storyScenarioQuestName", "")}</h2>\n""")

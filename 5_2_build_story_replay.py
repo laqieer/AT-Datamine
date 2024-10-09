@@ -46,7 +46,7 @@ with open("docs/story/replay.html", "w", encoding="utf-8") as f:
     <link rel="icon" href="../imgs/common/favicon.ico" type="image/vnd.microsoft.icon">
 </head>
 <body>
-    <h1>Story Replay</h1>
+    <h1>Story Replay (シナリオアーカイブ)</h1>
 """)
     for storyReplayID, storyReplay in sorted(StoryReplay.items(), key=lambda x: x[0]):
         f.write(f"""    <h2>{storyReplay["name"]}</h2>\n""")
