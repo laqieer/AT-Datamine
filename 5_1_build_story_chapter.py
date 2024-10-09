@@ -55,7 +55,7 @@ with open("docs/story/chapter.html", "w", encoding="utf-8") as f:
     <h1>Story Chapter</h1>
 """)
     for storyChapterID, storyChapter in sorted(StoryChapter.items(), key=lambda x: x[0]):
-        f.write(f"""    <h2>{storyChapter["name"]} {storyChapter.get("storyScenarioQuestName", "")}</h2>""")
+        f.write(f"""    <h2>{storyChapter["name"]} {storyChapter.get("storyScenarioQuestName", "")}</h2>\n""")
         if "bannerImage" in storyChapter:
             f.write(f"""    <img src="../imgs/ScenarioEvent/{storyChapter["bannerImage"]}" alt="{storyChapter["bannerImage"]}" width="680">""")
         routeID = None
@@ -64,16 +64,16 @@ with open("docs/story/chapter.html", "w", encoding="utf-8") as f:
             storyMainQuestSequence = StoryMainQuestSequence[sequenceId]
             if 'routeID' in storyMainQuestSequence and routeID != storyMainQuestSequence['routeID']:
                 routeID = storyMainQuestSequence['routeID']
-                f.write(f"""    <h3>{StoryRoute[routeID]['name']}</h3>""")
+                f.write(f"""    <h3>{StoryRoute[routeID]['name']}</h3>\n""")
             if calendarId != storyMainQuestSequence['calendarId']:
                 calendarId = storyMainQuestSequence['calendarId']
-                f.write(f"""    <h4>{StoryMainQuestCalendar[calendarId]['Name']}</h4>""")
+                f.write(f"""    <h4>{StoryMainQuestCalendar[calendarId]['Name']}</h4>\n""")
             sequenceName = storyMainQuestSequence['SequenceName']
             advScene = storyMainQuestSequence["advScene"]
             if advScene > 0 and advScene in AdvDemoInfo and AdvDemoInfo[advScene]["existed"]:
-                f.write(f"""    <li><a href="{advScene}.html">{sequenceName}</a></li>""")
+                f.write(f"""    <li><a href="{advScene}.html">{sequenceName}</a></li>\n""")
             else:
-                f.write(f"""    <li>{sequenceName}</li>""")
+                f.write(f"""    <li>{sequenceName}</li>\n""")
     f.write("""</body>
 </html>
 """)
