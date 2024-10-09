@@ -279,8 +279,6 @@ for info in AdvDemoInfoList:
                             controllerId = args[1]
                             frameType = args[2]
                             isMind = frameType == "mind"
-                            if frameType == "narration":
-                                talkerNameTag = "Narrator"
                             face = Faces[FindActorByController(actors, controllerId)]
                     case "message" | "message_nowait":
                         if len(args) > 0:
@@ -306,8 +304,6 @@ for info in AdvDemoInfoList:
                             talkerNameTag = args[1]
                             frameType = args[2]
                             isMind = frameType == "mind"
-                            if frameType == "narration":
-                                talkerNameTag = "Narrator"
                             textId = args[-1]
                             face = Faces[FindActorByController(actors, controllerId)]
                             text = Texts.get(textId, textId)
