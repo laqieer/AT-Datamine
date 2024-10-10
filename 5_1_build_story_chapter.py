@@ -14,6 +14,15 @@ StoryMainQuestSequenceRoute = utils.list_to_dict(utils.read_json_file("MasterDat
 StoryMainQuestSequence = utils.list_to_dict(utils.read_json_file("MasterData/masterdata_story_mainquest/StoryMainQuestSequence.json"))
 StoryMainQuestCalendar = utils.list_to_dict(utils.read_json_file("MasterData/masterdata_story_mainquest/StoryMainQuestCalendar.json"))
 
+BattleAdv = utils.list_to_dict(utils.read_json_file("MasterData/masterdata_battle_adv/BattleAdv.json"))
+
+QuestBattleAdv = {}
+
+for battleAdvID, battleAdv in BattleAdv.items():
+    if battleAdv['questID'] not in QuestBattleAdv:
+        QuestBattleAdv[battleAdv['questID']] = {'battleAdvIDs': []}
+    QuestBattleAdv[battleAdv['questID']]['battleAdvIDs'].append(battleAdvID)
+
 for storyScenarioQuestID, storyScenarioQuest in StoryScenarioQuest.items():
     StoryChapter[storyScenarioQuest["chapterID"]]["storyScenarioQuestName"] = storyScenarioQuest["name"]
     bannerID = storyScenarioQuest["bannerID"]
@@ -69,11 +78,22 @@ with open("docs/story/chapter.html", "w", encoding="utf-8") as f:
                 calendarId = storyMainQuestSequence['calendarId']
                 f.write(f"""    <h4>{StoryMainQuestCalendar[calendarId]['Name']}</h4>\n""")
             sequenceName = storyMainQuestSequence['SequenceName']
+            f.write(f"""    <h5>{sequenceName}</h5>\n""")
+            advIDs = []
             advScene = storyMainQuestSequence["advScene"]
-            if advScene > 0 and advScene in AdvDemoInfo and AdvDemoInfo[advScene]["existed"]:
-                f.write(f"""    <li><a href="{advScene}.html">{sequenceName}</a></li>\n""")
-            else:
-                f.write(f"""    <li>{sequenceName}</li>\n""")
+            if advScene > 0:
+                advIDs.append(advScene)
+            questID = storyMainQuestSequence["questID"]
+            if questID > 0 and questID in QuestBattleAdv:
+                advIDs += [BattleAdv[x]['advID'] for x in sorted(QuestBattleAdv[questID]['battleAdvIDs'])]
+            for advID in advIDs:
+                if advID > 0 and advID in AdvDemoInfo:
+                    info = AdvDemoInfo[advID]
+                    text = f"{info['ID']} {info['Name']} {info['titleText']} {info['summaryText']}"
+                    if info["existed"]:
+                        f.write(f"""    <li><a href="{advID}.html">{text}</a></li>\n""")
+                    else:
+                        f.write(f"""    <li>{text}</li>\n""")
     f.write("""</body>
 </html>
 """)
