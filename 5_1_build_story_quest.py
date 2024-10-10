@@ -16,7 +16,13 @@ StoryMainQuestCalendar = utils.list_to_dict(utils.read_json_file("MasterData/mas
 
 BattleAdv = utils.list_to_dict(utils.read_json_file("MasterData/masterdata_battle_adv/BattleAdv.json"))
 
+AreaQuestArea = utils.list_to_dict(utils.read_json_file("MasterData/masterdata_quest/AreaQuestArea.json"))
+AreaQuestAreaGroup = utils.list_to_dict(utils.read_json_file("MasterData/masterdata_quest/AreaQuestAreaGroup.json"))
+AreaQuestAreaNode = utils.list_to_dict(utils.read_json_file("MasterData/masterdata_quest/AreaQuestAreaNode.json"))
+QuestStage = utils.list_to_dict(utils.read_json_file("MasterData/masterdata_quest/QuestStage.json"))
+
 QuestBattleAdv = {}
+QuestSequence = {}
 
 for battleAdvID, battleAdv in BattleAdv.items():
     if battleAdv['questID'] not in QuestBattleAdv:
@@ -51,25 +57,61 @@ for storyChapter in StoryChapter.values():
     storyChapter["sequenceIDs"] = []
 
 for storyMainQuestSequenceID, storyMainQuestSequence in StoryMainQuestSequence.items():
+    questID = storyMainQuestSequence['questID']
+    if questID > 0:
+        assert questID not in QuestSequence, f"Duplicated questID {questID}"
+        QuestSequence[questID] = storyMainQuestSequenceID
     StoryChapter[storyMainQuestSequence["chapter"]]["sequenceIDs"].append(storyMainQuestSequenceID)
 
-with open("docs/story/chapter.html", "w", encoding="utf-8") as f:
+for areaQuestAreaGroup in AreaQuestAreaGroup.values():
+    areaQuestAreaGroup["areaQuestAreaIDs"] = []
+
+for areaQuestAreaID, areaQuestArea in AreaQuestArea.items():
+    areaQuestArea['areaQuestAreaNodeIDs'] = [] 
+    AreaQuestAreaGroup[areaQuestArea["areaGroupId"]]["areaQuestAreaIDs"].append(areaQuestAreaID)
+
+for areaQuestAreaNodeID, areaQuestAreaNode in AreaQuestAreaNode.items():
+    AreaQuestArea[areaQuestAreaNode['areaId']]['areaQuestAreaNodeIDs'].append(areaQuestAreaNodeID)
+
+with open("docs/story/quest.html", "w", encoding="utf-8") as f:
     f.write("""<!DOCTYPE html>
 <html>
 <head>
-    <title>Story Chapter</title>
+    <title>Main Quest</title>
     <link rel="icon" href="../imgs/common/favicon.ico" type="image/vnd.microsoft.icon">
 </head>
 <body>
-    <h1>Story Chapter (章別)</h1>
+    <script type="module">
+        import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';
+    </script>
+    <h1>Main Quest (メインクエスト)</h1>
 """)
+    for areaQuestAreaGroup in sorted(AreaQuestAreaGroup.values(), key=lambda x: x['areaGroupType']):
+        f.write(f"""    <h2>{areaQuestAreaGroup['refName']}</h2>\n""")
+        for areaQuestAreaID in sorted(areaQuestAreaGroup['areaQuestAreaIDs']):
+            areaQuestArea = AreaQuestArea[areaQuestAreaID]
+            f.write(f"""    <h3>{areaQuestArea['refName']}</h3>\n""")
+            f.write(f"""    <pre class="mermaid">
+        graph LR\n""")
+            for areaQuestAreaNodeID in areaQuestArea['areaQuestAreaNodeIDs']:
+                areaQuestAreaNode = AreaQuestAreaNode[areaQuestAreaNodeID]
+                f.write(f"""            node{areaQuestAreaNodeID}{{{areaQuestAreaNode['refName']}}}\n""")
+                if areaQuestAreaNodeID in QuestSequence:
+                    f.write(f"""            click node{areaQuestAreaNodeID} "#{QuestSequence[areaQuestAreaNodeID]}"\n""")
+            for areaQuestAreaNodeID in areaQuestArea['areaQuestAreaNodeIDs']:
+                areaQuestAreaNode = AreaQuestAreaNode[areaQuestAreaNodeID]
+                for i in range(5):
+                    nextNodeId = areaQuestAreaNode[f'nextNodeId{i + 1}']
+                    if nextNodeId > 0:
+                        f.write(f"""            node{areaQuestAreaNodeID} --> node{nextNodeId}\n""")
+            f.write(f"""    </pre>\n""")
     for storyChapterID, storyChapter in sorted(StoryChapter.items(), key=lambda x: x[0]):
         f.write(f"""    <h2>{storyChapter["name"]} {storyChapter.get("storyScenarioQuestName", "")}</h2>\n""")
         if "bannerImage" in storyChapter:
             f.write(f"""    <img src="../imgs/ScenarioEvent/{storyChapter["bannerImage"]}" alt="{storyChapter["bannerImage"]}" width="680">""")
         routeID = None
         calendarId = None
-        for sequenceId in storyChapter["sequenceIDs"]:
+        for sequenceId in sorted(storyChapter["sequenceIDs"]):
             storyMainQuestSequence = StoryMainQuestSequence[sequenceId]
             if 'routeID' in storyMainQuestSequence and routeID != storyMainQuestSequence['routeID']:
                 routeID = storyMainQuestSequence['routeID']
@@ -78,7 +120,7 @@ with open("docs/story/chapter.html", "w", encoding="utf-8") as f:
                 calendarId = storyMainQuestSequence['calendarId']
                 f.write(f"""    <h4>{StoryMainQuestCalendar[calendarId]['Name']}</h4>\n""")
             sequenceName = storyMainQuestSequence['SequenceName']
-            f.write(f"""    <h5>{sequenceName}</h5>\n""")
+            f.write(f"""    <h5 id="{sequenceId}">{sequenceName}</h5>\n""")
             advIDs = []
             advScene = storyMainQuestSequence["advScene"]
             if advScene > 0:
