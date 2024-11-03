@@ -337,6 +337,15 @@ for info in AdvDemoInfoList:
             <td colspan="2"><img src="{url}" alt="{fileName}" style="max-width:100%;"></td>
         </tr>
 """)
+                    case func_name if func_name.endswith("movie_load"):
+                        movieFileName = args[0]
+                        movieFile = "ADV_" + movieFileName + ".mp4"
+                        if os.path.exists(os.path.join("AssetMovies", movieFile)):
+                            f_out.write(f"""
+        <tr>
+            <td colspan="2"><video controls style="max-width:100%;"><source src="https://gitlab.com/laqieer/astata-asset-movies/-/raw/main/{movieFile}" type="video/mp4"></video></td>
+        </tr>
+""")
         
         f_out.write("    </table>")
 

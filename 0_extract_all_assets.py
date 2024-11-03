@@ -13,7 +13,7 @@ def unpack_all_assets(source_folder : str, destination_folder : str):
             file_path = os.path.join(root, file_name)
             if file_name.endswith(".mp4"):
                 # Copy video file
-                shutil.copy(file_path, os.path.join(destination_folder, root.split("\\")[-1] + ".mp4"))
+                shutil.copy(file_path, os.path.join("AssetMovies", root.split("\\")[-1] + ".mp4"))
                 continue
             # load that file via UnityPy.load
             env = UnityPy.load(file_path)
