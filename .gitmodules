@@ -1,3 +1,3 @@
 [submodule "AssetMovies"]
 	path = AssetMovies
-	url = git@gitlab.com:laqieer/astata-asset-movies.git
+	url = https://gitlab.com/laqieer/astata-asset-movies.git
